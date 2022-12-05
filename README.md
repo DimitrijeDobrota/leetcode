@@ -1,10 +1,16 @@
-# Leetcode
+# Leetcode Solutions
 
-# Problems
+In this repo I want to share with you my solutions to some Leetcode problems
+written in C++ to practice my Algorithms and Data Structure skills.  I will
+update this list periodically as I do more problems.  I hope it will be helpful
+to some of you if you get stuck on a specific problem. Feel free to contact me
+if you have any questions.
+
+## Problems
 
 0001. (Easy)    [Two Sum](Problems/0001.cpp)
 0002. (Medium)  [Add Two Numbers](Problems/0002.cpp)
-0003. (Mecium)  [Longest Substring Without Repeating Characters](Problems/0003.cpp)
+0003. (Medium)  [Longest Substring Without Repeating Characters](Problems/0003.cpp)
 0012. (Medium)  [Integer to Roman](Problems/0012.cpp)
 0013. (Easy)    [Roman to Integer](Problems/0013.cpp)
 0014. (Easy)    [Longest Common Prefix](Problems/0014.cpp)
@@ -15,7 +21,7 @@
 0026. (Easy)    [Remove Duplicates from Sorted Array](Problems/0026.cpp)
 0027. (Easy)    [Remove Element](Problems/0027.cpp)
 0028. (Medium)  [Find the Index of the First Occurrence in a String](Problems/0028.cpp)
-0036. (Mecium)  [Valid Sudoku](Problems/0036.cpp)
+0036. (Medium)  [Valid Sudoku](Problems/0036.cpp)
 0043. (Medium)  [Multiply Strings](Problems/0043.cpp)
 0054. (Medium)  [Spiral Matrix](Problems/0054.cpp)
 0059. (Medium)  [Spiral Matrix II](Problems/0059.cpp)
@@ -57,14 +63,14 @@
 0206. (Easy)    [Reverse Linked List](Problems/0206.cpp)
 0209. (Medium)  [Minimum Size Subarray Sum](Problems/0209.cpp)
 0222. (Medium)  [Count Complete Tree Nodes](Problems/0222.cpp)
-0223. (Mecium)  [Rectangle Area](Problems/0223.cpp)
+0223. (Medium)  [Rectangle Area](Problems/0223.cpp)
 0226. (Easy)    [Invert Binary Tree](Problems/0226.cpp)
 0234. (Easy)    [Palindrome Linked List](Problems/0234.cpp)
 0236. (Medium)  [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)
 0237. (Medium)  [Delete Node in a Linked List](Problems/0237.cpp)
 0257. (Easy)    [Binary Tree Paths](Problems/0257.cpp)
 0263. (Easy)    [Ugly Number](Problems/0263.cpp)
-0279. (Mecium)  [Perfect Squares](Problems/0279.cpp)
+0279. (Medium)  [Perfect Squares](Problems/0279.cpp)
 0283. (Easy)    [Move Zeroes](Problems/0283.cpp)
 0328. (Medium)  [Odd Even Linked List](Problems/0328.cpp)
 0338. (Easy)    [Counting Bits](Problems/0338.cpp)
@@ -90,7 +96,8 @@
 0503. (Medium)  [Next Greater Element II](Problems/0503.cpp)
 0509. (Easy)    [Fibonacci Number](Problems/0509.cpp)
 0543. (Easy)    [Diameter of Binary Tree](Problems/0543.cpp)
-0547. (Mecium)  [Number of Provinces](Problems/0547.cpp)
+0547. (Medium)  [Number of Provinces](Problems/0547.cpp)
+0556. (Medium) [Next Greater Element III](Problems/0556.cpp)
 0557. (Easy)    [Reverse Words in a String III](Problems/0557.cpp)
 0559. (Easy)    [Maximum Depth of N-ary Tree](Problems/0559.cpp)
 0561. (Easy)    [Array Partition](Problems/0561.cpp)
@@ -101,7 +108,7 @@
 0606. (Easy)    [Construct String from Binary Tree ](Problems/0606.cpp)
 0617. (Easy)    [Merge Two Binary Trees](Problems/0617.cpp)
 0637. (Easy)    [Average of Levels in Binary Tree](Problems/0637.cpp)
-0684. (Mecium)  [Redundant Connection](Problems/0684.cpp)
+0684. (Medium)  [Redundant Connection](Problems/0684.cpp)
 0707. (Medium)  [Design Linked List](Problems/0707.cpp)
 0724. (Easy)    [Find Pivot Index](Problems/0724.cpp)
 0733. (Easy)    [Flood Fill](Problems/0733.cpp)
@@ -109,7 +116,7 @@
 0746. (Easy)    [Min Cost Climbing Stairs](Problems/0746.cpp)
 0747. (Easy)    [Largest Number At Least Twice of Others](Problems/0747.cpp)
 0752. (Medium)  [Open the Lock](Problems/0752.cpp)
-0797. (Mecium)  [All Paths From Source to Target](Problems/0797.cpp)
+0797. (Medium)  [All Paths From Source to Target](Problems/0797.cpp)
 0841. (Medium)  [Keys and Rooms](Problems/0841.cpp)
 0844. (Easy)    [Backspace String Compare](Problems/0844.cpp)
 0872. (Easy)    [Leaf-Similar Trees](Problems/0872.cpp)
@@ -120,7 +127,7 @@
 0941. (Easy)    [Valid Mountain Array](Problems/0941.cpp)
 0947. (Medium)  [Most Stones Removed with Same Row or Column](Problems/0947.cpp)
 0950. (Medium)  [Reveal Cards In Increasing Order](Problems/0950.cpp)
-0959. (Mecium)  [Regions Cut By Slashes](Problems/0959.cpp)
+0959. (Medium)  [Regions Cut By Slashes](Problems/0959.cpp)
 0965. (Easy)    [Univalued Binary Tree](Problems/0965.cpp)
 0977. (Easy)    [Squares of a Sorted Array](Problems/0977.cpp)
 0989. (Easy)    [Add to Array-Form of Integer](Problems/0989.cpp)
@@ -136,18 +143,19 @@
 1137. (Easy)    [N-th Tribonacci Number](Problems/1137.cpp)
 1209. (Medium)  [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)
 1290. (Easy)    [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)
-1319. (Mecium)  [Number of Operations to Make Network Connected](Problems/1319.cpp)
+1319. (Medium)  [Number of Operations to Make Network Connected](Problems/1319.cpp)
 1323. (Easy)    [Maximum 69 Number](Problems/1323.cpp)
 1337. (Easy)    [The K Weakest Rows in a Matrix](Problems/1337.cpp)
 1342. (Easy)    [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)
 1346. (Easy)    [Check if N and Its Double Exist](Problems/1346.cpp)
+1367. (Medium)  [Linked List in Binary Tree ](Problems/1367.cpp)
 1379. (Easy)    [Find a Corresponding Node of a Binary Tree in a Clone of That Tree ](Problems/1379.cpp)
-1466. (Mecium)  [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)
+1466. (Medium)  [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)
 1472. (Medium)  [Design Browser History ](Problems/1472.cpp)
 1480. (Easy)    [Running Sum of 1d Array](Problems/1480.cpp)
 1544. (Easy)    [Make The String Great](Problems/1544.cpp)
-1557. (Mecium)  [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)
-1584. (Mecium)  [Min Cost to Connect All Points](Problems/1584.cpp)
+1557. (Medium)  [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)
+1584. (Medium)  [Min Cost to Connect All Points](Problems/1584.cpp)
 1609. (Medium)  [Even Odd Tree](Problems/1609.cpp)
 1646. (Easy)    [Get Maximum in Generated Array](Problems/1646.cpp)
 1669. (Medium)  [Merge In Between Linked Lists](Problems/1669.cpp)
@@ -158,7 +166,7 @@
 1706. (Medium)  [Where Will the Ball Fall](Problems/1706.cpp)
 1791. (Easy)    [Find Center of Star Graph](Problems/1791.cpp)
 1823. (Medium)  [Find the Winner of the Circular Game](Problems/1823.cpp)
-1926. (Mecium)  [Nearest Exit from Entrance in Maze](Problems/1926.cpp)
+1926. (Medium)  [Nearest Exit from Entrance in Maze](Problems/1926.cpp)
 1971. (Easy)    [Find if Path Exists in Graph](Problems/1971.cpp)
 2073. (Easy)    [Time Needed to Buy Tickets](Problems/2073.cpp)
 2095. (Medium)  [Delete the Middle Node of a Linked List](Problems/2095.cpp)
@@ -167,7 +175,7 @@
 2181. (Medium)  [Merge Nodes in Between Zeros](Problems/2181.cpp)
 2235. (Easy)    [Add Two Integers](Problems/2235.cpp)
 2236. (Easy)    [Root Equals Sum of Children](Problems/2236.cpp)
-2285. (Mecium)  [Maximum Total Importance of Roads](Problems/2285.cpp)
+2285. (Medium)  [Maximum Total Importance of Roads](Problems/2285.cpp)
 2326. (Medium)  [Spiral Matrix IV](Problems/2326.cpp)
 2331. (Easy)    [Evaluate Boolean Binary Tree](Problems/2331.cpp)
 2390. (Medium)  [Removing Stars From a String](Problems/2390.cpp)
@@ -175,11 +183,10 @@
 2466. (Medium)  [Count Ways To Build Good Strings](Problems/2466.cpp)
 2467. (Medium)  [Most Profitable Path in a Tree](Problems/2467.cpp)
 2469. (Hard)    [Find Median from Data Stream](Problems/0295.cpp)
-1367. (Medium)  [Linked List in Binary Tree ](Problems/1367.cpp)
-0556. (Medium) [Next Greater Element III](Problems/0556.cpp)
   
 
-DNF:
+## DNF
+
 0494. (Medium)  [Target Sum](Problems/0494.cpp)
 0402. (Medium)  [Remove K Digits](Problems/0402.cpp)
 0129. (Medium)  [Sum Root to Leaf Numbers](Problems/0129.cpp)
