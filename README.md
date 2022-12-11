@@ -48,6 +48,7 @@ if you have any questions.
 |  0118  |    Easy    | [Pascal's Triangle](Problems/0118.cpp)                                                   |
 |  0119  |    Easy    | [Pascal's Triangle II](Problems/0119.cpp)                                                |
 |  0121  |    Easy    | [Best Time to Buy and Sell Stock](Problems/0121.cpp)                                     |
+|  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                        |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                         |
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                       |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                   |
@@ -126,6 +127,7 @@ if you have any questions.
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                   |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                              |
+|  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                    |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                |
 |  0947  |   Medium   | [Most Stones Removed with Same Row or Column](Problems/0947.cpp)                         |
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                    |
@@ -137,6 +139,7 @@ if you have any questions.
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                 |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                    |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                  |
+|  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                        |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                            |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                      |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                     |
@@ -148,6 +151,7 @@ if you have any questions.
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                      |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                   |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                      |
+|  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                             |
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                          |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                     |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                         |
@@ -185,6 +189,7 @@ if you have any questions.
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                    |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                      |
 |  2469  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                        |
+
   
 
 ## DNF
