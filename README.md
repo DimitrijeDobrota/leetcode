@@ -60,6 +60,7 @@ if you have any questions.
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                    |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                  |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                        |
+|  0198  |   Medium   | [House Robber](Problems/0198.cpp)                                                        |
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                         |
 |  0200  |   Medium   | [Number of Islands](Problems/0200.cpp)                                                   |
 |  0203  |    Easy    | [Remove Linked List Elements](Problems/0203.cpp)                                         |
@@ -126,6 +127,7 @@ if you have any questions.
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                           |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                   |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                |
+|  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                            |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                              |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                    |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                |
