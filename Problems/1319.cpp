@@ -13,8 +13,6 @@ public:
   }
 
   void join(int x, int y) {
-    x = find(x), y = find(y);
-
     if (x != y) {
       if (rank[x] > rank[y]) swap(x, y);
 
@@ -36,10 +34,11 @@ public:
     int count = 0;
     UnionFind uf(n);
     for (auto &edge : connections) {
-      if (uf.find(edge[0]) == uf.find(edge[1]))
+      int x = uf.find(edge[0]), y = uf.find(edge[1]);
+      if (x == y)
         count++;
       else
-        uf.join(edge[0], edge[1]);
+        uf.join(x, y);
     }
     return count < uf.count() - 1 ? -1 : uf.count() - 1;
   }

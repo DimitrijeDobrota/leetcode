@@ -19,13 +19,17 @@ if you have any questions.
 |  0019  |   Medium   | [Remove Nth Node From the End of List](Problems/0019.cpp)                                |
 |  0020  |    Easy    | [Valid Parentheses](Problems/0020.cpp)                                                   |
 |  0021  |    Easy    | [Merge Two Sorted Lists](Problems/0021.cpp)                                              |
+|  0023  |    Hard    | [Merge k Sorted Lists](Problems/0023.cpp)                                                |
 |  0024  |   Medium   | [Swap Nodes in Pairs](Problems/0024.cpp)                                                 |
+|  0025  |    Hard    | [Reverse Nodes in k-Group](Problems/0025.cpp)                                            |
 |  0026  |    Easy    | [Remove Duplicates from Sorted Array](Problems/0026.cpp)                                 |
 |  0027  |    Easy    | [Remove Element](Problems/0027.cpp)                                                      |
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                  |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                        |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                    |
+|  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                      |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                       |
+|  0055  |   Medium   | [Jump Game](Problems/0055.cpp)                                                           |
 |  0059  |   Medium   | [Spiral Matrix II](Problems/0059.cpp)                                                    |
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                         |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                            |
@@ -48,7 +52,9 @@ if you have any questions.
 |  0118  |    Easy    | [Pascal's Triangle](Problems/0118.cpp)                                                   |
 |  0119  |    Easy    | [Pascal's Triangle II](Problems/0119.cpp)                                                |
 |  0121  |    Easy    | [Best Time to Buy and Sell Stock](Problems/0121.cpp)                                     |
+|  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                  |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                        |
+|  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                    |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                         |
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                       |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                   |
@@ -57,6 +63,7 @@ if you have any questions.
 |  0145  |    Easy    | [Binary Tree Postorder Traversal](Problems/0145.cpp)                                     |
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                    |
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                           |
+|  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                           |
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                    |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                  |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                        |
@@ -66,20 +73,25 @@ if you have any questions.
 |  0203  |    Easy    | [Remove Linked List Elements](Problems/0203.cpp)                                         |
 |  0206  |    Easy    | [Reverse Linked List](Problems/0206.cpp)                                                 |
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                           |
+|  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                  |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                           |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                      |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                  |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                              |
 |  0236  |   Medium   | [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)                             |
 |  0237  |   Medium   | [Delete Node in a Linked List](Problems/0237.cpp)                                        |
+|  0238  |   Medium   | [Product of Array Except Self](Problems/0238.cpp)                                        |
+|  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                       |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                   |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                         |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                     |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                         |
+|  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                           |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                       |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                      |
 |  0345  |    Easy    | [Reverse Vowels of a String](Problems/0345.cpp)                                          |
+|  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                             |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                        |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                         |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                  |
@@ -121,10 +133,12 @@ if you have any questions.
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                             |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                       |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                     |
+|  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                           |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                      |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                            |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                  |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                           |
+|  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                   |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                            |
@@ -165,6 +179,7 @@ if you have any questions.
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                       |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                      |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                       |
+|  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                      |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                       |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                             |
@@ -186,6 +201,7 @@ if you have any questions.
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                   |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                    |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                        |
+|  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                   |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                        |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                         |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                    |
