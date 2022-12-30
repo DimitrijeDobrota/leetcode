@@ -47,6 +47,7 @@ if you have any questions.
 |  0104  |    Easy    | [Maximum Depth of Binary Tree](Problems/0104.cpp)                                        |
 |  0107  |   Medium   | [Binary Tree Level Order Traversal II](Problems/0107.cpp)                                |
 |  0108  |    Easy    | [Convert Sorted Array to Binary Search Tree](Problems/0108.cpp)                          |
+|  0109  |   Medium   | [Convert Sorted List to Binary Search Tree](Problems/0109.cpp)                           |
 |  0111  |    Easy    | [Minimum Depth of Binary Tree](Problems/0111.cpp)                                        |
 |  0112  |    Easy    | [Path Sum](Problems/0112.cpp)                                                            |
 |  0114  |   Medium   | [Flatten Binary Tree to Linked List](Problems/0114.cpp)                                  |
@@ -148,6 +149,7 @@ if you have any questions.
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                  |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                     |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                           |
+|  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                       |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                      |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                            |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                  |
@@ -189,7 +191,9 @@ if you have any questions.
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                          |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                     |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                         |
+|  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                      |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree ](Problems/1379.cpp) |
+|  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                        |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)              |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                             |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                             |
@@ -207,7 +211,9 @@ if you have any questions.
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                            |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                           |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                |
+|  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                 |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                  |
+|  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                 |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                        |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                          |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                             |
