@@ -1,5 +1,9 @@
 # Leetcode Solutions
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DimitrijeD&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+## Motivation
+
 In this repo I want to share with you my solutions to some Leetcode problems
 written in C++ to practice my Algorithms and Data Structure skills.  I will
 update this list periodically as I do more problems.  I hope it will be helpful
