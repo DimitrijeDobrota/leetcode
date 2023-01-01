@@ -48,6 +48,7 @@ if you have any questions.
 |  0107  |   Medium   | [Binary Tree Level Order Traversal II](Problems/0107.cpp)                                |
 |  0108  |    Easy    | [Convert Sorted Array to Binary Search Tree](Problems/0108.cpp)                          |
 |  0109  |   Medium   | [Convert Sorted List to Binary Search Tree](Problems/0109.cpp)                           |
+|  0110  |    Easy    | [Balanced Binary Tree](Problems/0110.cpp)                                                |
 |  0111  |    Easy    | [Minimum Depth of Binary Tree](Problems/0111.cpp)                                        |
 |  0112  |    Easy    | [Path Sum](Problems/0112.cpp)                                                            |
 |  0114  |   Medium   | [Flatten Binary Tree to Linked List](Problems/0114.cpp)                                  |
@@ -94,6 +95,7 @@ if you have any questions.
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                         |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                           |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                        |
+|  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                        |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                       |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                      |
@@ -137,7 +139,9 @@ if you have any questions.
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                              |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                    |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                         |
+|  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                 |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                           |
+|  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                      |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                    |
@@ -186,7 +190,9 @@ if you have any questions.
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                              |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                         |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                   |
+|  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                  |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                             |
+|  1315  |   Medium   | [Sum of Nodes with Even-Valued Grandparent](Problems/1315.cpp)                           |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                      |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                   |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                      |
@@ -225,6 +231,7 @@ if you have any questions.
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                        |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                    |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                         |
+|  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                             |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                            |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                   |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                    |
@@ -234,7 +241,6 @@ if you have any questions.
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                         |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                    |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                      |
-|  2469  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                        |
 
 ## DNF
 
