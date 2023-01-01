@@ -1,30 +1,37 @@
+// Initial solution
 class Solution {
 public:
   int findTargetSumWays(vector<int> &nums, int target) {
-    queue<int> st;
-    st.push(0);
-
-    int zc = 0;
-    for (int i = 0; i != nums.size(); ++i) {
-      if (!nums[i]) {
-        zc++;
-        continue;
+    unordered_map<int, int> crnt;
+    crnt[0] = 1;
+    for (int i = 0; i < nums.size(); i++) {
+      unordered_map<int, int> next;
+      for (auto &p : crnt) {
+        next[p.first + nums[i]] += p.second;
+        next[p.first - nums[i]] += p.second;
       }
+      crnt = next;
+    }
+    return crnt[target];
+  }
+};
 
-      for (int j = st.size(); j > 0; --j) {
-        int n = st.front();
-        st.pop();
-        st.push(n - nums[i]);
-        st.push(n + nums[i]);
+// Optimized using array;
+class Solution {
+public:
+  int findTargetSumWays(vector<int> &nums, int target) {
+    int total = accumulate(nums.begin(), nums.end(), 0);
+    vector<int> dp(2 * total + 1);
+    dp[total] = 1;
+    for (int i = 0; i < nums.size(); i++) {
+      vector<int> next(2 * total + 1);
+      for (int j = 0; j < dp.size(); j++) {
+        if (!dp[j]) continue;
+        next[j + nums[i]] += dp[j];
+        next[j - nums[i]] += dp[j];
       }
+      dp = next;
     }
-
-    int count = 0;
-    while (!st.empty()) {
-      if (st.front() == target) count++;
-      st.pop();
-    }
-
-    return count * exp2(zc);
+    return abs(target) > total ? 0 : dp[target + total];
   }
 };

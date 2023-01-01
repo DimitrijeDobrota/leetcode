@@ -93,6 +93,7 @@ if you have any questions.
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                     |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                         |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                           |
+|  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                        |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                       |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                      |
@@ -114,6 +115,7 @@ if you have any questions.
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                            |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                |
+|  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                          |
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                              |
 |  0498  |   Medium   | [Diagonal Traverse](Problems/0498.cpp)                                                   |
 |  0501  |    Easy    | [Find Mode in Binary Search Tree](Problems/0501.cpp)                                     |
@@ -167,6 +169,7 @@ if you have any questions.
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                              |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                               |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                           |
+|  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                    |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                        |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                              |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                 |
@@ -237,7 +240,6 @@ if you have any questions.
 
 | Number | Difficulty | Solution                                                                                        |
 |:------:|:----------:|-------------------------------------------------------------------------------------------------|
-|  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                 |
 |  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                            |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                   |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                  |
