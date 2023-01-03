@@ -265,10 +265,14 @@ if you have any questions.
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
+|  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                               |
+|  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 
 ## Templates
 
 * [Union Find](Templates/Union_Find.cpp)
+* [MST from edge vector](Templates/MST_vector.cpp)
+* [MST from edge priority queue](Templates/MST_pq.cpp)
 
 ## DNF
 

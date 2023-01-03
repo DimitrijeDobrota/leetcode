@@ -1,29 +1,24 @@
 class Solution {
-  struct edge {
-    int dest, time;
-    edge(int dest, int time) : dest(dest), time(time) {}
-    friend bool operator<(const edge &s1, const edge &s2) {
-      return s1.time > s2.time;
-    }
-  };
+  typedef pair<int, int> edge;
 
 public:
   int networkDelayTime(vector<vector<int>> &times, int n, int k) {
     vector<vector<edge>> adj(n + 1, vector<edge>());
-    for (auto &p : times) adj[p[0]].push_back({p[1], p[2]});
+    for (auto &p : times) adj[p[0]].push_back({p[2], p[1]});
 
-    priority_queue<edge> st;
-    st.push({k, 0});
+    priority_queue<edge, vector<edge>, greater<edge>> st;
     unordered_set<int> us;
+
     int time = 0;
+    st.push({0, k});
     while (!st.empty()) {
-      auto [root, t] = st.top();
+      auto [t, root] = st.top();
       st.pop();
       if (us.count(root)) continue;
       time = t;
       us.insert(root);
-      for (auto &p : adj[root])
-        if (!us.count(p.dest)) st.push({p.dest, t + p.time});
+      for (auto &[time, dest] : adj[root])
+        if (!us.count(dest)) st.push({t + time, dest});
     }
     return us.size() == n ? time : -1;
   }
