@@ -266,6 +266,10 @@ if you have any questions.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 
+## Templates
+
+* [Union Find](Templates/Union_Find.cpp)
+
 ## DNF
 
 | Number | Difficulty | Solution                                                                                        |
