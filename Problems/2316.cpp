@@ -24,4 +24,22 @@ public:
 
   int count() { return cnt; }
   bool connected(int x, int y) { return find(x) == find(y); }
+
+  long long count_unreachable() {
+    long long res = 0;
+
+    for (int i = 0; i < n; i++)
+      if (root[i] == i) res += (long long)size[i] * (n - size[i]);
+
+    return res / 2;
+  }
+};
+
+class Solution {
+public:
+  long long countPairs(int n, vector<vector<int>> &edges) {
+    UnionFind uf(n);
+    for (auto &e : edges) uf.join(e[0], e[1]);
+    return uf.count_unreachable();
+  }
 };

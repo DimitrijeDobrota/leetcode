@@ -182,6 +182,7 @@ for solving problems.
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                              |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
+|  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
@@ -235,6 +236,7 @@ for solving problems.
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/0143.cpp) |
+|  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                     |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                     |
@@ -270,9 +272,11 @@ for solving problems.
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
+|  2244  |   Medium   | [Minimum Rounds to Complete All Tasks](Problems/2244.cpp)                                        |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                     |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                    |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                           |
+|  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
