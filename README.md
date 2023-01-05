@@ -43,6 +43,7 @@ for solving problems.
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
 |  0055  |   Medium   | [Jump Game](Problems/0055.cpp)                                                                   |
+|  0056  |   Medium   | [Merge Intervals](Problems/0056.cpp)                                                             |
 |  0059  |   Medium   | [Spiral Matrix II](Problems/0059.cpp)                                                            |
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                                 |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
@@ -73,7 +74,7 @@ for solving problems.
 |  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                          |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                            |
-|  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                   |
+|  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                    |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                 |
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                               |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                           |
@@ -104,7 +105,7 @@ for solving problems.
 |  0236  |   Medium   | [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)                                     |
 |  0237  |   Medium   | [Delete Node in a Linked List](Problems/0237.cpp)                                                |
 |  0238  |   Medium   | [Product of Array Except Self](Problems/0238.cpp)                                                |
-|  0239  |    Hard    | [Sliding Window Maximum](Problems/0239.cpp)                                                     |
+|  0239  |    Hard    | [Sliding Window Maximum](Problems/0239.cpp)                                                      |
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
@@ -113,6 +114,7 @@ for solving problems.
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
+|  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                               |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                              |
@@ -124,7 +126,7 @@ for solving problems.
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                              |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                               |
 |  0399  |   Medium   | [Evaluate Division](Problems/0399.cpp)                                                           |
-|  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                            |
+|  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                             |
 |  0404  |    Easy    | [Sum of Left Leaves](Problems/0404.cpp)                                                          |
 |  0412  |    Easy    | [Fizz Buzz](Problems/0412.cpp)                                                                   |
 |  0414  |    Easy    | [Third Maximum Number](Problems/0414.cpp)                                                        |
@@ -132,9 +134,11 @@ for solving problems.
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                     |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                    |
+|  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                   |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
+|  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                  |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                        |
 |  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                  |
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                                      |
@@ -145,7 +149,7 @@ for solving problems.
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
-|  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                  |
+|  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                   |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                     |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                         |
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                    |
@@ -161,7 +165,7 @@ for solving problems.
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                            |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                 |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                         |
-|  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                               |
+|  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                   |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                        |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                        |
@@ -232,10 +236,10 @@ for solving problems.
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
-|  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)         |
+|  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
-|  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                |
-|  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/0143.cpp) |
+|  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
+|  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/0143.cpp)  |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                     |
@@ -282,7 +286,7 @@ for solving problems.
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
-|  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                            |
+|  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                             |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                 |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                            |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
