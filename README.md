@@ -181,6 +181,7 @@ for solving problems.
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                               |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                          |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                         |
+|  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                             |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                             |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
@@ -213,11 +214,13 @@ for solving problems.
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                          |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                      |
+|  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                            |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                    |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                             |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
+|  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
@@ -265,6 +268,7 @@ for solving problems.
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
+|  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                     |
@@ -283,6 +287,7 @@ for solving problems.
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
+|  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
@@ -292,4 +297,5 @@ for solving problems.
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
+|  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 
