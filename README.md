@@ -264,6 +264,7 @@ for solving problems.
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
+|  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
