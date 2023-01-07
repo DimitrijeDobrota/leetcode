@@ -90,6 +90,10 @@ for solving problems.
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
+|  0192  |   Medium   | [Word Frequency](Problems/0192.sh)                                                               |
+|  0193  |    Easy    | [Valid Phone Numbers](Problems/0193.sh)                                                          |
+|  0194  |   Medium   | [Transpose File](Problems/0194.sh)                                                               |
+|  0195  |    Easy    | [Tenth Line](Problems/0195.sh)                                                                   |
 |  0198  |   Medium   | [House Robber](Problems/0198.cpp)                                                                |
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                                 |
 |  0200  |   Medium   | [Number of Islands](Problems/0200.cpp)                                                           |
