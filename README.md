@@ -83,6 +83,7 @@ for solving problems.
 |  0142  |   Medium   | [Linked List Cycle II](Problems/0142.cpp)                                                        |
 |  0144  |   Medium   | [Binary Tree Preorder Traversal](Problems/0144.cpp)                                              |
 |  0145  |    Easy    | [Binary Tree Postorder Traversal](Problems/0145.cpp)                                             |
+|  0149  |    Hard    | [Max Points on a Line](Problems/0149.cpp)                                                        |
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                            |
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                   |
 |  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                                   |
