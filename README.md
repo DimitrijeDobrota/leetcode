@@ -44,6 +44,7 @@ for solving problems.
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
 |  0055  |   Medium   | [Jump Game](Problems/0055.cpp)                                                                   |
 |  0056  |   Medium   | [Merge Intervals](Problems/0056.cpp)                                                             |
+|  0057  |   Medium   | [Insert Interval](Problems/0057.cpp)                                                             |
 |  0059  |   Medium   | [Spiral Matrix II](Problems/0059.cpp)                                                            |
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                                 |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
