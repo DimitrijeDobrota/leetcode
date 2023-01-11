@@ -108,6 +108,7 @@ for solving problems.
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
+|  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                      |
 |  0235  |   Medium   | [Lowest Common Ancestor of a Binary Search Tree](Problems/0235.cpp)                              |
 |  0236  |   Medium   | [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)                                     |
@@ -123,8 +124,10 @@ for solving problems.
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
+|  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                               |
+|  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                               |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                              |
 |  0345  |    Easy    | [Reverse Vowels of a String](Problems/0345.cpp)                                                  |
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                     |
@@ -251,6 +254,7 @@ for solving problems.
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/0143.cpp)  |
+|  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                     |
