@@ -261,6 +261,7 @@ for solving problems.
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                     |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                               |
+|  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                         |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
