@@ -1,8 +1,8 @@
 class Solution {
 public:
   vector<int> countSubTrees(int n, vector<vector<int>> &edges, string labels) {
-    vector<vector<int>> adj(n, vector<int>());
-    vector<vector<int>> count(n, vector<int>(26, 0));
+    vector<vector<int>> adj(n, vector<int>()), count(n, vector<int>(26, 0));
+    vector<bool> visited(n, false);
     vector<int> res(n);
 
     for (auto &e : edges) {
@@ -10,30 +10,26 @@ public:
       adj[e[1]].push_back(e[0]);
     }
 
-    stack<pair<int, int>> st;
-    st.push({0, -1});
+    stack<int> st;
+    st.push(0);
     while (!st.empty()) {
-      if (st.top().first == -1) {
-        st.pop();
-
-        auto [crnt, par] = st.top();
+      int crnt = st.top();
+      if (visited[crnt]) {
         st.pop();
 
         for (int c : adj[crnt]) {
-          if (c == par) continue;
+          if (visited[c]) continue;
           for (int i = 0; i < 26; i++) count[crnt][i] += count[c][i];
         }
-
         res[crnt] = ++count[crnt][labels[crnt] - 'a'];
+        visited[crnt] = false;
         continue;
       }
 
-      auto [crnt, par] = st.top();
-      st.push({-1, -1});
-
+      visited[crnt] = true;
       for (int c : adj[crnt]) {
-        if (c == par) continue;
-        st.push({c, crnt});
+        if (visited[c]) continue;
+        st.push(c);
       }
     }
 
