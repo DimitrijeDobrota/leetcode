@@ -201,6 +201,7 @@ for solving problems.
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
+|  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
@@ -228,6 +229,7 @@ for solving problems.
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                            |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                    |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
+|  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                             |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
@@ -285,6 +287,7 @@ for solving problems.
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
+|  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                      |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                     |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                  |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                               |
