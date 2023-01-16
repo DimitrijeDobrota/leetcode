@@ -276,6 +276,7 @@ for solving problems.
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                      |
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                        |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                    |
+|  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                             |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
