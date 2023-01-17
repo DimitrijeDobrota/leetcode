@@ -206,6 +206,7 @@ for solving problems.
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                        |
+|  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                      |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                            |
