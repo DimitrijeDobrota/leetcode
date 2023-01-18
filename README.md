@@ -41,6 +41,7 @@ for solving problems.
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
+|  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
 |  0055  |   Medium   | [Jump Game](Problems/0055.cpp)                                                                   |
 |  0056  |   Medium   | [Merge Intervals](Problems/0056.cpp)                                                             |
@@ -206,6 +207,7 @@ for solving problems.
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                        |
+|  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                               |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                      |
