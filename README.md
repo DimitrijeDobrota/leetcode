@@ -218,6 +218,7 @@ for solving problems.
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                            |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                      |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                       |
+|  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                   |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                            |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                |
