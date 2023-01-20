@@ -152,6 +152,7 @@ for solving problems.
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                  |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                        |
+|  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                 |
 |  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                  |
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                                      |
 |  0498  |   Medium   | [Diagonal Traverse](Problems/0498.cpp)                                                           |
