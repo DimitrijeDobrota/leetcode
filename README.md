@@ -53,6 +53,7 @@ for solving problems.
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
+|  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
 |  0098  |   Medium   | [Validate Binary Search Tree](Problems/0098.cpp)                                                 |
 |  0099  |   Medium   | [Recover Binary Search Tree](Problems/0099.cpp)                                                  |
