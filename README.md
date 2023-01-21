@@ -38,6 +38,7 @@ for solving problems.
 |  0026  |    Easy    | [Remove Duplicates from Sorted Array](Problems/0026.cpp)                                         |
 |  0027  |    Easy    | [Remove Element](Problems/0027.cpp)                                                              |
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                          |
+|  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
@@ -120,6 +121,7 @@ for solving problems.
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
+|  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                           |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                             |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                 |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
@@ -185,6 +187,7 @@ for solving problems.
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                        |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                              |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
+|  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                  |
