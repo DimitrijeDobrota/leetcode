@@ -1,3 +1,4 @@
+// Intuitive solution
 class Solution {
 public:
   vector<int> sortedSquares(vector<int> &nums) {
@@ -17,4 +18,18 @@ public:
     reverse(res.begin(), res.end());
     return res;
   }
+};
+
+// Intuitive solution, better execution
+// avoids recomputation of squares
+// avoids reversal of the array
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        int n = nums.size(), i=0, j =nums.size()-1;
+        vector<int> res(n);
+        for_each(nums.begin(), nums.end(), [](int &a) { a*=a; });
+        while(i<=j) res[--n] = nums[i]>nums[j] ? nums[i++] : nums[j--];
+        return res;
+    }
 };
