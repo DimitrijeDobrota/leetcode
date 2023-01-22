@@ -1,3 +1,4 @@
+// memorization approach
 class Solution {
 public:
   int climbStairs(int n) {
@@ -8,7 +9,11 @@ public:
 
     return vec[n];
   }
+}
 
+// optimized, memorize only the previous two values
+class Solution {
+public:
   int climbStairs(int n) {
     int first = 1, second = 1;
     for (int i = 2; i <= n; i++) {

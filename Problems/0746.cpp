@@ -1,3 +1,4 @@
+// memorization approach
 class Solution {
 public:
   int minCostClimbingStairs(vector<int> &cost) {
@@ -6,14 +7,17 @@ public:
       vec[i] = min(vec[i - 1] + cost[i - 1], vec[i - 2] + cost[i - 2]);
     return vec[cost.size()];
   }
+};
 
+// optimized, memorize only the previous two values
+class Solution {
+public:
   int minCostClimbingStairs(vector<int> &cost) {
     int first = cost[0], second = cost[1];
-    if (cost.size() <= 2) return min(first, second);
     for (int i = 2; i < cost.size(); i++) {
-      int cur = cost[i] + min(first, second);
+      int crnt = cost[i] + min(first, second);
       first = second;
-      second = cur;
+      second = crnt;
     }
     return min(first, second);
   }
