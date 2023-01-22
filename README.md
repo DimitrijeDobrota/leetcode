@@ -79,6 +79,7 @@ for solving problems.
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                            |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                    |
+|  0131  |   Medium   | [Palindrome Partitioning](Problems/0131.cpp)                                                     |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                 |
 |  0134  |   Medium   | [Gas Station](Problems/0134.cpp)                                                                 |
 |  0135  |    Hard    | [Candy](Problems/0135.cpp)                                                                       |
