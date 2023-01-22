@@ -104,6 +104,7 @@ for solving problems.
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                                 |
 |  0200  |   Medium   | [Number of Islands](Problems/0200.cpp)                                                           |
 |  0203  |    Easy    | [Remove Linked List Elements](Problems/0203.cpp)                                                 |
+|  0205  |    Easy    | [Isomorphic Strings](Problems/0205.cpp)                                                          |
 |  0206  |    Easy    | [Reverse Linked List](Problems/0206.cpp)                                                         |
 |  0207  |   Medium   | [Course Schedule](Problems/0207.cpp)                                                             |
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                   |
