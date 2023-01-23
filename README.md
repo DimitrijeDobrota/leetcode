@@ -26,9 +26,11 @@ for solving problems.
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                     |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                             |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                              |
+|  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
 |  0013  |    Easy    | [Roman to Integer](Problems/0013.cpp)                                                            |
 |  0014  |    Easy    | [Longest Common Prefix](Problems/0014.cpp)                                                       |
+|  0015  |   Medium   | [3Sum](Problems/0015.cpp)                                                                        |
 |  0019  |   Medium   | [Remove Nth Node From the End of List](Problems/0019.cpp)                                        |
 |  0020  |    Easy    | [Valid Parentheses](Problems/0020.cpp)                                                           |
 |  0021  |    Easy    | [Merge Two Sorted Lists](Problems/0021.cpp)                                                      |
@@ -40,6 +42,7 @@ for solving problems.
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                          |
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
+|  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
@@ -78,6 +81,7 @@ for solving problems.
 |  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                          |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                            |
+|  0128  |   Medium   | [Longest Consecutive Sequence](Problems/0128.cpp)                                                |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                    |
 |  0131  |   Medium   | [Palindrome Partitioning](Problems/0131.cpp)                                                     |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                 |
