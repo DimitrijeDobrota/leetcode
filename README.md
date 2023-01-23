@@ -109,6 +109,7 @@ for solving problems.
 |  0207  |   Medium   | [Course Schedule](Problems/0207.cpp)                                                             |
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                   |
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                          |
+|  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                          |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
@@ -194,6 +195,7 @@ for solving problems.
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                  |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                          |
+|  0740  |   Medium   | [Delete and Earn](Problems/0740.cpp)                                                             |
 |  0743  |   Medium   | [Network Delay Time](Problems/0743.cpp)                                                          |
 |  0746  |    Easy    | [Min Cost Climbing Stairs](Problems/0746.cpp)                                                    |
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                     |
