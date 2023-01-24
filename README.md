@@ -143,6 +143,7 @@ for solving problems.
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                              |
 |  0345  |    Easy    | [Reverse Vowels of a String](Problems/0345.cpp)                                                  |
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                     |
+|  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                               |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                 |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                          |
