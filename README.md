@@ -34,6 +34,7 @@ for solving problems.
 |  0019  |   Medium   | [Remove Nth Node From the End of List](Problems/0019.cpp)                                        |
 |  0020  |    Easy    | [Valid Parentheses](Problems/0020.cpp)                                                           |
 |  0021  |    Easy    | [Merge Two Sorted Lists](Problems/0021.cpp)                                                      |
+|  0022  |   Medium   | [Generate Parentheses](Problems/0022.cpp)                                                        |
 |  0023  |    Hard    | [Merge k Sorted Lists](Problems/0023.cpp)                                                        |
 |  0024  |   Medium   | [Swap Nodes in Pairs](Problems/0024.cpp)                                                         |
 |  0025  |    Hard    | [Reverse Nodes in k-Group](Problems/0025.cpp)                                                    |
