@@ -101,6 +101,7 @@ for solving problems.
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                   |
 |  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                                   |
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                            |
+|  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                 |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
@@ -229,6 +230,7 @@ for solving problems.
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                        |
 |  0909  |   Medium   | [Snakes and Ladders](Problems/0909.cpp)                                                          |
+|  0912  |   Medium   | [Sort an Array](Problems/0912.cpp)                                                               |
 |  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                               |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
@@ -333,6 +335,7 @@ for solving problems.
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
+|  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
