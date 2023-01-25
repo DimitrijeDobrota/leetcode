@@ -58,6 +58,7 @@ for solving problems.
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
+|  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
 |  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
@@ -92,6 +93,7 @@ for solving problems.
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                               |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                           |
 |  0142  |   Medium   | [Linked List Cycle II](Problems/0142.cpp)                                                        |
+|  0143  |   Medium   | [Reorder List](Problems/0143.cpp)                                                                |
 |  0144  |   Medium   | [Binary Tree Preorder Traversal](Problems/0144.cpp)                                              |
 |  0145  |    Easy    | [Binary Tree Postorder Traversal](Problems/0145.cpp)                                             |
 |  0149  |    Hard    | [Max Points on a Line](Problems/0149.cpp)                                                        |
@@ -216,6 +218,7 @@ for solving problems.
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                              |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
+|  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
@@ -276,7 +279,7 @@ for solving problems.
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
-|  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/0143.cpp)  |
+|  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |

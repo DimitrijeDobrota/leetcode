@@ -1,18 +1,42 @@
 class Solution {
-public:
-  int longestSubarray(vector<int> &nums, int limit) {
-    deque<int> maxd, mind;
-    int i = 0, j;
-    for (j = 0; j < nums.size(); ++j) {
-      while (!maxd.empty() && nums[j] > maxd.back()) maxd.pop_back();
-      while (!mind.empty() && nums[j] < mind.back()) mind.pop_back();
-      maxd.push_back(nums[j]), mind.push_back(nums[j]);
-      if (maxd.front() - mind.front() > limit) {
-        if (maxd.front() == nums[i]) maxd.pop_front();
-        if (mind.front() == nums[i]) mind.pop_front();
-        i++;
-      }
+  ListNode *reverseList(ListNode *head) {
+    ListNode *p, *q, *r;
+
+    p = head, q = nullptr;
+    while (p) {
+      r = q;
+      q = p;
+      p = p->next;
+      q->next = r;
     }
-    return j - i;
+
+    return q;
+  }
+
+  ListNode *bmiddleNode(ListNode *head) {
+    ListNode *fast, *slow;
+    fast = slow = head;
+    while (fast->next && fast->next->next) {
+      fast = fast->next->next;
+      slow = slow->next;
+    }
+
+    return slow;
+  }
+
+public:
+  void reorderList(ListNode *head) {
+    ListNode *bmid = bmiddleNode(head);
+    ListNode *rev = reverseList(bmid->next);
+    bmid->next = nullptr;
+
+    ListNode top, *tmp = &top, *a, *b, *an;
+    for (a = head, b = rev; b; b = b->next, a = an) {
+      an = a->next;
+      tmp = tmp->next = a;
+      tmp = tmp->next = b;
+    }
+    if (a) tmp = tmp->next = a;
+    tmp->next = nullptr;
   }
 };
