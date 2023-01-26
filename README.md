@@ -100,6 +100,7 @@ for solving problems.
 |  0149  |    Hard    | [Max Points on a Line](Problems/0149.cpp)                                                        |
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                            |
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                   |
+|  0152  |   Medium   | [Maximum Product Subarray](Problems/0152.cpp)                                                    |
 |  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                                   |
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                            |
 |  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                 |
@@ -140,6 +141,7 @@ for solving problems.
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
+|  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                              |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
@@ -296,6 +298,7 @@ for solving problems.
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                         |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
+|  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
