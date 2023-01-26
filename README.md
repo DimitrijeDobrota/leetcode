@@ -188,6 +188,7 @@ for solving problems.
 |  0561  |    Easy    | [Array Partition](Problems/0561.cpp)                                                             |
 |  0563  |    Easy    | [Binary Tree Tilt](Problems/0563.cpp)                                                            |
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                          |
+|  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                       |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                     |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                               |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                              |
