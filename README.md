@@ -57,6 +57,7 @@ for solving problems.
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
+|  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
