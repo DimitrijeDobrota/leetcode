@@ -171,6 +171,7 @@ for solving problems.
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                  |
+|  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                          |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                        |
 |  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                 |
 |  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                  |
