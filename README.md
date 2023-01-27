@@ -205,6 +205,7 @@ for solving problems.
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                   |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                        |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                        |
+|  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                          |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                              |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
@@ -354,4 +355,3 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-
