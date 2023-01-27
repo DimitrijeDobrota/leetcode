@@ -256,6 +256,7 @@ for solving problems.
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                      |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                         |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                        |
+|  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                       |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                            |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                          |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                |
@@ -355,3 +356,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
+
