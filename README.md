@@ -142,6 +142,7 @@ for solving problems.
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                              |
+|  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
@@ -211,6 +212,7 @@ for solving problems.
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
+|  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                        |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                  |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                          |
