@@ -258,6 +258,7 @@ for solving problems.
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                        |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                      |
+|  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                             |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                         |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                        |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                       |
