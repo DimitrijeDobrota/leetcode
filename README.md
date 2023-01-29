@@ -92,6 +92,7 @@ for solving problems.
 |  0134  |   Medium   | [Gas Station](Problems/0134.cpp)                                                                 |
 |  0135  |    Hard    | [Candy](Problems/0135.cpp)                                                                       |
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                               |
+|  0139  |   Medium   | [Word Break](Problems/0139.cpp)                                                                  |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                           |
 |  0142  |   Medium   | [Linked List Cycle II](Problems/0142.cpp)                                                        |
 |  0143  |   Medium   | [Reorder List](Problems/0143.cpp)                                                                |
