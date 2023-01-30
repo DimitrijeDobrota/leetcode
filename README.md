@@ -61,6 +61,7 @@ for solving problems.
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
+|  0091  |   Medium   | [Decode Ways](Problems/0091.cpp)                                                                 |
 |  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
 |  0098  |   Medium   | [Validate Binary Search Tree](Problems/0098.cpp)                                                 |
@@ -165,6 +166,7 @@ for solving problems.
 |  0404  |    Easy    | [Sum of Left Leaves](Problems/0404.cpp)                                                          |
 |  0409  |    Easy    | [Longest Palindrome](Problems/0409.cpp)                                                          |
 |  0412  |    Easy    | [Fizz Buzz](Problems/0412.cpp)                                                                   |
+|  0413  |   Medium   | [Arithmetic Slices](Problems/0413.cpp)                                                           |
 |  0414  |    Easy    | [Third Maximum Number](Problems/0414.cpp)                                                        |
 |  0415  |    Easy    | [Add Strings](Problems/0415.cpp)                                                                 |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
