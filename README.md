@@ -127,6 +127,7 @@ for solving problems.
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                |
+|  0232  |    Easy    | [Implement Queue using Stacks](Problems/0232.cpp)                                                |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                      |
 |  0235  |   Medium   | [Lowest Common Ancestor of a Binary Search Tree](Problems/0235.cpp)                              |
 |  0236  |   Medium   | [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)                                     |
