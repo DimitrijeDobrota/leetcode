@@ -46,6 +46,7 @@ for solving problems.
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0045  |   Medium   | [Jump Game II](Problems/0045.cpp)                                                                |
+|  0046  |   Medium   | [Permutations](Problems/0046.cpp)                                                                |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
@@ -59,6 +60,7 @@ for solving problems.
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
+|  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
@@ -228,6 +230,7 @@ for solving problems.
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                     |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                               |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                          |
+|  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                     |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                         |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                             |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                             |
