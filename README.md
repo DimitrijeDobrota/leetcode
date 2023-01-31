@@ -54,6 +54,7 @@ for solving problems.
 |  0057  |   Medium   | [Insert Interval](Problems/0057.cpp)                                                             |
 |  0059  |   Medium   | [Spiral Matrix II](Problems/0059.cpp)                                                            |
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                                 |
+|  0062  |   Medium   | [Unique Paths](Problems/0062.cpp)                                                                |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
