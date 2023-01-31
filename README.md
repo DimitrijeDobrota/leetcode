@@ -67,6 +67,7 @@ for solving problems.
 |  0091  |   Medium   | [Decode Ways](Problems/0091.cpp)                                                                 |
 |  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
+|  0096  |   Medium   | [Unique Binary Search Trees](Problems/0096.cpp)                                                  |
 |  0098  |   Medium   | [Validate Binary Search Tree](Problems/0098.cpp)                                                 |
 |  0099  |   Medium   | [Recover Binary Search Tree](Problems/0099.cpp)                                                  |
 |  0100  |    Easy    | [Same Tree](Problems/0100.cpp)                                                                   |
@@ -141,6 +142,7 @@ for solving problems.
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
+|  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                              |
 |  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                           |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                             |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                 |
