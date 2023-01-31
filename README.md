@@ -314,6 +314,7 @@ for solving problems.
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
+|  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                 |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                               |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                     |
