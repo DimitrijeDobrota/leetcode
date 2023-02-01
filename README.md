@@ -86,6 +86,7 @@ for solving problems.
 |  0117  |   Medium   | [Populating Next Right Pointers in Each Node II](Problems/0117.cpp)                              |
 |  0118  |    Easy    | [Pascal's Triangle](Problems/0118.cpp)                                                           |
 |  0119  |    Easy    | [Pascal's Triangle II](Problems/0119.cpp)                                                        |
+|  0120  |   Medium   | [Triangle](Problems/0120.cpp)                                                                    |
 |  0121  |    Easy    | [Best Time to Buy and Sell Stock](Problems/0121.cpp)                                             |
 |  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                          |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                |
