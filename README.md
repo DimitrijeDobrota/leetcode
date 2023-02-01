@@ -174,10 +174,12 @@ for solving problems.
 |  0413  |   Medium   | [Arithmetic Slices](Problems/0413.cpp)                                                           |
 |  0414  |    Easy    | [Third Maximum Number](Problems/0414.cpp)                                                        |
 |  0415  |    Easy    | [Add Strings](Problems/0415.cpp)                                                                 |
+|  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                     |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                     |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                    |
 |  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                   |
+|  0438  |   Medium   | [Find All Anagrams in a String](Problems/0438.cpp)                                               |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
