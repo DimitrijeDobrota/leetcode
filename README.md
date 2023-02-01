@@ -283,6 +283,7 @@ for solving problems.
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                    |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                |
+|  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                          |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                             |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
