@@ -114,6 +114,7 @@ for solving problems.
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
+|  0191  |    Easy    | [Number of 1 Bits](Problems/0191.cpp)                                                            |
 |  0192  |   Medium   | [Word Frequency](Problems/0192.sh)                                                               |
 |  0193  |    Easy    | [Valid Phone Numbers](Problems/0193.sh)                                                          |
 |  0194  |   Medium   | [Transpose File](Problems/0194.sh)                                                               |
