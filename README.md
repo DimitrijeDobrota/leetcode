@@ -150,6 +150,7 @@ for solving problems.
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
+|  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                              |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                              |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
