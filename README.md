@@ -98,6 +98,7 @@ for solving problems.
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                 |
 |  0134  |   Medium   | [Gas Station](Problems/0134.cpp)                                                                 |
 |  0135  |    Hard    | [Candy](Problems/0135.cpp)                                                                       |
+|  0136  |    Easy    | [Single Number](Problems/0136.cpp)                                                               |
 |  0138  |   Medium   | [Copy List with Random Pointer](Problems/0138.cpp)                                               |
 |  0139  |   Medium   | [Word Break](Problems/0139.cpp)                                                                  |
 |  0141  |    Easy    | [Linked List Cycle](Problems/0141.cpp)                                                           |
@@ -115,6 +116,7 @@ for solving problems.
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
+|  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                |
 |  0191  |    Easy    | [Number of 1 Bits](Problems/0191.cpp)                                                            |
 |  0192  |   Medium   | [Word Frequency](Problems/0192.sh)                                                               |
 |  0193  |    Easy    | [Valid Phone Numbers](Problems/0193.sh)                                                          |
