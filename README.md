@@ -26,6 +26,7 @@ for solving problems.
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                     |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                             |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                              |
+|  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                           |
 |  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
 |  0013  |    Easy    | [Roman to Integer](Problems/0013.cpp)                                                            |
