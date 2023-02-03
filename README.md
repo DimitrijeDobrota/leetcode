@@ -158,6 +158,7 @@ for solving problems.
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
 |  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                              |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                              |
+|  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                              |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
@@ -303,6 +304,7 @@ for solving problems.
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                     |
 |  1311  |   Medium   | [Get Watched Videos by Your Friends](Problems/1311.cpp)                                          |
+|  1314  |   Medium   | [Matrix Block Sum](Problems/1314.cpp)                                                            |
 |  1315  |   Medium   | [Sum of Nodes with Even-Valued Grandparent](Problems/1315.cpp)                                   |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                           |
