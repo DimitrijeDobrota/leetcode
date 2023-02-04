@@ -128,6 +128,7 @@ for solving problems.
 |  0198  |   Medium   | [House Robber](Problems/0198.cpp)                                                                |
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                                 |
 |  0200  |   Medium   | [Number of Islands](Problems/0200.cpp)                                                           |
+|  0202  |    Easy    | [Happy Number](Problems/0202.cpp)                                                                |
 |  0203  |    Easy    | [Remove Linked List Elements](Problems/0203.cpp)                                                 |
 |  0205  |    Easy    | [Isomorphic Strings](Problems/0205.cpp)                                                          |
 |  0206  |    Easy    | [Reverse Linked List](Problems/0206.cpp)                                                         |
