@@ -229,6 +229,7 @@ for solving problems.
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                   |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                        |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                        |
+|  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                        |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                          |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                              |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
@@ -290,6 +291,7 @@ for solving problems.
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                      |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                            |
+|  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                           |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                    |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                |
