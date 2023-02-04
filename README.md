@@ -113,8 +113,10 @@ for solving problems.
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                            |
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                   |
 |  0152  |   Medium   | [Maximum Product Subarray](Problems/0152.cpp)                                                    |
+|  0153  |   Medium   | [Find Minimum in Rotated Sorted Array](Problems/0153.cpp)                                        |
 |  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                                   |
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                            |
+|  0162  |   Medium   | [Find Peak Element](Problems/0162.cpp)                                                           |
 |  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                 |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                            |
