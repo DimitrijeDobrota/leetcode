@@ -116,6 +116,7 @@ for solving problems.
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                            |
 |  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                 |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
+|  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                            |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                |
