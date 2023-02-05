@@ -60,6 +60,7 @@ for solving problems.
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                                 |
 |  0062  |   Medium   | [Unique Paths](Problems/0062.cpp)                                                                |
 |  0063  |   Medium   | [Unique Paths II](Problems/0063.cpp)                                                             |
+|  0064  |   Medium   | [Minimum Path Sum](Problems/0064.cpp)                                                            |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
@@ -142,6 +143,7 @@ for solving problems.
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                          |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                          |
+|  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                              |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
