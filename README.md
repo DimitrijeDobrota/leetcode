@@ -64,6 +64,7 @@ for solving problems.
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
+|  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
 |  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
@@ -238,6 +239,7 @@ for solving problems.
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                              |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
+|  0706  |    Easy    | [Design HashMap](Problems/0706.cpp)                                                              |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                        |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
