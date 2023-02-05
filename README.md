@@ -66,6 +66,7 @@ for solving problems.
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
 |  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
+|  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
