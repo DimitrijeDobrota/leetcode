@@ -51,6 +51,7 @@ for solving problems.
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0045  |   Medium   | [Jump Game II](Problems/0045.cpp)                                                                |
 |  0046  |   Medium   | [Permutations](Problems/0046.cpp)                                                                |
+|  0048  |   Medium   | [Rotate Image](Problems/0048.cpp)                                                                |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
