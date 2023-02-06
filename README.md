@@ -26,6 +26,7 @@ for solving problems.
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                     |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                             |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                              |
+|  0005  |   Medium   | [Longest Palindromic Substring](Problems/0005.cpp)                                               |
 |  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                           |
 |  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
@@ -212,6 +213,7 @@ for solving problems.
 |  0501  |    Easy    | [Find Mode in Binary Search Tree](Problems/0501.cpp)                                             |
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                            |
+|  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                             |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
