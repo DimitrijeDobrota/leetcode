@@ -288,6 +288,7 @@ for solving problems.
 |  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                   |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                            |
+|  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                 |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                        |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                      |
