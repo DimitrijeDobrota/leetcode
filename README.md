@@ -273,6 +273,7 @@ for solving problems.
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
+|  0904  |   Medium   | [Fruit Into Baskets](Problems/0904.cpp)                                                          |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                        |
 |  0909  |   Medium   | [Snakes and Ladders](Problems/0909.cpp)                                                          |
 |  0912  |   Medium   | [Sort an Array](Problems/0912.cpp)                                                               |
