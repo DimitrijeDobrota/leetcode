@@ -248,6 +248,7 @@ for solving problems.
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
 |  0706  |    Easy    | [Design HashMap](Problems/0706.cpp)                                                              |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
+|  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                |
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                        |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                  |
