@@ -183,6 +183,7 @@ for solving problems.
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                               |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                           |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
+|  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                 |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                          |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                              |
