@@ -157,6 +157,7 @@ for solving problems.
 |  0237  |   Medium   | [Delete Node in a Linked List](Problems/0237.cpp)                                                |
 |  0238  |   Medium   | [Product of Array Except Self](Problems/0238.cpp)                                                |
 |  0239  |    Hard    | [Sliding Window Maximum](Problems/0239.cpp)                                                      |
+|  0240  |   Medium   | [Search a 2D Matrix II](Problems/0240.cpp)                                                       |
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
