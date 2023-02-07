@@ -114,6 +114,7 @@ for solving problems.
 |  0143  |   Medium   | [Reorder List](Problems/0143.cpp)                                                                |
 |  0144  |   Medium   | [Binary Tree Preorder Traversal](Problems/0144.cpp)                                              |
 |  0145  |    Easy    | [Binary Tree Postorder Traversal](Problems/0145.cpp)                                             |
+|  0148  |   Medium   | [Sort List](Problems/0148.cpp)                                                                   |
 |  0149  |    Hard    | [Max Points on a Line](Problems/0149.cpp)                                                        |
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                            |
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                   |
