@@ -66,6 +66,7 @@ for solving problems.
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
+|  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
 |  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
@@ -322,6 +323,7 @@ for solving problems.
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
+|  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                  |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
