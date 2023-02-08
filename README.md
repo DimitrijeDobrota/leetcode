@@ -176,6 +176,7 @@ for solving problems.
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
+|  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                              |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                               |
 |  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                               |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                              |
@@ -227,6 +228,7 @@ for solving problems.
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                    |
 |  0557  |    Easy    | [Reverse Words in a String III](Problems/0557.cpp)                                               |
 |  0559  |    Easy    | [Maximum Depth of N-ary Tree](Problems/0559.cpp)                                                 |
+|  0560  |   Medium   | [Subarray Sum Equals K](Problems/0560.cpp)                                                       |
 |  0561  |    Easy    | [Array Partition](Problems/0561.cpp)                                                             |
 |  0563  |    Easy    | [Binary Tree Tilt](Problems/0563.cpp)                                                            |
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                          |
