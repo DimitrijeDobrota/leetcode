@@ -175,6 +175,7 @@ for solving problems.
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                              |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
+|  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                 |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                              |
@@ -220,6 +221,7 @@ for solving problems.
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                            |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                             |
+|  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                              |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
