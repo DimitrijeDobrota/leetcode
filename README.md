@@ -209,6 +209,7 @@ for solving problems.
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                     |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                    |
 |  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                   |
+|  0437  |   Medium   | [Path Sum III](Problems/0437.cpp)                                                                |
 |  0438  |   Medium   | [Find All Anagrams in a String](Problems/0438.cpp)                                               |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
