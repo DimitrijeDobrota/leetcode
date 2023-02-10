@@ -181,6 +181,7 @@ for solving problems.
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                              |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                               |
 |  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                               |
+|  0343  |   Medium   | [Integer Break](Problems/0343.cpp)                                                               |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                              |
 |  0345  |    Easy    | [Reverse Vowels of a String](Problems/0345.cpp)                                                  |
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                     |
@@ -188,6 +189,7 @@ for solving problems.
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                           |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
+|  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                          |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                 |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                          |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                              |
