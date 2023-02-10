@@ -15,9 +15,10 @@ if you have any questions.
 I have accumulated a list of most commonly used algorithms to serve as a base
 for solving problems.
 
-* [Union Find](Templates/Union_Find.cpp)
-* [MST from edge vector](Templates/MST_vector.cpp)
 * [MST from edge priority queue](Templates/MST_pq.cpp)
+* [MST from edge vector](Templates/MST_vector.cpp)
+* [Matrix BFS/Flood fill](Templates/bfs_floodfill.cpp)
+* [Union Find](Templates/Union_Find.cpp)
 
 ## Problems
 
@@ -103,6 +104,7 @@ for solving problems.
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                            |
 |  0128  |   Medium   | [Longest Consecutive Sequence](Problems/0128.cpp)                                                |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                    |
+|  0130  |   Medium   | [Surrounded Regions](Problems/0130.cpp)                                                          |
 |  0131  |   Medium   | [Palindrome Partitioning](Problems/0131.cpp)                                                     |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                 |
 |  0134  |   Medium   | [Gas Station](Problems/0134.cpp)                                                                 |
@@ -323,6 +325,7 @@ for solving problems.
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                          |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                             |
+|  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                              |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
