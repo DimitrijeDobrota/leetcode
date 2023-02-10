@@ -270,6 +270,7 @@ for solving problems.
 |  0746  |    Easy    | [Min Cost Climbing Stairs](Problems/0746.cpp)                                                    |
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                     |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                               |
+|  0763  |   Medium   | [Partition Labels](Problems/0763.cpp)                                                            |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                          |
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                     |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                         |
