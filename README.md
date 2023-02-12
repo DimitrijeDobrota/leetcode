@@ -132,6 +132,7 @@ for solving problems.
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                            |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
+|  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                      |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                |
 |  0191  |    Easy    | [Number of 1 Bits](Problems/0191.cpp)                                                            |
