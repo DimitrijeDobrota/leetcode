@@ -48,10 +48,13 @@ for solving problems.
 |  0034  |   Medium   | [Find First and Last Position of Element in Sorted Array](Problems/0034.cpp)                     |
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
+|  0039  |   Medium   | [Combination Sum](Problems/0039.cpp)                                                             |
+|  0040  |   Medium   | [Combination Sum II](Problems/0040.cpp)                                                          |
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
 |  0045  |   Medium   | [Jump Game II](Problems/0045.cpp)                                                                |
 |  0046  |   Medium   | [Permutations](Problems/0046.cpp)                                                                |
+|  0047  |   Medium   | [Permutations II ](Problems/0047.cpp)                                                            |
 |  0048  |   Medium   | [Rotate Image](Problems/0048.cpp)                                                                |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
@@ -427,4 +430,3 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-
