@@ -288,6 +288,7 @@ for solving problems.
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                             |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                             |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
+|  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                  |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                              |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
