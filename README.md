@@ -30,6 +30,7 @@ for solving problems.
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                              |
 |  0005  |   Medium   | [Longest Palindromic Substring](Problems/0005.cpp)                                               |
 |  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                           |
+|  0007  |   Medium   | [Reverse Integer](Problems/0007.cpp)                                                             |
 |  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
 |  0013  |    Easy    | [Roman to Integer](Problems/0013.cpp)                                                            |
@@ -175,6 +176,7 @@ for solving problems.
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
 |  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                              |
+|  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                              |
 |  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                           |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                             |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                 |
@@ -198,6 +200,7 @@ for solving problems.
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                     |
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                               |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                           |
+|  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                         |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
 |  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                          |
