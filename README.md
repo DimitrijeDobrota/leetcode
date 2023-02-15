@@ -271,6 +271,7 @@ for solving problems.
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                          |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                              |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
+|  0703  |    Easy    | [Kth Largest Element in a Stream](Problems/0703.cpp)                                             |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
 |  0706  |    Easy    | [Design HashMap](Problems/0706.cpp)                                                              |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
