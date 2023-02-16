@@ -216,6 +216,7 @@ for solving problems.
 |  0413  |   Medium   | [Arithmetic Slices](Problems/0413.cpp)                                                           |
 |  0414  |    Easy    | [Third Maximum Number](Problems/0414.cpp)                                                        |
 |  0415  |    Easy    | [Add Strings](Problems/0415.cpp)                                                                 |
+|  0416  |   Medium   | [Partition Equal Subset Sum](Problems/0416.cpp)                                                  |
 |  0417  |   Medium   | [Pacific Atlantic Water Flow](Problems/0417.cpp)                                                 |
 |  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                     |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
