@@ -36,6 +36,7 @@ for solving problems.
 |  0013  |    Easy    | [Roman to Integer](Problems/0013.cpp)                                                            |
 |  0014  |    Easy    | [Longest Common Prefix](Problems/0014.cpp)                                                       |
 |  0015  |   Medium   | [3Sum](Problems/0015.cpp)                                                                        |
+|  0016  |   Medium   | [3Sum Closest](Problems/0016.cpp)                                                                |
 |  0017  |   Medium   | [Letter Combinations of a Phone Number](Problems/0017.cpp)                                       |
 |  0019  |   Medium   | [Remove Nth Node From the End of List](Problems/0019.cpp)                                        |
 |  0020  |    Easy    | [Valid Parentheses](Problems/0020.cpp)                                                           |
@@ -76,6 +77,7 @@ for solving problems.
 |  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
+|  0076  |    Hard    | [Minimum Window Substring](Problems/0076.cpp)                                                    |
 |  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
 |  0078  |   Medium   | [Subsets](Problems/0078.cpp)                                                                     |
 |  0079  |   Medium   | [Word Search](Problems/0079.cpp)                                                                 |
