@@ -269,6 +269,7 @@ for solving problems.
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                   |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                        |
+|  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                    |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                        |
 |  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                        |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                          |
