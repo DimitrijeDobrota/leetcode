@@ -159,6 +159,7 @@ for solving problems.
 |  0205  |    Easy    | [Isomorphic Strings](Problems/0205.cpp)                                                          |
 |  0206  |    Easy    | [Reverse Linked List](Problems/0206.cpp)                                                         |
 |  0207  |   Medium   | [Course Schedule](Problems/0207.cpp)                                                             |
+|  0208  |   Medium   | [Implement Trie (Prefix Tree)](Problems/0208.cpp)                                                |
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                   |
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                          |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
