@@ -260,6 +260,7 @@ for solving problems.
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                          |
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                       |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                     |
+|  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                            |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                               |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                              |
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                          |
