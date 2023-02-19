@@ -104,6 +104,7 @@ for solving problems.
 |  0110  |    Easy    | [Balanced Binary Tree](Problems/0110.cpp)                                                        |
 |  0111  |    Easy    | [Minimum Depth of Binary Tree](Problems/0111.cpp)                                                |
 |  0112  |    Easy    | [Path Sum](Problems/0112.cpp)                                                                    |
+|  0113  |   Medium   | [Path Sum II](Problems/0113.cpp)                                                                 |
 |  0114  |   Medium   | [Flatten Binary Tree to Linked List](Problems/0114.cpp)                                          |
 |  0116  |   Medium   | [Populating Next Right Pointers in Each Node](Problems/0116.cpp)                                 |
 |  0117  |   Medium   | [Populating Next Right Pointers in Each Node II](Problems/0117.cpp)                              |
