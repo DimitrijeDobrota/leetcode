@@ -423,6 +423,7 @@ for solving problems.
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                               |
 |  2130  |   Medium   | [Maximum Twin Sum of a Linked List](Problems/2130.cpp)                                           |
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                        |
+|  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
