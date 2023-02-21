@@ -252,6 +252,7 @@ for solving problems.
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
+|  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                                 |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                   |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                     |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                         |
