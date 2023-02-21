@@ -168,6 +168,7 @@ for solving problems.
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
+|  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                         |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                |
 |  0232  |    Easy    | [Implement Queue using Stacks](Problems/0232.cpp)                                                |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                      |
@@ -287,6 +288,7 @@ for solving problems.
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                        |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                            |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                  |
+|  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                          |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                          |
 |  0740  |   Medium   | [Delete and Earn](Problems/0740.cpp)                                                             |
 |  0743  |   Medium   | [Network Delay Time](Problems/0743.cpp)                                                          |
