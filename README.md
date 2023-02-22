@@ -213,6 +213,7 @@ for solving problems.
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
 |  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                          |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                 |
+|  0384  |   Medium   | [Shuffle an Array](Problems/0384.cpp)                                                 |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                          |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                              |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                               |
