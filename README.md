@@ -344,6 +344,7 @@ for solving problems.
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                             |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                         |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                        |
+|  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                     |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                       |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                            |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                          |
