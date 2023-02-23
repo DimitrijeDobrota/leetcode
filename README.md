@@ -246,6 +246,7 @@ for solving problems.
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                                      |
 |  0498  |   Medium   | [Diagonal Traverse](Problems/0498.cpp)                                                           |
 |  0501  |    Easy    | [Find Mode in Binary Search Tree](Problems/0501.cpp)                                             |
+|  0502  |    Hard    | [IPO](Problems/0502.cpp)                                                                         |
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                            |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                             |
