@@ -164,6 +164,7 @@ for solving problems.
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                   |
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                          |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
+|  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                                 |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                          |
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                              |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
