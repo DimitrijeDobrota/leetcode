@@ -411,6 +411,7 @@ for solving problems.
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                               |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                     |
+|  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                 |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                |
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                      |
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                        |
