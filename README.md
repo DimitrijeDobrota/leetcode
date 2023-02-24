@@ -238,6 +238,7 @@ for solving problems.
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
+|  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                  |
 |  0460  |    Hard    | [LFU Cache](Problems/0460.cpp)                                                                   |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                          |
@@ -336,6 +337,7 @@ for solving problems.
 |  0953  |    Easy    | [Verifying an Alien Dictionary](Problems/0953.cpp)                                               |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                      |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                       |
+|  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                  |
 |  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                   |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                            |
