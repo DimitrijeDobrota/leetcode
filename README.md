@@ -31,6 +31,7 @@ for solving problems.
 |  0005  |   Medium   | [Longest Palindromic Substring](Problems/0005.cpp)                                               |
 |  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                           |
 |  0007  |   Medium   | [Reverse Integer](Problems/0007.cpp)                                                             |
+|  0009  |    Easy    | [Palindrome Number](Problems/0009.cpp)                                                           |
 |  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
 |  0013  |    Easy    | [Roman to Integer](Problems/0013.cpp)                                                            |
@@ -52,6 +53,7 @@ for solving problems.
 |  0034  |   Medium   | [Find First and Last Position of Element in Sorted Array](Problems/0034.cpp)                     |
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
+|  0037  |    Hard    | [Sudoku Solver](Problems/0037.cpp)                                                            |
 |  0039  |   Medium   | [Combination Sum](Problems/0039.cpp)                                                             |
 |  0040  |   Medium   | [Combination Sum II](Problems/0040.cpp)                                                          |
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
@@ -462,5 +464,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-|  0009  |    Easy    | [Palindrome Number](Problems/0009.cpp)                                                           |
 
