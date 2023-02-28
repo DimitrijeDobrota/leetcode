@@ -231,6 +231,7 @@ for solving problems.
 |  0416  |   Medium   | [Partition Equal Subset Sum](Problems/0416.cpp)                                                  |
 |  0417  |   Medium   | [Pacific Atlantic Water Flow](Problems/0417.cpp)                                                 |
 |  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                     |
+|  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                         |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                     |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                    |
@@ -278,6 +279,7 @@ for solving problems.
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                      |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                              |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                            |
+|  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                     |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                 |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                         |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                |
@@ -464,5 +466,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-|  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                 |
 
