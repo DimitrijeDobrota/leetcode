@@ -329,6 +329,7 @@ for solving problems.
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                        |
 |  0909  |   Medium   | [Snakes and Ladders](Problems/0909.cpp)                                                          |
 |  0912  |   Medium   | [Sort an Array](Problems/0912.cpp)                                                               |
+|  0915  |   Medium   | [Partition Array into Disjoint Intervals](Problems/0915.cpp)                                                 |
 |  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                               |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
