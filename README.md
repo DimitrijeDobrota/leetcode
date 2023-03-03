@@ -446,6 +446,7 @@ for solving problems.
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
+|  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                                 |
 |  2244  |   Medium   | [Minimum Rounds to Complete All Tasks](Problems/2244.cpp)                                        |
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                             |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                     |
