@@ -389,6 +389,7 @@ for solving problems.
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                              |
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                     |
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                  |
+|  1345  |    Hard    | [Jump Game IV](Problems/1345.cpp)                                                                |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                             |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
