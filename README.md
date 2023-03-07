@@ -445,6 +445,7 @@ for solving problems.
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                        |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
+|  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
