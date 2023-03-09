@@ -321,6 +321,7 @@ for solving problems.
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
+|  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
@@ -397,6 +398,7 @@ for solving problems.
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
+|  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                 |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
@@ -473,5 +475,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-|  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
 
