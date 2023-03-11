@@ -76,6 +76,7 @@ for solving problems.
 |  0064  |   Medium   | [Minimum Path Sum](Problems/0064.cpp)                                                            |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
+|  0069  |    Easy    | [Sqrt(x)](Problems/0069.cpp)                                                 |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
@@ -144,7 +145,9 @@ for solving problems.
 |  0162  |   Medium   | [Find Peak Element](Problems/0162.cpp)                                                           |
 |  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                 |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                          |
+|  0168  |    Easy    | [Excel Sheet Column Title](Problems/0168.cpp)                                                    |
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                            |
+|  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                 |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                      |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
