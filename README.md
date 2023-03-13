@@ -31,6 +31,7 @@ for solving problems.
 |  0005  |   Medium   | [Longest Palindromic Substring](Problems/0005.cpp)                                               |
 |  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                           |
 |  0007  |   Medium   | [Reverse Integer](Problems/0007.cpp)                                                             |
+|  0008  |   Medium   | [String to Integer (atoi)](Problems/0008.cpp)                                                 |
 |  0009  |    Easy    | [Palindrome Number](Problems/0009.cpp)                                                           |
 |  0011  |   Medium   | [Container With Most Water](Problems/0011.cpp)                                                   |
 |  0012  |   Medium   | [Integer to Roman](Problems/0012.cpp)                                                            |
