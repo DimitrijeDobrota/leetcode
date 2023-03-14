@@ -173,6 +173,7 @@ for solving problems.
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
 |  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                                 |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                          |
+|  0219  |    Easy    | [Contains Duplicate II](Problems/0219.cpp)                                                 |
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                              |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
