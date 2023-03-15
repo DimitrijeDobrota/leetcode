@@ -349,6 +349,7 @@ for solving problems.
 |  0947  |   Medium   | [Most Stones Removed with Same Row or Column](Problems/0947.cpp)                                 |
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                            |
 |  0953  |    Easy    | [Verifying an Alien Dictionary](Problems/0953.cpp)                                               |
+|  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                         |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                      |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                       |
 |  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                  |
