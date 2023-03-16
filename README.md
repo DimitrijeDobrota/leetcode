@@ -103,6 +103,7 @@ for solving problems.
 |  0103  |   Medium   | [Binary Tree Zigzag Level Order Traversal](Problems/0103.cpp)                                    |
 |  0104  |    Easy    | [Maximum Depth of Binary Tree](Problems/0104.cpp)                                                |
 |  0105  |   Medium   | [Construct Binary Tree from Preorder and Inorder Traversal](Problems/0105.cpp)                   |
+|  0106  |   Medium   | [Construct Binary Tree from Inorder and Postorder Traversal](Problems/0106.cpp)                                                 |
 |  0107  |   Medium   | [Binary Tree Level Order Traversal II](Problems/0107.cpp)                                        |
 |  0108  |    Easy    | [Convert Sorted Array to Binary Search Tree](Problems/0108.cpp)                                  |
 |  0109  |   Medium   | [Convert Sorted List to Binary Search Tree](Problems/0109.cpp)                                   |
