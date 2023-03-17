@@ -55,6 +55,7 @@ for solving problems.
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
 |  0036  |   Medium   | [Valid Sudoku](Problems/0036.cpp)                                                                |
 |  0037  |    Hard    | [Sudoku Solver](Problems/0037.cpp)                                                            |
+|  0038  |   Medium   | [Count and Say](Problems/0038.cpp)                                                               |
 |  0039  |   Medium   | [Combination Sum](Problems/0039.cpp)                                                             |
 |  0040  |   Medium   | [Combination Sum II](Problems/0040.cpp)                                                          |
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
