@@ -173,6 +173,7 @@ for solving problems.
 |  0208  |   Medium   | [Implement Trie (Prefix Tree)](Problems/0208.cpp)                                                |
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                   |
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                          |
+|  0211  |   Medium   | [Design Add and Search Words Data Structure](Problems/0211.cpp)                                  |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                             |
 |  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                                 |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                          |
