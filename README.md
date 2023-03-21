@@ -475,6 +475,7 @@ for solving problems.
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
+|  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                                 |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
