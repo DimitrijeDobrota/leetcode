@@ -66,6 +66,8 @@ for solving problems.
 |  0048  |   Medium   | [Rotate Image](Problems/0048.cpp)                                                                |
 |  0049  |   Medium   | [Group Anagrams](Problems/0049.cpp)                                                              |
 |  0050  |   Medium   | [Pow(x, n)](Problems/0050.cpp)                                                                   |
+|  0051  |    Hard    | [N-Queens](Problems/0051.cpp)                                                                    |
+|  0052  |    Hard    | [N-Queens II](Problems/0052.cpp)                                                                 |
 |  0053  |   Medium   | [Maximum Subarray](Problems/0053.cpp)                                                            |
 |  0054  |   Medium   | [Spiral Matrix](Problems/0054.cpp)                                                               |
 |  0055  |   Medium   | [Jump Game](Problems/0055.cpp)                                                                   |
