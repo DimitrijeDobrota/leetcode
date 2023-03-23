@@ -60,6 +60,7 @@ for solving problems.
 |  0040  |   Medium   | [Combination Sum II](Problems/0040.cpp)                                                          |
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                         |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                            |
+|  0044  |    Hard    | [Wildcard Matching](Problems/0044.cpp)                                                           |
 |  0045  |   Medium   | [Jump Game II](Problems/0045.cpp)                                                                |
 |  0046  |   Medium   | [Permutations](Problems/0046.cpp)                                                                |
 |  0047  |   Medium   | [Permutations II ](Problems/0047.cpp)                                                            |
