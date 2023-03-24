@@ -76,6 +76,7 @@ for solving problems.
 |  0057  |   Medium   | [Insert Interval](Problems/0057.cpp)                                                             |
 |  0058  |    Easy    | [Length of Last Word](Problems/0058.cpp)                                                         |
 |  0059  |   Medium   | [Spiral Matrix II](Problems/0059.cpp)                                                            |
+|  0060  |    Hard    | [Permutation Sequence](Problems/0060.cpp)                                           |
 |  0061  |   Medium   | [Rotate List](Problems/0061.cpp)                                                                 |
 |  0062  |   Medium   | [Unique Paths](Problems/0062.cpp)                                                                |
 |  0063  |   Medium   | [Unique Paths II](Problems/0063.cpp)                                                             |
