@@ -83,6 +83,7 @@ for solving problems.
 |  0064  |   Medium   | [Minimum Path Sum](Problems/0064.cpp)                                                            |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                    |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                  |
+|  0068  |    Hard    | [Text Justification](Problems/0068.cpp)                                                          |
 |  0069  |    Easy    | [Sqrt(x)](Problems/0069.cpp)                                                 |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
