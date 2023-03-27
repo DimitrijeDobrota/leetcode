@@ -2,24 +2,16 @@ class Solution {
 public:
   int minPathSum(vector<vector<int>> &grid) {
     int n = grid.size(), m = grid[0].size();
-    vector<vector<int>> mat(n, vector<int>(m, INT_MAX));
-    queue<pair<int, int>> q;
 
-    q.push({0, 0}), mat[0][0] = 0;
-    while (!q.empty()) {
-      auto [x, y] = q.front();
-      q.pop();
-      mat[x][y] += grid[x][y];
-      if (x + 1 < n) {
-        if (mat[x + 1][y] == INT_MAX) q.push({x + 1, y});
-        mat[x + 1][y] = min(mat[x + 1][y], mat[x][y]);
-      }
-      if (y + 1 < m) {
-        if (mat[x][y + 1] == INT_MAX) q.push({x, y + 1});
-        mat[x][y + 1] = min(mat[x][y + 1], mat[x][y]);
+    for (int i = 1; i < n; i++) grid[i][0] += grid[i - 1][0];
+    for (int j = 1; j < m; j++) grid[0][j] += grid[0][j - 1];
+
+    for (int i = 1; i < n; i++) {
+      for (int j = 1; j < m; j++) {
+        grid[i][j] += min(grid[i - 1][j], grid[i][j - 1]);
       }
     }
 
-    return mat.back().back();
+    return grid[n - 1][m - 1];
   }
 };
