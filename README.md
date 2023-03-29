@@ -416,6 +416,7 @@ for solving problems.
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
+|  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                           |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                 |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
