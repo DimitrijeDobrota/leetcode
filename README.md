@@ -96,6 +96,7 @@ for solving problems.
 |  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
+|  0087  |    Hard    | [Scramble String](Problems/0087.cpp)                                                             |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
 |  0090  |   Medium   | [Subsets II](Problems/0090.cpp)                                                                  |
 |  0091  |   Medium   | [Decode Ways](Problems/0091.cpp)                                                                 |
