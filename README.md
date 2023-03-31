@@ -422,6 +422,7 @@ for solving problems.
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                 |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
+|  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                           |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                           |
