@@ -493,6 +493,7 @@ for solving problems.
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
+|  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                           |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                             |
