@@ -380,6 +380,7 @@ for solving problems.
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                     |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                       |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                            |
+|  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                          |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                          |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                      |
