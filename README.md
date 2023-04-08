@@ -40,6 +40,7 @@ for solving problems.
 |  0015  |   Medium   | [3Sum](Problems/0015.cpp)                                                                        |
 |  0016  |   Medium   | [3Sum Closest](Problems/0016.cpp)                                                                |
 |  0017  |   Medium   | [Letter Combinations of a Phone Number](Problems/0017.cpp)                                       |
+|  0018  |   Medium   | [4Sum](Problems/0018.cpp)                                                                        |
 |  0019  |   Medium   | [Remove Nth Node From the End of List](Problems/0019.cpp)                                        |
 |  0020  |    Easy    | [Valid Parentheses](Problems/0020.cpp)                                                           |
 |  0021  |    Easy    | [Merge Two Sorted Lists](Problems/0021.cpp)                                                      |
