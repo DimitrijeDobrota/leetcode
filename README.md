@@ -88,6 +88,7 @@ for solving problems.
 |  0068  |    Hard    | [Text Justification](Problems/0068.cpp)                                                          |
 |  0069  |    Easy    | [Sqrt(x)](Problems/0069.cpp)                                                 |
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
+|  0071  |   Medium   | [Simplify Path](Problems/0071.cpp)                                                               |
 |  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
