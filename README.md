@@ -90,6 +90,7 @@ for solving problems.
 |  0070  |    Easy    | [Climbing Stairs](Problems/0070.cpp)                                                             |
 |  0071  |   Medium   | [Simplify Path](Problems/0071.cpp)                                                               |
 |  0072  |    Hard    | [Edit Distance](Problems/0072.cpp)                                                               |
+|  0073  |   Medium   | [Set Matrix Zeroes](Problems/0073.cpp)                                                 |
 |  0074  |   Medium   | [Search a 2D Matrix](Problems/0074.cpp)                                                          |
 |  0075  |   Medium   | [Sort Colors](Problems/0075.cpp)                                                                 |
 |  0076  |    Hard    | [Minimum Window Substring](Problems/0076.cpp)                                                    |
