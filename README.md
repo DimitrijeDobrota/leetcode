@@ -481,6 +481,7 @@ for solving problems.
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
+|  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                                 |
