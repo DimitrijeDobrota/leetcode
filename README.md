@@ -428,6 +428,7 @@ for solving problems.
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
+|  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
