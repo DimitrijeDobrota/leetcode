@@ -460,6 +460,7 @@ for solving problems.
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                        |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                    |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                             |
+|  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                 |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
