@@ -423,6 +423,7 @@ for solving problems.
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                             |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
+|  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                        |
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
