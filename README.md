@@ -97,6 +97,7 @@ for solving problems.
 |  0077  |   Medium   | [Combinations](Problems/0077.cpp)                                                                |
 |  0078  |   Medium   | [Subsets](Problems/0078.cpp)                                                                     |
 |  0079  |   Medium   | [Word Search](Problems/0079.cpp)                                                                 |
+|  0080  |   Medium   | [Remove Duplicates from Sorted Array II](Problems/0080.cpp)                                      |
 |  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
