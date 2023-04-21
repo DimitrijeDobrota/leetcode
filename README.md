@@ -347,6 +347,7 @@ for solving problems.
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
+|  0879  |    Hard    | [Profitable Schemes](Problems/0879.cpp)                                                          |
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                        |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
