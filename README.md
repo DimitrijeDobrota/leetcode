@@ -413,6 +413,7 @@ for solving problems.
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                     |
 |  1311  |   Medium   | [Get Watched Videos by Your Friends](Problems/1311.cpp)                                          |
+|  1312  |    Hard    | [Minimum Insertion Steps to Make a String Palindrome](Problems/1312.cpp)                         |
 |  1314  |   Medium   | [Matrix Block Sum](Problems/1314.cpp)                                                            |
 |  1315  |   Medium   | [Sum of Nodes with Even-Valued Grandparent](Problems/1315.cpp)                                   |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
