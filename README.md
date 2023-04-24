@@ -101,6 +101,7 @@ for solving problems.
 |  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
+|  0086  |   Medium   | [Partition List](Problems/0086.cpp)                                                 |
 |  0087  |    Hard    | [Scramble String](Problems/0087.cpp)                                                             |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
 |  0090  |   Medium   | [Subsets II](Problems/0090.cpp)                                                                  |
@@ -431,6 +432,7 @@ for solving problems.
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
+|  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
@@ -520,5 +522,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-|  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
 
