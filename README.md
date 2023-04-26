@@ -207,6 +207,7 @@ for solving problems.
 |  0240  |   Medium   | [Search a 2D Matrix II](Problems/0240.cpp)                                                       |
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
+|  0258  |    Easy    | [Add Digits](Problems/0258.cpp)                                                                  |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                 |
 |  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                              |
 |  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                              |
