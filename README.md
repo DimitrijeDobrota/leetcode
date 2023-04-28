@@ -343,6 +343,7 @@ for solving problems.
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                  |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
+|  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                       |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                              |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
