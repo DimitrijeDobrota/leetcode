@@ -455,6 +455,7 @@ for solving problems.
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
+|  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                  |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
