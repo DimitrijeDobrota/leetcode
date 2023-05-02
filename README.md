@@ -475,6 +475,7 @@ for solving problems.
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                 |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
+|  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
@@ -529,4 +530,3 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-
