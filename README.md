@@ -307,6 +307,7 @@ for solving problems.
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                      |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                              |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                            |
+|  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                |
 |  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                     |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                 |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                         |
