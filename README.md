@@ -514,7 +514,7 @@ for solving problems.
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
-|  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                                 |
+|  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                             |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                             |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
@@ -533,3 +533,4 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
+|  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
