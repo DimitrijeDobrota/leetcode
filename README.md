@@ -101,7 +101,7 @@ for solving problems.
 |  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
-|  0086  |   Medium   | [Partition List](Problems/0086.cpp)                                                 |
+|  0086  |   Medium   | [Partition List](Problems/0086.cpp)                                                              |
 |  0087  |    Hard    | [Scramble String](Problems/0087.cpp)                                                             |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
 |  0090  |   Medium   | [Subsets II](Problems/0090.cpp)                                                                  |
@@ -223,7 +223,7 @@ for solving problems.
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                              |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
-|  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                 |
+|  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                               |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                 |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                              |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                        |
@@ -451,6 +451,7 @@ for solving problems.
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                     |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                     |
+|  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                 |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                               |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                         |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                      |
@@ -474,7 +475,7 @@ for solving problems.
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                        |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                    |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                             |
-|  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                 |
+|  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                   |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
@@ -499,7 +500,7 @@ for solving problems.
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
-|  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                                 |
+|  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                           |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                         |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
