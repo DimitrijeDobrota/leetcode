@@ -535,3 +535,4 @@ for solving problems.
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
+|  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
