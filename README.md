@@ -485,6 +485,7 @@ for solving problems.
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
+|  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                     |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                              |
@@ -534,5 +535,5 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
-|  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
+|  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
