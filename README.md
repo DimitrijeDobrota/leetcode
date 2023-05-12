@@ -499,6 +499,7 @@ for solving problems.
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                               |
 |  2130  |   Medium   | [Maximum Twin Sum of a Linked List](Problems/2130.cpp)                                           |
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                        |
+|  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                           |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
