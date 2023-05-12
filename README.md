@@ -544,4 +544,5 @@ for solving problems.
 |  2634  |    Easy    | [Filter Elements from Array](Problems/2634.js)                                                   |
 |  2635  |    Easy    | [Apply Transform Over Each Element in Array](Problems/2635.js)                                   |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                   |
+|  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                  |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
