@@ -480,6 +480,7 @@ for solving problems.
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                   |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
+|  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                           |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
@@ -539,11 +540,11 @@ for solving problems.
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
+|  2623  |   Medium   | [Memoize](Problems/2623.js)                                                                      |
 |  2626  |    Easy    | [Array Reduce Transformation](Problems/2626.js)                                                  |
 |  2629  |    Easy    | [Function Composition](Problems/2629.js)                                                         |
 |  2634  |    Easy    | [Filter Elements from Array](Problems/2634.js)                                                   |
 |  2635  |    Easy    | [Apply Transform Over Each Element in Array](Problems/2635.js)                                   |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                   |
-|  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                  |
-|  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                              |
-|  2623  |   Medium   | [Memoize](Problems/2623.js)                                                                  |
+|  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
+|  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
