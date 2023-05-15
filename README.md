@@ -476,6 +476,7 @@ for solving problems.
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                      |
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                        |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                    |
+|  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                             |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                             |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                   |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
