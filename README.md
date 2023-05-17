@@ -548,6 +548,7 @@ for solving problems.
 |  2632  |   Medium   | [Curry](Problems/2632.js)                                                                        |
 |  2634  |    Easy    | [Filter Elements from Array](Problems/2634.js)                                                   |
 |  2635  |    Easy    | [Apply Transform Over Each Element in Array](Problems/2635.js)                                   |
+|  2636  |   Medium   | [Promise Pool ](Problems/2636.js)                                                                |
 |  2637  |    Easy    | [Promise Time Limit](Problems/2637.js)                                                           |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                   |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
