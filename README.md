@@ -542,6 +542,7 @@ for solving problems.
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
 |  2621  |    Easy    | [Sleep](Problems/2621.js)                                                                        |
+|  2622  |   Medium   | [Cache With Time Limit](Problems/2622.js)                                                        |
 |  2623  |   Medium   | [Memoize](Problems/2623.js)                                                                      |
 |  2626  |    Easy    | [Array Reduce Transformation](Problems/2626.js)                                                  |
 |  2629  |    Easy    | [Function Composition](Problems/2629.js)                                                         |
