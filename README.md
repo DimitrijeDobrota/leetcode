@@ -545,6 +545,7 @@ for solving problems.
 |  2622  |   Medium   | [Cache With Time Limit](Problems/2622.js)                                                        |
 |  2623  |   Medium   | [Memoize](Problems/2623.js)                                                                      |
 |  2626  |    Easy    | [Array Reduce Transformation](Problems/2626.js)                                                  |
+|  2627  |   Medium   | [Debounce](Problems/2627.js)                                                                     |
 |  2629  |    Easy    | [Function Composition](Problems/2629.js)                                                         |
 |  2632  |   Medium   | [Curry](Problems/2632.js)                                                                        |
 |  2634  |    Easy    | [Filter Elements from Array](Problems/2634.js)                                                   |
