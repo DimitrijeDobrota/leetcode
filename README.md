@@ -367,6 +367,7 @@ for solving problems.
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                      |
+|  0934  |   Medium   | [Shortest Bridge](Problems/0934.cpp)                                                             |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                            |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                        |
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                               |
