@@ -106,6 +106,7 @@ for solving problems.
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                          |
 |  0090  |   Medium   | [Subsets II](Problems/0090.cpp)                                                                  |
 |  0091  |   Medium   | [Decode Ways](Problems/0091.cpp)                                                                 |
+|  0092  |   Medium   | [Reverse Linked List II](Problems/0092.cpp)                                                      |
 |  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
 |  0096  |   Medium   | [Unique Binary Search Trees](Problems/0096.cpp)                                                  |
