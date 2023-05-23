@@ -181,6 +181,7 @@ for solving problems.
 |  0201  |   Medium   | [Bitwise AND of Numbers Range](Problems/0201.cpp)                                                |
 |  0202  |    Easy    | [Happy Number](Problems/0202.cpp)                                                                |
 |  0203  |    Easy    | [Remove Linked List Elements](Problems/0203.cpp)                                                 |
+|  0204  |   Medium   | [Count Primes](Problems/0204.cpp)                                                                |
 |  0205  |    Easy    | [Isomorphic Strings](Problems/0205.cpp)                                                          |
 |  0206  |    Easy    | [Reverse Linked List](Problems/0206.cpp)                                                         |
 |  0207  |   Medium   | [Course Schedule](Problems/0207.cpp)                                                             |
