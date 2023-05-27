@@ -442,6 +442,7 @@ for solving problems.
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
+|  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
