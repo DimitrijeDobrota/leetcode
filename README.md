@@ -413,7 +413,7 @@ for solving problems.
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
-|  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                  |
+|  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                               |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                  |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
@@ -464,6 +464,7 @@ for solving problems.
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                      |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                 |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
+|  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                 |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                         |
