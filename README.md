@@ -324,6 +324,7 @@ for solving problems.
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
 |  0703  |    Easy    | [Kth Largest Element in a Stream](Problems/0703.cpp)                                             |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
+|  0705  |    Easy    | [Design HashSet](Problems/0705.cpp)                                             |
 |  0706  |    Easy    | [Design HashMap](Problems/0706.cpp)                                                              |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
 |  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                |
