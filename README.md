@@ -196,6 +196,7 @@ for solving problems.
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                              |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
+|  0225  |    Easy    | [Implement Stack using Queues](Problems/0225.cpp)                                                   |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
 |  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                         |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                |
@@ -442,6 +443,7 @@ for solving problems.
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
+|  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
@@ -566,4 +568,3 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                     |
-|  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
