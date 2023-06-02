@@ -219,6 +219,7 @@ for solving problems.
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                 |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
+|  0292  |    Easy    | [Nim Game](Problems/0292.cpp)                                                                    |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
 |  0297  |    Hard    | [Serialize and Deserialize Binary Tree](Problems/0297.cpp)                                       |
 |  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                              |
