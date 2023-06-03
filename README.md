@@ -442,6 +442,7 @@ for solving problems.
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                        |
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
+|  1376  |   Medium   | [Time Needed to Inform All Employees](Problems/1376.cpp)                                         |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
