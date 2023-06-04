@@ -199,6 +199,7 @@ for solving problems.
 |  0225  |    Easy    | [Implement Stack using Queues](Problems/0225.cpp)                                                   |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
 |  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                         |
+|  0228  |    Easy    | [Summary Ranges](Problems/0228.cpp)                                                              |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                |
 |  0232  |    Easy    | [Implement Queue using Stacks](Problems/0232.cpp)                                                |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                      |
