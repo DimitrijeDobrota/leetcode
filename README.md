@@ -196,7 +196,7 @@ for solving problems.
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                              |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                   |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                              |
-|  0225  |    Easy    | [Implement Stack using Queues](Problems/0225.cpp)                                                   |
+|  0225  |    Easy    | [Implement Stack using Queues](Problems/0225.cpp)                                                |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                          |
 |  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                         |
 |  0228  |    Easy    | [Summary Ranges](Problems/0228.cpp)                                                              |
@@ -327,7 +327,7 @@ for solving problems.
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                            |
 |  0703  |    Easy    | [Kth Largest Element in a Stream](Problems/0703.cpp)                                             |
 |  0704  |    Easy    | [Binary Search](Problems/0704.cpp)                                                               |
-|  0705  |    Easy    | [Design HashSet](Problems/0705.cpp)                                             |
+|  0705  |    Easy    | [Design HashSet](Problems/0705.cpp)                                                              |
 |  0706  |    Easy    | [Design HashMap](Problems/0706.cpp)                                                              |
 |  0707  |   Medium   | [Design Linked List](Problems/0707.cpp)                                                          |
 |  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                |
@@ -422,6 +422,7 @@ for solving problems.
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
+|  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
