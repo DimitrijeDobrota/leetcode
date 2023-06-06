@@ -466,6 +466,7 @@ for solving problems.
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                     |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                 |
+|  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                               |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                               |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                         |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                      |
