@@ -432,6 +432,7 @@ for solving problems.
 |  1312  |    Hard    | [Minimum Insertion Steps to Make a String Palindrome](Problems/1312.cpp)                         |
 |  1314  |   Medium   | [Matrix Block Sum](Problems/1314.cpp)                                                            |
 |  1315  |   Medium   | [Sum of Nodes with Even-Valued Grandparent](Problems/1315.cpp)                                   |
+|  1318  |   Medium   | [Minimum Flips to Make a OR b Equal to c](Problems/1318.cpp)                                     |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                           |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp) |
