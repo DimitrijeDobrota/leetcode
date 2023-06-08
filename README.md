@@ -441,6 +441,7 @@ for solving problems.
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                  |
 |  1345  |    Hard    | [Jump Game IV](Problems/1345.cpp)                                                                |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                             |
+|  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                        |
