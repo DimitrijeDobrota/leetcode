@@ -338,6 +338,7 @@ for solving problems.
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                          |
 |  0740  |   Medium   | [Delete and Earn](Problems/0740.cpp)                                                             |
 |  0743  |   Medium   | [Network Delay Time](Problems/0743.cpp)                                                          |
+|  0744  |    Easy    | [Find Smallest Letter Greater Than Target](Problems/0744.cpp)                                    |
 |  0746  |    Easy    | [Min Cost Climbing Stairs](Problems/0746.cpp)                                                    |
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                     |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                               |
