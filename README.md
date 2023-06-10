@@ -501,6 +501,7 @@ for solving problems.
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                           |
+|  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                           |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
