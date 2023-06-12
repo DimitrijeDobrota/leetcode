@@ -241,6 +241,7 @@ for solving problems.
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                     |
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                               |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                           |
+|  0367  |    Easy    | [Valid Perfect Square](Problems/0367.cpp)                                                        |
 |  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                         |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
