@@ -546,6 +546,7 @@ for solving problems.
 |  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                             |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                             |
+|  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                             |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                    |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
