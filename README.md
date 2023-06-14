@@ -291,6 +291,7 @@ for solving problems.
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                              |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
+|  0532  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                  |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                            |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                   |
