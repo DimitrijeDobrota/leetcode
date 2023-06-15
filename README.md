@@ -423,6 +423,7 @@ for solving problems.
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                               |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                  |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                              |
+|  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                                             |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
