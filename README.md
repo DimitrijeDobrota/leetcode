@@ -482,6 +482,7 @@ for solving problems.
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                 |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
+|  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                             |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                         |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                  |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
