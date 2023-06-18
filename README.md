@@ -546,6 +546,7 @@ for solving problems.
 |  2306  |    Hard    | [Naming a Company](Problems/2306.cpp)                                                            |
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
+|  2328  |    Hard    | [Number of Increasing Paths in a Grid](Problems/2328.cpp)                                        |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
 |  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                             |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
