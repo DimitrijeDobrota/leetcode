@@ -291,7 +291,7 @@ for solving problems.
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                              |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
-|  0532  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                  |
+|  0535  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                    |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                            |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                   |
@@ -423,7 +423,7 @@ for solving problems.
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                               |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                  |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                              |
-|  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                                             |
+|  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                          |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                              |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
@@ -523,6 +523,7 @@ for solving problems.
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                      |
+|  2090  |   Medium   | [K Radius Subarray Averages](Problems/2090.cpp)                                                  |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                     |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                  |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                               |
@@ -552,7 +553,7 @@ for solving problems.
 |  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                             |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                           |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                             |
-|  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                             |
+|  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                  |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                    |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
