@@ -406,6 +406,7 @@ for solving problems.
 |  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                          |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                          |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                |
+|  1027  |   Medium   | [Longest Arithmetic Subsequence](Problems/1027.cpp)                                              |
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                             |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                      |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                            |
