@@ -566,8 +566,9 @@ for solving problems.
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                           |
-|  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                                               |
+|  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                            |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                             |
+|  2462  |   Medium   | [Total Cost to Hire K Workers](Problems/2462.cpp)                                                |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                 |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                            |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
