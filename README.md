@@ -243,6 +243,7 @@ for solving problems.
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                           |
 |  0367  |    Easy    | [Valid Perfect Square](Problems/0367.cpp)                                                        |
 |  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                         |
+|  0373  |   Medium   | [Find K Pairs with Smallest Sums](Problems/0373.cpp)                                             |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                          |
 |  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                          |
