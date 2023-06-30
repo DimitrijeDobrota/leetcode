@@ -360,7 +360,7 @@ for solving problems.
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
-|  0864  |   Medium   | [Shortest Path to Get All Keys](Problems/0864.cpp)                                               |
+|  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                               |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
@@ -522,6 +522,7 @@ for solving problems.
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                     |
+|  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                          |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                              |
