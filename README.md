@@ -551,6 +551,7 @@ for solving problems.
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                    |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                           |
 |  2300  |   Medium   | [Successful Pairs of Spells and Potions](Problems/2300.cpp)                                      |
+|  2305  |   Medium   | [Fair Distribution of Cookies](Problems/2305.cpp)                                                |
 |  2306  |    Hard    | [Naming a Company](Problems/2306.cpp)                                                            |
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
