@@ -492,6 +492,7 @@ for solving problems.
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                   |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                  |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
+|  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                              |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                       |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
