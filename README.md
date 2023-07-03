@@ -360,6 +360,7 @@ for solving problems.
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
+|  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                               |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                               |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
