@@ -479,6 +479,7 @@ for solving problems.
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                     |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                     |
+|  1493  |   Medium   | [Longest Subarray of 1's After Deleting One Element](Problems/1493.cpp)                          |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                 |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                               |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                               |
