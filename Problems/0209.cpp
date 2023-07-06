@@ -1,26 +1,17 @@
 class Solution {
-  int inf = 100001;
-
 public:
-  int minSubArrayLen(int target, vector<int> &nums) {
-    int i = 0, j = 0;
-    int mini = inf;
-    int sum = nums[0];
-    int cnt = 1;
+  int minSubArrayLen(int target, const vector<int> &nums) {
+    int i = 0, j = 0, sum = 0, res = nums.size() + 1;
     while (true) {
       if (sum >= target) {
-        do {
-          mini = min(mini, cnt);
-          sum -= nums[i++];
-          cnt--;
-        } while (i < j && sum >= target);
+        res = min(res, j - i);
+        sum -= nums[i++];
       } else {
-        if (++j >= nums.size()) break;
-        sum += nums[j];
-        cnt++;
+        if (j == nums.size()) break;
+        sum += nums[j++];
       }
     }
-    if (mini == inf) return 0;
-    return mini;
+    if (res == nums.size() + 1) return 0;
+    return res;
   }
 };
