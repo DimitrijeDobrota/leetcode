@@ -530,6 +530,7 @@ for solving problems.
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                              |
+|  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                           |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                      |
