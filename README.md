@@ -585,6 +585,7 @@ for solving problems.
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
+|  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                         |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
 |  2621  |    Easy    | [Sleep](Problems/2621.js)                                                                        |
 |  2622  |   Medium   | [Cache With Time Limit](Problems/2622.js)                                                        |
