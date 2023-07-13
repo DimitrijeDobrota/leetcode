@@ -1,12 +1,12 @@
 class Solution {
+  static int adj[2048][2048];
+
 public:
-  bool canFinish(int n, vector<vector<int>> &prerequisites) {
-    vector<vector<int>> adj(n);
-    vector<int> count(n, 0);
-    int num = 0;
+  bool canFinish(int n, const vector<vector<int>> &prerequisites) {
+    int count[2048] = {0}, size[2048] = {0};
 
     for (auto &p : prerequisites) {
-      adj[p[0]].push_back(p[1]);
+      adj[p[0]][size[p[0]]++] = p[1];
       count[p[1]]++;
     }
 
@@ -16,12 +16,13 @@ public:
 
     while (!q.empty()) {
       int root = q.front();
-      q.pop();
-      n--;
-      for (int c : adj[root])
-        if (!--count[c]) q.push(c);
+      q.pop(), n--;
+      for (int i = 0; i < size[root]; i++)
+        if (!--count[adj[root][i]]) q.push(adj[root][i]);
     }
 
     return n == 0;
   }
 };
+
+int Solution::adj[2048][2048];
