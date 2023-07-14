@@ -435,6 +435,7 @@ for solving problems.
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                              |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
+|  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
