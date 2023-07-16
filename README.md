@@ -425,6 +425,7 @@ for solving problems.
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                              |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
+|  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                    |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                               |
