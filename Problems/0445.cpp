@@ -1,38 +1,43 @@
 class Solution {
 public:
-  string addStrings(string num1, string num2) {
-    if (num1 == "0" && num2 == "0") return "0";
-
-    string res = "";
-    int i = num1.size() - 1;
-    int j = num2.size() - 1;
-
-    int add = 0;
-    while (i >= 0 || j >= 0 || add) {
-      if (i >= 0) add += num1[i--] - '0';
-      if (j >= 0) add += num2[j--] - '0';
-      res += to_string(add % 10);
-      add /= 10;
+    pair<ListNode*, int> reverse(ListNode *root) {
+        ListNode *l = nullptr, *c = root;
+        int size = 0;
+        while(c) {
+            ListNode *n = c->next;
+            c->next = l;
+            l = c;
+            c = n;
+            size++;
+        }
+        return {l, size};
     }
 
-    reverse(res.begin(), res.end());
-    return res;
-  }
+    ListNode* addTwoNumbers(ListNode* p1, ListNode* p2) {
+        auto [l1, s1] = reverse(p1);
+        auto [l2, s2] = reverse(p2);
 
-  ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
-    if (!l1 || !l2) return nullptr;
+        if(s2 > s1) swap(l1, l2);
+        p1 = l1;
 
-    string s1 = "", s2 = "";
+        int carry = 0;
+        for(; l1 && l2; l1=l1->next, l2=l2->next) {
+            int sum = l1->val + l2->val + carry;
+            l1->val = sum % 10;
+            carry = sum / 10;
+        }
 
-    for (ListNode *p = l1; p; p = p->next) s1 += '0' + p->val;
+        if(l1) {
+            while(true) {
+                int sum = l1->val + carry;
+                l1->val = sum % 10;
+                carry = sum / 10;
+                if(!l1->next) break;
+                l1 = l1->next;
+            }
+        }
 
-    for (ListNode *p = l2; p; p = p->next) s2 += '0' + p->val;
-
-    string s = addStrings(s1, s2);
-    ListNode *h, *t;
-    t = h = new ListNode();
-    for (char c : s) t = t->next = new ListNode(c - '0');
-
-    return h->next;
-  }
+        if(!carry) return reverse(p1).first;
+        return new ListNode(carry, reverse(p1).first);
+    }
 };
