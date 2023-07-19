@@ -169,6 +169,7 @@ for solving problems.
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                            |
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                   |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                 |
+|  0179  |   Medium   | [Largest Number](Problems/0179.cpp)                                                              |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                      |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                |
