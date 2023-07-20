@@ -222,6 +222,7 @@ for solving problems.
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                             |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                 |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                   |
+|  0289  |   Medium   | [Game of Life](Problems/0289.cpp)                                                                |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                |
 |  0292  |    Easy    | [Nim Game](Problems/0292.cpp)                                                                    |
 |  0295  |    Hard    | [Find Median from Data Stream](Problems/0295.cpp)                                                |
