@@ -52,6 +52,7 @@ for solving problems.
 |  0027  |    Easy    | [Remove Element](Problems/0027.cpp)                                                              |
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                          |
 |  0029  |   Medium   | [Divide Two Integers](Problems/0029.cpp)                                                         |
+|  0031  |   Medium   | [Next Permutation](Problems/0031.cpp)                                                            |
 |  0033  |   Medium   | [Search in Rotated Sorted Array](Problems/0033.cpp)                                              |
 |  0034  |   Medium   | [Find First and Last Position of Element in Sorted Array](Problems/0034.cpp)                     |
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                      |
