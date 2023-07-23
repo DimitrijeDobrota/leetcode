@@ -376,6 +376,7 @@ for solving problems.
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                        |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
+|  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                              |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
 |  0904  |   Medium   | [Fruit Into Baskets](Problems/0904.cpp)                                                          |
