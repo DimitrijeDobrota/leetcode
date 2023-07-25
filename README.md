@@ -366,6 +366,7 @@ for solving problems.
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                              |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                    |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                               |
+|  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                              |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                               |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                         |
