@@ -327,6 +327,7 @@ for solving problems.
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                 |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                         |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                |
+|  0664  |    Hard    | [Strange Printer](Problems/0664.cpp)                                                             |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                   |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                        |
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                    |
