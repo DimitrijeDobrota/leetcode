@@ -232,6 +232,7 @@ for solving problems.
 |  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                              |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                              |
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                              |
+|  0306  |   Medium   | [Additive Number](Problems/0306.cpp)                                                             |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                               |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                        |
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                               |
