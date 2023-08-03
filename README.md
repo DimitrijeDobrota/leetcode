@@ -213,6 +213,7 @@ for solving problems.
 |  0238  |   Medium   | [Product of Array Except Self](Problems/0238.cpp)                                                |
 |  0239  |    Hard    | [Sliding Window Maximum](Problems/0239.cpp)                                                      |
 |  0240  |   Medium   | [Search a 2D Matrix II](Problems/0240.cpp)                                                       |
+|  0241  |   Medium   | [Different Ways to Add Parentheses](Problems/0241.cpp)                                           |
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                               |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                           |
 |  0258  |    Easy    | [Add Digits](Problems/0258.cpp)                                                                  |
