@@ -522,6 +522,7 @@ for solving problems.
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                               |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                     |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                 |
+|  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                     |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                             |
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                      |
