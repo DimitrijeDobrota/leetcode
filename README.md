@@ -110,6 +110,7 @@ for solving problems.
 |  0092  |   Medium   | [Reverse Linked List II](Problems/0092.cpp)                                                      |
 |  0093  |   Medium   | [Restore IP Addresses](Problems/0093.cpp)                                                        |
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
+|  0095  |   Medium   | [Unique Binary Search Trees II](Problems/0095.cpp)                                               |
 |  0096  |   Medium   | [Unique Binary Search Trees](Problems/0096.cpp)                                                  |
 |  0098  |   Medium   | [Validate Binary Search Tree](Problems/0098.cpp)                                                 |
 |  0099  |   Medium   | [Recover Binary Search Tree](Problems/0099.cpp)                                                  |
