@@ -394,6 +394,7 @@ for solving problems.
 |  0912  |   Medium   | [Sort an Array](Problems/0912.cpp)                                                               |
 |  0915  |   Medium   | [Partition Array into Disjoint Intervals](Problems/0915.cpp)                                     |
 |  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                               |
+|  0920  |    Hard    | [Number of Music Playlists](Problems/0920.cpp)                                                   |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                      |
