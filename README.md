@@ -626,3 +626,4 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                     |
+|  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                              |
