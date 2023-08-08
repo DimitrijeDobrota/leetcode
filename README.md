@@ -302,6 +302,7 @@ for solving problems.
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                              |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                              |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
+|  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0532.cpp)                                                   |
 |  0535  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                    |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                            |
@@ -365,6 +366,7 @@ for solving problems.
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                             |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                             |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
+|  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                           |
 |  0808  |   Medium   | [Soup Servings](Problems/0808.cpp)                                                               |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                  |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
@@ -495,6 +497,7 @@ for solving problems.
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                           |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                     |
+|  1476  |   Medium   | [Subrectangle Queries](Problems/1476.cpp)                                                        |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                     |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)            |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                     |
@@ -541,6 +544,7 @@ for solving problems.
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                           |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
+|  1828  |   Medium   | [Queries on Number of Points Inside a Circle](Problems/1828.cpp)                                 |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
@@ -595,6 +599,7 @@ for solving problems.
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
+|  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
