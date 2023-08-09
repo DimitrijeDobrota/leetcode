@@ -615,6 +615,7 @@ for solving problems.
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                         |
+|  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                    |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
 |  2621  |    Easy    | [Sleep](Problems/2621.js)                                                                        |
 |  2622  |   Medium   | [Cache With Time Limit](Problems/2622.js)                                                        |
