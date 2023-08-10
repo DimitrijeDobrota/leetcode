@@ -99,6 +99,7 @@ for solving problems.
 |  0078  |   Medium   | [Subsets](Problems/0078.cpp)                                                                     |
 |  0079  |   Medium   | [Word Search](Problems/0079.cpp)                                                                 |
 |  0080  |   Medium   | [Remove Duplicates from Sorted Array II](Problems/0080.cpp)                                      |
+|  0081  |   Medium   | [Search in Rotated Sorted Array II](Problems/0081.cpp)                                           |
 |  0082  |   Medium   | [Remove Duplicates from Sorted List II](Problems/0082.cpp)                                       |
 |  0083  |    Easy    | [Remove Duplicates from Sorted List](Problems/0083.cpp)                                          |
 |  0084  |    Hard    | [Largest Rectangle in Histogram](Problems/0084.cpp)                                              |
@@ -599,7 +600,7 @@ for solving problems.
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
-|  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)
+|  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
