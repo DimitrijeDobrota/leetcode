@@ -459,6 +459,7 @@ for solving problems.
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
+|  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                        |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                     |
@@ -539,6 +540,7 @@ for solving problems.
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                   |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                            |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                   |
+|  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                  |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                           |
@@ -603,6 +605,7 @@ for solving problems.
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
+|  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                       |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                           |
 |  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                            |
@@ -615,7 +618,9 @@ for solving problems.
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
+|  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                        |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                         |
+|  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                            |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                    |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                      |
 |  2621  |    Easy    | [Sleep](Problems/2621.js)                                                                        |
