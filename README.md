@@ -600,6 +600,7 @@ for solving problems.
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                    |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
+|  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
