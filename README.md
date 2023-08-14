@@ -470,6 +470,7 @@ for solving problems.
 |  1318  |   Medium   | [Minimum Flips to Make a OR b Equal to c](Problems/1318.cpp)                                     |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                           |
+|  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                  |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp) |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                              |
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                     |
@@ -487,6 +488,7 @@ for solving problems.
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
+|  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                           |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
@@ -524,6 +526,7 @@ for solving problems.
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                 |
+|  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                   |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                               |
@@ -571,6 +574,7 @@ for solving problems.
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                        |
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                           |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                         |
+|  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                    |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
@@ -603,6 +607,7 @@ for solving problems.
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
+|  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                   |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
