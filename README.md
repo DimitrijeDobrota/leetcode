@@ -514,6 +514,7 @@ for solving problems.
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                 |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                 |
+|  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                      |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                             |
@@ -570,10 +571,13 @@ for solving problems.
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                     |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                  |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                               |
+|  2120  |   Medium   | [Execution of All Suffix Instructions Staying in a Grid](Problems/2120.cpp)                      |
+|  2125  |   Medium   | [Number of Laser Beams in a Bank](Problems/2125.cpp)                                             |
 |  2130  |   Medium   | [Maximum Twin Sum of a Linked List](Problems/2130.cpp)                                           |
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                        |
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                           |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                         |
+|  2149  |   Medium   | [Rearrange Array Elements by Sign](Problems/2149.cpp)                                            |
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                    |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
@@ -640,6 +644,7 @@ for solving problems.
 |  2635  |    Easy    | [Apply Transform Over Each Element in Array](Problems/2635.js)                                   |
 |  2636  |   Medium   | [Promise Pool ](Problems/2636.js)                                                                |
 |  2637  |    Easy    | [Promise Time Limit](Problems/2637.js)                                                           |
+|  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                  |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                   |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
