@@ -527,6 +527,7 @@ for solving problems.
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                 |
+|  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                        |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                   |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
@@ -549,6 +550,7 @@ for solving problems.
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                           |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                           |
+|  1817  |   Medium   | [Finding the Users Active Minutes](Problems/1817.cpp)                                            |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
 |  1828  |   Medium   | [Queries on Number of Points Inside a Circle](Problems/1828.cpp)                                 |
@@ -556,6 +558,7 @@ for solving problems.
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                             |
+|  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                     |
@@ -566,6 +569,7 @@ for solving problems.
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                           |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
+|  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                             |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                      |
 |  2090  |   Medium   | [K Radius Subarray Averages](Problems/2090.cpp)                                                  |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                     |
@@ -625,6 +629,7 @@ for solving problems.
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                            |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
+|  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                         |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
