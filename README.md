@@ -477,6 +477,7 @@ for solving problems.
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                  |
 |  1345  |    Hard    | [Jump Game IV](Problems/1345.cpp)                                                                |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                             |
+|  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                         |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
@@ -516,6 +517,7 @@ for solving problems.
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                 |
 |  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                      |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                               |
+|  1561  |   Medium   | [Maximum Number of Coins You Can Get](Problems/1561.cpp)                                         |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                            |
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                             |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                         |
@@ -589,6 +591,7 @@ for solving problems.
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                           |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                         |
+|  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                             |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                             |
@@ -602,6 +605,7 @@ for solving problems.
 |  2305  |   Medium   | [Fair Distribution of Cookies](Problems/2305.cpp)                                                |
 |  2306  |    Hard    | [Naming a Company](Problems/2306.cpp)                                                            |
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                     |
+|  2317  |   Medium   | [Maximum XOR After Operations](Problems/2317.cpp)                                                |
 |  2326  |   Medium   | [Spiral Matrix IV](Problems/2326.cpp)                                                            |
 |  2328  |    Hard    | [Number of Increasing Paths in a Grid](Problems/2328.cpp)                                        |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                |
@@ -621,6 +625,7 @@ for solving problems.
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                       |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
+|  2442  |   Medium   | [Count Number of Distinct Integers After Reverse Operations](Problems/2442.cpp)                  |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                           |
 |  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                            |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                             |
