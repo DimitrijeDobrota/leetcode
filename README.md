@@ -388,6 +388,7 @@ for solving problems.
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                        |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
+|  0890  |   Medium   | [Find and Replace Pattern](Problems/0890.cpp)                                                    |
 |  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                              |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
@@ -485,6 +486,7 @@ for solving problems.
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                              |
 |  1376  |   Medium   | [Time Needed to Inform All Employees](Problems/1376.cpp)                                         |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
+|  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                     |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
@@ -532,6 +534,7 @@ for solving problems.
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                        |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                   |
+|  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                  |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                               |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                     |
@@ -556,6 +559,7 @@ for solving problems.
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
 |  1828  |   Medium   | [Queries on Number of Points Inside a Circle](Problems/1828.cpp)                                 |
+|  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                  |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
@@ -622,6 +626,7 @@ for solving problems.
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                   |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
+|  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                           |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                       |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
