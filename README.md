@@ -460,6 +460,7 @@ for solving problems.
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
+|  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                 |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                        |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
@@ -497,6 +498,7 @@ for solving problems.
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
+|  1442  |   Medium   | [Count Triplets That Can Form Two Arrays of Equal XOR](Problems/1442.cpp)                        |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                           |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                     |
@@ -528,6 +530,7 @@ for solving problems.
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                              |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                              |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                       |
+|  1605  |   Medium   | [Find Valid Matrix Given Row and Column Sums](Problems/1605.cpp)                                 |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                               |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                        |
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                 |
@@ -574,6 +577,7 @@ for solving problems.
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                              |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                           |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
+|  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                  |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                  |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                             |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                      |
@@ -664,4 +668,5 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                     |
+|  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                     |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                              |
