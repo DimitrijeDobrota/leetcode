@@ -455,6 +455,7 @@ for solving problems.
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                              |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                  |
+|  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
