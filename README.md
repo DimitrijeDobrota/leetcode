@@ -287,6 +287,7 @@ for solving problems.
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                        |
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                  |
+|  0459  |    Easy    | [Repeated Substring Pattern](Problems/0459.cpp)                                                  |
 |  0460  |    Hard    | [LFU Cache](Problems/0460.cpp)                                                                   |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                          |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                        |
