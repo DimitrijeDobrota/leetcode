@@ -370,6 +370,7 @@ for solving problems.
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
 |  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                           |
 |  0808  |   Medium   | [Soup Servings](Problems/0808.cpp)                                                               |
+|  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                       |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                  |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                 |
@@ -400,6 +401,7 @@ for solving problems.
 |  0915  |   Medium   | [Partition Array into Disjoint Intervals](Problems/0915.cpp)                                     |
 |  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                               |
 |  0920  |    Hard    | [Number of Music Playlists](Problems/0920.cpp)                                                   |
+|  0921  |   Medium   | [Minimum Add to Make Parentheses Valid](Problems/0921.cpp)                                       |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                          |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                    |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                      |
@@ -442,10 +444,12 @@ for solving problems.
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                          |
+|  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                   |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                             |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                              |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
+|  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                         |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                    |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
@@ -570,6 +574,7 @@ for solving problems.
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                             |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                          |
+|  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                       |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                     |
