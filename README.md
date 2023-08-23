@@ -273,6 +273,7 @@ for solving problems.
 |  0415  |    Easy    | [Add Strings](Problems/0415.cpp)                                                                 |
 |  0416  |   Medium   | [Partition Equal Subset Sum](Problems/0416.cpp)                                                  |
 |  0417  |   Medium   | [Pacific Atlantic Water Flow](Problems/0417.cpp)                                                 |
+|  0419  |   Medium   | [Battleships in a Board](Problems/0419.cpp)                                                      |
 |  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                     |
 |  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                         |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                            |
@@ -362,6 +363,7 @@ for solving problems.
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                     |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                               |
 |  0763  |   Medium   | [Partition Labels](Problems/0763.cpp)                                                            |
+|  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                           |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                          |
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                     |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                         |
@@ -381,6 +383,7 @@ for solving problems.
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                              |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                   |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                               |
+|  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                 |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                         |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                               |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
@@ -467,6 +470,7 @@ for solving problems.
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                 |
+|  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                      |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                        |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
@@ -633,12 +637,14 @@ for solving problems.
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
+|  2375  |   Medium   | [Construct Smallest Number From DI String](Problems/2375.cpp)                                    |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                |
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                   |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                 |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                 |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                           |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                        |
+|  2428  |   Medium   | [Maximum Sum of an Hourglass](Problems/2428.cpp)                                                 |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                       |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                   |
 |  2442  |   Medium   | [Count Number of Distinct Integers After Reverse Operations](Problems/2442.cpp)                  |
