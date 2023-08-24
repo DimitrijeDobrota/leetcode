@@ -392,6 +392,7 @@ for solving problems.
 |  0879  |    Hard    | [Profitable Schemes](Problems/0879.cpp)                                                          |
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                        |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
+|  0885  |   Medium   | [Spiral Matrix III](Problems/0885.cpp)                                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
 |  0890  |   Medium   | [Find and Replace Pattern](Problems/0890.cpp)                                                    |
 |  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                              |
@@ -482,6 +483,7 @@ for solving problems.
 |  1318  |   Medium   | [Minimum Flips to Make a OR b Equal to c](Problems/1318.cpp)                                     |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                           |
+|  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                            |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                  |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp) |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                              |
@@ -504,6 +506,7 @@ for solving problems.
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                           |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
+|  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
@@ -511,6 +514,7 @@ for solving problems.
 |  1442  |   Medium   | [Count Triplets That Can Form Two Arrays of Equal XOR](Problems/1442.cpp)                        |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                           |
+|  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                             |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                     |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                          |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                      |
@@ -586,6 +590,7 @@ for solving problems.
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                              |
+|  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)               |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                           |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                      |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                  |
