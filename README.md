@@ -113,6 +113,7 @@ for solving problems.
 |  0094  |    Easy    | [Binary Tree Inorder Traversal](Problems/0094.cpp)                                               |
 |  0095  |   Medium   | [Unique Binary Search Trees II](Problems/0095.cpp)                                               |
 |  0096  |   Medium   | [Unique Binary Search Trees](Problems/0096.cpp)                                                  |
+|  0097  |   Medium   | [Interleaving String](Problems/0097.cpp)                                                         |
 |  0098  |   Medium   | [Validate Binary Search Tree](Problems/0098.cpp)                                                 |
 |  0099  |   Medium   | [Recover Binary Search Tree](Problems/0099.cpp)                                                  |
 |  0100  |    Easy    | [Same Tree](Problems/0100.cpp)                                                                   |
@@ -266,6 +267,7 @@ for solving problems.
 |  0399  |   Medium   | [Evaluate Division](Problems/0399.cpp)                                                           |
 |  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                             |
 |  0404  |    Easy    | [Sum of Left Leaves](Problems/0404.cpp)                                                          |
+|  0406  |   Medium   | [Queue Reconstruction by Height](Problems/0406.cpp)                                              |
 |  0409  |    Easy    | [Longest Palindrome](Problems/0409.cpp)                                                          |
 |  0412  |    Easy    | [Fizz Buzz](Problems/0412.cpp)                                                                   |
 |  0413  |   Medium   | [Arithmetic Slices](Problems/0413.cpp)                                                           |
@@ -282,6 +284,7 @@ for solving problems.
 |  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                   |
 |  0437  |   Medium   | [Path Sum III](Problems/0437.cpp)                                                                |
 |  0438  |   Medium   | [Find All Anagrams in a String](Problems/0438.cpp)                                               |
+|  0442  |   Medium   | [Find All Duplicates in an Array](Problems/0442.cpp)                                             |
 |  0443  |   Medium   | [String Compression](Problems/0443.cpp)                                                          |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                    |
@@ -473,6 +476,7 @@ for solving problems.
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                 |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                      |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                        |
+|  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                    |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                     |
@@ -505,6 +509,7 @@ for solving problems.
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                           |
+|  1415  |   Medium   | [The k-th Lexicographical String of All Happy Strings of Length n](Problems/1415.cpp)            |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                           |
 |  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
@@ -625,6 +630,7 @@ for solving problems.
 |  2272  |    Hard    | [Substring With Largest Variance](Problems/2272.cpp)                                             |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                    |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                           |
+|  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                           |
 |  2300  |   Medium   | [Successful Pairs of Spells and Potions](Problems/2300.cpp)                                      |
 |  2305  |   Medium   | [Fair Distribution of Cookies](Problems/2305.cpp)                                                |
 |  2306  |    Hard    | [Naming a Company](Problems/2306.cpp)                                                            |
