@@ -332,6 +332,7 @@ for solving problems.
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                      |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                              |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                            |
+|  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                |
 |  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                |
 |  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                     |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                 |
@@ -376,6 +377,7 @@ for solving problems.
 |  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                           |
 |  0808  |   Medium   | [Soup Servings](Problems/0808.cpp)                                                               |
 |  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                       |
+|  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                         |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                  |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                               |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                 |
@@ -457,6 +459,7 @@ for solving problems.
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                         |
+|  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                      |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                    |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
@@ -516,6 +519,7 @@ for solving problems.
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
+|  1441  |   Medium   | [Build an Array With Stack Operations](Problems/1441.cpp)                                        |
 |  1442  |   Medium   | [Count Triplets That Can Form Two Arrays of Equal XOR](Problems/1442.cpp)                        |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                |
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                           |
@@ -535,6 +539,7 @@ for solving problems.
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                               |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                         |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                      |
+|  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                        |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                 |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                       |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                 |
@@ -628,6 +633,7 @@ for solving problems.
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                             |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                     |
 |  2272  |    Hard    | [Substring With Largest Variance](Problems/2272.cpp)                                             |
+|  2275  |   Medium   | [Largest Combination With Bitwise AND Greater Than Zero](Problems/2275.cpp)                      |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                    |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                           |
 |  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                           |
