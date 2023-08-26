@@ -1,1 +1,1 @@
-Formating: Problems/0695.cpp
+Formating : Problems / 0695.cpp

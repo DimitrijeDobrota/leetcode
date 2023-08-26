@@ -1,1 +1,1 @@
-Formating: Problems/0472.cpp
+Formating : Problems / 0472.cpp

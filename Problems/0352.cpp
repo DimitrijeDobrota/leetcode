@@ -1,1 +1,1 @@
-Formating: Problems/0352.cpp
+Formating : Problems / 0352.cpp

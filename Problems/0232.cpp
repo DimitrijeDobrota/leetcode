@@ -1,1 +1,1 @@
-Formating: Problems/0232.cpp
+Formating : Problems / 0232.cpp

@@ -1,1 +1,1 @@
-Formating: Problems/0567.cpp
+Formating : Problems / 0567.cpp
