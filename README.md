@@ -266,6 +266,7 @@ for solving problems.
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                               |
 |  0399  |   Medium   | [Evaluate Division](Problems/0399.cpp)                                                           |
 |  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                             |
+|  0403  |    Hard    | [Frog Jump](Problems/0403.cpp)                                                                   |
 |  0404  |    Easy    | [Sum of Left Leaves](Problems/0404.cpp)                                                          |
 |  0406  |   Medium   | [Queue Reconstruction by Height](Problems/0406.cpp)                                              |
 |  0409  |    Easy    | [Longest Palindrome](Problems/0409.cpp)                                                          |
