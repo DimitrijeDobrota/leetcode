@@ -430,6 +430,7 @@ for solving problems.
 |  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                  |
 |  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                   |
+|  0979  |   Medium   | [Distribute Coins in Binary Tree](Problems/0979.cpp)                                             |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                            |
 |  0983  |   Medium   | [Minimum Cost For Tickets](Problems/0983.cpp)                                                    |
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                 |
@@ -449,6 +450,7 @@ for solving problems.
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                             |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                      |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                            |
+|  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                             |
 |  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                           |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                    |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                              |
@@ -484,6 +486,7 @@ for solving problems.
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                           |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                          |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                     |
+|  1310  |   Medium   | [XOR Queries of a Subarray](Problems/1310.cpp)                                                   |
 |  1311  |   Medium   | [Get Watched Videos by Your Friends](Problems/1311.cpp)                                          |
 |  1312  |    Hard    | [Minimum Insertion Steps to Make a String Palindrome](Problems/1312.cpp)                         |
 |  1314  |   Medium   | [Matrix Block Sum](Problems/1314.cpp)                                                            |
@@ -583,6 +586,7 @@ for solving problems.
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                   |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                           |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                           |
+|  1806  |   Medium   | [Minimum Number of Operations to Reinitialize a Permutation](Problems/1806.cpp)                  |
 |  1817  |   Medium   | [Finding the Users Active Minutes](Problems/1817.cpp)                                            |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                             |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                        |
@@ -624,6 +628,7 @@ for solving problems.
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
+|  2196  |   Medium   | [Create Binary Tree From Descriptions](Problems/2196.cpp)                                        |
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                           |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                         |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                             |
