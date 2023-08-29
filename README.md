@@ -476,6 +476,7 @@ for solving problems.
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                 |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                          |
+|  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                             |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
@@ -595,8 +596,10 @@ for solving problems.
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
+|  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                     |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                             |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                          |
+|  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                           |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                       |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
@@ -626,6 +629,7 @@ for solving problems.
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                    |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                  |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                |
+|  2186  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram II](Problems/2186.cpp)                      |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                              |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                         |
 |  2196  |   Medium   | [Create Binary Tree From Descriptions](Problems/2196.cpp)                                        |
@@ -680,6 +684,7 @@ for solving problems.
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                              |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                  |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                         |
+|  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
@@ -704,5 +709,6 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                     |
+|  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                        |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                     |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                              |
