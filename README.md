@@ -311,6 +311,7 @@ for solving problems.
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                          |
 |  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0532.cpp)                                                   |
 |  0535  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                    |
+|  0537  |   Medium   | [Complex Number Multiplication](Problems/0537.cpp)                                               |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                 |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                            |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                   |
@@ -400,7 +401,9 @@ for solving problems.
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
 |  0885  |   Medium   | [Spiral Matrix III](Problems/0885.cpp)                                                           |
 |  0886  |   Medium   | [Possible Bipartition](Problems/0886.cpp)                                                        |
+|  0889  |   Medium   | [Construct Binary Tree from Preorder and Postorder Traversal](Problems/0889.cpp)                 |
 |  0890  |   Medium   | [Find and Replace Pattern](Problems/0890.cpp)                                                    |
+|  0893  |   Medium   | [Groups of Special-Equivalent Strings](Problems/0893.cpp)                                        |
 |  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                              |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                           |
@@ -595,6 +598,7 @@ for solving problems.
 |  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                  |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                      |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                         |
+|  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                     |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                     |
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                     |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                             |
@@ -636,6 +640,7 @@ for solving problems.
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                           |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                         |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                             |
+|  2225  |   Medium   | [Find Players With Zero or One Losses](Problems/2225.cpp)                                        |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                            |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                 |
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                             |
@@ -661,6 +666,7 @@ for solving problems.
 |  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                  |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                        |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                    |
+|  2366  |    Hard    | [Minimum Replacements to Sort the Array](Problems/2366.cpp)                                      |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                           |
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                           |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                |
