@@ -393,9 +393,11 @@ for solving problems.
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                 |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                         |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                               |
+|  0865  |   Medium   | [Smallest Subtree with all the Deepest Nodes](Problems/0865.cpp)                                 |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                          |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                         |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                   |
+|  0877  |   Medium   | [Stone Game](Problems/0877.cpp)                                                                  |
 |  0879  |    Hard    | [Profitable Schemes](Problems/0879.cpp)                                                          |
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                        |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                           |
@@ -430,6 +432,7 @@ for solving problems.
 |  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                         |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                      |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                       |
+|  0969  |   Medium   | [Pancake Sorting](Problems/0969.cpp)                                                             |
 |  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                  |
 |  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                |
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                   |
@@ -466,6 +469,7 @@ for solving problems.
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                         |
 |  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                      |
+|  1123  |   Medium   | [Lowest Common Ancestor of Deepest Leaves](Problems/1123.cpp)                                    |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                    |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                       |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                      |
@@ -499,6 +503,7 @@ for solving problems.
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                              |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                           |
 |  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                            |
+|  1326  |    Hard    | [Minimum Number of Taps to Open to Water a Garden](Problems/1326.cpp)                            |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                  |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp) |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                              |
@@ -568,6 +573,7 @@ for solving problems.
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                 |
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                        |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                |
+|  1638  |   Medium   | [Count Substrings That Differ by One Character](Problems/1638.cpp)                               |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                   |
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                  |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                              |
@@ -710,6 +716,7 @@ for solving problems.
 |  2635  |    Easy    | [Apply Transform Over Each Element in Array](Problems/2635.js)                                   |
 |  2636  |   Medium   | [Promise Pool ](Problems/2636.js)                                                                |
 |  2637  |    Easy    | [Promise Time Limit](Problems/2637.js)                                                           |
+|  2640  |   Medium   | [Find the Score of All Prefixes of an Array](Problems/2640.cpp)                                  |
 |  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                  |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                   |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
