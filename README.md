@@ -485,6 +485,7 @@ for solving problems.
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                          |
 |  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                             |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                              |
+|  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                         |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                    |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                    |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                 |
@@ -513,6 +514,7 @@ for solving problems.
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                             |
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                         |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                   |
+|  1357  |   Medium   | [Apply Discount Every n Orders](Problems/1357.cpp)                                               |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                  |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                 |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                        |
@@ -521,6 +523,7 @@ for solving problems.
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)          |
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                     |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                |
+|  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                            |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                   |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                             |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                              |
@@ -530,6 +533,7 @@ for solving problems.
 |  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                 |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                    |
+|  1433  |   Medium   | [Check If a String Can Break Another String](Problems/1433.cpp)                                  |
 |  1436  |    Easy    | [Destination City](Problems/1436.cpp)                                                            |
 |  1438  |   Medium   | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Problems/1438.cpp)  |
 |  1441  |   Medium   | [Build an Array With Stack Operations](Problems/1441.cpp)                                        |
@@ -613,6 +617,7 @@ for solving problems.
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                       |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                          |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                         |
+|  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                         |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                     |
 |  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                          |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                |
