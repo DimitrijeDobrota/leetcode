@@ -727,6 +727,7 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                      |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                  |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                     |
+|  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                        |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                     |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                              |
