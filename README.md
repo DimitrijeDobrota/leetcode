@@ -374,6 +374,7 @@ for solving problems.
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                     |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                         |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                             |
+|  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                          |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                             |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                   |
 |  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                           |
@@ -468,6 +469,7 @@ for solving problems.
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                     |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                        |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                         |
+|  1110  |   Medium   | [Delete Nodes And Return Forest](Problems/1110.cpp)                                              |
 |  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                      |
 |  1123  |   Medium   | [Lowest Common Ancestor of Deepest Leaves](Problems/1123.cpp)                                    |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                    |
@@ -508,6 +510,7 @@ for solving problems.
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                  |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp) |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                              |
+|  1338  |   Medium   | [Reduce Array Size to The Half](Problems/1338.cpp)                                               |
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                     |
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                  |
 |  1345  |    Hard    | [Jump Game IV](Problems/1345.cpp)                                                                |
@@ -593,6 +596,7 @@ for solving problems.
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                             |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                             |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                   |
+|  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                       |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                            |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                   |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                  |
@@ -704,6 +708,7 @@ for solving problems.
 |  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                  |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                  |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                 |
+|  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                    |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                   |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                        |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                         |
