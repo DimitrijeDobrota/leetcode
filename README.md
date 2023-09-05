@@ -221,6 +221,7 @@ for solving problems.
 |  0242  |    Easy    | [Valid Anagram](Problems/0242.cpp)                                                                 |
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                             |
 |  0258  |    Easy    | [Add Digits](Problems/0258.cpp)                                                                    |
+|  0260  |   Medium   | [Single Number III](Problems/0260.cpp)                                                             |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                   |
 |  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                                |
 |  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                                |
@@ -441,12 +442,14 @@ for solving problems.
 |  0979  |   Medium   | [Distribute Coins in Binary Tree](Problems/0979.cpp)                                               |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                              |
 |  0983  |   Medium   | [Minimum Cost For Tickets](Problems/0983.cpp)                                                      |
+|  0985  |   Medium   | [Sum of Even Numbers After Queries](Problems/0985.cpp)                                             |
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                   |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                  |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                          |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                        |
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
+|  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
@@ -475,6 +478,7 @@ for solving problems.
 |  1123  |   Medium   | [Lowest Common Ancestor of Deepest Leaves](Problems/1123.cpp)                                      |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                      |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                         |
+|  1130  |   Medium   | [Minimum Cost Tree From Leaf Values](Problems/1130.cpp)                                            |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                        |
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                                 |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
@@ -683,6 +687,7 @@ for solving problems.
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                             |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                               |
 |  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                    |
+|  2358  |   Medium   | [Maximum Number of Groups Entering a Competition](Problems/2358.cpp)                               |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                          |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                      |
 |  2366  |    Hard    | [Minimum Replacements to Sort the Array](Problems/2366.cpp)                                        |
