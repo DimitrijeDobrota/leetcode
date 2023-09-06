@@ -333,10 +333,12 @@ for solving problems.
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
+|  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
+|  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
 |  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                  |
 |  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                       |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                   |
@@ -361,6 +363,7 @@ for solving problems.
 |  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                  |
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                          |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                              |
+|  0725  |   Medium   | [Split Linked List in Parts](Problems/0725.cpp)                                                    |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                    |
 |  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                            |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                            |
@@ -551,6 +554,7 @@ for solving problems.
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                             |
 |  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                               |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
+|  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                        |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                             |
@@ -605,6 +609,7 @@ for solving problems.
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
+|  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
@@ -625,6 +630,7 @@ for solving problems.
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
+|  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
