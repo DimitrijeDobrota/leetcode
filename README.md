@@ -307,6 +307,7 @@ for solving problems.
 |  0502  |    Hard    | [IPO](Problems/0502.cpp)                                                                           |
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                       |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
+|  0513  |   Medium   | [Find Bottom Left Tree Value](Problems/0513.cpp)                                                   |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
@@ -433,6 +434,7 @@ for solving problems.
 |  0946  |   Medium   | [Validate Stack Sequences](Problems/0946.cpp)                                                      |
 |  0947  |   Medium   | [Most Stones Removed with Same Row or Column](Problems/0947.cpp)                                   |
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                              |
+|  0951  |   Medium   | [Flip Equivalent Binary Trees](Problems/0951.cpp)                                                  |
 |  0953  |    Easy    | [Verifying an Alien Dictionary](Problems/0953.cpp)                                                 |
 |  0956  |   Medium   | [Tallest Billboard](Problems/0956.cpp)                                                             |
 |  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                           |
@@ -595,6 +597,7 @@ for solving problems.
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                    |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
+|  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
@@ -612,6 +615,7 @@ for solving problems.
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
+|  1780  |   Medium   | [Check if Number is a Sum of Powers of Three](Problems/1780.cpp)                                   |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
@@ -624,6 +628,7 @@ for solving problems.
 |  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                    |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                        |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                           |
+|  1845  |   Medium   | [Seat Reservation Manager](Problems/1845.cpp)                                                      |
 |  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                       |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                       |
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                       |
