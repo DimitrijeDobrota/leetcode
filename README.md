@@ -538,6 +538,7 @@ for solving problems.
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
+|  1395  |   Medium   | [Count Number of Teams](Problems/1395.cpp)                                                         |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
@@ -621,6 +622,7 @@ for solving problems.
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                             |
 |  1806  |   Medium   | [Minimum Number of Operations to Reinitialize a Permutation](Problems/1806.cpp)                    |
+|  1807  |   Medium   | [Evaluate the Bracket Pairs of a String](Problems/1807.cpp)                                        |
 |  1817  |   Medium   | [Finding the Users Active Minutes](Problems/1817.cpp)                                              |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                               |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                          |
@@ -644,6 +646,7 @@ for solving problems.
 |  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                            |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                  |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                       |
+|  1980  |   Medium   | [Find Unique Binary String](Problems/1980.cpp)                                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                                |
 |  1992  |   Medium   | [Find All Groups of Farmland](Problems/1992.cpp)                                                   |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
@@ -675,6 +678,7 @@ for solving problems.
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                           |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                               |
 |  2225  |   Medium   | [Find Players With Zero or One Losses](Problems/2225.cpp)                                          |
+|  2232  |   Medium   | [Minimize Result by Adding Parentheses to Expression](Problems/2232.cpp)                           |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                              |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                   |
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                               |
@@ -726,6 +730,7 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                    |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                           |
 |  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                    |
+|  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
