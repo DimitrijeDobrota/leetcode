@@ -311,6 +311,7 @@ for solving problems.
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
+|  0529  |   Medium   | [Minesweeper](Problems/0529.cpp)                                                                   |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                            |
 |  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0532.cpp)                                                     |
 |  0535  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                      |
@@ -351,6 +352,7 @@ for solving problems.
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                          |
 |  0688  |   Medium   | [Knight Probability in Chessboard](Problems/0688.cpp)                                              |
+|  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
 |  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                          |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                            |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                                |
@@ -491,6 +493,7 @@ for solving problems.
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                                |
+|  1190  |   Medium   | [Reverse Substrings Between Each Pair of Parentheses](Problems/1190.cpp)                           |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
@@ -634,6 +637,7 @@ for solving problems.
 |  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                       |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                       |
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                       |
+|  1861  |   Medium   | [Rotating the Box](Problems/1861.cpp)                                                              |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
@@ -758,6 +762,7 @@ for solving problems.
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                        |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                    |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                       |
+|  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
