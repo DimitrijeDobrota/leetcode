@@ -532,6 +532,7 @@ for solving problems.
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                           |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                     |
 |  1357  |   Medium   | [Apply Discount Every n Orders](Problems/1357.cpp)                                                 |
+|  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                    |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                          |
