@@ -465,6 +465,7 @@ for solving problems.
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                            |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                  |
 |  1027  |   Medium   | [Longest Arithmetic Subsequence](Problems/1027.cpp)                                                |
+|  1029  |   Medium   | [Two City Scheduling](Problems/1029.cpp)                                                           |
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                               |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                              |
@@ -499,11 +500,13 @@ for solving problems.
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
 |  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                               |
+|  1227  |   Medium   | [Airplane Seat Assignment Probability](Problems/1227.cpp)                                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
+|  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
@@ -595,6 +598,7 @@ for solving problems.
 |  1605  |   Medium   | [Find Valid Matrix Given Row and Column Sums](Problems/1605.cpp)                                   |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                                 |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                          |
+|  1625  |   Medium   | [Lexicographically Smallest String After Applying Operations](Problems/1625.cpp)                   |
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                   |
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                          |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                  |
@@ -696,6 +700,7 @@ for solving problems.
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                             |
 |  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                             |
 |  2300  |   Medium   | [Successful Pairs of Spells and Potions](Problems/2300.cpp)                                        |
+|  2304  |   Medium   | [Minimum Path Cost in a Grid](Problems/2304.cpp)                                                   |
 |  2305  |   Medium   | [Fair Distribution of Cookies](Problems/2305.cpp)                                                  |
 |  2306  |    Hard    | [Naming a Company](Problems/2306.cpp)                                                              |
 |  2316  |   Medium   | [Count Unreachable Pairs of Nodes in an Undirected Graph](Problems/2316.cpp)                       |
