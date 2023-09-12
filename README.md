@@ -306,6 +306,7 @@ for solving problems.
 |  0501  |    Easy    | [Find Mode in Binary Search Tree](Problems/0501.cpp)                                               |
 |  0502  |    Hard    | [IPO](Problems/0502.cpp)                                                                           |
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                       |
+|  0508  |   Medium   | [Most Frequent Subtree Sum](Problems/0508.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
 |  0513  |   Medium   | [Find Bottom Left Tree Value](Problems/0513.cpp)                                                   |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
@@ -428,6 +429,7 @@ for solving problems.
 |  0921  |   Medium   | [Minimum Add to Make Parentheses Valid](Problems/0921.cpp)                                         |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                            |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                      |
+|  0932  |   Medium   | [Beautiful Array](Problems/0932.cpp)                                                               |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                        |
 |  0934  |   Medium   | [Shortest Bridge](Problems/0934.cpp)                                                               |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                              |
@@ -502,6 +504,7 @@ for solving problems.
 |  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                               |
 |  1227  |   Medium   | [Airplane Seat Assignment Probability](Problems/1227.cpp)                                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
+|  1233  |   Medium   | [Remove Sub-Folders from the Filesystem](Problems/1233.cpp)                                        |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
@@ -540,6 +543,7 @@ for solving problems.
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                          |
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                                |
+|  1375  |   Medium   | [Number of Times Binary String Is Prefix-Aligned](Problems/1375.cpp)                               |
 |  1376  |   Medium   | [Time Needed to Inform All Employees](Problems/1376.cpp)                                           |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)            |
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
@@ -562,6 +566,7 @@ for solving problems.
 |  1442  |   Medium   | [Count Triplets That Can Form Two Arrays of Equal XOR](Problems/1442.cpp)                          |
 |  1443  |   Medium   | [Minimum Time to Collect All Apples in a Tree](Problems/1443.cpp)                                  |
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                             |
+|  1447  |   Medium   | [Simplified Fractions](Problems/1447.cpp)                                                          |
 |  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                               |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
@@ -606,6 +611,7 @@ for solving problems.
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                    |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
+|  1647  |   Medium   | [Minimum Deletions to Make Character Frequencies Unique](Problems/1647.cpp)                        |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
