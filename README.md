@@ -554,6 +554,7 @@ for solving problems.
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                             |
+|  1414  |   Medium   | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](Problems/1414.cpp)                   |
 |  1415  |   Medium   | [The k-th Lexicographical String of All Happy Strings of Length n](Problems/1415.cpp)              |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                             |
 |  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                  |
@@ -578,6 +579,7 @@ for solving problems.
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                       |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)              |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                       |
+|  1492  |   Medium   | [The kth Factor of n](Problems/1492.cpp)                                                           |
 |  1493  |   Medium   | [Longest Subarray of 1's After Deleting One Element](Problems/1493.cpp)                            |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
@@ -652,6 +654,7 @@ for solving problems.
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
+|  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
@@ -667,6 +670,7 @@ for solving problems.
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                        |
+|  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                    |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
@@ -777,5 +781,6 @@ for solving problems.
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
+|  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
