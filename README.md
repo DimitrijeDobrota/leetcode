@@ -245,6 +245,7 @@ for solving problems.
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                          |
+|  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                                |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                                 |
 |  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                                 |
