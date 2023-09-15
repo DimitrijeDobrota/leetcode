@@ -310,6 +310,7 @@ for solving problems.
 |  0508  |   Medium   | [Most Frequent Subtree Sum](Problems/0508.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
 |  0513  |   Medium   | [Find Bottom Left Tree Value](Problems/0513.cpp)                                                   |
+|  0515  |   Medium   | [Find Largest Value in Each Tree Row](Problems/0515.cpp)                                           |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
@@ -400,6 +401,7 @@ for solving problems.
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                                 |
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                                |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                     |
+|  0856  |   Medium   | [Score of Parentheses](Problems/0856.cpp)                                                          |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                                 |
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                   |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                           |
@@ -426,6 +428,7 @@ for solving problems.
 |  0912  |   Medium   | [Sort an Array](Problems/0912.cpp)                                                                 |
 |  0915  |   Medium   | [Partition Array into Disjoint Intervals](Problems/0915.cpp)                                       |
 |  0918  |   Medium   | [Maximum Sum Circular Subarray](Problems/0918.cpp)                                                 |
+|  0919  |   Medium   | [Complete Binary Tree Inserter](Problems/0919.cpp)                                                 |
 |  0920  |    Hard    | [Number of Music Playlists](Problems/0920.cpp)                                                     |
 |  0921  |   Medium   | [Minimum Add to Make Parentheses Valid](Problems/0921.cpp)                                         |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                            |
@@ -539,6 +542,7 @@ for solving problems.
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                           |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                     |
 |  1357  |   Medium   | [Apply Discount Every n Orders](Problems/1357.cpp)                                                 |
+|  1358  |   Medium   | [Number of Substrings Containing All Three Characters](Problems/1358.cpp)                          |
 |  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                    |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
@@ -751,6 +755,7 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                    |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                           |
 |  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                    |
+|  2486  |   Medium   | [Append Characters to String to Make Subsequence](Problems/2486.cpp)                               |
 |  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
