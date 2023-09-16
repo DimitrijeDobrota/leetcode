@@ -314,6 +314,7 @@ for solving problems.
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
+|  0526  |   Medium   | [Beautiful Arrangement](Problems/0526.cpp)                                                         |
 |  0529  |   Medium   | [Minesweeper](Problems/0529.cpp)                                                                   |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                            |
 |  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0532.cpp)                                                     |
@@ -510,6 +511,7 @@ for solving problems.
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
 |  1233  |   Medium   | [Remove Sub-Folders from the Filesystem](Problems/1233.cpp)                                        |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
+|  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
@@ -520,6 +522,7 @@ for solving problems.
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                            |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                       |
+|  1306  |   Medium   | [Jump Game III](Problems/1306.cpp)                                                                 |
 |  1310  |   Medium   | [XOR Queries of a Subarray](Problems/1310.cpp)                                                     |
 |  1311  |   Medium   | [Get Watched Videos by Your Friends](Problems/1311.cpp)                                            |
 |  1312  |    Hard    | [Minimum Insertion Steps to Make a String Palindrome](Problems/1312.cpp)                           |
@@ -605,6 +608,7 @@ for solving problems.
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
+|  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                         |
 |  1605  |   Medium   | [Find Valid Matrix Given Row and Column Sums](Problems/1605.cpp)                                   |
@@ -613,6 +617,7 @@ for solving problems.
 |  1625  |   Medium   | [Lexicographically Smallest String After Applying Operations](Problems/1625.cpp)                   |
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                   |
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                          |
+|  1631  |   Medium   | [Path With Minimum Effort](Problems/1631.cpp)                                                      |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                  |
 |  1638  |   Medium   | [Count Substrings That Differ by One Character](Problems/1638.cpp)                                 |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
@@ -759,6 +764,7 @@ for solving problems.
 |  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
+|  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
