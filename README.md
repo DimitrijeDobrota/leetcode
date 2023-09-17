@@ -399,6 +399,7 @@ for solving problems.
 |  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                         |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                                |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                      |
+|  0847  |    Hard    | [Shortest Path Visiting All Nodes](Problems/0847.cpp)                                              |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                                 |
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                                |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                     |
