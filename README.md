@@ -395,6 +395,7 @@ for solving problems.
 |  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                           |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                    |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                                 |
+|  0835  |   Medium   | [Image Overlap](Problems/0835.cpp)                                                                 |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                   |
 |  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                         |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                                |
@@ -507,6 +508,7 @@ for solving problems.
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
+|  1219  |   Medium   | [Path with Maximum Gold](Problems/1219.cpp)                                                        |
 |  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                               |
 |  1227  |   Medium   | [Airplane Seat Assignment Probability](Problems/1227.cpp)                                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
@@ -578,6 +580,7 @@ for solving problems.
 |  1444  |    Hard    | [Number of Ways of Cutting a Pizza](Problems/1444.cpp)                                             |
 |  1447  |   Medium   | [Simplified Fractions](Problems/1447.cpp)                                                          |
 |  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                               |
+|  1451  |   Medium   | [Rearrange Words in a Sentence](Problems/1451.cpp)                                                 |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
@@ -602,6 +605,7 @@ for solving problems.
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
 |  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                        |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                                 |
+|  1558  |   Medium   | [Minimum Numbers of Function Calls to Make Target Array](Problems/1558.cpp)                        |
 |  1561  |   Medium   | [Maximum Number of Coins You Can Get](Problems/1561.cpp)                                           |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                              |
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                               |
@@ -697,6 +701,7 @@ for solving problems.
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                             |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                           |
 |  2149  |   Medium   | [Rearrange Array Elements by Sign](Problems/2149.cpp)                                              |
+|  2155  |   Medium   | [All Divisions With the Highest Score of a Binary Array](Problems/2155.cpp)                        |
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                      |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                    |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                  |
