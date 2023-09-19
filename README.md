@@ -484,6 +484,7 @@ for solving problems.
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
+|  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                                |
@@ -543,6 +544,7 @@ for solving problems.
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                       |
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                    |
 |  1343  |   Medium   | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Problems/1343.cpp) |
+|  1344  |   Medium   | [Angle Between Hands of a Clock](Problems/1344.cpp)                                                |
 |  1345  |    Hard    | [Jump Game IV](Problems/1345.cpp)                                                                  |
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                               |
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                           |
@@ -552,6 +554,7 @@ for solving problems.
 |  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                    |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
+|  1371  |   Medium   | [Find the Longest Substring Containing Vowels in Even Counts](Problems/1371.cpp)                   |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                          |
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                                |
 |  1375  |   Medium   | [Number of Times Binary String Is Prefix-Aligned](Problems/1375.cpp)                               |
@@ -642,6 +645,7 @@ for solving problems.
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
+|  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
@@ -801,4 +805,5 @@ for solving problems.
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
+|  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
