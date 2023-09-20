@@ -343,6 +343,7 @@ for solving problems.
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
+|  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
 |  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
 |  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                  |
@@ -466,6 +467,7 @@ for solving problems.
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
 |  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
+|  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
@@ -507,6 +509,7 @@ for solving problems.
 |  1190  |   Medium   | [Reverse Substrings Between Each Pair of Parentheses](Problems/1190.cpp)                           |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
+|  1207  |    Easy    | [Unique Number of Occurrences](Problems/1207.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
 |  1219  |   Medium   | [Path with Maximum Gold](Problems/1219.cpp)                                                        |
@@ -632,10 +635,13 @@ for solving problems.
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                    |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
 |  1647  |   Medium   | [Minimum Deletions to Make Character Frequencies Unique](Problems/1647.cpp)                        |
+|  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
+|  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
+|  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                               |
