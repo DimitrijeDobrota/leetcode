@@ -28,6 +28,7 @@ for solving problems.
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                       |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                               |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                                |
+|  0004  |    Hard    | [Median of Two Sorted Arrays](Problems/0004.cpp)                                                   |
 |  0005  |   Medium   | [Longest Palindromic Substring](Problems/0005.cpp)                                                 |
 |  0006  |   Medium   | [Zigzag Conversion](Problems/0006.cpp)                                                             |
 |  0007  |   Medium   | [Reverse Integer](Problems/0007.cpp)                                                               |
@@ -463,6 +464,7 @@ for solving problems.
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                   |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                  |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                          |
+|  0992  |    Hard    | [Subarrays with K Different Integers](Problems/0992.cpp)                                           |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                        |
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
@@ -519,6 +521,7 @@ for solving problems.
 |  1233  |   Medium   | [Remove Sub-Folders from the Filesystem](Problems/1233.cpp)                                        |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
 |  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
+|  1248  |   Medium   | [Count Number of Nice Subarrays](Problems/1248.cpp)                                                |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
@@ -617,6 +620,7 @@ for solving problems.
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                               |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                           |
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
+|  1578  |   Medium   | [Minimum Time to Make Rope Colorful](Problems/1578.cpp)                                            |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
@@ -638,6 +642,7 @@ for solving problems.
 |  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
 |  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
+|  1664  |   Medium   | [Ways to Make a Fair Array](Problems/1664.cpp)                                                     |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
@@ -658,6 +663,7 @@ for solving problems.
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
 |  1780  |   Medium   | [Check if Number is a Sum of Powers of Three](Problems/1780.cpp)                                   |
+|  1781  |   Medium   | [Sum of Beauty of All Substrings](Problems/1781.cpp)                                               |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
