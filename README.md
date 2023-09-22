@@ -347,10 +347,12 @@ for solving problems.
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
 |  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
+|  0648  |   Medium   | [Replace Words](Problems/0648.cpp)                                                                 |
 |  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                  |
 |  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                       |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                   |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                           |
+|  0655  |   Medium   | [Print Binary Tree](Problems/0655.cpp)                                                             |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                  |
 |  0664  |    Hard    | [Strange Printer](Problems/0664.cpp)                                                               |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
@@ -647,10 +649,12 @@ for solving problems.
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
+|  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                               |
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                        |
+|  1701  |   Medium   | [Average Waiting Time](Problems/1701.cpp)                                                          |
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                          |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                      |
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
@@ -685,6 +689,7 @@ for solving problems.
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
+|  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
