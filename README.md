@@ -249,6 +249,7 @@ for solving problems.
 |  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                                |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                                 |
+|  0341  |   Medium   | [Flatten Nested List Iterator](Problems/0341.cpp)                                                  |
 |  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                                 |
 |  0343  |   Medium   | [Integer Break](Problems/0343.cpp)                                                                 |
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                                |
@@ -265,9 +266,11 @@ for solving problems.
 |  0382  |   Medium   | [Linked List Random Node](Problems/0382.cpp)                                                       |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                   |
 |  0384  |   Medium   | [Shuffle an Array](Problems/0384.cpp)                                                              |
+|  0386  |   Medium   | [Lexicographical Numbers](Problems/0386.cpp)                                                       |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                            |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                                |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                                 |
+|  0398  |   Medium   | [Random Pick Index](Problems/0398.cpp)                                                             |
 |  0399  |   Medium   | [Evaluate Division](Problems/0399.cpp)                                                             |
 |  0402  |   Medium   | [Remove K Digits](Problems/0402.cpp)                                                               |
 |  0403  |    Hard    | [Frog Jump](Problems/0403.cpp)                                                                     |
@@ -487,6 +490,7 @@ for solving problems.
 |  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                               |
 |  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                             |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                      |
+|  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
@@ -543,6 +547,7 @@ for solving problems.
 |  1318  |   Medium   | [Minimum Flips to Make a OR b Equal to c](Problems/1318.cpp)                                       |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                                |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                             |
+|  1324  |   Medium   | [Print Words Vertically](Problems/1324.cpp)                                                        |
 |  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                              |
 |  1326  |    Hard    | [Minimum Number of Taps to Open to Water a Garden](Problems/1326.cpp)                              |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                    |
@@ -573,6 +578,7 @@ for solving problems.
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
 |  1395  |   Medium   | [Count Number of Teams](Problems/1395.cpp)                                                         |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
+|  1400  |   Medium   | [Construct K Palindrome Strings](Problems/1400.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                             |
