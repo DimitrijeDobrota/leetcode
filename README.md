@@ -209,6 +209,7 @@ for solving problems.
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                            |
 |  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                           |
 |  0228  |    Easy    | [Summary Ranges](Problems/0228.cpp)                                                                |
+|  0229  |   Medium   | [Majority Element II](Problems/0229.cpp)                                                           |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                  |
 |  0232  |    Easy    | [Implement Queue using Stacks](Problems/0232.cpp)                                                  |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                        |
@@ -395,6 +396,7 @@ for solving problems.
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                               |
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                               |
+|  0799  |   Medium   | [Champagne Tower](Problems/0799.cpp)                                                               |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                     |
 |  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                             |
 |  0808  |   Medium   | [Soup Servings](Problems/0808.cpp)                                                                 |
@@ -513,6 +515,7 @@ for solving problems.
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
+|  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                                |
 |  1190  |   Medium   | [Reverse Substrings Between Each Pair of Parentheses](Problems/1190.cpp)                           |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
@@ -665,6 +668,7 @@ for solving problems.
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                      |
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
+|  1727  |   Medium   | [Largest Submatrix With Rearrangements](Problems/1727.cpp)                                         |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
@@ -827,6 +831,7 @@ for solving problems.
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
+|  2780  |   Medium   | [Minimum Index of a Valid Split](Problems/2780.cpp)                                                |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
