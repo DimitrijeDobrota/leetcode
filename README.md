@@ -264,11 +264,13 @@ for solving problems.
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                  |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                            |
 |  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                            |
+|  0378  |   Medium   | [Kth Smallest Element in a Sorted Matrix](Problems/0378.cpp)                                       |
 |  0382  |   Medium   | [Linked List Random Node](Problems/0382.cpp)                                                       |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                   |
 |  0384  |   Medium   | [Shuffle an Array](Problems/0384.cpp)                                                              |
 |  0386  |   Medium   | [Lexicographical Numbers](Problems/0386.cpp)                                                       |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                            |
+|  0389  |    Easy    | [Find the Difference](Problems/0389.cpp)                                                           |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                                |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                                 |
 |  0398  |   Medium   | [Random Pick Index](Problems/0398.cpp)                                                             |
@@ -414,11 +416,13 @@ for solving problems.
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                                |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                     |
 |  0856  |   Medium   | [Score of Parentheses](Problems/0856.cpp)                                                          |
+|  0858  |   Medium   | [Mirror Reflection](Problems/0858.cpp)                                                             |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                                 |
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                   |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                           |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                                 |
 |  0865  |   Medium   | [Smallest Subtree with all the Deepest Nodes](Problems/0865.cpp)                                   |
+|  0869  |   Medium   | [Reordered Power of 2](Problems/0869.cpp)                                                          |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                            |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                           |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                     |
@@ -529,6 +533,7 @@ for solving problems.
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
 |  1233  |   Medium   | [Remove Sub-Folders from the Filesystem](Problems/1233.cpp)                                        |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
+|  1238  |   Medium   | [Circular Permutation in Binary Representation](Problems/1238.cpp)                                 |
 |  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
 |  1248  |   Medium   | [Count Number of Nice Subarrays](Problems/1248.cpp)                                                |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
@@ -794,6 +799,7 @@ for solving problems.
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                   |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                              |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                                |
+|  2471  |   Medium   | [Minimum Number of Operations to Sort a Binary Tree by Level](Problems/2471.cpp)                   |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                    |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                           |
 |  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                    |
