@@ -243,6 +243,7 @@ for solving problems.
 |  0306  |   Medium   | [Additive Number](Problems/0306.cpp)                                                               |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                                 |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                          |
+|  0316  |   Medium   | [Remove Duplicate Letters](Problems/0316.cpp)                                                      |
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
@@ -502,7 +503,9 @@ for solving problems.
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
 |  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
+|  1081  |   Medium   | [Smallest Subsequence of Distinct Characters](Problems/1081.cpp)                                   |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
+|  1090  |   Medium   | [Largest Values From Labels](Problems/1090.cpp)                                                    |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                                |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                       |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                          |
@@ -625,6 +628,7 @@ for solving problems.
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
 |  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                          |
+|  1530  |   Medium   | [Number of Good Leaf Nodes Pairs](Problems/1530.cpp)                                               |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                   |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
@@ -709,6 +713,7 @@ for solving problems.
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
+|  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                       |
@@ -786,6 +791,7 @@ for solving problems.
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                     |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |
+|  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
 |  2428  |   Medium   | [Maximum Sum of an Hourglass](Problems/2428.cpp)                                                   |
