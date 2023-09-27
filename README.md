@@ -429,6 +429,7 @@ for solving problems.
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                     |
 |  0877  |   Medium   | [Stone Game](Problems/0877.cpp)                                                                    |
 |  0879  |    Hard    | [Profitable Schemes](Problems/0879.cpp)                                                            |
+|  0880  |   Medium   | [Decoded String at Index](Problems/0880.cpp)                                                       |
 |  0881  |   Medium   | [Boats to Save People](Problems/0881.cpp)                                                          |
 |  0884  |    Easy    | [Uncommon Words from Two Sentences](Problems/0884.cpp)                                             |
 |  0885  |   Medium   | [Spiral Matrix III](Problems/0885.cpp)                                                             |
