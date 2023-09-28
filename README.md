@@ -350,6 +350,7 @@ for solving problems.
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
+|  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
@@ -397,6 +398,7 @@ for solving problems.
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                       |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                           |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                               |
+|  0789  |   Medium   | [Escape The Ghosts](Problems/0789.cpp)                                                             |
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                               |
 |  0799  |   Medium   | [Champagne Tower](Problems/0799.cpp)                                                               |
@@ -489,6 +491,7 @@ for solving problems.
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                              |
 |  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                            |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                            |
+|  1023  |   Medium   | [Camelcase Matching](Problems/1023.cpp)                                                            |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                  |
 |  1027  |   Medium   | [Longest Arithmetic Subsequence](Problems/1027.cpp)                                                |
 |  1029  |   Medium   | [Two City Scheduling](Problems/1029.cpp)                                                           |
@@ -548,6 +551,7 @@ for solving problems.
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
+|  1291  |   Medium   | [Sequential Digits](Problems/1291.cpp)                                                             |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                            |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                       |
 |  1306  |   Medium   | [Jump Game III](Problems/1306.cpp)                                                                 |
@@ -814,6 +818,7 @@ for solving problems.
 |  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
+|  2498  |   Medium   | [Frog Jump II](Problems/2498.cpp)                                                                  |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
