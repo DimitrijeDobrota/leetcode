@@ -440,6 +440,7 @@ for solving problems.
 |  0890  |   Medium   | [Find and Replace Pattern](Problems/0890.cpp)                                                      |
 |  0893  |   Medium   | [Groups of Special-Equivalent Strings](Problems/0893.cpp)                                          |
 |  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                                |
+|  0896  |    Easy    | [Monotonic Array](Problems/0896.cpp)                                                               |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                  |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                             |
 |  0904  |   Medium   | [Fruit Into Baskets](Problems/0904.cpp)                                                            |
