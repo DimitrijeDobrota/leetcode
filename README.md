@@ -326,8 +326,8 @@ for solving problems.
 |  0526  |   Medium   | [Beautiful Arrangement](Problems/0526.cpp)                                                         |
 |  0529  |   Medium   | [Minesweeper](Problems/0529.cpp)                                                                   |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                            |
-|  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0532.cpp)                                                     |
-|  0535  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                      |
+|  0532  |   Medium   | [K-diff Pairs in an Array](Problems/0532.cpp)                                                      |
+|  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0535.cpp)                                                     |
 |  0537  |   Medium   | [Complex Number Multiplication](Problems/0537.cpp)                                                 |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                   |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                              |
@@ -687,6 +687,7 @@ for solving problems.
 |  1727  |   Medium   | [Largest Submatrix With Rearrangements](Problems/1727.cpp)                                         |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
+|  1738  |   Medium   | [Find Kth Largest XOR Coordinate Value](Problems/1738.cpp)                                         |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
