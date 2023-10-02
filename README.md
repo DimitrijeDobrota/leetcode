@@ -649,6 +649,7 @@ for solving problems.
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
 |  1578  |   Medium   | [Minimum Time to Make Rope Colorful](Problems/1578.cpp)                                            |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
+|  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
@@ -733,6 +734,7 @@ for solving problems.
 |  1992  |   Medium   | [Find All Groups of Farmland](Problems/1992.cpp)                                                   |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
+|  2038  |   Medium   | [Remove Colored Pieces if Both Neighbors are the Same Color](Problems/2038.cpp)                    |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                        |
 |  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                    |
