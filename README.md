@@ -630,6 +630,7 @@ for solving problems.
 |  1493  |   Medium   | [Longest Subarray of 1's After Deleting One Element](Problems/1493.cpp)                            |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
+|  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
