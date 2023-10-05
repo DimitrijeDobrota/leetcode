@@ -517,6 +517,7 @@ for solving problems.
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                       |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                          |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                           |
+|  1109  |   Medium   | [Corporate Flight Bookings](Problems/1109.cpp)                                                     |
 |  1110  |   Medium   | [Delete Nodes And Return Forest](Problems/1110.cpp)                                                |
 |  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                        |
 |  1123  |   Medium   | [Lowest Common Ancestor of Deepest Leaves](Problems/1123.cpp)                                      |
@@ -694,6 +695,7 @@ for solving problems.
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
+|  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
 |  1780  |   Medium   | [Check if Number is a Sum of Powers of Three](Problems/1780.cpp)                                   |
