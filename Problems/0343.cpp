@@ -1,13 +1,23 @@
+// DP
 class Solution {
-  public:
-    int integerBreak(int n) {
-        if (n == 2) return 1;
-        if (n == 3) return 2;
+    static int dp[64];
 
-        if (n % 3 == 0)
-            return pow(3, n / 3);
-        else if (n % 3 == 1)
-            return pow(3, n / 3 - 1) * 4;
-        return pow(3, n / 3) * (n % 3);
+    int rec(const int n) const {
+        if (n <= 3) return n;
+        if (dp[n] != -1) return dp[n];
+        int res = n;
+        for (int i = 2; i < n; i++)
+            res = max(res, i * rec(n - i));
+        return dp[n] = res;
+    }
+
+  public:
+    Solution() { memset(dp, 0xFF, sizeof(dp)); }
+    int integerBreak(const int n) const {
+        if (n <= 3) return n - 1;
+        return rec(n);
+        ;
     }
 };
+
+int Solution::dp[64];
