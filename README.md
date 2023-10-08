@@ -621,6 +621,7 @@ for solving problems.
 |  1451  |   Medium   | [Rearrange Words in a Sentence](Problems/1451.cpp)                                                 |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
+|  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                        |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                             |
