@@ -738,6 +738,7 @@ for solving problems.
 |  1980  |   Medium   | [Find Unique Binary String](Problems/1980.cpp)                                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                                |
 |  1992  |   Medium   | [Find All Groups of Farmland](Problems/1992.cpp)                                                   |
+|  2009  |    Hard    | [Minimum Number of Operations to Make Array Continuous](Problems/2009.cpp)                         |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
 |  2038  |   Medium   | [Remove Colored Pieces if Both Neighbors are the Same Color](Problems/2038.cpp)                    |
