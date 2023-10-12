@@ -515,6 +515,7 @@ for solving problems.
 |  1090  |   Medium   | [Largest Values From Labels](Problems/1090.cpp)                                                    |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                                |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                       |
+|  1095  |    Hard    | [Find in Mountain Array](Problems/1095.cpp)                                                        |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                          |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                           |
 |  1109  |   Medium   | [Corporate Flight Bookings](Problems/1109.cpp)                                                     |
