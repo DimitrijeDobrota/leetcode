@@ -626,6 +626,7 @@ for solving problems.
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                        |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                             |
+|  1471  |   Medium   | [The k Strongest Values in an Array](Problems/1471.cpp)                                            |
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                       |
 |  1476  |   Medium   | [Subrectangle Queries](Problems/1476.cpp)                                                          |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                       |
