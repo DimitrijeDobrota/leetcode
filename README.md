@@ -552,6 +552,7 @@ for solving problems.
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
+|  1269  |    Hard    | [Number of Ways to Stay in the Same Place After Some Steps](Problems/1269.cpp)                     |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
