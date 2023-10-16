@@ -693,6 +693,7 @@ for solving problems.
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                      |
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
+|  1726  |   Medium   | [Tuple with Same Product](Problems/1726.cpp)                                                       |
 |  1727  |   Medium   | [Largest Submatrix With Rearrangements](Problems/1727.cpp)                                         |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
