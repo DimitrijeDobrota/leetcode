@@ -873,3 +873,4 @@ for solving problems.
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
+|  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
