@@ -749,6 +749,7 @@ for solving problems.
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                        |
 |  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                    |
+|  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
