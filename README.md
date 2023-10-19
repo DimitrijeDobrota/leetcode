@@ -866,6 +866,7 @@ for solving problems.
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                       |
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
+|  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
