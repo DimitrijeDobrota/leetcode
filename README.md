@@ -409,6 +409,7 @@ for solving problems.
 |  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                         |
 |  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                           |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                    |
+|  0820  |   Medium   | [Short Encoding of Words](Problems/0820.cpp)                                                       |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                                 |
 |  0835  |   Medium   | [Image Overlap](Problems/0835.cpp)                                                                 |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                   |
@@ -573,6 +574,7 @@ for solving problems.
 |  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                              |
 |  1326  |    Hard    | [Minimum Number of Taps to Open to Water a Garden](Problems/1326.cpp)                              |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                    |
+|  1333  |   Medium   | [Filter Restaurants by Vegan-Friendly, Price and Distance](Problems/1333.cpp)                      |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp)   |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                                |
 |  1338  |   Medium   | [Reduce Array Size to The Half](Problems/1338.cpp)                                                 |
