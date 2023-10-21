@@ -492,6 +492,7 @@ for solving problems.
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
+|  1017  |   Medium   | [Convert to Base -2](Problems/1017.cpp)                                                            |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                              |
 |  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                            |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                            |
@@ -703,6 +704,7 @@ for solving problems.
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
+|  1760  |   Medium   | [Minimum Limit of Balls in a Bag](Problems/1760.cpp)                                               |
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
