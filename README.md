@@ -334,6 +334,7 @@ for solving problems.
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                     |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                       |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                           |
+|  0553  |   Medium   | [Optimal Division](Problems/0553.cpp)                                                              |
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                      |
 |  0557  |    Easy    | [Reverse Words in a String III](Problems/0557.cpp)                                                 |
 |  0559  |    Easy    | [Maximum Depth of N-ary Tree](Problems/0559.cpp)                                                   |
@@ -829,6 +830,7 @@ for solving problems.
 |  2442  |   Medium   | [Count Number of Distinct Integers After Reverse Operations](Problems/2442.cpp)                    |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                             |
 |  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                              |
+|  2452  |   Medium   | [Words Within Two Edits of Dictionary](Problems/2452.cpp)                                          |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                               |
 |  2462  |   Medium   | [Total Cost to Hire K Workers](Problems/2462.cpp)                                                  |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                   |
