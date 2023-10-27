@@ -773,6 +773,7 @@ for solving problems.
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                             |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                           |
 |  2149  |   Medium   | [Rearrange Array Elements by Sign](Problems/2149.cpp)                                              |
+|  2150  |   Medium   | [Find All Lonely Numbers in the Array](Problems/2150.cpp)                                          |
 |  2155  |   Medium   | [All Divisions With the Highest Score of a Binary Array](Problems/2155.cpp)                        |
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                      |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                    |
