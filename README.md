@@ -545,6 +545,7 @@ for solving problems.
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
 |  1219  |   Medium   | [Path with Maximum Gold](Problems/1219.cpp)                                                        |
+|  1220  |    Hard    | [Count Vowels Permutation](Problems/1220.cpp)                                                      |
 |  1222  |   Medium   | [Queens That Can Attack the King](Problems/1222.cpp)                                               |
 |  1227  |   Medium   | [Airplane Seat Assignment Probability](Problems/1227.cpp)                                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
