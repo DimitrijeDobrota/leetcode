@@ -304,6 +304,7 @@ for solving problems.
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                  |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                    |
 |  0456  |   Medium   | [132 Pattern](Problems/0456.cpp)                                                                   |
+|  0458  |    Hard    | [Poor Pigs](Problems/0458.cpp)                                                                     |
 |  0459  |    Easy    | [Repeated Substring Pattern](Problems/0459.cpp)                                                    |
 |  0460  |    Hard    | [LFU Cache](Problems/0460.cpp)                                                                     |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
