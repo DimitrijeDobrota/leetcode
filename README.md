@@ -558,6 +558,7 @@ for solving problems.
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
+|  1267  |   Medium   | [Count Servers that Communicate](Problems/1267.cpp)                                                |
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
 |  1269  |    Hard    | [Number of Ways to Stay in the Same Place After Some Steps](Problems/1269.cpp)                     |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
@@ -592,6 +593,7 @@ for solving problems.
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                               |
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                           |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                     |
+|  1356  |    Easy    | [Sort Integers by The Number of 1 Bits](Problems/1356.cpp)                                         |
 |  1357  |   Medium   | [Apply Discount Every n Orders](Problems/1357.cpp)                                                 |
 |  1358  |   Medium   | [Number of Substrings Containing All Three Characters](Problems/1358.cpp)                          |
 |  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
