@@ -307,6 +307,7 @@ for solving problems.
 |  0458  |    Hard    | [Poor Pigs](Problems/0458.cpp)                                                                     |
 |  0459  |    Easy    | [Repeated Substring Pattern](Problems/0459.cpp)                                                    |
 |  0460  |    Hard    | [LFU Cache](Problems/0460.cpp)                                                                     |
+|  0462  |   Medium   | [Minimum Moves to Equal Array Elements II](Problems/0462.cpp)                                      |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
 |  0486  |   Medium   | [Reachable Nodes With Restrictions](Problems/0486.cpp)                                             |
