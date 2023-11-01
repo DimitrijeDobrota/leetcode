@@ -244,6 +244,7 @@ for solving problems.
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                                 |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                          |
 |  0316  |   Medium   | [Remove Duplicate Letters](Problems/0316.cpp)                                                      |
+|  0318  |   Medium   | [Maximum Product of Word Lengths](Problems/0318.cpp)                                               |
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
