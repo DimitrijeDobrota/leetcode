@@ -800,6 +800,7 @@ for solving problems.
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                               |
 |  2251  |    Hard    | [Number of Flowers in Full Bloom](Problems/2251.cpp)                                               |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
+|  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
 |  2272  |    Hard    | [Substring With Largest Variance](Problems/2272.cpp)                                               |
 |  2275  |   Medium   | [Largest Combination With Bitwise AND Greater Than Zero](Problems/2275.cpp)                        |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                      |
