@@ -650,6 +650,7 @@ for solving problems.
 |  1493  |   Medium   | [Longest Subarray of 1's After Deleting One Element](Problems/1493.cpp)                            |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
+|  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
@@ -893,5 +894,6 @@ for solving problems.
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
+|  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
