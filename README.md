@@ -658,6 +658,7 @@ for solving problems.
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
 |  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                          |
 |  1530  |   Medium   | [Number of Good Leaf Nodes Pairs](Problems/1530.cpp)                                               |
+|  1535  |   Medium   | [Find the Winner of an Array Game](Problems/1535.cpp)                                              |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                   |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
