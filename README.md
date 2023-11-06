@@ -663,6 +663,7 @@ for solving problems.
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
 |  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                        |
+|  1552  |   Medium   | [Magnetic Force Between Two Balls](Problems/1552.cpp)                                              |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                                 |
 |  1558  |   Medium   | [Minimum Numbers of Function Calls to Make Target Array](Problems/1558.cpp)                        |
 |  1561  |   Medium   | [Maximum Number of Coins You Can Get](Problems/1561.cpp)                                           |
