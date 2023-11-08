@@ -355,6 +355,7 @@ for solving problems.
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
+|  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
@@ -897,6 +898,7 @@ for solving problems.
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
+|  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
