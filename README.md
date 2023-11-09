@@ -718,6 +718,7 @@ for solving problems.
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
+|  1759  |   Medium   | [Count Number of Homogenous Substrings](Problems/1759.cpp)                                         |
 |  1760  |   Medium   | [Minimum Limit of Balls in a Bag](Problems/1760.cpp)                                               |
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
