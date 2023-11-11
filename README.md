@@ -884,6 +884,7 @@ for solving problems.
 |  2637  |    Easy    | [Promise Time Limit](Problems/2637.js)                                                             |
 |  2640  |   Medium   | [Find the Score of All Prefixes of an Array](Problems/2640.cpp)                                    |
 |  2641  |   Medium   | [Cousins in Binary Tree II](Problems/2641.cpp)                                                     |
+|  2642  |    Hard    | [Design Graph With Shortest Path Calculator](Problems/2642.cpp)                                    |
 |  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                    |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                     |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                        |
