@@ -451,6 +451,7 @@ for solving problems.
 |  0894  |   Medium   | [All Possible Full Binary Trees](Problems/0894.cpp)                                                |
 |  0896  |    Easy    | [Monotonic Array](Problems/0896.cpp)                                                               |
 |  0897  |    Easy    | [Increasing Order Search Tree](Problems/0897.cpp)                                                  |
+|  0900  |   Medium   | [RLE Iterator](Problems/0900.cpp)                                                                  |
 |  0901  |   Medium   | [Online Stock Span](Problems/0901.cpp)                                                             |
 |  0904  |   Medium   | [Fruit Into Baskets](Problems/0904.cpp)                                                            |
 |  0905  |    Easy    | [Sort Array By Parity](Problems/0905.cpp)                                                          |
