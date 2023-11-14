@@ -755,6 +755,7 @@ for solving problems.
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
+|  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
