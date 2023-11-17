@@ -25,6 +25,7 @@ for solving problems.
 
 | Number | Difficulty | Solution                                                                                           |
 |:------:|:----------:|----------------------------------------------------------------------------------------------------|
+|  0000  |   Medium   | [](Problems/0000.cpp)                                                                              |
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                       |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                               |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                                |
