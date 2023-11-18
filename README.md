@@ -795,6 +795,7 @@ for solving problems.
 |  2155  |   Medium   | [All Divisions With the Highest Score of a Binary Array](Problems/2155.cpp)                        |
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                      |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                    |
+|  2178  |   Medium   | [Maximum Split of Positive Even Integers](Problems/2178.cpp)                                       |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                  |
 |  2186  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram II](Problems/2186.cpp)                        |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                                |
