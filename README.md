@@ -25,7 +25,6 @@ for solving problems.
 
 | Number | Difficulty | Solution                                                                                           |
 |:------:|:----------:|----------------------------------------------------------------------------------------------------|
-|  0000  |   Medium   | [](Problems/0000.cpp)                                                                              |
 |  0001  |    Easy    | [Two Sum](Problems/0001.cpp)                                                                       |
 |  0002  |   Medium   | [Add Two Numbers](Problems/0002.cpp)                                                               |
 |  0003  |   Medium   | [Longest Substring Without Repeating Characters](Problems/0003.cpp)                                |
@@ -497,6 +496,7 @@ for solving problems.
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
 |  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
+|  1003  |   Medium   | [Check If Word Is Valid After Substitutions](Problems/1003.cpp)                                    |
 |  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
@@ -742,6 +742,7 @@ for solving problems.
 |  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                    |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                        |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                           |
+|  1838  |   Medium   | [Frequency of the Most Frequent Element](Problems/1838.cpp)                                        |
 |  1845  |   Medium   | [Seat Reservation Manager](Problems/1845.cpp)                                                      |
 |  1846  |   Medium   | [Maximum Element After Decreasing and Rearranging](Problems/1846.cpp)                              |
 |  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                       |
