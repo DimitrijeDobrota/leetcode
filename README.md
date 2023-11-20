@@ -784,6 +784,7 @@ for solving problems.
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                       |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                    |
 |  2104  |   Medium   | [Sum of Subarray Ranges](Problems/2104.cpp)                                                        |
+|  2110  |   Medium   | [Number of Smooth Descent Periods of a Stock](Problems/2110.cpp)                                   |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                                 |
 |  2120  |   Medium   | [Execution of All Suffix Instructions Staying in a Grid](Problems/2120.cpp)                        |
 |  2125  |   Medium   | [Number of Laser Beams in a Bank](Problems/2125.cpp)                                               |
