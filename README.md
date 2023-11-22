@@ -626,6 +626,7 @@ for solving problems.
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                             |
 |  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                  |
 |  1420  |    Hard    | [Build Array Where You Can Find The Maximum Exactly K Comparisons](Problems/1420.cpp)              |
+|  1424  |   Medium   | [Diagonal Traverse II](Problems/1424.cpp)                                                          |
 |  1425  |    Hard    | [Constrained Subsequence Sum](Problems/1425.cpp)                                                   |
 |  1431  |    Easy    | [Kids With the Greatest Number of Candies](Problems/1431.cpp)                                      |
 |  1433  |   Medium   | [Check If a String Can Break Another String](Problems/1433.cpp)                                    |
