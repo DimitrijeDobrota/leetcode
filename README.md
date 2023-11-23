@@ -896,6 +896,7 @@ for solving problems.
 |  2641  |   Medium   | [Cousins in Binary Tree II](Problems/2641.cpp)                                                     |
 |  2642  |    Hard    | [Design Graph With Shortest Path Calculator](Problems/2642.cpp)                                    |
 |  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                    |
+|  2658  |   Medium   | [Maximum Number of Fish in a Grid](Problems/2658.cpp)                                              |
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                     |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                        |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                    |
