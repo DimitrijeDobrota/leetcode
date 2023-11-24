@@ -605,6 +605,7 @@ for solving problems.
 |  1358  |   Medium   | [Number of Substrings Containing All Three Characters](Problems/1358.cpp)                          |
 |  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                    |
+|  1366  |   Medium   | [Rank Teams by Votes](Problems/1366.cpp)                                                           |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
 |  1371  |   Medium   | [Find the Longest Substring Containing Vowels in Even Counts](Problems/1371.cpp)                   |
 |  1372  |   Medium   | [Longest ZigZag Path in a Binary Tree](Problems/1372.cpp)                                          |
@@ -666,6 +667,7 @@ for solving problems.
 |  1535  |   Medium   | [Find the Winner of an Array Game](Problems/1535.cpp)                                              |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                   |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
+|  1545  |   Medium   | [Find Kth Bit in Nth Binary String](Problems/1545.cpp)                                             |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
 |  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                        |
 |  1552  |   Medium   | [Magnetic Force Between Two Balls](Problems/1552.cpp)                                              |
@@ -696,6 +698,7 @@ for solving problems.
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                    |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
 |  1647  |   Medium   | [Minimum Deletions to Make Character Frequencies Unique](Problems/1647.cpp)                        |
+|  1653  |   Medium   | [Minimum Deletions to Make String Balanced](Problems/1653.cpp)                                     |
 |  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
 |  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
@@ -844,6 +847,7 @@ for solving problems.
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                             |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                  |
 |  2375  |   Medium   | [Construct Smallest Number From DI String](Problems/2375.cpp)                                      |
+|  2385  |   Medium   | [Amount of Time for Binary Tree to Be Infected](Problems/2385.cpp)                                 |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                  |
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                     |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
@@ -900,7 +904,9 @@ for solving problems.
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                     |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                        |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                    |
+|  2673  |   Medium   | [Make Costs of Paths Equal in a Binary Tree](Problems/2673.cpp)                                    |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                       |
+|  2679  |   Medium   | [Sum in a Matrix](Problems/2679.cpp)                                                               |
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
