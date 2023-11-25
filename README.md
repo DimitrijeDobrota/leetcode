@@ -107,6 +107,7 @@ for solving problems.
 |  0086  |   Medium   | [Partition List](Problems/0086.cpp)                                                                |
 |  0087  |    Hard    | [Scramble String](Problems/0087.cpp)                                                               |
 |  0088  |    Easy    | [Merge Sorted Array](Problems/0088.cpp)                                                            |
+|  0089  |   Medium   | [Gray Code](Problems/0089.cpp)                                                                     |
 |  0090  |   Medium   | [Subsets II](Problems/0090.cpp)                                                                    |
 |  0091  |   Medium   | [Decode Ways](Problems/0091.cpp)                                                                   |
 |  0092  |   Medium   | [Reverse Linked List II](Problems/0092.cpp)                                                        |
