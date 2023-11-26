@@ -923,3 +923,4 @@ for solving problems.
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
+|  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
