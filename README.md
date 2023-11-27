@@ -469,6 +469,7 @@ for solving problems.
 |  0932  |   Medium   | [Beautiful Array](Problems/0932.cpp)                                                               |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                        |
 |  0934  |   Medium   | [Shortest Bridge](Problems/0934.cpp)                                                               |
+|  0935  |   Medium   | [Knight Dialer](Problems/0935.cpp)                                                                 |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                              |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                          |
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                                 |
