@@ -799,6 +799,7 @@ for solving problems.
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                          |
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                             |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                           |
+|  2147  |    Hard    | [Number of Ways to Divide a Long Corridor](Problems/2147.cpp)                                      |
 |  2149  |   Medium   | [Rearrange Array Elements by Sign](Problems/2149.cpp)                                              |
 |  2150  |   Medium   | [Find All Lonely Numbers in the Array](Problems/2150.cpp)                                          |
 |  2155  |   Medium   | [All Divisions With the Highest Score of a Binary Array](Problems/2155.cpp)                        |
