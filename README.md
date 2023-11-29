@@ -829,6 +829,7 @@ for solving problems.
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                      |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                             |
 |  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                             |
+|  2295  |   Medium   | [Replace Elements in an Array](Problems/2295.cpp)                                                  |
 |  2300  |   Medium   | [Successful Pairs of Spells and Potions](Problems/2300.cpp)                                        |
 |  2304  |   Medium   | [Minimum Path Cost in a Grid](Problems/2304.cpp)                                                   |
 |  2305  |   Medium   | [Fair Distribution of Cookies](Problems/2305.cpp)                                                  |
