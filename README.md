@@ -175,7 +175,10 @@ for solving problems.
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                              |
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                     |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
+|  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
 |  0179  |   Medium   | [Largest Number](Problems/0179.cpp)                                                                |
+|  0181  |    Easy    | [Employees Earning More Than Their Managers](Problems/0181.cpp)                                    |
+|  0182  |    Easy    | [Duplicate Emails](Problems/0182.cpp)                                                              |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                        |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                  |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                  |
@@ -349,8 +352,10 @@ for solving problems.
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                       |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
+|  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
+|  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
@@ -544,6 +549,7 @@ for solving problems.
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                                 |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
+|  1148  |    Easy    | [Article Views I](Problems/1148.cpp)                                                               |
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
@@ -711,6 +717,7 @@ for solving problems.
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
+|  1683  |    Easy    | [Invalid Tweets](Problems/1683.cpp)                                                                |
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
@@ -729,6 +736,7 @@ for solving problems.
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
+|  1757  |    Easy    | [Recyclable and Low Fat Products](Problems/1757.cpp)                                               |
 |  1759  |   Medium   | [Count Number of Homogenous Substrings](Problems/1759.cpp)                                         |
 |  1760  |   Medium   | [Minimum Limit of Balls in a Bag](Problems/1760.cpp)                                               |
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
