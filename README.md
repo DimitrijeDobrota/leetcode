@@ -704,6 +704,7 @@ for solving problems.
 |  1653  |   Medium   | [Minimum Deletions to Make String Balanced](Problems/1653.cpp)                                     |
 |  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
 |  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
+|  1662  |    Easy    | [Check If Two String Arrays are Equivalent](Problems/1662.cpp)                                     |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1664  |   Medium   | [Ways to Make a Fair Array](Problems/1664.cpp)                                                     |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
