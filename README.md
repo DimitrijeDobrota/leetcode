@@ -550,6 +550,7 @@ for solving problems.
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
 |  1148  |    Easy    | [Article Views I](Problems/1148.cpp)                                                               |
+|  1160  |    Easy    | [Find Words That Can Be Formed by Characters](Problems/1160.cpp)                                   |
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
