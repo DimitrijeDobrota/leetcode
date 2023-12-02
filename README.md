@@ -187,6 +187,7 @@ for solving problems.
 |  0193  |    Easy    | [Valid Phone Numbers](Problems/0193.sh)                                                            |
 |  0194  |   Medium   | [Transpose File](Problems/0194.sh)                                                                 |
 |  0195  |    Easy    | [Tenth Line](Problems/0195.sh)                                                                     |
+|  0197  |    Easy    | [Rising Temperature](Problems/0197.cpp)                                                            |
 |  0198  |   Medium   | [House Robber](Problems/0198.cpp)                                                                  |
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                                   |
 |  0200  |   Medium   | [Number of Islands](Problems/0200.cpp)                                                             |
@@ -351,6 +352,7 @@ for solving problems.
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                            |
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                       |
+|  0577  |    Easy    | [Employee Bonus](Problems/0577.cpp)                                                                |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
 |  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
@@ -526,6 +528,7 @@ for solving problems.
 |  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
+|  1068  |    Easy    | [Product Sales Analysis I](Problems/1068.cpp)                                                      |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
 |  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
@@ -578,6 +581,7 @@ for solving problems.
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
 |  1269  |    Hard    | [Number of Ways to Stay in the Same Place After Some Steps](Problems/1269.cpp)                     |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
+|  1280  |    Easy    | [Students and Examinations](Problems/1280.cpp)                                                     |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
@@ -621,6 +625,7 @@ for solving problems.
 |  1373  |    Hard    | [Maximum Sum BST in Binary Tree](Problems/1373.cpp)                                                |
 |  1375  |   Medium   | [Number of Times Binary String Is Prefix-Aligned](Problems/1375.cpp)                               |
 |  1376  |   Medium   | [Time Needed to Inform All Employees](Problems/1376.cpp)                                           |
+|  1378  |    Easy    | [Replace Employee ID With The Unique Identifier](Problems/1378.cpp)                                |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)            |
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
@@ -689,6 +694,7 @@ for solving problems.
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
 |  1578  |   Medium   | [Minimum Time to Make Rope Colorful](Problems/1578.cpp)                                            |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
+|  1581  |    Easy    | [Customer Who Visited but Did Not Make Any Transactions](Problems/1581.cpp)                        |
 |  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
@@ -711,6 +717,7 @@ for solving problems.
 |  1653  |   Medium   | [Minimum Deletions to Make String Balanced](Problems/1653.cpp)                                     |
 |  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
 |  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
+|  1661  |    Easy    | [Average Time of Process per Machine](Problems/1661.cpp)                                           |
 |  1662  |    Easy    | [Check If Two String Arrays are Equivalent](Problems/1662.cpp)                                     |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1664  |   Medium   | [Ways to Make a Fair Array](Problems/1664.cpp)                                                     |
