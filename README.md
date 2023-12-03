@@ -362,6 +362,7 @@ for solving problems.
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
+|  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
@@ -531,6 +532,7 @@ for solving problems.
 |  1068  |    Easy    | [Product Sales Analysis I](Problems/1068.cpp)                                                      |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
 |  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
+|  1075  |    Easy    | [Project Employees I](Problems/1075.cpp)                                                           |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
 |  1081  |   Medium   | [Smallest Subsequence of Distinct Characters](Problems/1081.cpp)                                   |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
@@ -563,6 +565,7 @@ for solving problems.
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
 |  1207  |    Easy    | [Unique Number of Occurrences](Problems/1207.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
+|  1211  |    Easy    | [Queries Quality and Percentage](Problems/1211.cpp)                                                |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
 |  1219  |   Medium   | [Path with Maximum Gold](Problems/1219.cpp)                                                        |
 |  1220  |    Hard    | [Count Vowels Permutation](Problems/1220.cpp)                                                      |
@@ -575,6 +578,7 @@ for solving problems.
 |  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
 |  1248  |   Medium   | [Count Number of Nice Subarrays](Problems/1248.cpp)                                                |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
+|  1251  |    Easy    | [Average Selling Price](Problems/1251.cpp)                                                         |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
 |  1266  |    Easy    | [Minimum Time Visiting All Points](Problems/1266.cpp)                                              |
@@ -709,6 +713,7 @@ for solving problems.
 |  1626  |   Medium   | [Best Team With No Conflicts](Problems/1626.cpp)                                                   |
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                          |
 |  1631  |   Medium   | [Path With Minimum Effort](Problems/1631.cpp)                                                      |
+|  1633  |    Easy    | [Percentage of Users Attended a Contest](Problems/1633.cpp)                                        |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                  |
 |  1638  |   Medium   | [Count Substrings That Differ by One Character](Problems/1638.cpp)                                 |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
