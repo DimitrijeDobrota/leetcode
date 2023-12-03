@@ -577,6 +577,7 @@ for solving problems.
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
+|  1266  |    Easy    | [Minimum Time Visiting All Points](Problems/1266.cpp)                                              |
 |  1267  |   Medium   | [Count Servers that Communicate](Problems/1267.cpp)                                                |
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
 |  1269  |    Hard    | [Number of Ways to Stay in the Same Place After Some Steps](Problems/1269.cpp)                     |
