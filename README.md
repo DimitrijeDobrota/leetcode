@@ -358,10 +358,12 @@ for solving problems.
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
+|  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
+|  0619  |    Easy    | [Biggest Single Number](Problems/0619.cpp)                                                         |
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
@@ -552,6 +554,7 @@ for solving problems.
 |  1130  |   Medium   | [Minimum Cost Tree From Leaf Values](Problems/1130.cpp)                                            |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                        |
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                                 |
+|  1141  |    Easy    | [User Activity for the Past 30 Days I](Problems/1141.cpp)                                          |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
 |  1148  |    Easy    | [Article Views I](Problems/1148.cpp)                                                               |
@@ -744,6 +747,7 @@ for solving problems.
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
 |  1726  |   Medium   | [Tuple with Same Product](Problems/1726.cpp)                                                       |
 |  1727  |   Medium   | [Largest Submatrix With Rearrangements](Problems/1727.cpp)                                         |
+|  1729  |    Easy    | [Find Followers Count](Problems/1729.cpp)                                                          |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
 |  1738  |   Medium   | [Find Kth Largest XOR Coordinate Value](Problems/1738.cpp)                                         |
@@ -868,6 +872,7 @@ for solving problems.
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                             |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                               |
 |  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                    |
+|  2356  |    Easy    | [Number of Unique Subjects Taught by Each Teacher](Problems/2356.cpp)                              |
 |  2358  |   Medium   | [Maximum Number of Groups Entering a Competition](Problems/2358.cpp)                               |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                          |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                      |
