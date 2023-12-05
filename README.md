@@ -362,6 +362,7 @@ for solving problems.
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
+|  0610  |    Easy    | [Triangle Judgement](Problems/0610.cpp)                                                            |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0619  |    Easy    | [Biggest Single Number](Problems/0619.cpp)                                                         |
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
@@ -749,6 +750,7 @@ for solving problems.
 |  1726  |   Medium   | [Tuple with Same Product](Problems/1726.cpp)                                                       |
 |  1727  |   Medium   | [Largest Submatrix With Rearrangements](Problems/1727.cpp)                                         |
 |  1729  |    Easy    | [Find Followers Count](Problems/1729.cpp)                                                          |
+|  1731  |    Easy    | [The Number of Employees Which Report to Each Employee](Problems/1731.cpp)                         |
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
 |  1738  |   Medium   | [Find Kth Largest XOR Coordinate Value](Problems/1738.cpp)                                         |
@@ -764,6 +766,7 @@ for solving problems.
 |  1780  |   Medium   | [Check if Number is a Sum of Powers of Three](Problems/1780.cpp)                                   |
 |  1781  |   Medium   | [Sum of Beauty of All Substrings](Problems/1781.cpp)                                               |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
+|  1789  |    Easy    | [Primary Department for Each Employee](Problems/1789.cpp)                                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
 |  1793  |    Hard    | [Maximum Score of a Good Subarray](Problems/1793.cpp)                                              |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
@@ -802,6 +805,7 @@ for solving problems.
 |  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                            |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                  |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                       |
+|  1978  |    Easy    | [Employees Whose Manager Left the Company](Problems/1978.cpp)                                      |
 |  1980  |   Medium   | [Find Unique Binary String](Problems/1980.cpp)                                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                                |
 |  1992  |   Medium   | [Find All Groups of Farmland](Problems/1992.cpp)                                                   |
