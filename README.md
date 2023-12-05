@@ -736,6 +736,7 @@ for solving problems.
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
 |  1683  |    Easy    | [Invalid Tweets](Problems/1683.cpp)                                                                |
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
+|  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                               |
