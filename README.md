@@ -745,6 +745,7 @@ for solving problems.
 |  1701  |   Medium   | [Average Waiting Time](Problems/1701.cpp)                                                          |
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                          |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                      |
+|  1716  |    Easy    | [Calculate Money in Leetcode Bank](Problems/1716.cpp)                                              |
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
 |  1726  |   Medium   | [Tuple with Same Product](Problems/1726.cpp)                                                       |
