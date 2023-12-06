@@ -187,6 +187,7 @@ for solving problems.
 |  0193  |    Easy    | [Valid Phone Numbers](Problems/0193.sh)                                                            |
 |  0194  |   Medium   | [Transpose File](Problems/0194.sh)                                                                 |
 |  0195  |    Easy    | [Tenth Line](Problems/0195.sh)                                                                     |
+|  0196  |    Easy    | [Delete Duplicate Emails](Problems/0196.cpp)                                                       |
 |  0197  |    Easy    | [Rising Temperature](Problems/0197.cpp)                                                            |
 |  0198  |   Medium   | [House Robber](Problems/0198.cpp)                                                                  |
 |  0199  |   Medium   | [Binary Tree Right Side View](Problems/0199.cpp)                                                   |
@@ -609,6 +610,7 @@ for solving problems.
 |  1324  |   Medium   | [Print Words Vertically](Problems/1324.cpp)                                                        |
 |  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                              |
 |  1326  |    Hard    | [Minimum Number of Taps to Open to Water a Garden](Problems/1326.cpp)                              |
+|  1327  |    Easy    | [List the Products Ordered in a Period](Problems/1327.cpp)                                         |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                    |
 |  1333  |   Medium   | [Filter Restaurants by Vegan-Friendly, Price and Distance](Problems/1333.cpp)                      |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp)   |
@@ -673,6 +675,7 @@ for solving problems.
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                       |
 |  1476  |   Medium   | [Subrectangle Queries](Problems/1476.cpp)                                                          |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                       |
+|  1484  |    Easy    | [Group Sold Products By The Date](Problems/1484.cpp)                                               |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)              |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                       |
 |  1492  |   Medium   | [The kth Factor of n](Problems/1492.cpp)                                                           |
@@ -682,9 +685,11 @@ for solving problems.
 |  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
+|  1517  |    Easy    | [Find Users With Valid E-Mails](Problems/1517.cpp)                                                 |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
+|  1527  |    Easy    | [Patients With a Condition](Problems/1527.cpp)                                                     |
 |  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                          |
 |  1530  |   Medium   | [Number of Good Leaf Nodes Pairs](Problems/1530.cpp)                                               |
 |  1535  |   Medium   | [Find the Winner of an Array Game](Problems/1535.cpp)                                              |
@@ -731,6 +736,7 @@ for solving problems.
 |  1662  |    Easy    | [Check If Two String Arrays are Equivalent](Problems/1662.cpp)                                     |
 |  1663  |   Medium   | [Smallest String With A Given Numeric Value](Problems/1663.cpp)                                    |
 |  1664  |   Medium   | [Ways to Make a Fair Array](Problems/1664.cpp)                                                     |
+|  1667  |    Easy    | [Fix Names in a Table](Problems/1667.cpp)                                                          |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
