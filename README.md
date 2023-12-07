@@ -369,6 +369,7 @@ for solving problems.
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
+|  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
@@ -711,6 +712,7 @@ for solving problems.
 |  1581  |    Easy    | [Customer Who Visited but Did Not Make Any Transactions](Problems/1581.cpp)                        |
 |  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
+|  1587  |    Easy    | [Bank Account Summary II](Problems/1587.cpp)                                                       |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                         |
@@ -745,6 +747,7 @@ for solving problems.
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
+|  1693  |    Easy    | [Daily Leads and Partners](Problems/1693.cpp)                                                      |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                               |
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                        |
@@ -761,6 +764,7 @@ for solving problems.
 |  1732  |    Easy    | [Find the Highest Altitude](Problems/1732.cpp)                                                     |
 |  1734  |   Medium   | [Decode XORed Permutation](Problems/1734.cpp)                                                      |
 |  1738  |   Medium   | [Find Kth Largest XOR Coordinate Value](Problems/1738.cpp)                                         |
+|  1741  |    Easy    | [Find Total Time Spent by Each Employee](Problems/1741.cpp)                                        |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
@@ -776,6 +780,7 @@ for solving problems.
 |  1789  |    Easy    | [Primary Department for Each Employee](Problems/1789.cpp)                                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
 |  1793  |    Hard    | [Maximum Score of a Good Subarray](Problems/1793.cpp)                                              |
+|  1795  |    Easy    | [Rearrange Products Table](Problems/1795.cpp)                                                      |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                             |
 |  1806  |   Medium   | [Minimum Number of Operations to Reinitialize a Permutation](Problems/1806.cpp)                    |
