@@ -800,6 +800,7 @@ for solving problems.
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
 |  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
+|  1903  |    Easy    | [Largest Odd Number in String](Problems/1903.cpp)                                                  |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
@@ -901,6 +902,7 @@ for solving problems.
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
+|  2423  |    Easy    | [Remove Letter To Equalize Frequency](Problems/2423.cpp)                                           |
 |  2428  |   Medium   | [Maximum Sum of an Hourglass](Problems/2428.cpp)                                                   |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                         |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                     |
