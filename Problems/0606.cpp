@@ -1,26 +1,24 @@
 class Solution {
   public:
-    string tree2str(TreeNode *root) {
-        if (!root) return "";
-
+    string tree2str(const TreeNode *root) {
+        stack<const TreeNode *> stack;
+        stack.push(root);
         string res = "";
-        stack<TreeNode *> st;
-        unordered_set<TreeNode *> us;
 
-        st.push(root);
-        while (!st.empty()) {
-            TreeNode *root = st.top();
-            if (us.find(root) != us.end()) {
-                res += ")";
-                st.pop();
-            } else {
-                us.insert(root);
-                res += "(" + to_string(root->val);
-                if (!root->left && !root->right) continue;
-                if (root->right) st.push(root->right);
-                if (root->left)
-                    st.push(root->left);
-                else
+        while (!stack.empty()) {
+            const TreeNode *temp = stack.top();
+            stack.pop();
+            if (temp == nullptr)
+                res += ')';
+            else {
+                res += '(' + to_string(temp->val);
+                stack.push(nullptr);
+
+                if (temp->right) stack.push(temp->right);
+
+                if (temp->left)
+                    stack.push(temp->left);
+                else if (temp->right)
                     res += "()";
             }
         }

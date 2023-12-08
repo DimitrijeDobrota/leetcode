@@ -361,7 +361,7 @@ for solving problems.
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
-|  0606  |    Easy    | [Construct String from Binary Tree ](Problems/0606.cpp)                                            |
+|  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0610  |    Easy    | [Triangle Judgement](Problems/0610.cpp)                                                            |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
