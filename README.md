@@ -327,6 +327,7 @@ for solving problems.
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                       |
 |  0508  |   Medium   | [Most Frequent Subtree Sum](Problems/0508.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
+|  0511  |    Easy    | [Game Play Analysis I](Problems/0511.cpp)                                                          |
 |  0513  |   Medium   | [Find Bottom Left Tree Value](Problems/0513.cpp)                                                   |
 |  0515  |   Medium   | [Find Largest Value in Each Tree Row](Problems/0515.cpp)                                           |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
@@ -532,6 +533,7 @@ for solving problems.
 |  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                             |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                      |
 |  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
+|  1050  |    Easy    | [Actors and Directors Who Cooperated At Least Three Times](Problems/1050.cpp)                      |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
 |  1068  |    Easy    | [Product Sales Analysis I](Problems/1068.cpp)                                                      |
@@ -565,6 +567,7 @@ for solving problems.
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
+|  1179  |    Easy    | [Reformat Department Table](Problems/1179.cpp)                                                     |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                                |
 |  1190  |   Medium   | [Reverse Substrings Between Each Pair of Parentheses](Problems/1190.cpp)                           |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
@@ -804,6 +807,7 @@ for solving problems.
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
 |  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
+|  1890  |    Easy    | [The Latest Login in 2020](Problems/1890.cpp)                                                      |
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
 |  1903  |    Easy    | [Largest Odd Number in String](Problems/1903.cpp)                                                  |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
@@ -815,6 +819,7 @@ for solving problems.
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                       |
+|  1965  |    Easy    | [Employees With Missing Information](Problems/1965.cpp)                                            |
 |  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                            |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                  |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                       |
