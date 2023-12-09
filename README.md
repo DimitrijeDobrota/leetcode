@@ -357,12 +357,14 @@ for solving problems.
 |  0577  |    Easy    | [Employee Bonus](Problems/0577.cpp)                                                                |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
 |  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
+|  0586  |    Easy    | [Customer Placing the Largest Number of Orders](Problems/0586.cpp)                                 |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
+|  0607  |    Easy    | [Sales Person](Problems/0607.cpp)                                                                  |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0610  |    Easy    | [Triangle Judgement](Problems/0610.cpp)                                                            |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
@@ -542,6 +544,7 @@ for solving problems.
 |  1075  |    Easy    | [Project Employees I](Problems/1075.cpp)                                                           |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
 |  1081  |   Medium   | [Smallest Subsequence of Distinct Characters](Problems/1081.cpp)                                   |
+|  1084  |    Easy    | [Sales Analysis III](Problems/1084.cpp)                                                            |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
 |  1090  |   Medium   | [Largest Values From Labels](Problems/1090.cpp)                                                    |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                                |
@@ -650,6 +653,7 @@ for solving problems.
 |  1400  |   Medium   | [Construct K Palindrome Strings](Problems/1400.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
+|  1407  |    Easy    | [Top Travellers](Problems/1407.cpp)                                                                |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                             |
 |  1414  |   Medium   | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](Problems/1414.cpp)                   |
 |  1415  |   Medium   | [The k-th Lexicographical String of All Happy Strings of Length n](Problems/1415.cpp)              |
@@ -804,6 +808,7 @@ for solving problems.
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                       |
 |  1861  |   Medium   | [Rotating the Box](Problems/1861.cpp)                                                              |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
+|  1873  |    Easy    | [Calculate Special Bonus](Problems/1873.cpp)                                                       |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
 |  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
