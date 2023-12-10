@@ -451,6 +451,7 @@ for solving problems.
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                           |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                                 |
 |  0865  |   Medium   | [Smallest Subtree with all the Deepest Nodes](Problems/0865.cpp)                                   |
+|  0867  |    Easy    | [Transpose Matrix](Problems/0867.cpp)                                                              |
 |  0869  |   Medium   | [Reordered Power of 2](Problems/0869.cpp)                                                          |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                            |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                           |
