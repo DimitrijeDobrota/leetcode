@@ -602,6 +602,7 @@ for solving problems.
 |  1280  |    Easy    | [Students and Examinations](Problems/1280.cpp)                                                     |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
+|  1287  |    Easy    | [Element Appearing More Than 25% In Sorted Array](Problems/1287.cpp)                               |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
 |  1291  |   Medium   | [Sequential Digits](Problems/1291.cpp)                                                             |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                            |
