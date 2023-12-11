@@ -344,6 +344,7 @@ for solving problems.
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                     |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                       |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                           |
+|  0550  |   Medium   | [Game Play Analysis IV](Problems/0550.cpp)                                                         |
 |  0553  |   Medium   | [Optimal Division](Problems/0553.cpp)                                                              |
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                      |
 |  0557  |    Easy    | [Reverse Words in a String III](Problems/0557.cpp)                                                 |
@@ -353,6 +354,7 @@ for solving problems.
 |  0563  |    Easy    | [Binary Tree Tilt](Problems/0563.cpp)                                                              |
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                            |
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
+|  0570  |   Medium   | [Managers with at Least 5 Direct Reports](Problems/0570.cpp)                                       |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                       |
 |  0577  |    Easy    | [Employee Bonus](Problems/0577.cpp)                                                                |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
@@ -571,9 +573,11 @@ for solving problems.
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
+|  1174  |   Medium   | [Immediate Food Delivery II](Problems/1174.cpp)                                                    |
 |  1179  |    Easy    | [Reformat Department Table](Problems/1179.cpp)                                                     |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                                |
 |  1190  |   Medium   | [Reverse Substrings Between Each Pair of Parentheses](Problems/1190.cpp)                           |
+|  1193  |   Medium   | [Monthly Transactions I](Problems/1193.cpp)                                                        |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
 |  1207  |    Easy    | [Unique Number of Occurrences](Problems/1207.cpp)                                                  |
@@ -650,6 +654,7 @@ for solving problems.
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
+|  1393  |   Medium   | [Capital Gain/Loss](Problems/1393.cpp)                                                             |
 |  1395  |   Medium   | [Count Number of Teams](Problems/1395.cpp)                                                         |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
 |  1400  |   Medium   | [Construct K Palindrome Strings](Problems/1400.cpp)                                                |
@@ -822,6 +827,7 @@ for solving problems.
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
+|  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
