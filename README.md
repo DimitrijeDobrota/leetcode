@@ -176,7 +176,9 @@ for solving problems.
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                     |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
 |  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
+|  0178  |   Medium   | [Rank Scores](Problems/0178.cpp)                                                                   |
 |  0179  |   Medium   | [Largest Number](Problems/0179.cpp)                                                                |
+|  0180  |   Medium   | [Consecutive Numbers](Problems/0180.cpp)                                                           |
 |  0181  |    Easy    | [Employees Earning More Than Their Managers](Problems/0181.cpp)                                    |
 |  0182  |    Easy    | [Duplicate Emails](Problems/0182.cpp)                                                              |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                        |
@@ -367,6 +369,7 @@ for solving problems.
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
 |  0607  |    Easy    | [Sales Person](Problems/0607.cpp)                                                                  |
+|  0608  |   Medium   | [Tree Node](Problems/0608.cpp)                                                                     |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0610  |    Easy    | [Triangle Judgement](Problems/0610.cpp)                                                            |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
@@ -535,6 +538,7 @@ for solving problems.
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                              |
 |  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                               |
+|  1045  |   Medium   | [Customers Who Bought All Products](Problems/1045.cpp)                                             |
 |  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                             |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                      |
 |  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
@@ -542,6 +546,7 @@ for solving problems.
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
 |  1068  |    Easy    | [Product Sales Analysis I](Problems/1068.cpp)                                                      |
+|  1070  |   Medium   | [Product Sales Analysis III](Problems/1070.cpp)                                                    |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
 |  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
 |  1075  |    Easy    | [Project Employees I](Problems/1075.cpp)                                                           |
@@ -572,6 +577,7 @@ for solving problems.
 |  1160  |    Easy    | [Find Words That Can Be Formed by Characters](Problems/1160.cpp)                                   |
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
+|  1164  |   Medium   | [Product Price at a Given Date](Problems/1164.cpp)                                                 |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
 |  1174  |   Medium   | [Immediate Food Delivery II](Problems/1174.cpp)                                                    |
 |  1179  |    Easy    | [Reformat Department Table](Problems/1179.cpp)                                                     |
@@ -580,6 +586,7 @@ for solving problems.
 |  1193  |   Medium   | [Monthly Transactions I](Problems/1193.cpp)                                                        |
 |  1202  |   Medium   | [Smallest String With Swaps](Problems/1202.cpp)                                                    |
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
+|  1204  |   Medium   | [Last Person to Fit in the Bus](Problems/1204.cpp)                                                 |
 |  1207  |    Easy    | [Unique Number of Occurrences](Problems/1207.cpp)                                                  |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1211  |    Easy    | [Queries Quality and Percentage](Problems/1211.cpp)                                                |
@@ -824,6 +831,7 @@ for solving problems.
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
 |  1903  |    Easy    | [Largest Odd Number in String](Problems/1903.cpp)                                                  |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
+|  1907  |   Medium   | [Count Salary Categories](Problems/1907.cpp)                                                       |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
