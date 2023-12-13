@@ -176,11 +176,13 @@ for solving problems.
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                     |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
 |  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
+|  0176  |   Medium   | [Second Highest Salary](Problems/0176.cpp)                                                         |
 |  0178  |   Medium   | [Rank Scores](Problems/0178.cpp)                                                                   |
 |  0179  |   Medium   | [Largest Number](Problems/0179.cpp)                                                                |
 |  0180  |   Medium   | [Consecutive Numbers](Problems/0180.cpp)                                                           |
 |  0181  |    Easy    | [Employees Earning More Than Their Managers](Problems/0181.cpp)                                    |
 |  0182  |    Easy    | [Duplicate Emails](Problems/0182.cpp)                                                              |
+|  0185  |    Hard    | [Department Top Three Salaries](Problems/0185.cpp)                                                 |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                        |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                  |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                  |
@@ -361,11 +363,13 @@ for solving problems.
 |  0577  |    Easy    | [Employee Bonus](Problems/0577.cpp)                                                                |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
 |  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
+|  0585  |   Medium   | [Investments in 2016](Problems/0585.cpp)                                                           |
 |  0586  |    Easy    | [Customer Placing the Largest Number of Orders](Problems/0586.cpp)                                 |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
+|  0602  |   Medium   | [Friend Requests II: Who Has the Most Friends](Problems/0602.cpp)                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
 |  0607  |    Easy    | [Sales Person](Problems/0607.cpp)                                                                  |
@@ -377,6 +381,7 @@ for solving problems.
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
+|  0626  |   Medium   | [Exchange Seats](Problems/0626.cpp)                                                                |
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
@@ -626,6 +631,7 @@ for solving problems.
 |  1315  |   Medium   | [Sum of Nodes with Even-Valued Grandparent](Problems/1315.cpp)                                     |
 |  1318  |   Medium   | [Minimum Flips to Make a OR b Equal to c](Problems/1318.cpp)                                       |
 |  1319  |   Medium   | [Number of Operations to Make Network Connected](Problems/1319.cpp)                                |
+|  1321  |   Medium   | [Restaurant Growth](Problems/1321.cpp)                                                             |
 |  1323  |    Easy    | [Maximum 69 Number](Problems/1323.cpp)                                                             |
 |  1324  |   Medium   | [Print Words Vertically](Problems/1324.cpp)                                                        |
 |  1325  |   Medium   | [Delete Leaves With a Given Value](Problems/1325.cpp)                                              |
@@ -637,6 +643,7 @@ for solving problems.
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                                |
 |  1338  |   Medium   | [Reduce Array Size to The Half](Problems/1338.cpp)                                                 |
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                       |
+|  1341  |   Medium   | [Movie Rating](Problems/1341.cpp)                                                                  |
 |  1342  |    Easy    | [Number of Steps to Reduce a Number to Zero](Problems/1342.cpp)                                    |
 |  1343  |   Medium   | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Problems/1343.cpp) |
 |  1344  |   Medium   | [Angle Between Hands of a Clock](Problems/1344.cpp)                                                |
