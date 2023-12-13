@@ -732,6 +732,7 @@ for solving problems.
 |  1578  |   Medium   | [Minimum Time to Make Rope Colorful](Problems/1578.cpp)                                            |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
 |  1581  |    Easy    | [Customer Who Visited but Did Not Make Any Transactions](Problems/1581.cpp)                        |
+|  1582  |    Easy    | [Special Positions in a Binary Matrix](Problems/1582.cpp)                                          |
 |  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1587  |    Easy    | [Bank Account Summary II](Problems/1587.cpp)                                                       |
