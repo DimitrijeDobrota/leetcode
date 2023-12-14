@@ -54,6 +54,7 @@ for solving problems.
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                            |
 |  0029  |   Medium   | [Divide Two Integers](Problems/0029.cpp)                                                           |
 |  0031  |   Medium   | [Next Permutation](Problems/0031.cpp)                                                              |
+|  0032  |    Hard    | [Longest Valid Parentheses](Problems/0032.cpp)                                                     |
 |  0033  |   Medium   | [Search in Rotated Sorted Array](Problems/0033.cpp)                                                |
 |  0034  |   Medium   | [Find First and Last Position of Element in Sorted Array](Problems/0034.cpp)                       |
 |  0035  |    Easy    | [Search Insert Position](Problems/0035.cpp)                                                        |
@@ -62,6 +63,7 @@ for solving problems.
 |  0038  |   Medium   | [Count and Say](Problems/0038.cpp)                                                                 |
 |  0039  |   Medium   | [Combination Sum](Problems/0039.cpp)                                                               |
 |  0040  |   Medium   | [Combination Sum II](Problems/0040.cpp)                                                            |
+|  0041  |    Hard    | [First Missing Positive](Problems/0041.cpp)                                                        |
 |  0042  |   Medium   | [Trapping Rain Water](Problems/0011.cpp)                                                           |
 |  0043  |   Medium   | [Multiply Strings](Problems/0043.cpp)                                                              |
 |  0044  |    Hard    | [Wildcard Matching](Problems/0044.cpp)                                                             |
@@ -375,7 +377,7 @@ for solving problems.
 |  0601  |    Hard    | [Human Traffic of Stadium](Problems/0601.cpp)                                                      |
 |  0602  |   Medium   | [Friend Requests II: Who Has the Most Friends](Problems/0602.cpp)                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
-|  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
+|  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                             |
 |  0607  |    Easy    | [Sales Person](Problems/0607.cpp)                                                                  |
 |  0608  |   Medium   | [Tree Node](Problems/0608.cpp)                                                                     |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
@@ -437,6 +439,7 @@ for solving problems.
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                           |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                               |
 |  0789  |   Medium   | [Escape The Ghosts](Problems/0789.cpp)                                                             |
+|  0790  |   Medium   | [Domino and Tromino Tiling](Problems/0790.cpp)                                                     |
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                               |
 |  0799  |   Medium   | [Champagne Tower](Problems/0799.cpp)                                                               |
