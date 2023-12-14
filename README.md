@@ -177,11 +177,13 @@ for solving problems.
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
 |  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
 |  0176  |   Medium   | [Second Highest Salary](Problems/0176.cpp)                                                         |
+|  0177  |   Medium   | [Nth Highest Salary](Problems/0177.cpp)                                                            |
 |  0178  |   Medium   | [Rank Scores](Problems/0178.cpp)                                                                   |
 |  0179  |   Medium   | [Largest Number](Problems/0179.cpp)                                                                |
 |  0180  |   Medium   | [Consecutive Numbers](Problems/0180.cpp)                                                           |
 |  0181  |    Easy    | [Employees Earning More Than Their Managers](Problems/0181.cpp)                                    |
 |  0182  |    Easy    | [Duplicate Emails](Problems/0182.cpp)                                                              |
+|  0184  |   Medium   | [Department Highest Salary](Problems/0184.cpp)                                                     |
 |  0185  |    Hard    | [Department Top Three Salaries](Problems/0185.cpp)                                                 |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                        |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                  |
@@ -234,6 +236,7 @@ for solving problems.
 |  0257  |    Easy    | [Binary Tree Paths](Problems/0257.cpp)                                                             |
 |  0258  |    Easy    | [Add Digits](Problems/0258.cpp)                                                                    |
 |  0260  |   Medium   | [Single Number III](Problems/0260.cpp)                                                             |
+|  0262  |    Hard    | [Trips and Users](Problems/0262.cpp)                                                               |
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                   |
 |  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                                |
 |  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                                |
@@ -369,6 +372,7 @@ for solving problems.
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
+|  0601  |    Hard    | [Human Traffic of Stadium](Problems/0601.cpp)                                                      |
 |  0602  |   Medium   | [Friend Requests II: Who Has the Most Friends](Problems/0602.cpp)                                  |
 |  0605  |    Easy    | [Can Place Flowers](Problems/0605.cpp)                                                             |
 |  0606  |    Easy    | [Construct String from Binary Tree](Problems/0606.cpp)                                            |
@@ -579,6 +583,7 @@ for solving problems.
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
 |  1148  |    Easy    | [Article Views I](Problems/1148.cpp)                                                               |
+|  1158  |   Medium   | [Market Analysis I](Problems/1158.cpp)                                                             |
 |  1160  |    Easy    | [Find Words That Can Be Formed by Characters](Problems/1160.cpp)                                   |
 |  1161  |   Medium   | [Maximum Level Sum of a Binary Tree](Problems/1161.cpp)                                            |
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
