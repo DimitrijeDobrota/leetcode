@@ -176,6 +176,7 @@ for solving problems.
 |  0168  |    Easy    | [Excel Sheet Column Title](Problems/0168.cpp)                                                      |
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                              |
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                     |
+|  0172  |   Medium   | [Factorial Trailing Zeroes](Problems/0172.cpp)                                                     |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
 |  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
 |  0176  |   Medium   | [Second Highest Salary](Problems/0176.cpp)                                                         |
