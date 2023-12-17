@@ -935,6 +935,7 @@ for solving problems.
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                             |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                               |
 |  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                    |
+|  2353  |   Medium   | [Design a Food Rating System](Problems/2353.cpp)                                                   |
 |  2356  |    Easy    | [Number of Unique Subjects Taught by Each Teacher](Problems/2356.cpp)                              |
 |  2358  |   Medium   | [Maximum Number of Groups Entering a Competition](Problems/2358.cpp)                               |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                          |
