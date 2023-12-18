@@ -144,6 +144,7 @@ for solving problems.
 |  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                            |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                  |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                              |
+|  0127  |    Hard    | [Word Ladder](Problems/0127.cpp)                                                                   |
 |  0128  |   Medium   | [Longest Consecutive Sequence](Problems/0128.cpp)                                                  |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                      |
 |  0130  |   Medium   | [Surrounded Regions](Problems/0130.cpp)                                                            |
@@ -212,6 +213,7 @@ for solving problems.
 |  0209  |   Medium   | [Minimum Size Subarray Sum](Problems/0209.cpp)                                                     |
 |  0210  |   Medium   | [Course Schedule II](Problems/0210.cpp)                                                            |
 |  0211  |   Medium   | [Design Add and Search Words Data Structure](Problems/0211.cpp)                                    |
+|  0212  |    Hard    | [Word Search II](Problems/0212.cpp)                                                                |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                               |
 |  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                               |
 |  0216  |   Medium   | [Combination Sum III](Problems/0216.cpp)                                                           |
@@ -851,6 +853,7 @@ for solving problems.
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1907  |   Medium   | [Count Salary Categories](Problems/1907.cpp)                                                       |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
+|  1913  |   Medium   | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
