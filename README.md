@@ -222,6 +222,7 @@ for solving problems.
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                                |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                     |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                                |
+|  0224  |    Hard    | [Basic Calculator](Problems/0224.cpp)                                                              |
 |  0225  |    Easy    | [Implement Stack using Queues](Problems/0225.cpp)                                                  |
 |  0226  |    Easy    | [Invert Binary Tree](Problems/0226.cpp)                                                            |
 |  0227  |   Medium   | [Basic Calculator II](Problems/0227.cpp)                                                           |
@@ -404,6 +405,7 @@ for solving problems.
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                   |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                           |
 |  0655  |   Medium   | [Print Binary Tree](Problems/0655.cpp)                                                             |
+|  0661  |    Easy    | [Image Smoother](Problems/0661.cpp)                                                                |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                  |
 |  0664  |    Hard    | [Strange Printer](Problems/0664.cpp)                                                               |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
@@ -853,7 +855,7 @@ for solving problems.
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1907  |   Medium   | [Count Salary Categories](Problems/1907.cpp)                                                       |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
-|  1913  |   Medium   | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
+|  1913  |    Easy    | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
