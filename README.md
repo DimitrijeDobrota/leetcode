@@ -53,6 +53,7 @@ for solving problems.
 |  0027  |    Easy    | [Remove Element](Problems/0027.cpp)                                                                |
 |  0028  |   Medium   | [Find the Index of the First Occurrence in a String](Problems/0028.cpp)                            |
 |  0029  |   Medium   | [Divide Two Integers](Problems/0029.cpp)                                                           |
+|  0030  |    Hard    | [Substring with Concatenation of All Words](Problems/0030.cpp)                                     |
 |  0031  |   Medium   | [Next Permutation](Problems/0031.cpp)                                                              |
 |  0032  |    Hard    | [Longest Valid Parentheses](Problems/0032.cpp)                                                     |
 |  0033  |   Medium   | [Search in Rotated Sorted Array](Problems/0033.cpp)                                                |
@@ -142,6 +143,7 @@ for solving problems.
 |  0120  |   Medium   | [Triangle](Problems/0120.cpp)                                                                      |
 |  0121  |    Easy    | [Best Time to Buy and Sell Stock](Problems/0121.cpp)                                               |
 |  0122  |   Medium   | [Best Time to Buy and Sell Stock II](Problems/0122.cpp)                                            |
+|  0123  |    Hard    | [Best Time to Buy and Sell Stock III](Problems/0123.cpp)                                           |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                  |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                              |
 |  0127  |    Hard    | [Word Ladder](Problems/0127.cpp)                                                                   |
@@ -187,9 +189,11 @@ for solving problems.
 |  0180  |   Medium   | [Consecutive Numbers](Problems/0180.cpp)                                                           |
 |  0181  |    Easy    | [Employees Earning More Than Their Managers](Problems/0181.cpp)                                    |
 |  0182  |    Easy    | [Duplicate Emails](Problems/0182.cpp)                                                              |
+|  0183  |    Easy    | [Customers Who Never Order](Problems/0183.cpp)                                                     |
 |  0184  |   Medium   | [Department Highest Salary](Problems/0184.cpp)                                                     |
 |  0185  |    Hard    | [Department Top Three Salaries](Problems/0185.cpp)                                                 |
 |  0187  |   Medium   | [Repeated DNA Sequences](Problems/0187.cpp)                                                        |
+|  0188  |    Hard    | [Best Time to Buy and Sell Stock IV](Problems/0188.cpp)                                            |
 |  0189  |   Medium   | [Rotate Array](Problems/0189.cpp)                                                                  |
 |  0190  |    Easy    | [Reverse Bits](Problems/0190.cpp)                                                                  |
 |  0191  |    Easy    | [Number of 1 Bits](Problems/0191.cpp)                                                              |
@@ -1014,6 +1018,7 @@ for solving problems.
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
+|  2706  |    Easy    | [Buy Two Chocolates](Problems/2706.cpp)                                                            |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
