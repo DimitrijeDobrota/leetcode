@@ -963,6 +963,7 @@ for solving problems.
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
 |  2423  |    Easy    | [Remove Letter To Equalize Frequency](Problems/2423.cpp)                                           |
+|  2425  |   Medium   | [Bitwise XOR of All Pairings](Problems/2425.cpp)                                                   |
 |  2428  |   Medium   | [Maximum Sum of an Hourglass](Problems/2428.cpp)                                                   |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                         |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                     |
