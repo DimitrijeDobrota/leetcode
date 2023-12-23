@@ -729,6 +729,7 @@ for solving problems.
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                       |
 |  1492  |   Medium   | [The kth Factor of n](Problems/1492.cpp)                                                           |
 |  1493  |   Medium   | [Longest Subarray of 1's After Deleting One Element](Problems/1493.cpp)                            |
+|  1496  |    Easy    | [Path Crossing](Problems/1496.cpp)                                                                 |
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
 |  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
