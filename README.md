@@ -819,6 +819,7 @@ for solving problems.
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
 |  1757  |    Easy    | [Recyclable and Low Fat Products](Problems/1757.cpp)                                               |
+|  1758  |    Easy    | [Minimum Changes To Make Alternating Binary String](Problems/1758.cpp)                             |
 |  1759  |   Medium   | [Count Number of Homogenous Substrings](Problems/1759.cpp)                                         |
 |  1760  |   Medium   | [Minimum Limit of Balls in a Bag](Problems/1760.cpp)                                               |
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
