@@ -443,6 +443,7 @@ for solving problems.
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                                 |
 |  0763  |   Medium   | [Partition Labels](Problems/0763.cpp)                                                              |
 |  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                             |
+|  0769  |   Medium   | [Max Chunks To Make Sorted](Problems/0769.cpp)                                                     |
 |  0779  |   Medium   | [K-th Symbol in Grammar](Problems/0779.cpp)                                                        |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                            |
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                       |
