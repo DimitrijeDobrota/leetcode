@@ -744,6 +744,7 @@ for solving problems.
 |  1527  |    Easy    | [Patients With a Condition](Problems/1527.cpp)                                                     |
 |  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                          |
 |  1530  |   Medium   | [Number of Good Leaf Nodes Pairs](Problems/1530.cpp)                                               |
+|  1531  |    Hard    | [String Compression II](Problems/1531.cpp)                                                         |
 |  1535  |   Medium   | [Find the Winner of an Array Game](Problems/1535.cpp)                                              |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                   |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
