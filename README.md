@@ -660,6 +660,7 @@ for solving problems.
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                    |
 |  1333  |   Medium   | [Filter Restaurants by Vegan-Friendly, Price and Distance](Problems/1333.cpp)                      |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp)   |
+|  1335  |    Hard    | [Minimum Difficulty of a Job Schedule](Problems/1335.cpp)                                          |
 |  1337  |    Easy    | [The K Weakest Rows in a Matrix](Problems/1337.cpp)                                                |
 |  1338  |   Medium   | [Reduce Array Size to The Half](Problems/1338.cpp)                                                 |
 |  1339  |   Medium   | [Maximum Product of Splitted Binary Tree](Problems/1339.cpp)                                       |
