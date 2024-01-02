@@ -737,6 +737,7 @@ for solving problems.
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
 |  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
+|  1508  |   Medium   | [Range Sum of Sorted Subarray Sums](Problems/1508.cpp)                                             |
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
 |  1517  |    Easy    | [Find Users With Valid E-Mails](Problems/1517.cpp)                                                 |
