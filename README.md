@@ -1041,6 +1041,7 @@ for solving problems.
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
+|  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
