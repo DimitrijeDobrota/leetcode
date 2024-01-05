@@ -1,12 +1,18 @@
 class Solution {
   public:
-    vector<int> getSumAbsoluteDifferences(vector<int> &nums) {
-        const int n = nums.size();
-        int left = 0, right = accumulate(begin(nums), end(nums), 0);
-        for (int i = 0; i < n; ++i) {
-            right -= nums[i], left += nums[i];
-            nums[i] = right - left + (2 * i - n + 2) * nums[i];
+    int maximumUniqueSubarray(const vector<int> &nums) const {
+        static bool seen[10001];
+        memset(seen, 0x00, sizeof(seen));
+        int res = 0, sum = 0, i = 0;
+        for (int j = 0; j < nums.size(); j++) {
+            while (seen[nums[j]]) {
+                seen[nums[i]] = 0;
+                sum -= nums[i++];
+            }
+            seen[nums[j]] = 1;
+            sum += nums[j];
+            res = max(res, sum);
         }
-        return nums;
+        return res;
     }
 };

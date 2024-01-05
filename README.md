@@ -805,6 +805,7 @@ for solving problems.
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1693  |    Easy    | [Daily Leads and Partners](Problems/1693.cpp)                                                      |
+|  1695  |   Medium   | [Maximum Erasure Value](Problems/1695.cpp)                                                         |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
 |  1697  |    Hard    | [Checking Existence of Edge Length Limited Paths](Problems/1697.cpp)                               |
 |  1700  |    Easy    | [Number of Students Unable to Eat Lunch](Problems/1700.cpp)                                        |
