@@ -623,6 +623,7 @@ for solving problems.
 |  1227  |   Medium   | [Airplane Seat Assignment Probability](Problems/1227.cpp)                                          |
 |  1232  |    Easy    | [Check If It Is a Straight Line](Problems/1232.cpp)                                                |
 |  1233  |   Medium   | [Remove Sub-Folders from the Filesystem](Problems/1233.cpp)                                        |
+|  1235  |    Hard    | [Maximum Profit in Job Scheduling](Problems/1235.cpp)                                              |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
 |  1238  |   Medium   | [Circular Permutation in Binary Representation](Problems/1238.cpp)                                 |
 |  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
