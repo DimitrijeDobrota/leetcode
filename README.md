@@ -324,6 +324,7 @@ for solving problems.
 |  0442  |   Medium   | [Find All Duplicates in an Array](Problems/0442.cpp)                                               |
 |  0443  |   Medium   | [String Compression](Problems/0443.cpp)                                                            |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                            |
+|  0446  |    Hard    | [Arithmetic Slices II - Subsequence](Problems/0446.cpp)                                            |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                      |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                          |
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                  |
