@@ -874,6 +874,7 @@ for solving problems.
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1907  |   Medium   | [Count Salary Categories](Problems/1907.cpp)                                                       |
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
+|  1911  |   Medium   | [Maximum Alternating Subsequence Sum](Problems/1911.cpp)                                           |
 |  1913  |    Easy    | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
