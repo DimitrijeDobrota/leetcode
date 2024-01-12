@@ -530,6 +530,7 @@ for solving problems.
 |  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                           |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                        |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                         |
+|  0967  |   Medium   | [Numbers With Same Consecutive Differences](Problems/0967.cpp)                                     |
 |  0969  |   Medium   | [Pancake Sorting](Problems/0969.cpp)                                                               |
 |  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                    |
 |  0974  |   Medium   | [Subarray Sums Divisible by K](Problems/0974.cpp)                                                  |
@@ -827,6 +828,7 @@ for solving problems.
 |  1738  |   Medium   | [Find Kth Largest XOR Coordinate Value](Problems/1738.cpp)                                         |
 |  1741  |    Easy    | [Find Total Time Spent by Each Employee](Problems/1741.cpp)                                        |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
+|  1749  |   Medium   | [Maximum Absolute Sum of Any Subarray](Problems/1749.cpp)                                          |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
 |  1757  |    Easy    | [Recyclable and Low Fat Products](Problems/1757.cpp)                                               |
@@ -902,6 +904,7 @@ for solving problems.
 |  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                    |
 |  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
+|  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
@@ -1053,3 +1056,4 @@ for solving problems.
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
+|  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
