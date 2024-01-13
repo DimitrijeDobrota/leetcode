@@ -326,6 +326,7 @@ for solving problems.
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                            |
 |  0446  |    Hard    | [Arithmetic Slices II - Subsequence](Problems/0446.cpp)                                            |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                      |
+|  0449  |   Medium   | [Serialize and Deserialize BST](Problems/0449.cpp)                                                 |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                          |
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                  |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                    |
@@ -981,6 +982,7 @@ for solving problems.
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
+|  2414  |   Medium   | [Length of the Longest Alphabetical Continuous Substring](Problems/2414.cpp)                       |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
 |  2423  |    Easy    | [Remove Letter To Equalize Frequency](Problems/2423.cpp)                                           |
