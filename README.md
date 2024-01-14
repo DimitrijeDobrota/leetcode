@@ -564,6 +564,7 @@ for solving problems.
 |  1031  |   Medium   | [Maximum Sum of Two Non-Overlapping Subarrays](Problems/1031.cpp)                                  |
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                               |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
+|  1039  |   Medium   | [Minimum Score Triangulation of Polygon](Problems/1039.cpp)                                        |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                              |
 |  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                               |
 |  1045  |   Medium   | [Customers Who Bought All Products](Problems/1045.cpp)                                             |
