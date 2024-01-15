@@ -723,6 +723,7 @@ for solving problems.
 |  1447  |   Medium   | [Simplified Fractions](Problems/1447.cpp)                                                          |
 |  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                               |
 |  1451  |   Medium   | [Rearrange Words in a Sentence](Problems/1451.cpp)                                                 |
+|  1452  |   Medium   | [People Whose List of Favorite Companies Is Not a Subset of Another List](Problems/1452.cpp)       |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
@@ -1059,4 +1060,5 @@ for solving problems.
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
+|  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
 |  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
