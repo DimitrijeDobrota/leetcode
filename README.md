@@ -553,6 +553,7 @@ for solving problems.
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
+|  1016  |   Medium   | [Binary String With Substrings Representing 1 To N](Problems/1016.cpp)                             |
 |  1017  |   Medium   | [Convert to Base -2](Problems/1017.cpp)                                                            |
 |  1019  |   Medium   | [Next Greater Node In Linked List](Problems/1019.cpp)                                              |
 |  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                            |
@@ -701,6 +702,7 @@ for solving problems.
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
 |  1400  |   Medium   | [Construct K Palindrome Strings](Problems/1400.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
+|  1405  |   Medium   | [Longest Happy String](Problems/1405.cpp)                                                          |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
 |  1407  |    Easy    | [Top Travellers](Problems/1407.cpp)                                                                |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                             |
@@ -744,6 +746,7 @@ for solving problems.
 |  1498  |   Medium   | [Number of Subsequences That Satisfy the Given Sum Condition](Problems/1498.cpp)                   |
 |  1502  |    Easy    | [Can Make Arithmetic Progression From Sequence](Problems/1502.cpp)                                 |
 |  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
+|  1504  |   Medium   | [Count Submatrices With All Ones](Problems/1504.cpp)                                               |
 |  1508  |   Medium   | [Range Sum of Sorted Subarray Sums](Problems/1508.cpp)                                             |
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
@@ -1016,6 +1019,7 @@ for solving problems.
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
+|  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                        |
