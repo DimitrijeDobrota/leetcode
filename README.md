@@ -419,6 +419,7 @@ for solving problems.
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                          |
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
+|  0676  |   Medium   | [Implement Magic Dictionary](Problems/0676.cpp)                                                    |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                          |
 |  0688  |   Medium   | [Knight Probability in Chessboard](Problems/0688.cpp)                                              |
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
@@ -464,6 +465,7 @@ for solving problems.
 |  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                         |
 |  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                           |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                    |
+|  0817  |   Medium   | [Linked List Components](Problems/0817.cpp)                                                        |
 |  0820  |   Medium   | [Short Encoding of Words](Problems/0820.cpp)                                                       |
 |  0823  |   Medium   | [Binary Trees With Factors](Problems/0823.cpp)                                                     |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                                 |
@@ -918,6 +920,7 @@ for solving problems.
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                       |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                    |
 |  2104  |   Medium   | [Sum of Subarray Ranges](Problems/2104.cpp)                                                        |
+|  2109  |   Medium   | [Adding Spaces to a String](Problems/2109.cpp)                                                     |
 |  2110  |   Medium   | [Number of Smooth Descent Periods of a Stock](Problems/2110.cpp)                                   |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                                 |
 |  2120  |   Medium   | [Execution of All Suffix Instructions Staying in a Grid](Problems/2120.cpp)                        |
