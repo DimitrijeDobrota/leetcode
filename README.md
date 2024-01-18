@@ -471,6 +471,7 @@ for solving problems.
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                                 |
 |  0835  |   Medium   | [Image Overlap](Problems/0835.cpp)                                                                 |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                   |
+|  0838  |   Medium   | [Push Dominoes](Problems/0838.cpp)                                                                 |
 |  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                         |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                                |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                      |
@@ -576,6 +577,7 @@ for solving problems.
 |  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
 |  1050  |    Easy    | [Actors and Directors Who Cooperated At Least Three Times](Problems/1050.cpp)                      |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
+|  1052  |   Medium   | [Grumpy Bookstore Owner](Problems/1052.cpp)                                                        |
 |  1061  |   Medium   | [Lexicographically Smallest Equivalent String](Problems/1061.cpp)                                  |
 |  1068  |    Easy    | [Product Sales Analysis I](Problems/1068.cpp)                                                      |
 |  1070  |   Medium   | [Product Sales Analysis III](Problems/1070.cpp)                                                    |
@@ -812,6 +814,7 @@ for solving problems.
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
+|  1680  |   Medium   | [Concatenation of Consecutive Binary Numbers](Problems/1680.cpp)                                   |
 |  1683  |    Easy    | [Invalid Tweets](Problems/1683.cpp)                                                                |
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
@@ -1022,6 +1025,7 @@ for solving problems.
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
+|  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
