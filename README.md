@@ -856,6 +856,7 @@ for solving problems.
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
 |  1793  |    Hard    | [Maximum Score of a Good Subarray](Problems/1793.cpp)                                              |
 |  1795  |    Easy    | [Rearrange Products Table](Problems/1795.cpp)                                                      |
+|  1797  |   Medium   | [Design Authentication Manager](Problems/1797.cpp)                                                 |
 |  1798  |   Medium   | [Maximum Number of Consecutive Values You Can Make](Problems/1798.cpp)                             |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                             |
@@ -951,6 +952,7 @@ for solving problems.
 |  2232  |   Medium   | [Minimize Result by Adding Parentheses to Expression](Problems/2232.cpp)                           |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                              |
 |  2236  |    Easy    | [Root Equals Sum of Children](Problems/2236.cpp)                                                   |
+|  2240  |   Medium   | [Number of Ways to Buy Pens and Pencils](Problems/2240.cpp)                                        |
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                               |
 |  2244  |   Medium   | [Minimum Rounds to Complete All Tasks](Problems/2244.cpp)                                          |
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                               |
@@ -1027,6 +1029,7 @@ for solving problems.
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
+|  2592  |   Medium   | [Maximize Greatness of an Array](Problems/2592.cpp)                                                |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                        |
