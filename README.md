@@ -330,6 +330,7 @@ for solving problems.
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                          |
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                  |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                    |
+|  0454  |   Medium   | [4Sum II](Problems/0454.cpp)                                                                       |
 |  0455  |    Easy    | [Assign Cookies](Problems/0455.cpp)                                                                |
 |  0456  |   Medium   | [132 Pattern](Problems/0456.cpp)                                                                   |
 |  0458  |    Hard    | [Poor Pigs](Problems/0458.cpp)                                                                     |
@@ -403,6 +404,7 @@ for solving problems.
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
+|  0641  |   Medium   | [Design Circular Deque](Problems/0641.cpp)                                                         |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
 |  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
@@ -420,6 +422,7 @@ for solving problems.
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                          |
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
 |  0676  |   Medium   | [Implement Magic Dictionary](Problems/0676.cpp)                                                    |
+|  0677  |   Medium   | [Map Sum Pairs](Problems/0677.cpp)                                                                 |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                          |
 |  0688  |   Medium   | [Knight Probability in Chessboard](Problems/0688.cpp)                                              |
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
@@ -819,6 +822,7 @@ for solving problems.
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
+|  1690  |   Medium   | [Stone Game VII](Problems/1690.cpp)                                                                |
 |  1693  |    Easy    | [Daily Leads and Partners](Problems/1693.cpp)                                                      |
 |  1695  |   Medium   | [Maximum Erasure Value](Problems/1695.cpp)                                                         |
 |  1696  |   Medium   | [Jump Game VI](Problems/1696.cpp)                                                                  |
@@ -1030,6 +1034,7 @@ for solving problems.
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2592  |   Medium   | [Maximize Greatness of an Array](Problems/2592.cpp)                                                |
+|  2596  |   Medium   | [Check Knight Tour Configuration](Problems/2596.cpp)                                               |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                        |
