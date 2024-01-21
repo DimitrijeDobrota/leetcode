@@ -254,6 +254,7 @@ for solving problems.
 |  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                             |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                               |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                   |
+|  0284  |   Medium   | [Peeking Iterator](Problems/0284.cpp)                                                              |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                     |
 |  0289  |   Medium   | [Game of Life](Problems/0289.cpp)                                                                  |
 |  0290  |    Easy    | [Word Pattern](Problems/0290.cpp)                                                                  |
@@ -362,6 +363,7 @@ for solving problems.
 |  0535  |   Medium   | [Encode and Decode TinyURL](Problems/0535.cpp)                                                     |
 |  0537  |   Medium   | [Complex Number Multiplication](Problems/0537.cpp)                                                 |
 |  0538  |   Medium   | [Convert BST to Greater Tree](Problems/0538.cpp)                                                   |
+|  0539  |   Medium   | [Minimum Time Difference](Problems/0539.cpp)                                                       |
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                              |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                     |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                       |
@@ -440,6 +442,7 @@ for solving problems.
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                          |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                              |
 |  0725  |   Medium   | [Split Linked List in Parts](Problems/0725.cpp)                                                    |
+|  0729  |   Medium   | [My Calendar I](Problems/0729.cpp)                                                                 |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                    |
 |  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                            |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                            |
@@ -556,6 +559,7 @@ for solving problems.
 |  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
 |  1003  |   Medium   | [Check If Word Is Valid After Substitutions](Problems/1003.cpp)                                    |
 |  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
+|  1006  |   Medium   | [Clumsy Factorial](Problems/1006.cpp)                                                              |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
@@ -692,6 +696,7 @@ for solving problems.
 |  1358  |   Medium   | [Number of Substrings Containing All Three Characters](Problems/1358.cpp)                          |
 |  1359  |    Hard    | [Count All Valid Pickup and Delivery Options](Problems/1359.cpp)                                   |
 |  1361  |   Medium   | [Validate Binary Tree Nodes](Problems/1361.cpp)                                                    |
+|  1362  |   Medium   | [Closest Divisors](Problems/1362.cpp)                                                              |
 |  1366  |   Medium   | [Rank Teams by Votes](Problems/1366.cpp)                                                           |
 |  1367  |   Medium   | [Linked List in Binary Tree ](Problems/1367.cpp)                                                   |
 |  1371  |   Medium   | [Find the Longest Substring Containing Vowels in Even Counts](Problems/1371.cpp)                   |
