@@ -331,6 +331,7 @@ for solving problems.
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                          |
 |  0451  |   Medium   | [Sort Characters By Frequency](Problems/0451.cpp)                                                  |
 |  0452  |   Medium   | [Minimum Number of Arrows to Burst Balloons](Problems/0452.cpp)                                    |
+|  0453  |   Medium   | [Minimum Moves to Equal Array Elements](Problems/0453.cpp)                                         |
 |  0454  |   Medium   | [4Sum II](Problems/0454.cpp)                                                                       |
 |  0455  |    Easy    | [Assign Cookies](Problems/0455.cpp)                                                                |
 |  0456  |   Medium   | [132 Pattern](Problems/0456.cpp)                                                                   |
@@ -408,6 +409,7 @@ for solving problems.
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0641  |   Medium   | [Design Circular Deque](Problems/0641.cpp)                                                         |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
+|  0645  |    Easy    | [Set Mismatch](Problems/0645.cpp)                                                                  |
 |  0646  |   Medium   | [Maximum Length of Pair Chain](Problems/0646.cpp)                                                  |
 |  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
 |  0648  |   Medium   | [Replace Words](Problems/0648.cpp)                                                                 |
@@ -481,6 +483,7 @@ for solving problems.
 |  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                         |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                                |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                      |
+|  0846  |   Medium   | [Hand of Straights](Problems/0846.cpp)                                                             |
 |  0847  |    Hard    | [Shortest Path Visiting All Nodes](Problems/0847.cpp)                                              |
 |  0851  |   Medium   | [Loud and Rich](Problems/0851.cpp)                                                                 |
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                                |
@@ -656,10 +659,13 @@ for solving problems.
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
 |  1280  |    Easy    | [Students and Examinations](Problems/1280.cpp)                                                     |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
+|  1283  |   Medium   | [Find the Smallest Divisor Given a Threshold](Problems/1283.cpp)                                   |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
 |  1287  |    Easy    | [Element Appearing More Than 25% In Sorted Array](Problems/1287.cpp)                               |
+|  1288  |   Medium   | [Remove Covered Intervals](Problems/1288.cpp)                                                      |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
 |  1291  |   Medium   | [Sequential Digits](Problems/1291.cpp)                                                             |
+|  1296  |   Medium   | [Divide Array in Sets of K Consecutive Numbers](Problems/1296.cpp)                                 |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                            |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                       |
 |  1306  |   Medium   | [Jump Game III](Problems/1306.cpp)                                                                 |
