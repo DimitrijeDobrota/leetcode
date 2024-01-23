@@ -473,6 +473,7 @@ for solving problems.
 |  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                         |
 |  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                           |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                    |
+|  0816  |   Medium   | [Ambiguous Coordinates](Problems/0816.cpp)                                                         |
 |  0817  |   Medium   | [Linked List Components](Problems/0817.cpp)                                                        |
 |  0820  |   Medium   | [Short Encoding of Words](Problems/0820.cpp)                                                       |
 |  0823  |   Medium   | [Binary Trees With Factors](Problems/0823.cpp)                                                     |
@@ -646,6 +647,7 @@ for solving problems.
 |  1235  |    Hard    | [Maximum Profit in Job Scheduling](Problems/1235.cpp)                                              |
 |  1237  |   Medium   | [Find Positive Integer Solution for a Given Equation](Problems/1237.cpp)                           |
 |  1238  |   Medium   | [Circular Permutation in Binary Representation](Problems/1238.cpp)                                 |
+|  1239  |   Medium   | [Maximum Length of a Concatenated String with Unique Characters](Problems/1239.cpp)                |
 |  1247  |   Medium   | [Minimum Swaps to Make Strings Equal](Problems/1247.cpp)                                           |
 |  1248  |   Medium   | [Count Number of Nice Subarrays](Problems/1248.cpp)                                                |
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
@@ -747,6 +749,7 @@ for solving problems.
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
+|  1461  |   Medium   | [Check If a String Contains All Binary Codes of Size K](Problems/1461.cpp)                         |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
 |  1464  |    Easy    | [Maximum Product of Two Elements in an Array](Problems/1464.cpp)                                   |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                        |
