@@ -377,6 +377,7 @@ for solving problems.
 |  0560  |   Medium   | [Subarray Sum Equals K](Problems/0560.cpp)                                                         |
 |  0561  |    Easy    | [Array Partition](Problems/0561.cpp)                                                               |
 |  0563  |    Easy    | [Binary Tree Tilt](Problems/0563.cpp)                                                              |
+|  0565  |   Medium   | [Array Nesting](Problems/0565.cpp)                                                                 |
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                            |
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
 |  0570  |   Medium   | [Managers with at Least 5 Direct Reports](Problems/0570.cpp)                                       |
@@ -532,6 +533,7 @@ for solving problems.
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                        |
 |  0934  |   Medium   | [Shortest Bridge](Problems/0934.cpp)                                                               |
 |  0935  |   Medium   | [Knight Dialer](Problems/0935.cpp)                                                                 |
+|  0937  |   Medium   | [Reorder Data in Log Files](Problems/0937.cpp)                                                     |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                              |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                          |
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                                 |
@@ -834,6 +836,7 @@ for solving problems.
 |  1680  |   Medium   | [Concatenation of Consecutive Binary Numbers](Problems/1680.cpp)                                   |
 |  1683  |    Easy    | [Invalid Tweets](Problems/1683.cpp)                                                                |
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
+|  1686  |   Medium   | [Stone Game VI](Problems/1686.cpp)                                                                 |
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
 |  1689  |   Medium   | [Partitioning Into Minimum Number Of Deci-Binary Numbers](Problems/1689.cpp)                       |
 |  1690  |   Medium   | [Stone Game VII](Problems/1690.cpp)                                                                |
@@ -936,6 +939,7 @@ for solving problems.
 |  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
 |  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
+|  2074  |   Medium   | [Reverse Nodes in Even Length Groups](Problems/2074.cpp)                                           |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
 |  2090  |   Medium   | [K Radius Subarray Averages](Problems/2090.cpp)                                                    |
@@ -981,6 +985,7 @@ for solving problems.
 |  2272  |    Hard    | [Substring With Largest Variance](Problems/2272.cpp)                                               |
 |  2275  |   Medium   | [Largest Combination With Bitwise AND Greater Than Zero](Problems/2275.cpp)                        |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                      |
+|  2284  |   Medium   | [Sender With Largest Word Count](Problems/2284.cpp)                                                |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                             |
 |  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                             |
 |  2295  |   Medium   | [Replace Elements in an Array](Problems/2295.cpp)                                                  |
