@@ -830,6 +830,7 @@ for solving problems.
 |  1664  |   Medium   | [Ways to Make a Fair Array](Problems/1664.cpp)                                                     |
 |  1667  |    Easy    | [Fix Names in a Table](Problems/1667.cpp)                                                          |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
+|  1670  |   Medium   | [Design Front Middle Back Queue](Problems/1670.cpp)                                                |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
@@ -1097,6 +1098,7 @@ for solving problems.
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
+|  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
 |  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
 |  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
