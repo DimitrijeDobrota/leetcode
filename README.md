@@ -382,6 +382,7 @@ for solving problems.
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
 |  0570  |   Medium   | [Managers with at Least 5 Direct Reports](Problems/0570.cpp)                                       |
 |  0572  |    Easy    | [Subtree of Another Tree](Problems/0572.cpp)                                                       |
+|  0576  |   Medium   | [Out of Boundary Paths](Problems/0576.cpp)                                                         |
 |  0577  |    Easy    | [Employee Bonus](Problems/0577.cpp)                                                                |
 |  0583  |   Medium   | [Delete Operation for Two Strings](Problems/0583.cpp)                                              |
 |  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
@@ -463,6 +464,7 @@ for solving problems.
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                       |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                           |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                               |
+|  0788  |   Medium   | [Rotated Digits](Problems/0788.cpp)                                                                |
 |  0789  |   Medium   | [Escape The Ghosts](Problems/0789.cpp)                                                             |
 |  0790  |   Medium   | [Domino and Tromino Tiling](Problems/0790.cpp)                                                     |
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
@@ -582,6 +584,7 @@ for solving problems.
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                               |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
 |  1039  |   Medium   | [Minimum Score Triangulation of Polygon](Problems/1039.cpp)                                        |
+|  1040  |   Medium   | [Moving Stones Until Consecutive II](Problems/1040.cpp)                                            |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                              |
 |  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                               |
 |  1045  |   Medium   | [Customers Who Bought All Products](Problems/1045.cpp)                                             |
@@ -603,6 +606,7 @@ for solving problems.
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
 |  1090  |   Medium   | [Largest Values From Labels](Problems/1090.cpp)                                                    |
 |  1091  |   Medium   | [Shortest Path in Binary Matrix](Problems/1091.cpp)                                                |
+|  1094  |   Medium   | [Car Pooling](Problems/1094.cpp)                                                                   |
 |  1095  |    Easy    | [Find Numbers with Even Number of Digits](Problems/1095.cpp)                                       |
 |  1095  |    Hard    | [Find in Mountain Array](Problems/1095.cpp)                                                        |
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                          |
@@ -760,6 +764,7 @@ for solving problems.
 |  1472  |   Medium   | [Design Browser History ](Problems/1472.cpp)                                                       |
 |  1476  |   Medium   | [Subrectangle Queries](Problems/1476.cpp)                                                          |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                       |
+|  1481  |   Medium   | [Least Number of Unique Integers after K Removals](Problems/1481.cpp)                              |
 |  1484  |    Easy    | [Group Sold Products By The Date](Problems/1484.cpp)                                               |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)              |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                       |
@@ -802,6 +807,7 @@ for solving problems.
 |  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1587  |    Easy    | [Bank Account Summary II](Problems/1587.cpp)                                                       |
+|  1593  |   Medium   | [Split a String Into the Max Number of Unique Substrings](Problems/1593.cpp)                       |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                         |
