@@ -407,6 +407,7 @@ for solving problems.
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
 |  0626  |   Medium   | [Exchange Seats](Problems/0626.cpp)                                                                |
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
+|  0629  |    Hard    | [K Inverse Pairs Array](Problems/0629.cpp)                                                         |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0641  |   Medium   | [Design Circular Deque](Problems/0641.cpp)                                                         |
