@@ -600,6 +600,7 @@ for solving problems.
 |  1070  |   Medium   | [Product Sales Analysis III](Problems/1070.cpp)                                                    |
 |  1071  |    Easy    | [Greatest Common Divisor of Strings](Problems/1071.cpp)                                            |
 |  1072  |   Medium   | [Flip Columns For Maximum Number of Equal Rows](Problems/1072.cpp)                                 |
+|  1074  |    Hard    | [Number of Submatrices That Sum to Target](Problems/1074.cpp)                                      |
 |  1075  |    Easy    | [Project Employees I](Problems/1075.cpp)                                                           |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
 |  1081  |   Medium   | [Smallest Subsequence of Distinct Characters](Problems/1081.cpp)                                   |
