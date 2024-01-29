@@ -1063,6 +1063,7 @@ for solving problems.
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2592  |   Medium   | [Maximize Greatness of an Array](Problems/2592.cpp)                                                |
 |  2596  |   Medium   | [Check Knight Tour Configuration](Problems/2596.cpp)                                               |
+|  2606  |   Medium   | [Find the Substring With Maximum Cost](Problems/2606.cpp)                                          |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
 |  2620  |    Easy    | [Counter](Problems/2620.js)                                                                        |
