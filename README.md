@@ -531,6 +531,7 @@ for solving problems.
 |  0920  |    Hard    | [Number of Music Playlists](Problems/0920.cpp)                                                     |
 |  0921  |   Medium   | [Minimum Add to Make Parentheses Valid](Problems/0921.cpp)                                         |
 |  0926  |   Medium   | [Flip String to Monotone Increasing](Problems/0926.cpp)                                            |
+|  0930  |   Medium   | [Binary Subarrays With Sum](Problems/0930.cpp)                                                     |
 |  0931  |   Medium   | [Minimum Falling Path Sum](Problems/0931.cpp)                                                      |
 |  0932  |   Medium   | [Beautiful Array](Problems/0932.cpp)                                                               |
 |  0933  |    Easy    | [Number of Recent Calls](Problems/0933.cpp)                                                        |
@@ -976,6 +977,7 @@ for solving problems.
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                                |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                           |
 |  2196  |   Medium   | [Create Binary Tree From Descriptions](Problems/2196.cpp)                                          |
+|  2201  |   Medium   | [Count Artifacts That Can Be Extracted](Problems/2201.cpp)                                         |
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                             |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                           |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                               |
