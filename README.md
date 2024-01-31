@@ -326,6 +326,7 @@ for solving problems.
 |  0443  |   Medium   | [String Compression](Problems/0443.cpp)                                                            |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                            |
 |  0446  |    Hard    | [Arithmetic Slices II - Subsequence](Problems/0446.cpp)                                            |
+|  0447  |   Medium   | [Number of Boomerangs](Problems/0447.cpp)                                                          |
 |  0448  |    Easy    | [Find All Numbers Disappeared in an Array](Problems/0448.cpp)                                      |
 |  0449  |   Medium   | [Serialize and Deserialize BST](Problems/0449.cpp)                                                 |
 |  0450  |   Medium   | [Delete Node in a BST](Problems/0450.cpp)                                                          |
@@ -587,6 +588,7 @@ for solving problems.
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
 |  1039  |   Medium   | [Minimum Score Triangulation of Polygon](Problems/1039.cpp)                                        |
 |  1040  |   Medium   | [Moving Stones Until Consecutive II](Problems/1040.cpp)                                            |
+|  1041  |   Medium   | [Robot Bounded In Circle](Problems/1041.cpp)                                                       |
 |  1042  |   Medium   | [Flower Planting With No Adjacent](Problems/1042.cpp)                                              |
 |  1043  |   Medium   | [Partition Array for Maximum Sum](Problems/1043.cpp)                                               |
 |  1045  |   Medium   | [Customers Who Bought All Products](Problems/1045.cpp)                                             |
@@ -604,6 +606,7 @@ for solving problems.
 |  1074  |    Hard    | [Number of Submatrices That Sum to Target](Problems/1074.cpp)                                      |
 |  1075  |    Easy    | [Project Employees I](Problems/1075.cpp)                                                           |
 |  1079  |   Medium   | [Letter Tile Possibilities](Problems/1079.cpp)                                                     |
+|  1080  |   Medium   | [Insufficient Nodes in Root to Leaf Paths](Problems/1080.cpp)                                      |
 |  1081  |   Medium   | [Smallest Subsequence of Distinct Characters](Problems/1081.cpp)                                   |
 |  1084  |    Easy    | [Sales Analysis III](Problems/1084.cpp)                                                            |
 |  1089  |    Easy    | [Duplicate Zeros](Problems/1089.cpp)                                                               |
@@ -779,6 +782,7 @@ for solving problems.
 |  1503  |   Medium   | [Last Moment Before All Ants Fall Out of a Plank](Problems/1503.cpp)                               |
 |  1504  |   Medium   | [Count Submatrices With All Ones](Problems/1504.cpp)                                               |
 |  1508  |   Medium   | [Range Sum of Sorted Subarray Sums](Problems/1508.cpp)                                             |
+|  1509  |   Medium   | [Minimum Difference Between Largest and Smallest Value in Three Moves](Problems/1509.cpp)          |
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
 |  1517  |    Easy    | [Find Users With Valid E-Mails](Problems/1517.cpp)                                                 |
@@ -1103,6 +1107,7 @@ for solving problems.
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
+|  2840  |   Medium   | [Check if Strings Can be Made Equal With Operations II](Problems/2840.cpp)                         |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
 |  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
