@@ -372,6 +372,7 @@ for solving problems.
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                           |
 |  0550  |   Medium   | [Game Play Analysis IV](Problems/0550.cpp)                                                         |
 |  0553  |   Medium   | [Optimal Division](Problems/0553.cpp)                                                              |
+|  0554  |   Medium   | [Brick Wall](Problems/0554.cpp)                                                                    |
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                      |
 |  0557  |    Easy    | [Reverse Words in a String III](Problems/0557.cpp)                                                 |
 |  0559  |    Easy    | [Maximum Depth of N-ary Tree](Problems/0559.cpp)                                                   |
