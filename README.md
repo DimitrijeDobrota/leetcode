@@ -595,6 +595,7 @@ for solving problems.
 |  1046  |    Easy    | [Last Stone Weight](Problems/1046.cpp)                                                             |
 |  1047  |    Easy    | [Remove All Adjacent Duplicates In String](Problems/1047.cpp)                                      |
 |  1048  |   Medium   | [Longest String Chain](Problems/1048.cpp)                                                          |
+|  1049  |   Medium   | [Last Stone Weight II](Problems/1049.cpp)                                                          |
 |  1050  |    Easy    | [Actors and Directors Who Cooperated At Least Three Times](Problems/1050.cpp)                      |
 |  1051  |    Easy    | [Height Checker](Problems/1051.cpp)                                                                |
 |  1052  |   Medium   | [Grumpy Bookstore Owner](Problems/1052.cpp)                                                        |
