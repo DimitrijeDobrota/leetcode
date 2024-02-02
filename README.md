@@ -419,6 +419,7 @@ for solving problems.
 |  0647  |   Medium   | [Palindromic Substrings](Problems/0647.cpp)                                                        |
 |  0648  |   Medium   | [Replace Words](Problems/0648.cpp)                                                                 |
 |  0649  |   Medium   | [Dota2 Senate](Problems/0649.cpp)                                                                  |
+|  0650  |   Medium   | [2 Keys Keyboard](Problems/0650.cpp)                                                               |
 |  0652  |   Medium   | [Find Duplicate Subtrees](Problems/0652.cpp)                                                       |
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                   |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                           |
