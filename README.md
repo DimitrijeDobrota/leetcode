@@ -1095,6 +1095,7 @@ for solving problems.
 |  2665  |    Easy    | [Counter II](Problems/2665.js)                                                                     |
 |  2666  |    Easy    | [Allow One Function Call](Problems/2666.js)                                                        |
 |  2667  |    Easy    | [Create Hello World Function](Problems/2667.js)                                                    |
+|  2672  |   Medium   | [Number of Adjacent Elements With the Same Color](Problems/2672.cpp)                               |
 |  2673  |   Medium   | [Make Costs of Paths Equal in a Binary Tree](Problems/2673.cpp)                                    |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                       |
 |  2679  |   Medium   | [Sum in a Matrix](Problems/2679.cpp)                                                               |
