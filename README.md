@@ -464,6 +464,7 @@ for solving problems.
 |  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                             |
 |  0769  |   Medium   | [Max Chunks To Make Sorted](Problems/0769.cpp)                                                     |
 |  0779  |   Medium   | [K-th Symbol in Grammar](Problems/0779.cpp)                                                        |
+|  0781  |   Medium   | [Rabbits in Forest](Problems/0781.cpp)                                                             |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                            |
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                       |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                           |
