@@ -888,6 +888,7 @@ for solving problems.
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
+|  1775  |   Medium   | [Equal Sum Arrays With Minimum Number of Operations](Problems/1775.cpp)                            |
 |  1780  |   Medium   | [Check if Number is a Sum of Powers of Three](Problems/1780.cpp)                                   |
 |  1781  |   Medium   | [Sum of Beauty of All Substrings](Problems/1781.cpp)                                               |
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
