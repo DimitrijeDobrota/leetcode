@@ -314,6 +314,7 @@ for solving problems.
 |  0416  |   Medium   | [Partition Equal Subset Sum](Problems/0416.cpp)                                                    |
 |  0417  |   Medium   | [Pacific Atlantic Water Flow](Problems/0417.cpp)                                                   |
 |  0419  |   Medium   | [Battleships in a Board](Problems/0419.cpp)                                                        |
+|  0421  |   Medium   | [Maximum XOR of Two Numbers in an Array](Problems/0421.cpp)                                        |
 |  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                       |
 |  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                           |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                              |
