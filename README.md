@@ -769,6 +769,7 @@ for solving problems.
 |  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
 |  1461  |   Medium   | [Check If a String Contains All Binary Codes of Size K](Problems/1461.cpp)                         |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
+|  1463  |    Hard    | [Cherry Pickup II](Problems/1463.cpp)                                                              |
 |  1464  |    Easy    | [Maximum Product of Two Elements in an Array](Problems/1464.cpp)                                   |
 |  1466  |   Medium   | [Reorder Routes to Make All Paths Lead to the City Zero](Problems/1466.cpp)                        |
 |  1470  |    Easy    | [Shuffle the Array](Problems/1470.cpp)                                                             |
