@@ -969,6 +969,7 @@ for solving problems.
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                       |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                    |
 |  2104  |   Medium   | [Sum of Subarray Ranges](Problems/2104.cpp)                                                        |
+|  2108  |    Easy    | [Find First Palindromic String in the Array](Problems/2108.cpp)                                    |
 |  2109  |   Medium   | [Adding Spaces to a String](Problems/2109.cpp)                                                     |
 |  2110  |   Medium   | [Number of Smooth Descent Periods of a Stock](Problems/2110.cpp)                                   |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                                 |
