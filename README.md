@@ -1113,6 +1113,7 @@ for solving problems.
 |  2706  |    Easy    | [Buy Two Chocolates](Problems/2706.cpp)                                                            |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
+|  2712  |   Medium   | [Minimum Cost to Make All Characters Equal](Problems/2712.cpp)                                     |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
 |  2742  |    Hard    | [Painting the Walls](Problems/2742.cpp)                                                            |
 |  2780  |   Medium   | [Minimum Index of a Valid Split](Problems/2780.cpp)                                                |
