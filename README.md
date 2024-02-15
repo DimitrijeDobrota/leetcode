@@ -1130,5 +1130,6 @@ for solving problems.
 |  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
 |  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
+|  2971  |   Medium   | [Find Polygon With the Largest Perimeter](Problems/2971.cpp)                                       |
 |  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
 |  3015  |   Medium   | [Count the Number of Houses at a Certain Distance I](Problems/3015.cpp)                            |
