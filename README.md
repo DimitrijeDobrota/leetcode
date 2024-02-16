@@ -987,6 +987,7 @@ for solving problems.
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                    |
 |  2178  |   Medium   | [Maximum Split of Positive Even Integers](Problems/2178.cpp)                                       |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                  |
+|  2182  |   Medium   | [Construct String With Repeat Limit](Problems/2182.cpp)                                            |
 |  2186  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram II](Problems/2186.cpp)                        |
 |  2187  |   Medium   | [Minimum Time to Complete Trips](Problems/2187.cpp)                                                |
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                           |
