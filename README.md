@@ -839,6 +839,7 @@ for solving problems.
 |  1638  |   Medium   | [Count Substrings That Differ by One Character](Problems/1638.cpp)                                 |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
 |  1641  |   Medium   | [Count Sorted Vowel Strings](Problems/1641.cpp)                                                    |
+|  1642  |   Medium   | [Furthest Building You Can Reach](Problems/1642.cpp)                                               |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
 |  1647  |   Medium   | [Minimum Deletions to Make Character Frequencies Unique](Problems/1647.cpp)                        |
 |  1653  |   Medium   | [Minimum Deletions to Make String Balanced](Problems/1653.cpp)                                     |
