@@ -940,6 +940,7 @@ for solving problems.
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
 |  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
+|  1954  |   Medium   | [Minimum Garden Perimeter to Collect Enough Apples](Problems/1954.cpp)                             |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                       |
