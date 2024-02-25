@@ -1120,6 +1120,7 @@ for solving problems.
 |  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
 |  2706  |    Easy    | [Buy Two Chocolates](Problems/2706.cpp)                                                            |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
+|  2709  |    Hard    | [Greatest Common Divisor Traversal](Problems/2709.cpp)                                             |
 |  2711  |   Medium   | [Difference of Number of Distinct Values on Diagonals](Problems/2711.cpp)                          |
 |  2712  |   Medium   | [Minimum Cost to Make All Characters Equal](Problems/2712.cpp)                                     |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
