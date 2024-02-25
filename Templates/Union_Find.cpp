@@ -29,6 +29,11 @@ class UnionFind {
         size[x] = 0;
     }
 
+    void reset() {
+        memset(size.data(), 0x00, size.size() * sizeof(int));
+        iota(begin(root), end(root), 0);
+    }
+
     int count() const { return cnt; }
     bool connected(int x, int y) const { return find(x) == find(y); }
 };
