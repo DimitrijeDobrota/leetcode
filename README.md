@@ -890,6 +890,7 @@ for solving problems.
 |  1758  |    Easy    | [Minimum Changes To Make Alternating Binary String](Problems/1758.cpp)                             |
 |  1759  |   Medium   | [Count Number of Homogenous Substrings](Problems/1759.cpp)                                         |
 |  1760  |   Medium   | [Minimum Limit of Balls in a Bag](Problems/1760.cpp)                                               |
+|  1764  |   Medium   | [Form Array by Concatenating Subarrays of Another Array](Problems/1764.cpp)                        |
 |  1765  |   Medium   | [Map of Highest Peak](Problems/1765.cpp)                                                           |
 |  1768  |    Easy    | [Merge Strings Alternately](Problems/1768.cpp)                                                     |
 |  1769  |   Medium   | [Minimum Number of Operations to Move All Balls to Each Box](Problems/1769.cpp)                    |
