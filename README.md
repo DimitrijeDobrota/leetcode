@@ -568,6 +568,7 @@ for solving problems.
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                   |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                  |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                          |
+|  0991  |   Medium   | [Broken Calculator](Problems/0991.cpp)                                                             |
 |  0992  |    Hard    | [Subarrays with K Different Integers](Problems/0992.cpp)                                           |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                        |
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
