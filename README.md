@@ -1087,6 +1087,7 @@ for solving problems.
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
+|  2571  |   Medium   | [Minimum Operations to Reduce an Integer to 0](Problems/2571.cpp)                                  |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2592  |   Medium   | [Maximize Greatness of an Array](Problems/2592.cpp)                                                |
 |  2596  |   Medium   | [Check Knight Tour Configuration](Problems/2596.cpp)                                               |
