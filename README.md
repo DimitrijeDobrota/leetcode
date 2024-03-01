@@ -1135,6 +1135,7 @@ for solving problems.
 |  2840  |   Medium   | [Check if Strings Can be Made Equal With Operations II](Problems/2840.cpp)                         |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
+|  2864  |    Easy    | [Maximum Odd Binary Number](Problems/2864.cpp)                                                     |
 |  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
