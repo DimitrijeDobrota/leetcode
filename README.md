@@ -488,6 +488,7 @@ for solving problems.
 |  0820  |   Medium   | [Short Encoding of Words](Problems/0820.cpp)                                                       |
 |  0823  |   Medium   | [Binary Trees With Factors](Problems/0823.cpp)                                                     |
 |  0830  |   Medium   | [Kth Smallest Element in a BST](Problems/0230.cpp)                                                 |
+|  0833  |   Medium   | [Find And Replace in String](Problems/0833.cpp)                                                    |
 |  0835  |   Medium   | [Image Overlap](Problems/0835.cpp)                                                                 |
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                   |
 |  0838  |   Medium   | [Push Dominoes](Problems/0838.cpp)                                                                 |
