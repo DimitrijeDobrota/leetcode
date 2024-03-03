@@ -1129,6 +1129,7 @@ for solving problems.
 |  2712  |   Medium   | [Minimum Cost to Make All Characters Equal](Problems/2712.cpp)                                     |
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
 |  2742  |    Hard    | [Painting the Walls](Problems/2742.cpp)                                                            |
+|  2745  |   Medium   | [Construct the Longest New String](Problems/2745.cpp)                                              |
 |  2780  |   Medium   | [Minimum Index of a Valid Split](Problems/2780.cpp)                                                |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
