@@ -550,6 +550,7 @@ for solving problems.
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                                 |
 |  0946  |   Medium   | [Validate Stack Sequences](Problems/0946.cpp)                                                      |
 |  0947  |   Medium   | [Most Stones Removed with Same Row or Column](Problems/0947.cpp)                                   |
+|  0948  |   Medium   | [Bag of Tokens](Problems/0948.cpp)                                                                 |
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                              |
 |  0951  |   Medium   | [Flip Equivalent Binary Trees](Problems/0951.cpp)                                                  |
 |  0953  |    Easy    | [Verifying an Alien Dictionary](Problems/0953.cpp)                                                 |
