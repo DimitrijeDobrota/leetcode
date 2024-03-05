@@ -887,6 +887,7 @@ for solving problems.
 |  1741  |    Easy    | [Find Total Time Spent by Each Employee](Problems/1741.cpp)                                        |
 |  1743  |   Medium   | [Restore the Array From Adjacent Pairs](Problems/1743.cpp)                                         |
 |  1749  |   Medium   | [Maximum Absolute Sum of Any Subarray](Problems/1749.cpp)                                          |
+|  1750  |   Medium   | [Minimum Length of String After Deleting Similar Ends](Problems/1750.cpp)                          |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
 |  1757  |    Easy    | [Recyclable and Low Fat Products](Problems/1757.cpp)                                               |
