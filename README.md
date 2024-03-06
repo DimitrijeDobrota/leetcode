@@ -904,6 +904,7 @@ for solving problems.
 |  1786  |   Medium   | [Number of Restricted Paths From First to Last Node](Problems/1786.cpp)                            |
 |  1789  |    Easy    | [Primary Department for Each Employee](Problems/1789.cpp)                                          |
 |  1791  |    Easy    | [Find Center of Star Graph](Problems/1791.cpp)                                                     |
+|  1792  |   Medium   | [Maximum Average Pass Ratio](Problems/1792.cpp)                                                    |
 |  1793  |    Hard    | [Maximum Score of a Good Subarray](Problems/1793.cpp)                                              |
 |  1795  |    Easy    | [Rearrange Products Table](Problems/1795.cpp)                                                      |
 |  1797  |   Medium   | [Design Authentication Manager](Problems/1797.cpp)                                                 |
