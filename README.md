@@ -284,6 +284,7 @@ for solving problems.
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                       |
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                                 |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                             |
+|  0357  |   Medium   | [Count Numbers with Unique Digits](Problems/0357.cpp)                                              |
 |  0367  |    Easy    | [Valid Perfect Square](Problems/0367.cpp)                                                          |
 |  0368  |   Medium   | [Largest Divisible Subset](Problems/0368.cpp)                                                      |
 |  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                           |
@@ -1087,6 +1088,7 @@ for solving problems.
 |  2498  |   Medium   | [Frog Jump II](Problems/2498.cpp)                                                                  |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
+|  2540  |    Easy    | [Minimum Common Value](Problems/2540.cpp)                                                          |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
