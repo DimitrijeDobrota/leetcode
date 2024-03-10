@@ -282,6 +282,7 @@ for solving problems.
 |  0344  |    Easy    | [Reverse String](Problems/0344.cpp)                                                                |
 |  0345  |    Easy    | [Reverse Vowels of a String](Problems/0345.cpp)                                                    |
 |  0347  |   Medium   | [Top K Frequent Elements](Problems/0347.cpp)                                                       |
+|  0349  |    Easy    | [Intersection of Two Arrays](Problems/0349.cpp)                                                    |
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                                 |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                             |
 |  0357  |   Medium   | [Count Numbers with Unique Digits](Problems/0357.cpp)                                              |
