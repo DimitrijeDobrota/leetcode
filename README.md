@@ -965,6 +965,7 @@ for solving problems.
 |  2009  |    Hard    | [Minimum Number of Operations to Make Array Continuous](Problems/2009.cpp)                         |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
+|  2033  |   Medium   | [Minimum Operations to Make a Uni-Value Grid](Problems/2033.cpp)                                   |
 |  2038  |   Medium   | [Remove Colored Pieces if Both Neighbors are the Same Color](Problems/2038.cpp)                    |
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                        |
 |  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
