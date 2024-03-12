@@ -649,6 +649,7 @@ for solving problems.
 |  1162  |   Medium   | [As Far from Land as Possible](Problems/1162.cpp)                                                  |
 |  1164  |   Medium   | [Product Price at a Given Date](Problems/1164.cpp)                                                 |
 |  1170  |   Medium   | [Compare Strings by Frequency of the Smallest Character](Problems/1170.cpp)                        |
+|  1171  |   Medium   | [Remove Zero Sum Consecutive Nodes from Linked List](Problems/1171.cpp)                            |
 |  1174  |   Medium   | [Immediate Food Delivery II](Problems/1174.cpp)                                                    |
 |  1179  |    Easy    | [Reformat Department Table](Problems/1179.cpp)                                                     |
 |  1187  |    Hard    | [Make Array Strictly Increasing](Problems/1187.cpp)                                                |
