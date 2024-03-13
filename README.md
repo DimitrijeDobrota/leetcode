@@ -1083,6 +1083,7 @@ for solving problems.
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                    |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                           |
 |  2483  |   Medium   | [Minimum Penalty for a Shop](Problems/2483.cpp)                                                    |
+|  2485  |    Easy    | [Find the Pivot Integer](Problems/2485.cpp)                                                        |
 |  2486  |   Medium   | [Append Characters to String to Make Subsequence](Problems/2486.cpp)                               |
 |  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
 |  2491  |   Medium   | [Divide Players Into Teams of Equal Skill](Problems/2491.cpp)                                      |
