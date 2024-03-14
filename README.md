@@ -746,6 +746,7 @@ for solving problems.
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
 |  1400  |   Medium   | [Construct K Palindrome Strings](Problems/1400.cpp)                                                |
 |  1402  |    Hard    | [Reducing Dishes](Problems/1402.cpp)                                                               |
+|  1404  |   Medium   | [Number of Steps to Reduce a Number in Binary Representation to One](Problems/1404.cpp)            |
 |  1405  |   Medium   | [Longest Happy String](Problems/1405.cpp)                                                          |
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
 |  1407  |    Easy    | [Top Travellers](Problems/1407.cpp)                                                                |
