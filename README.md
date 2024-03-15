@@ -464,6 +464,7 @@ for solving problems.
 |  0746  |    Easy    | [Min Cost Climbing Stairs](Problems/0746.cpp)                                                      |
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                       |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                                 |
+|  0756  |   Medium   | [Pyramid Transition Matrix](Problems/0756.cpp)                                                     |
 |  0763  |   Medium   | [Partition Labels](Problems/0763.cpp)                                                              |
 |  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                             |
 |  0769  |   Medium   | [Max Chunks To Make Sorted](Problems/0769.cpp)                                                     |
