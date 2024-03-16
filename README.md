@@ -362,6 +362,7 @@ for solving problems.
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
+|  0525  |   Medium   | [Contiguous Array](Problems/0525.cpp)                                                              |
 |  0526  |   Medium   | [Beautiful Arrangement](Problems/0526.cpp)                                                         |
 |  0529  |   Medium   | [Minesweeper](Problems/0529.cpp)                                                                   |
 |  0530  |    Easy    | [Minimum Absolute Difference in BST](Problems/0530.cpp)                                            |
