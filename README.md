@@ -584,6 +584,7 @@ for solving problems.
 |  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
 |  1006  |   Medium   | [Clumsy Factorial](Problems/1006.cpp)                                                              |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
+|  1010  |   Medium   | [Pairs of Songs With Total Durations Divisible by 60](Problems/1010.cpp)                           |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
 |  1016  |   Medium   | [Binary String With Substrings Representing 1 To N](Problems/1016.cpp)                             |
