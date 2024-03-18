@@ -932,6 +932,7 @@ for solving problems.
 |  1845  |   Medium   | [Seat Reservation Manager](Problems/1845.cpp)                                                      |
 |  1846  |   Medium   | [Maximum Element After Decreasing and Rearranging](Problems/1846.cpp)                              |
 |  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                       |
+|  1855  |   Medium   | [Maximum Distance Between a Pair of Values](Problems/1855.cpp)                                     |
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                       |
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                       |
 |  1861  |   Medium   | [Rotating the Box](Problems/1861.cpp)                                                              |
