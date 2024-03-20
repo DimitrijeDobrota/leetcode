@@ -1158,6 +1158,7 @@ for solving problems.
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
+|  2938  |   Medium   | [Separate Black and White Balls](Problems/2938.cpp)                                                |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
 |  2952  |   Medium   | [Minimum Number of Coins to be Added](Problems/2952.cpp)                                           |
 |  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
