@@ -486,6 +486,7 @@ for solving problems.
 |  0807  |   Medium   | [Max Increase to Keep City Skyline](Problems/0807.cpp)                                             |
 |  0808  |   Medium   | [Soup Servings](Problems/0808.cpp)                                                                 |
 |  0811  |   Medium   | [Subdomain Visit Count](Problems/0811.cpp)                                                         |
+|  0813  |   Medium   | [Largest Sum of Averages](Problems/0813.cpp)                                                       |
 |  0814  |   Medium   | [Binary Tree Pruning](Problems/0814.cpp)                                                           |
 |  0815  |    Hard    | [Bus Routes](Problems/0815.cpp)                                                                    |
 |  0816  |   Medium   | [Ambiguous Coordinates](Problems/0816.cpp)                                                         |
