@@ -552,6 +552,7 @@ for solving problems.
 |  0935  |   Medium   | [Knight Dialer](Problems/0935.cpp)                                                                 |
 |  0937  |   Medium   | [Reorder Data in Log Files](Problems/0937.cpp)                                                     |
 |  0938  |    Easy    | [Range Sum of BST](Problems/0938.cpp)                                                              |
+|  0939  |   Medium   | [Minimum Area Rectangle](Problems/0939.cpp)                                                        |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                          |
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                                 |
 |  0946  |   Medium   | [Validate Stack Sequences](Problems/0946.cpp)                                                      |
