@@ -556,6 +556,7 @@ for solving problems.
 |  0939  |   Medium   | [Minimum Area Rectangle](Problems/0939.cpp)                                                        |
 |  0941  |    Easy    | [Valid Mountain Array](Problems/0941.cpp)                                                          |
 |  0944  |    Easy    | [Delete Columns to Make Sorted](Problems/0944.cpp)                                                 |
+|  0945  |   Medium   | [Minimum Increment to Make Array Unique](Problems/0945.cpp)                                        |
 |  0946  |   Medium   | [Validate Stack Sequences](Problems/0946.cpp)                                                      |
 |  0947  |   Medium   | [Most Stones Removed with Same Row or Column](Problems/0947.cpp)                                   |
 |  0948  |   Medium   | [Bag of Tokens](Problems/0948.cpp)                                                                 |
