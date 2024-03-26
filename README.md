@@ -1030,6 +1030,7 @@ for solving problems.
 |  2244  |   Medium   | [Minimum Rounds to Complete All Tasks](Problems/2244.cpp)                                          |
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                               |
 |  2251  |    Hard    | [Number of Flowers in Full Bloom](Problems/2251.cpp)                                               |
+|  2257  |   Medium   | [Count Unguarded Cells in the Grid](Problems/2257.cpp)                                             |
 |  2264  |    Easy    | [Largest 3-Same-Digit Number in String](Problems/2264.cpp)                                         |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
