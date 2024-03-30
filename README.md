@@ -1181,3 +1181,4 @@ for solving problems.
 |  3034  |   Medium   | [Number of Subarrays That Match a Pattern I](Problems/3034.cpp)                                    |
 |  3039  |   Medium   | [Apply Operations to Make String Empty](Problems/3039.cpp)                                         |
 |  3070  |   Medium   | [Count Submatrices with Top-Left Element and Sum Less Than k](Problems/3070.cpp)                   |
+|  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
