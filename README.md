@@ -1165,6 +1165,7 @@ for solving problems.
 |  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
+|  2909  |   Medium   | [Minimum Sum of Mountain Triplets II](Problems/2909.cpp)                                           |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
 |  2938  |   Medium   | [Separate Black and White Balls](Problems/2938.cpp)                                                |
