@@ -589,6 +589,7 @@ for solving problems.
 |  1003  |   Medium   | [Check If Word Is Valid After Substitutions](Problems/1003.cpp)                                    |
 |  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
 |  1006  |   Medium   | [Clumsy Factorial](Problems/1006.cpp)                                                              |
+|  1007  |   Medium   | [Minimum Domino Rotations For Equal Row](Problems/1007.cpp)                                        |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
 |  1010  |   Medium   | [Pairs of Songs With Total Durations Divisible by 60](Problems/1010.cpp)                           |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
@@ -1053,6 +1054,7 @@ for solving problems.
 |  2328  |    Hard    | [Number of Increasing Paths in a Grid](Problems/2328.cpp)                                          |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                  |
 |  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                               |
+|  2342  |   Medium   | [Max Sum of a Pair With Equal Sum of Digits](Problems/2342.cpp)                                    |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                             |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                               |
 |  2352  |   Medium   | [Equal Row and Column Pairs](Problems/2352.cpp)                                                    |
@@ -1183,4 +1185,3 @@ for solving problems.
 |  3039  |   Medium   | [Apply Operations to Make String Empty](Problems/3039.cpp)                                         |
 |  3070  |   Medium   | [Count Submatrices with Top-Left Element and Sum Less Than k](Problems/3070.cpp)                   |
 |  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
-|  2342  |   Medium   | [Max Sum of a Pair With Equal Sum of Digits](Problems/2342.cpp)                                    |
