@@ -847,6 +847,7 @@ for solving problems.
 |  1605  |   Medium   | [Find Valid Matrix Given Row and Column Sums](Problems/1605.cpp)                                   |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                                 |
 |  1611  |    Hard    | [Minimum One Bit Operations to Make Integers Zero](Problems/1611.cpp)                              |
+|  1614  |    Easy    | [Maximum Nesting Depth of the Parentheses](Problems/1614.cpp)                                      |
 |  1615  |   Medium   | [Maximal Network Rank](Problems/1615.cpp)                                                          |
 |  1624  |    Easy    | [Largest Substring Between Two Equal Characters](Problems/1624.cpp)                                |
 |  1625  |   Medium   | [Lexicographically Smallest String After Applying Operations](Problems/1625.cpp)                   |
