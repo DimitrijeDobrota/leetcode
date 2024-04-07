@@ -440,6 +440,7 @@ for solving problems.
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
 |  0676  |   Medium   | [Implement Magic Dictionary](Problems/0676.cpp)                                                    |
 |  0677  |   Medium   | [Map Sum Pairs](Problems/0677.cpp)                                                                 |
+|  0678  |   Medium   | [Valid Parenthesis String](Problems/0678.cpp)                                                      |
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                          |
 |  0688  |   Medium   | [Knight Probability in Chessboard](Problems/0688.cpp)                                              |
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
