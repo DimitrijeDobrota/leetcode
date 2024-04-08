@@ -519,6 +519,7 @@ for solving problems.
 |  0865  |   Medium   | [Smallest Subtree with all the Deepest Nodes](Problems/0865.cpp)                                   |
 |  0867  |    Easy    | [Transpose Matrix](Problems/0867.cpp)                                                              |
 |  0869  |   Medium   | [Reordered Power of 2](Problems/0869.cpp)                                                          |
+|  0870  |   Medium   | [Advantage Shuffle](Problems/0870.cpp)                                                             |
 |  0872  |    Easy    | [Leaf-Similar Trees](Problems/0872.cpp)                                                            |
 |  0875  |   Medium   | [Koko Eating Bananas](Problems/0875.cpp)                                                           |
 |  0876  |    Easy    | [Middle of the Linked List](Problems/0876.cpp)                                                     |
