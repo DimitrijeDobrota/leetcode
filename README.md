@@ -1011,6 +1011,7 @@ for solving problems.
 |  2125  |   Medium   | [Number of Laser Beams in a Bank](Problems/2125.cpp)                                               |
 |  2130  |   Medium   | [Maximum Twin Sum of a Linked List](Problems/2130.cpp)                                             |
 |  2131  |   Medium   | [Longest Palindrome by Concatenating Two Letter Words](Problems/2131.cpp)                          |
+|  2134  |   Medium   | [Minimum Swaps to Group All 1's Together II](Problems/2134.cpp)                                    |
 |  2140  |   Medium   | [Solving Questions With Brainpower](Problems/2140.cpp)                                             |
 |  2141  |    Hard    | [Maximum Running Time of N Computers](Problems/2141.cpp)                                           |
 |  2147  |    Hard    | [Number of Ways to Divide a Long Corridor](Problems/2147.cpp)                                      |
