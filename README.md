@@ -1196,3 +1196,4 @@ for solving problems.
 |  3070  |   Medium   | [Count Submatrices with Top-Left Element and Sum Less Than k](Problems/3070.cpp)                   |
 |  3100  |   Medium   | [Water Bottles II](Problems/3100.cpp)                                                              |
 |  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
+|  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
