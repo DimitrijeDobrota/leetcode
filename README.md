@@ -1197,3 +1197,4 @@ for solving problems.
 |  3100  |   Medium   | [Water Bottles II](Problems/3100.cpp)                                                              |
 |  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
 |  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
+|  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
