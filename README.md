@@ -583,6 +583,7 @@ for solving problems.
 |  0983  |   Medium   | [Minimum Cost For Tickets](Problems/0983.cpp)                                                      |
 |  0985  |   Medium   | [Sum of Even Numbers After Queries](Problems/0985.cpp)                                             |
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                   |
+|  0988  |   Medium   | [Smallest String Starting From Leaf](Problems/0988.cpp)                                            |
 |  0989  |    Easy    | [Add to Array-Form of Integer](Problems/0989.cpp)                                                  |
 |  0990  |   Medium   | [Satisfiability of Equality Equations](Problems/0990.cpp)                                          |
 |  0991  |   Medium   | [Broken Calculator](Problems/0991.cpp)                                                             |
