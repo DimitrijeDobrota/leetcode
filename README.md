@@ -828,6 +828,7 @@ for solving problems.
 |  1531  |    Hard    | [String Compression II](Problems/1531.cpp)                                                         |
 |  1535  |   Medium   | [Find the Winner of an Array Game](Problems/1535.cpp)                                              |
 |  1539  |    Easy    | [Kth Missing Positive Number](Problems/1539.cpp)                                                   |
+|  1541  |   Medium   | [Minimum Insertions to Balance a Parentheses String](Problems/1541.cpp)                            |
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
 |  1545  |   Medium   | [Find Kth Bit in Nth Binary String](Problems/1545.cpp)                                             |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
