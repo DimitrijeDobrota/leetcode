@@ -659,6 +659,7 @@ for solving problems.
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                                 |
 |  1141  |    Easy    | [User Activity for the Past 30 Days I](Problems/1141.cpp)                                          |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
+|  1145  |   Medium   | [Binary Tree Coloring Game](Problems/1145.cpp)                                                     |
 |  1146  |   Medium   | [Snapshot Array](Problems/1146.cpp)                                                                |
 |  1148  |    Easy    | [Article Views I](Problems/1148.cpp)                                                               |
 |  1155  |   Medium   | [Number of Dice Rolls With Target Sum](Problems/1155.cpp)                                          |
