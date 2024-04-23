@@ -1027,6 +1027,7 @@ for solving problems.
 |  2150  |   Medium   | [Find All Lonely Numbers in the Array](Problems/2150.cpp)                                          |
 |  2155  |   Medium   | [All Divisions With the Highest Score of a Binary Array](Problems/2155.cpp)                        |
 |  2161  |   Medium   | [Partition Array According to Given Pivot](Problems/2161.cpp)                                      |
+|  2165  |   Medium   | [Smallest Value of the Rearranged Number](Problems/2165.cpp)                                       |
 |  2177  |   Medium   | [Find Three Consecutive Integers That Sum to a Given Number](Problems/2177.cpp)                    |
 |  2178  |   Medium   | [Maximum Split of Positive Even Integers](Problems/2178.cpp)                                       |
 |  2181  |   Medium   | [Merge Nodes in Between Zeros](Problems/2181.cpp)                                                  |
