@@ -713,6 +713,7 @@ for solving problems.
 |  1291  |   Medium   | [Sequential Digits](Problems/1291.cpp)                                                             |
 |  1292  |   Medium   | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](Problems/1292.cpp)      |
 |  1296  |   Medium   | [Divide Array in Sets of K Consecutive Numbers](Problems/1296.cpp)                                 |
+|  1297  |   Medium   | [Maximum Number of Occurrences of a Substring](Problems/1297.cpp)                                  |
 |  1302  |   Medium   | [Deepest Leaves Sum](Problems/1302.cpp)                                                            |
 |  1305  |   Medium   | [All Elements in Two Binary Search Trees](Problems/1305.cpp)                                       |
 |  1306  |   Medium   | [Jump Game III](Problems/1306.cpp)                                                                 |
