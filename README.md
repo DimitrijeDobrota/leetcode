@@ -1083,6 +1083,7 @@ for solving problems.
 |  2366  |    Hard    | [Minimum Replacements to Sort the Array](Problems/2366.cpp)                                        |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                             |
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                             |
+|  2370  |   Medium   | [Longest Ideal Subsequence](Problems/2370.cpp)                                                     |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                  |
 |  2375  |   Medium   | [Construct Smallest Number From DI String](Problems/2375.cpp)                                      |
 |  2385  |   Medium   | [Amount of Time for Binary Tree to Be Infected](Problems/2385.cpp)                                 |
