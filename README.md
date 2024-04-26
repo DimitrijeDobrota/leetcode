@@ -709,6 +709,7 @@ for solving problems.
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
 |  1287  |    Easy    | [Element Appearing More Than 25% In Sorted Array](Problems/1287.cpp)                               |
 |  1288  |   Medium   | [Remove Covered Intervals](Problems/1288.cpp)                                                      |
+|  1289  |    Hard    | [Minimum Falling Path Sum II](Problems/1289.cpp)                                                   |
 |  1290  |    Easy    | [Convert Binary Number in a Linked List to Integer](Problems/1290.cpp)                             |
 |  1291  |   Medium   | [Sequential Digits](Problems/1291.cpp)                                                             |
 |  1292  |   Medium   | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](Problems/1292.cpp)      |
