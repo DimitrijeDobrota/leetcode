@@ -362,6 +362,7 @@ for solving problems.
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
 |  0511  |    Easy    | [Game Play Analysis I](Problems/0511.cpp)                                                          |
 |  0513  |   Medium   | [Find Bottom Left Tree Value](Problems/0513.cpp)                                                   |
+|  0514  |    Hard    | [Freedom Trail](Problems/0514.cpp)                                                                 |
 |  0515  |   Medium   | [Find Largest Value in Each Tree Row](Problems/0515.cpp)                                           |
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
