@@ -967,6 +967,7 @@ for solving problems.
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
 |  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
 |  1890  |    Easy    | [The Latest Login in 2020](Problems/1890.cpp)                                                      |
+|  1895  |   Medium   | [Largest Magic Square](Problems/1895.cpp)                                                          |
 |  1897  |    Easy    | [Redistribute Characters to Make All Strings Equal](Problems/1897.cpp)                             |
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
 |  1903  |    Easy    | [Largest Odd Number in String](Problems/1903.cpp)                                                  |
