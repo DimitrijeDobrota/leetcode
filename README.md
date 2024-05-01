@@ -994,6 +994,7 @@ for solving problems.
 |  1980  |   Medium   | [Find Unique Binary String](Problems/1980.cpp)                                                     |
 |  1991  |    Easy    | [Find the Middle Index in Array](Problems/1991.cpp)                                                |
 |  1992  |   Medium   | [Find All Groups of Farmland](Problems/1992.cpp)                                                   |
+|  2000  |    Easy    | [Reverse Prefix of Word](Problems/2000.cpp)                                                        |
 |  2002  |   Medium   | [Maximum Product of the Length of Two Palindromic Subsequences](Problems/2002.cpp)                 |
 |  2009  |    Hard    | [Minimum Number of Operations to Make Array Continuous](Problems/2009.cpp)                         |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
