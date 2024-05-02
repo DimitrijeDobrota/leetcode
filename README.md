@@ -1109,6 +1109,7 @@ for solving problems.
 |  2428  |   Medium   | [Maximum Sum of an Hourglass](Problems/2428.cpp)                                                   |
 |  2433  |   Medium   | [Find The Original Array of Prefix Xor](Problems/2433.cpp)                                         |
 |  2439  |   Medium   | [Minimize Maximum of Array](Problems/2439.cpp)                                                     |
+|  2441  |    Easy    | [Largest Positive Integer That Exists With Its Negative](Problems/2441.cpp)                        |
 |  2442  |   Medium   | [Count Number of Distinct Integers After Reverse Operations](Problems/2442.cpp)                    |
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                             |
 |  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                              |
