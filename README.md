@@ -276,6 +276,7 @@ for solving problems.
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                          |
 |  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                                |
+|  0337  |   Medium   | [House Robber III](Problems/0337.cpp)                                                              |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                                 |
 |  0341  |   Medium   | [Flatten Nested List Iterator](Problems/0341.cpp)                                                  |
 |  0342  |    Easy    | [Power of Four](Problems/0342.cpp)                                                                 |
