@@ -1087,6 +1087,7 @@ for solving problems.
 |  2358  |   Medium   | [Maximum Number of Groups Entering a Competition](Problems/2358.cpp)                               |
 |  2359  |   Medium   | [Find Closest Node to Given Two Nodes](Problems/2359.cpp)                                          |
 |  2360  |    Hard    | [Longest Cycle in a Graph](Problems/2360.cpp)                                                      |
+|  2365  |   Medium   | [Task Scheduler II](Problems/2365.cpp)                                                             |
 |  2366  |    Hard    | [Minimum Replacements to Sort the Array](Problems/2366.cpp)                                        |
 |  2368  |   Medium   | [Reachable Nodes With Restrictions](Problems/2368.cpp)                                             |
 |  2369  |   Medium   | [Check if There is a Valid Partition For The Array](Problems/2369.cpp)                             |
