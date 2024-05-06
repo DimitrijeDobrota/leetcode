@@ -1062,6 +1062,7 @@ for solving problems.
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
 |  2265  |   Medium   | [Count Nodes Equal to Average of Subtree](Problems/2265.cpp)                                       |
 |  2272  |    Hard    | [Substring With Largest Variance](Problems/2272.cpp)                                               |
+|  2274  |   Medium   | [Maximum Consecutive Floors Without Special Floors](Problems/2274.cpp)                             |
 |  2275  |   Medium   | [Largest Combination With Bitwise AND Greater Than Zero](Problems/2275.cpp)                        |
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                      |
 |  2284  |   Medium   | [Sender With Largest Word Count](Problems/2284.cpp)                                                |
