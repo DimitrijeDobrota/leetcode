@@ -359,6 +359,7 @@ for solving problems.
 |  0501  |    Easy    | [Find Mode in Binary Search Tree](Problems/0501.cpp)                                               |
 |  0502  |    Hard    | [IPO](Problems/0502.cpp)                                                                           |
 |  0503  |   Medium   | [Next Greater Element II](Problems/0503.cpp)                                                       |
+|  0506  |    Easy    | [Relative Ranks](Problems/0506.cpp)                                                                |
 |  0508  |   Medium   | [Most Frequent Subtree Sum](Problems/0508.cpp)                                                     |
 |  0509  |    Easy    | [Fibonacci Number](Problems/0509.cpp)                                                              |
 |  0511  |    Easy    | [Game Play Analysis I](Problems/0511.cpp)                                                          |
