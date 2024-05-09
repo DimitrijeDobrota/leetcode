@@ -1217,6 +1217,7 @@ for solving problems.
 |  3039  |   Medium   | [Apply Operations to Make String Empty](Problems/3039.cpp)                                         |
 |  3067  |   Medium   | [Count Pairs of Connectable Servers in a Weighted Tree Network](Problems/3067.cpp)                 |
 |  3070  |   Medium   | [Count Submatrices with Top-Left Element and Sum Less Than k](Problems/3070.cpp)                   |
+|  3075  |   Medium   | [Maximize Happiness of Selected Children](Problems/3075.cpp)                                       |
 |  3100  |   Medium   | [Water Bottles II](Problems/3100.cpp)                                                              |
 |  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
 |  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
