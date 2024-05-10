@@ -484,6 +484,7 @@ for solving problems.
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                            |
 |  0784  |   Medium   | [Letter Case Permutation](Problems/0784.cpp)                                                       |
 |  0785  |   Medium   | [Is Graph Bipartite?](Problems/0785.cpp)                                                           |
+|  0786  |   Medium   | [K-th Smallest Prime Fraction](Problems/0786.cpp)                                                  |
 |  0787  |   Medium   | [Cheapest Flights Within K Stops](Problems/0787.cpp)                                               |
 |  0788  |   Medium   | [Rotated Digits](Problems/0788.cpp)                                                                |
 |  0789  |   Medium   | [Escape The Ghosts](Problems/0789.cpp)                                                             |
