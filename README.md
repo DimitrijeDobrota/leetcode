@@ -519,6 +519,7 @@ for solving problems.
 |  0852  |   Medium   | [Peak Index in a Mountain Array](Problems/0852.cpp)                                                |
 |  0853  |   Medium   | [Car Fleet](Problems/0853.cpp)                                                                     |
 |  0856  |   Medium   | [Score of Parentheses](Problems/0856.cpp)                                                          |
+|  0857  |    Hard    | [Minimum Cost to Hire K Workers](Problems/0857.cpp)                                                |
 |  0858  |   Medium   | [Mirror Reflection](Problems/0858.cpp)                                                             |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                                 |
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                   |
