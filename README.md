@@ -1208,6 +1208,7 @@ for solving problems.
 |  2938  |   Medium   | [Separate Black and White Balls](Problems/2938.cpp)                                                |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
 |  2952  |   Medium   | [Minimum Number of Coins to be Added](Problems/2952.cpp)                                           |
+|  2957  |   Medium   | [Remove Adjacent Almost-Equal Characters](Problems/2957.cpp)                                       |
 |  2958  |   Medium   | [Length of Longest Subarray With at Most K Frequency](Problems/2958.cpp)                           |
 |  2962  |   Medium   | [Count Subarrays Where Max Element Appears at Least K Times](Problems/2962.cpp)                    |
 |  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
