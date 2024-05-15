@@ -1194,6 +1194,7 @@ for solving problems.
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
 |  2807  |   Medium   | [Insert Greatest Common Divisors in Linked List](Problems/2807.cpp)                                |
+|  2812  |   Medium   | [Find the Safest Path in a Grid](Problems/2812.cpp)                                                |
 |  2816  |   Medium   | [Double a Number Represented as a Linked List](Problems/2816.cpp)                                  |
 |  2840  |   Medium   | [Check if Strings Can be Made Equal With Operations II](Problems/2840.cpp)                         |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
