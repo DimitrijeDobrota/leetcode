@@ -662,6 +662,7 @@ for solving problems.
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                         |
 |  1130  |   Medium   | [Minimum Cost Tree From Leaf Values](Problems/1130.cpp)                                            |
 |  1137  |    Easy    | [N-th Tribonacci Number](Problems/1137.cpp)                                                        |
+|  1138  |   Medium   | [Alphabet Board Path](Problems/1138.cpp)                                                           |
 |  1140  |   Medium   | [Stone Game II](Problems/1140.cpp)                                                                 |
 |  1141  |    Easy    | [User Activity for the Past 30 Days I](Problems/1141.cpp)                                          |
 |  1143  |   Medium   | [Longest Common Subsequence](Problems/1143.cpp)                                                    |
