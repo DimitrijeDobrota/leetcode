@@ -1225,6 +1225,7 @@ for solving problems.
 |  3034  |   Medium   | [Number of Subarrays That Match a Pattern I](Problems/3034.cpp)                                    |
 |  3039  |   Medium   | [Apply Operations to Make String Empty](Problems/3039.cpp)                                         |
 |  3067  |   Medium   | [Count Pairs of Connectable Servers in a Weighted Tree Network](Problems/3067.cpp)                 |
+|  3068  |    Hard    | [Find the Maximum Sum of Node Values](Problems/3068.cpp)                                           |
 |  3070  |   Medium   | [Count Submatrices with Top-Left Element and Sum Less Than k](Problems/3070.cpp)                   |
 |  3075  |   Medium   | [Maximize Happiness of Selected Children](Problems/3075.cpp)                                       |
 |  3100  |   Medium   | [Water Bottles II](Problems/3100.cpp)                                                              |
