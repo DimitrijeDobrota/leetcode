@@ -967,6 +967,7 @@ for solving problems.
 |  1857  |    Hard    | [Largest Color Value in a Directed Graph](Problems/1857.cpp)                                       |
 |  1860  |   Medium   | [Incremental Memory Leak](Problems/1860.cpp)                                                       |
 |  1861  |   Medium   | [Rotating the Box](Problems/1861.cpp)                                                              |
+|  1863  |    Easy    | [Sum of All Subset XOR Totals](Problems/1863.cpp)                                                  |
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1873  |    Easy    | [Calculate Special Bonus](Problems/1873.cpp)                                                       |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
