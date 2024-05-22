@@ -418,6 +418,7 @@ for solving problems.
 |  0619  |    Easy    | [Biggest Single Number](Problems/0619.cpp)                                                         |
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
+|  0622  |   Medium   | [Design Circular Queue](Problems/0622.cpp)                                                         |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
 |  0626  |   Medium   | [Exchange Seats](Problems/0626.cpp)                                                                |
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
