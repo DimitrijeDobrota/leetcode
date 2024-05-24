@@ -705,6 +705,7 @@ for solving problems.
 |  1249  |   Medium   | [Minimum Remove to Make Valid Parentheses](Problems/1249.cpp)                                      |
 |  1251  |    Easy    | [Average Selling Price](Problems/1251.cpp)                                                         |
 |  1254  |   Medium   | [Number of Closed Islands](Problems/1254.cpp)                                                      |
+|  1255  |    Hard    | [Maximum Score Words Formed by Letters](Problems/1255.cpp)                                         |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
 |  1266  |    Easy    | [Minimum Time Visiting All Points](Problems/1266.cpp)                                              |
 |  1267  |   Medium   | [Count Servers that Communicate](Problems/1267.cpp)                                                |
