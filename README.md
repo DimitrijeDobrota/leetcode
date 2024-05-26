@@ -384,6 +384,7 @@ for solving problems.
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                       |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                           |
 |  0550  |   Medium   | [Game Play Analysis IV](Problems/0550.cpp)                                                         |
+|  0552  |    Hard    | [Student Attendance Record II](Problems/0552.cpp)                                                  |
 |  0553  |   Medium   | [Optimal Division](Problems/0553.cpp)                                                              |
 |  0554  |   Medium   | [Brick Wall](Problems/0554.cpp)                                                                    |
 |  0556  |   Medium   | [Next Greater Element III](Problems/0556.cpp)                                                      |
