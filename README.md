@@ -689,6 +689,7 @@ for solving problems.
 |  1203  |    Hard    | [Sort Items by Groups Respecting Dependencies](Problems/1203.cpp)                                  |
 |  1204  |   Medium   | [Last Person to Fit in the Bus](Problems/1204.cpp)                                                 |
 |  1207  |    Easy    | [Unique Number of Occurrences](Problems/1207.cpp)                                                  |
+|  1208  |   Medium   | [Get Equal Substrings Within Budget](Problems/1208.cpp)                                            |
 |  1209  |   Medium   | [Remove All Adjacent Duplicates in String II](Problems/1209.cpp)                                   |
 |  1211  |    Easy    | [Queries Quality and Percentage](Problems/1211.cpp)                                                |
 |  1218  |   Medium   | [Longest Arithmetic Subsequence of Given Difference](Problems/1218.cpp)                            |
