@@ -618,6 +618,7 @@ for solving problems.
 |  1020  |   Medium   | [Number of Enclaves](Problems/1020.cpp)                                                            |
 |  1022  |    Easy    | [Sum of Root To Leaf Binary Numbers](Problems/1022.cpp)                                            |
 |  1023  |   Medium   | [Camelcase Matching](Problems/1023.cpp)                                                            |
+|  1024  |   Medium   | [Video Stitching](Problems/1024.cpp)                                                               |
 |  1026  |   Medium   | [Maximum Difference Between Node and Ancestor](Problems/1026.cpp)                                  |
 |  1027  |   Medium   | [Longest Arithmetic Subsequence](Problems/1027.cpp)                                                |
 |  1029  |   Medium   | [Two City Scheduling](Problems/1029.cpp)                                                           |
