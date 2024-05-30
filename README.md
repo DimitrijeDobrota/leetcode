@@ -585,6 +585,7 @@ for solving problems.
 |  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                           |
 |  0959  |   Medium   | [Regions Cut By Slashes](Problems/0959.cpp)                                                        |
 |  0965  |    Easy    | [Univalued Binary Tree](Problems/0965.cpp)                                                         |
+|  0966  |   Medium   | [Vowel Spellchecker](Problems/0966.cpp)                                                            |
 |  0967  |   Medium   | [Numbers With Same Consecutive Differences](Problems/0967.cpp)                                     |
 |  0969  |   Medium   | [Pancake Sorting](Problems/0969.cpp)                                                               |
 |  0973  |   Medium   | [K Closest Points to Origin](Problems/0973.cpp)                                                    |
