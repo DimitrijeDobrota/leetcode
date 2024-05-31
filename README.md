@@ -351,6 +351,7 @@ for solving problems.
 |  0463  |    Easy    | [Island Perimeter](Problems/0463.cpp)                                                              |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
+|  0481  |   Medium   | [Magical String](Problems/0481.cpp)                                                                |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
 |  0486  |   Medium   | [Reachable Nodes With Restrictions](Problems/0486.cpp)                                             |
 |  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                   |
