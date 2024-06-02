@@ -762,6 +762,7 @@ for solving problems.
 |  1346  |    Easy    | [Check if N and Its Double Exist](Problems/1346.cpp)                                               |
 |  1347  |   Medium   | [Minimum Number of Steps to Make Two Strings Anagram](Problems/1347.cpp)                           |
 |  1351  |    Easy    | [Count Negative Numbers in a Sorted Matrix](Problems/1351.cpp)                                     |
+|  1352  |   Medium   | [Product of the Last K Numbers](Problems/1352.cpp)                                                 |
 |  1356  |    Easy    | [Sort Integers by The Number of 1 Bits](Problems/1356.cpp)                                         |
 |  1357  |   Medium   | [Apply Discount Every n Orders](Problems/1357.cpp)                                                 |
 |  1358  |   Medium   | [Number of Substrings Containing All Three Characters](Problems/1358.cpp)                          |
