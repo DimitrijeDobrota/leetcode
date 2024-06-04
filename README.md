@@ -1119,6 +1119,7 @@ for solving problems.
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                     |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
 |  2397  |   Medium   | [Maximum Rows Covered by Columns](Problems/2397.cpp)                                               |
+|  2401  |   Medium   | [Longest Nice Subarray](Problems/2401.cpp)                                                         |
 |  2402  |    Hard    | [Meeting Rooms III](Problems/2402.cpp)                                                             |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
