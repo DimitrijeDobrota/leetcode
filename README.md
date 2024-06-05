@@ -606,6 +606,7 @@ for solving problems.
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
 |  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
+|  1002  |    Easy    | [Find Common Characters](Problems/1002.cpp)                                                        |
 |  1003  |   Medium   | [Check If Word Is Valid After Substitutions](Problems/1003.cpp)                                    |
 |  1004  |   Medium   | [Max Consecutive Ones III](Problems/1004.cpp)                                                      |
 |  1006  |   Medium   | [Clumsy Factorial](Problems/1006.cpp)                                                              |
