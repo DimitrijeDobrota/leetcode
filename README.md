@@ -828,6 +828,7 @@ for solving problems.
 |  1476  |   Medium   | [Subrectangle Queries](Problems/1476.cpp)                                                          |
 |  1480  |    Easy    | [Running Sum of 1d Array](Problems/1480.cpp)                                                       |
 |  1481  |   Medium   | [Least Number of Unique Integers after K Removals](Problems/1481.cpp)                              |
+|  1482  |   Medium   | [Minimum Number of Days to Make m Bouquets](Problems/1482.cpp)                                     |
 |  1484  |    Easy    | [Group Sold Products By The Date](Problems/1484.cpp)                                               |
 |  1489  |    Hard    | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Problems/1489.cpp)              |
 |  1491  |    Easy    | [Average Salary Excluding the Minimum and Maximum Salary](Problems/1491.cpp)                       |
