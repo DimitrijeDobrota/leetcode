@@ -371,6 +371,7 @@ for solving problems.
 |  0516  |   Medium   | [Longest Palindromic Subsequence](Problems/0516.cpp)                                               |
 |  0518  |   Medium   | [Coin Change II](Problems/0518.cpp)                                                                |
 |  0520  |    Easy    | [Detect Capital](Problems/0520.cpp)                                                                |
+|  0523  |   Medium   | [Continuous Subarray Sum](Problems/0523.cpp)                                                       |
 |  0524  |   Medium   | [Longest Word in Dictionary through Deleting](Problems/0524.cpp)                                   |
 |  0525  |   Medium   | [Contiguous Array](Problems/0525.cpp)                                                              |
 |  0526  |   Medium   | [Beautiful Arrangement](Problems/0526.cpp)                                                         |
