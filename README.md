@@ -720,6 +720,7 @@ for solving problems.
 |  1267  |   Medium   | [Count Servers that Communicate](Problems/1267.cpp)                                                |
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
 |  1269  |    Hard    | [Number of Ways to Stay in the Same Place After Some Steps](Problems/1269.cpp)                     |
+|  1276  |   Medium   | [Number of Burgers with No Waste of Ingredients](Problems/1276.cpp)                                |
 |  1277  |   Medium   | [Count Square Submatrices with All Ones](Problems/1277.cpp)                                        |
 |  1280  |    Easy    | [Students and Examinations](Problems/1280.cpp)                                                     |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
