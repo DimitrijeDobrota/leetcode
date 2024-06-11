@@ -667,6 +667,7 @@ for solving problems.
 |  1109  |   Medium   | [Corporate Flight Bookings](Problems/1109.cpp)                                                     |
 |  1110  |   Medium   | [Delete Nodes And Return Forest](Problems/1110.cpp)                                                |
 |  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                        |
+|  1122  |    Easy    | [Relative Sort Array](Problems/1122.cpp)                                                           |
 |  1123  |   Medium   | [Lowest Common Ancestor of Deepest Leaves](Problems/1123.cpp)                                      |
 |  1125  |    Hard    | [Smallest Sufficient Team](Problems/1125.cpp)                                                      |
 |  1129  |   Medium   | [Shortest Path with Alternating Colors](Problems/1129.cpp)                                         |
