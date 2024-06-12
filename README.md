@@ -1242,6 +1242,7 @@ for solving problems.
 |  2971  |   Medium   | [Find Polygon With the Largest Perimeter](Problems/2971.cpp)                                       |
 |  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
 |  3005  |    Easy    | [Count Elements With Maximum Frequency](Problems/3005.cpp)                                         |
+|  3011  |   Medium   | [Find if Array Can Be Sorted](Problems/3011.cpp)                                                   |
 |  3015  |   Medium   | [Count the Number of Houses at a Certain Distance I](Problems/3015.cpp)                            |
 |  3016  |   Medium   | [Minimum Number of Pushes to Type Word II](Problems/3016.cpp)                                      |
 |  3034  |   Medium   | [Number of Subarrays That Match a Pattern I](Problems/3034.cpp)                                    |
