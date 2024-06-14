@@ -797,6 +797,7 @@ for solving problems.
 |  1406  |    Hard    | [Stone Game III](Problems/1406.cpp)                                                                |
 |  1407  |    Easy    | [Top Travellers](Problems/1407.cpp)                                                                |
 |  1409  |   Medium   | [Queries on a Permutation With Key](Problems/1409.cpp)                                             |
+|  1410  |   Medium   | [HTML Entity Parser](Problems/1410.cpp)                                                            |
 |  1414  |   Medium   | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](Problems/1414.cpp)                   |
 |  1415  |   Medium   | [The k-th Lexicographical String of All Happy Strings of Length n](Problems/1415.cpp)              |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                             |
