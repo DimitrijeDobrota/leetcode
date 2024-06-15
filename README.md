@@ -497,6 +497,7 @@ for solving problems.
 |  0789  |   Medium   | [Escape The Ghosts](Problems/0789.cpp)                                                             |
 |  0790  |   Medium   | [Domino and Tromino Tiling](Problems/0790.cpp)                                                     |
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
+|  0792  |   Medium   | [Number of Matching Subsequences](Problems/0792.cpp)                                               |
 |  0795  |   Medium   | [Number of Subarrays with Bounded Maximum](Problems/0795.cpp)                                      |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                               |
 |  0799  |   Medium   | [Champagne Tower](Problems/0799.cpp)                                                               |
