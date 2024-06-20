@@ -977,6 +977,7 @@ for solving problems.
 |  1817  |   Medium   | [Finding the Users Active Minutes](Problems/1817.cpp)                                              |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                               |
 |  1823  |   Medium   | [Find the Winner of the Circular Game](Problems/1823.cpp)                                          |
+|  1824  |   Medium   | [Minimum Sideway Jumps](Problems/1824.cpp)                                                         |
 |  1828  |   Medium   | [Queries on Number of Points Inside a Circle](Problems/1828.cpp)                                   |
 |  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                    |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                        |
