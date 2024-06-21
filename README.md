@@ -1012,6 +1012,7 @@ for solving problems.
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
 |  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
+|  1943  |   Medium   | [Describe the Painting](Problems/1943.cpp)                                                         |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1954  |   Medium   | [Minimum Garden Perimeter to Collect Enough Apples](Problems/1954.cpp)                             |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
