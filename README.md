@@ -1130,6 +1130,7 @@ for solving problems.
 |  2373  |    Easy    | [Largest Local Values in a Matrix](Problems/2373.cpp)                                              |
 |  2374  |   Medium   | [Node With Highest Edge Score](Problems/2374.cpp)                                                  |
 |  2375  |   Medium   | [Construct Smallest Number From DI String](Problems/2375.cpp)                                      |
+|  2380  |   Medium   | [Time Needed to Rearrange a Binary String](Problems/2380.cpp)                                      |
 |  2385  |   Medium   | [Amount of Time for Binary Tree to Be Infected](Problems/2385.cpp)                                 |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                  |
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                     |
