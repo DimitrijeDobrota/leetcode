@@ -452,6 +452,7 @@ for solving problems.
 |  0667  |   Medium   | [Beautiful Arrangement II](Problems/0667.cpp)                                                      |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                          |
+|  0672  |   Medium   | [Bulb Switcher II](Problems/0672.cpp)                                                              |
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
 |  0676  |   Medium   | [Implement Magic Dictionary](Problems/0676.cpp)                                                    |
 |  0677  |   Medium   | [Map Sum Pairs](Problems/0677.cpp)                                                                 |
