@@ -612,6 +612,7 @@ for solving problems.
 |  0992  |    Hard    | [Subarrays with K Different Integers](Problems/0992.cpp)                                           |
 |  0993  |    Easy    | [Cousins in Binary Tree](Problems/0993.cpp)                                                        |
 |  0994  |   Medium   | [Rotting Oranges](Problems/0994.cpp)                                                               |
+|  0995  |    Hard    | [Minimum Number of K Consecutive Bit Flips](Problems/0995.cpp)                                     |
 |  0997  |    Easy    | [Find the Town Judge](Problems/0997.cpp)                                                           |
 |  0998  |   Medium   | [Maximum Binary Tree II](Problems/0998.cpp)                                                        |
 |  1002  |    Easy    | [Find Common Characters](Problems/1002.cpp)                                                        |
