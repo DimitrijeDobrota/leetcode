@@ -1080,6 +1080,7 @@ for solving problems.
 |  2192  |   Medium   | [All Ancestors of a Node in a Directed Acyclic Graph](Problems/2192.cpp)                           |
 |  2196  |   Medium   | [Create Binary Tree From Descriptions](Problems/2196.cpp)                                          |
 |  2201  |   Medium   | [Count Artifacts That Can Be Extracted](Problems/2201.cpp)                                         |
+|  2212  |   Medium   | [Maximum Points in an Archery Competition](Problems/2212.cpp)                                      |
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                             |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                           |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                               |
