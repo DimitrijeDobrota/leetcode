@@ -809,6 +809,7 @@ for solving problems.
 |  1415  |   Medium   | [The k-th Lexicographical String of All Happy Strings of Length n](Problems/1415.cpp)              |
 |  1416  |    Hard    | [Restore The Array](Problems/1416.cpp)                                                             |
 |  1418  |   Medium   | [Display Table of Food Orders in a Restaurant](Problems/1418.cpp)                                  |
+|  1419  |   Medium   | [Minimum Number of Frogs Croaking](Problems/1419.cpp)                                              |
 |  1420  |    Hard    | [Build Array Where You Can Find The Maximum Exactly K Comparisons](Problems/1420.cpp)              |
 |  1422  |    Easy    | [Maximum Score After Splitting a String](Problems/1422.cpp)                                        |
 |  1423  |   Medium   | [Maximum Points You Can Obtain from Cards](Problems/1423.cpp)                                      |
