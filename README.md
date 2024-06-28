@@ -1086,6 +1086,7 @@ for solving problems.
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                             |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                           |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                               |
+|  2222  |   Medium   | [Number of Ways to Select Buildings](Problems/2222.cpp)                                            |
 |  2225  |   Medium   | [Find Players With Zero or One Losses](Problems/2225.cpp)                                          |
 |  2232  |   Medium   | [Minimize Result by Adding Parentheses to Expression](Problems/2232.cpp)                           |
 |  2235  |    Easy    | [Add Two Integers](Problems/2235.cpp)                                                              |
