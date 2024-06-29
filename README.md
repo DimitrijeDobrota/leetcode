@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-[![DimitrijeD's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DimitrijeD&theme=dark)](https://leetcode.com/DimitrijeD/)
+[![DimitrijeD's LeetCode stats](https://leetcard.jacoblin.cool/DimitrijeD?ext=heatmap)](https://leetcode.com/u/dimitrijed/)
 
 ## Motivation
 
