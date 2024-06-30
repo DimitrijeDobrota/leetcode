@@ -975,6 +975,7 @@ for solving problems.
 |  1797  |   Medium   | [Design Authentication Manager](Problems/1797.cpp)                                                 |
 |  1798  |   Medium   | [Maximum Number of Consecutive Values You Can Make](Problems/1798.cpp)                             |
 |  1799  |   Medium   | [Maximize Score After N Operations](Problems/1799.cpp)                                             |
+|  1801  |   Medium   | [Number of Orders in the Backlog](Problems/1801.cpp)                                               |
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                             |
 |  1806  |   Medium   | [Minimum Number of Operations to Reinitialize a Permutation](Problems/1806.cpp)                    |
 |  1807  |   Medium   | [Evaluate the Bracket Pairs of a String](Problems/1807.cpp)                                        |
