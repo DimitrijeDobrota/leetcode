@@ -871,6 +871,7 @@ for solving problems.
 |  1544  |    Easy    | [Make The String Great](Problems/1544.cpp)                                                         |
 |  1545  |   Medium   | [Find Kth Bit in Nth Binary String](Problems/1545.cpp)                                             |
 |  1547  |    Hard    | [Minimum Cost to Cut a Stick](Problems/1547.cpp)                                                   |
+|  1550  |    Easy    | [Three Consecutive Odds](Problems/1550.cpp)                                                        |
 |  1551  |   Medium   | [Minimum Operations to Make Array Equal](Problems/1551.cpp)                                        |
 |  1552  |   Medium   | [Magnetic Force Between Two Balls](Problems/1552.cpp)                                              |
 |  1557  |   Medium   | [Minimum Number of Vertices to Reach All Nodes](Problems/1557.cpp)                                 |
