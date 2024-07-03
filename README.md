@@ -1190,6 +1190,7 @@ for solving problems.
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2571  |   Medium   | [Minimum Operations to Reduce an Integer to 0](Problems/2571.cpp)                                  |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
+|  2588  |   Medium   | [Count the Number of Beautiful Subarrays](Problems/2588.cpp)                                       |
 |  2592  |   Medium   | [Maximize Greatness of an Array](Problems/2592.cpp)                                                |
 |  2593  |   Medium   | [Find Score of an Array After Marking All Elements](Problems/2593.cpp)                             |
 |  2596  |   Medium   | [Check Knight Tour Configuration](Problems/2596.cpp)                                               |
