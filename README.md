@@ -1181,6 +1181,7 @@ for solving problems.
 |  2498  |   Medium   | [Frog Jump II](Problems/2498.cpp)                                                                  |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
+|  2537  |   Medium   | [Count the Number of Good Subarrays](Problems/2537.cpp)                                            |
 |  2540  |    Easy    | [Minimum Common Value](Problems/2540.cpp)                                                          |
 |  2542  |   Medium   | [Maximum Subsequence Score](Problems/2542.cpp)                                                     |
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
