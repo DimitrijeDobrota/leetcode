@@ -922,6 +922,7 @@ for solving problems.
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1670  |   Medium   | [Design Front Middle Back Queue](Problems/1670.cpp)                                                |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
+|  1673  |   Medium   | [Find the Most Competitive Subsequence](Problems/1673.cpp)                                         |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
 |  1680  |   Medium   | [Concatenation of Consecutive Binary Numbers](Problems/1680.cpp)                                   |
