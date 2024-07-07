@@ -858,6 +858,7 @@ for solving problems.
 |  1512  |    Easy    | [Number of Good Pairs](Problems/1512.cpp)                                                          |
 |  1514  |   Medium   | [Path with Maximum Probability](Problems/1514.cpp)                                                 |
 |  1517  |    Easy    | [Find Users With Valid E-Mails](Problems/1517.cpp)                                                 |
+|  1518  |    Easy    | [Water Bottles](Problems/1518.cpp)                                                                 |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
