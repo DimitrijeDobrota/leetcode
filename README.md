@@ -1281,3 +1281,4 @@ for solving problems.
 |  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
 |  3110  |    Easy    | [Score of a String](Problems/3110.cpp)                                                             |
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
+|  3211  |   Medium   | [Generate Binary Strings Without Adjacent Zeros](Problems/3211.cpp)                                |
