@@ -890,6 +890,7 @@ for solving problems.
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1587  |    Easy    | [Bank Account Summary II](Problems/1587.cpp)                                                       |
 |  1593  |   Medium   | [Split a String Into the Max Number of Unique Substrings](Problems/1593.cpp)                       |
+|  1598  |    Easy    | [Crawler Log Folder](Problems/1598.cpp)                                                            |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                         |
