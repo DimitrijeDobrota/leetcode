@@ -943,6 +943,7 @@ for solving problems.
 |  1704  |    Easy    | [Determine if String Halves Are Alike](Problems/1704.cpp)                                          |
 |  1706  |   Medium   | [Where Will the Ball Fall](Problems/1706.cpp)                                                      |
 |  1716  |    Easy    | [Calculate Money in Leetcode Bank](Problems/1716.cpp)                                              |
+|  1717  |   Medium   | [Maximum Score From Removing Substrings](Problems/1717.cpp)                                        |
 |  1718  |   Medium   | [Construct the Lexicographically Largest Valid Sequence](Problems/1718.cpp)                        |
 |  1721  |   Medium   | [Swapping Nodes in a Linked List](Problems/1721.cpp)                                               |
 |  1722  |   Medium   | [Minimize Hamming Distance After Swap Operations](Problems/1722.cpp)                               |
