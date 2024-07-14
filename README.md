@@ -475,6 +475,7 @@ for solving problems.
 |  0720  |   Medium   | [Longest Word in Dictionary](Problems/0720.cpp)                                                    |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                              |
 |  0725  |   Medium   | [Split Linked List in Parts](Problems/0725.cpp)                                                    |
+|  0726  |    Hard    | [Number of Atoms](Problems/0726.cpp)                                                               |
 |  0729  |   Medium   | [My Calendar I](Problems/0729.cpp)                                                                 |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                    |
 |  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                            |
