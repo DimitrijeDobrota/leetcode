@@ -1221,6 +1221,7 @@ for solving problems.
 |  2640  |   Medium   | [Find the Score of All Prefixes of an Array](Problems/2640.cpp)                                    |
 |  2641  |   Medium   | [Cousins in Binary Tree II](Problems/2641.cpp)                                                     |
 |  2642  |    Hard    | [Design Graph With Shortest Path Calculator](Problems/2642.cpp)                                    |
+|  2645  |   Medium   | [Minimum Additions to Make Valid String](Problems/2645.cpp)                                        |
 |  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                    |
 |  2658  |   Medium   | [Maximum Number of Fish in a Grid](Problems/2658.cpp)                                              |
 |  2661  |   Medium   | [First Completely Painted Row or Column](Problems/2661.cpp)                                        |
