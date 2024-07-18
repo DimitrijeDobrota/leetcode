@@ -1053,6 +1053,7 @@ for solving problems.
 |  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
 |  2063  |   Medium   | [Vowels of All Substrings](Problems/2063.cpp)                                                      |
 |  2064  |   Medium   | [Minimized Maximum of Products Distributed to Any Store](Problems/2064.cpp)                        |
+|  2070  |   Medium   | [Most Beautiful Item for Each Query](Problems/2070.cpp)                                            |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
 |  2074  |   Medium   | [Reverse Nodes in Even Length Groups](Problems/2074.cpp)                                           |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
