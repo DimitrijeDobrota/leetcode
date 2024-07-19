@@ -793,6 +793,7 @@ for solving problems.
 |  1376  |   Medium   | [Time Needed to Inform All Employees](Problems/1376.cpp)                                           |
 |  1378  |    Easy    | [Replace Employee ID With The Unique Identifier](Problems/1378.cpp)                                |
 |  1379  |    Easy    | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Problems/1379.cpp)            |
+|  1380  |    Easy    | [Lucky Numbers in a Matrix](Problems/1380.cpp)                                                     |
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
