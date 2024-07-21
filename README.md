@@ -1152,6 +1152,7 @@ for solving problems.
 |  2385  |   Medium   | [Amount of Time for Binary Tree to Be Infected](Problems/2385.cpp)                                 |
 |  2390  |   Medium   | [Removing Stars From a String](Problems/2390.cpp)                                                  |
 |  2391  |   Medium   | [Minimum Amount of Time to Collect Garbage](Problems/2391.cpp)                                     |
+|  2392  |    Hard    | [Build a Matrix With Conditions](Problems/2392.cpp)                                                |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
 |  2397  |   Medium   | [Maximum Rows Covered by Columns](Problems/2397.cpp)                                               |
 |  2401  |   Medium   | [Longest Nice Subarray](Problems/2401.cpp)                                                         |
