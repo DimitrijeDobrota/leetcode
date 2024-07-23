@@ -908,6 +908,7 @@ for solving problems.
 |  1630  |   Medium   | [Arithmetic Subarrays](Problems/1630.cpp)                                                          |
 |  1631  |   Medium   | [Path With Minimum Effort](Problems/1631.cpp)                                                      |
 |  1633  |    Easy    | [Percentage of Users Attended a Contest](Problems/1633.cpp)                                        |
+|  1636  |    Easy    | [Sort Array by Increasing Frequency](Problems/1636.cpp)                                            |
 |  1637  |   Medium   | [Widest Vertical Area Between Two Points Containing No Points](Problems/1637.cpp)                  |
 |  1638  |   Medium   | [Count Substrings That Differ by One Character](Problems/1638.cpp)                                 |
 |  1639  |    Hard    | [Number of Ways to Form a Target String Given a Dictionary](Problems/1639.cpp)                     |
