@@ -1035,6 +1035,7 @@ for solving problems.
 |  1965  |    Easy    | [Employees With Missing Information](Problems/1965.cpp)                                            |
 |  1970  |    Hard    | [Last Day Where You Can Still Cross](Problems/1970.cpp)                                            |
 |  1971  |    Easy    | [Find if Path Exists in Graph](Problems/1971.cpp)                                                  |
+|  1975  |   Medium   | [Maximum Matrix Sum](Problems/1975.cpp)                                                            |
 |  1976  |   Medium   | [Number of Ways to Arrive at Destination](Problems/1976.cpp)                                       |
 |  1978  |    Easy    | [Employees Whose Manager Left the Company](Problems/1978.cpp)                                      |
 |  1980  |   Medium   | [Find Unique Binary String](Problems/1980.cpp)                                                     |
