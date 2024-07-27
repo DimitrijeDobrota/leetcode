@@ -1279,6 +1279,7 @@ for solving problems.
 |  2962  |   Medium   | [Count Subarrays Where Max Element Appears at Least K Times](Problems/2962.cpp)                    |
 |  2966  |   Medium   | [Divide Array Into Arrays With Max Difference](Problems/2966.cpp)                                  |
 |  2971  |   Medium   | [Find Polygon With the Largest Perimeter](Problems/2971.cpp)                                       |
+|  2976  |   Medium   | [Minimum Cost to Convert String I](Problems/2976.cpp)                                              |
 |  2997  |   Medium   | [Minimum Number of Operations to Make Array XOR Equal to K](Problems/2997.cpp)                     |
 |  3005  |    Easy    | [Count Elements With Maximum Frequency](Problems/3005.cpp)                                         |
 |  3011  |   Medium   | [Find if Array Can Be Sorted](Problems/3011.cpp)                                                   |
