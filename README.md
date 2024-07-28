@@ -1052,6 +1052,7 @@ for solving problems.
 |  2039  |   Medium   | [The Time When the Network Becomes Idle](Problems/2039.cpp)                                        |
 |  2043  |   Medium   | [Simple Bank System](Problems/2043.cpp)                                                            |
 |  2044  |   Medium   | [Count Number of Maximum Bitwise-OR Subsets](Problems/2044.cpp)                                    |
+|  2045  |    Hard    | [Second Minimum Time to Reach Destination](Problems/2045.cpp)                                      |
 |  2049  |   Medium   | [Count Nodes With the Highest Score](Problems/2049.cpp)                                            |
 |  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
 |  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
