@@ -1241,6 +1241,7 @@ for solving problems.
 |  2672  |   Medium   | [Number of Adjacent Elements With the Same Color](Problems/2672.cpp)                               |
 |  2673  |   Medium   | [Make Costs of Paths Equal in a Binary Tree](Problems/2673.cpp)                                    |
 |  2676  |   Medium   | [Throttle](Problems/2676.js)                                                                       |
+|  2678  |    Easy    | [Number of Senior Citizens](Problems/2678.cpp)                                                     |
 |  2679  |   Medium   | [Sum in a Matrix](Problems/2679.cpp)                                                               |
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
