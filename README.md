@@ -1024,6 +1024,7 @@ for solving problems.
 |  1915  |   Medium   | [Number of Wonderful Substrings](Problems/1915.cpp)                                                |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
+|  1929  |    Easy    | [Concatenation of Array](Problems/1929.cpp)                                                        |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
 |  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
 |  1943  |   Medium   | [Describe the Painting](Problems/1943.cpp)                                                         |
