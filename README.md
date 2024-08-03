@@ -833,6 +833,7 @@ for solving problems.
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
+|  1460  |    Easy    | [Make Two Arrays Equal by Reversing Subarrays](Problems/1460.cpp)                                  |
 |  1461  |   Medium   | [Check If a String Contains All Binary Codes of Size K](Problems/1461.cpp)                         |
 |  1462  |   Medium   | [Course Schedule IV](Problems/1462.cpp)                                                            |
 |  1463  |    Hard    | [Cherry Pickup II](Problems/1463.cpp)                                                              |
