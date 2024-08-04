@@ -1047,6 +1047,7 @@ for solving problems.
 |  2001  |   Medium   | [Number of Pairs of Interchangeable Rectangles](Problems/2001.cpp)                                 |
 |  2002  |   Medium   | [Maximum Product of the Length of Two Palindromic Subsequences](Problems/2002.cpp)                 |
 |  2009  |    Hard    | [Minimum Number of Operations to Make Array Continuous](Problems/2009.cpp)                         |
+|  2013  |   Medium   | [Detect Squares](Problems/2013.cpp)                                                                |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
 |  2033  |   Medium   | [Minimum Operations to Make a Uni-Value Grid](Problems/2033.cpp)                                   |
