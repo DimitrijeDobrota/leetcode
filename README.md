@@ -252,6 +252,7 @@ for solving problems.
 |  0263  |    Easy    | [Ugly Number](Problems/0263.cpp)                                                                   |
 |  0264  |   Medium   | [Ugly Number II](Problems/0264.cpp)                                                                |
 |  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                                |
+|  0273  |    Hard    | [Integer to English Words](Problems/0273.cpp)                                                      |
 |  0274  |   Medium   | [H-Index](Problems/0274.cpp)                                                                       |
 |  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                             |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                               |
