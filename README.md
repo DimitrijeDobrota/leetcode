@@ -525,6 +525,7 @@ for solving problems.
 |  0837  |   Medium   | [New 21 Game](Problems/0837.cpp)                                                                   |
 |  0838  |   Medium   | [Push Dominoes](Problems/0838.cpp)                                                                 |
 |  0839  |    Hard    | [Similar String Groups](Problems/0839.cpp)                                                         |
+|  0840  |   Medium   | [Magic Squares In Grid](Problems/0840.cpp)                                                         |
 |  0841  |   Medium   | [Keys and Rooms](Problems/0841.cpp)                                                                |
 |  0844  |    Easy    | [Backspace String Compare](Problems/0844.cpp)                                                      |
 |  0846  |   Medium   | [Hand of Straights](Problems/0846.cpp)                                                             |
