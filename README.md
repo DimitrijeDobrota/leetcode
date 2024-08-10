@@ -1314,3 +1314,4 @@ for solving problems.
 |  3211  |   Medium   | [Generate Binary Strings Without Adjacent Zeros](Problems/3211.cpp)                                |
 |  3212  |   Medium   | [Count Submatrices With Equal Frequency of X and Y](Problems/3212.cpp)                             |
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
+|  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
