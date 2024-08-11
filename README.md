@@ -885,6 +885,7 @@ for solving problems.
 |  1558  |   Medium   | [Minimum Numbers of Function Calls to Make Target Array](Problems/1558.cpp)                        |
 |  1561  |   Medium   | [Maximum Number of Coins You Can Get](Problems/1561.cpp)                                           |
 |  1567  |   Medium   | [Maximum Length of Subarray With Positive Product](Problems/1567.cpp)                              |
+|  1568  |    Hard    | [Minimum Number of Days to Disconnect Island](Problems/1568.cpp)                                   |
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                               |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                           |
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
