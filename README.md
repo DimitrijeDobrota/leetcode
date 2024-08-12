@@ -1027,6 +1027,7 @@ for solving problems.
 |  1911  |   Medium   | [Maximum Alternating Subsequence Sum](Problems/1911.cpp)                                           |
 |  1913  |    Easy    | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
 |  1915  |   Medium   | [Number of Wonderful Substrings](Problems/1915.cpp)                                                |
+|  1920  |    Easy    | [Build Array from Permutation](Problems/1920.cpp)                                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1929  |    Easy    | [Concatenation of Array](Problems/1929.cpp)                                                        |
