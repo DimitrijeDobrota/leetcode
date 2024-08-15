@@ -538,6 +538,7 @@ for solving problems.
 |  0857  |    Hard    | [Minimum Cost to Hire K Workers](Problems/0857.cpp)                                                |
 |  0858  |   Medium   | [Mirror Reflection](Problems/0858.cpp)                                                             |
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                                 |
+|  0860  |    Easy    | [Lemonade Change](Problems/0860.cpp)                                                               |
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                   |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                           |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                                 |
