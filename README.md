@@ -427,6 +427,7 @@ for solving problems.
 |  0621  |   Medium   | [Task Scheduler](Problems/0621.cpp)                                                                |
 |  0622  |   Medium   | [Design Circular Queue](Problems/0622.cpp)                                                         |
 |  0623  |   Medium   | [Add One Row to Tree](Problems/0623.cpp)                                                           |
+|  0624  |   Medium   | [Maximum Distance in Arrays](Problems/0624.cpp)                                                    |
 |  0626  |   Medium   | [Exchange Seats](Problems/0626.cpp)                                                                |
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
 |  0629  |    Hard    | [K Inverse Pairs Array](Problems/0629.cpp)                                                         |
