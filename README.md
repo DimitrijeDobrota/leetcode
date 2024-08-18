@@ -1316,6 +1316,7 @@ for solving problems.
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
 |  3159  |   Medium   | [Find Occurrences of an Element in an Array](Problems/3159.cpp)                                    |
 |  3190  |    Easy    | [Find Minimum Operations to Make All Elements Divisible by Three](Problems/3190.cpp)               |
+|  3191  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One I](Problems/3191.cpp)               |
 |  3192  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One II](Problems/3192.cpp)              |
 |  3195  |   Medium   | [Find the Minimum Area to Cover All Ones I](Problems/3195.cpp)                                     |
 |  3211  |   Medium   | [Generate Binary Strings Without Adjacent Zeros](Problems/3211.cpp)                                |
