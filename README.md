@@ -1197,6 +1197,7 @@ for solving problems.
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                   |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                              |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                                |
+|  2469  |    Easy    | [Convert the Temperature](Problems/2469.cpp)                                                       |
 |  2471  |   Medium   | [Minimum Number of Operations to Sort a Binary Tree by Level](Problems/2471.cpp)                   |
 |  2477  |   Medium   | [Minimum Fuel Cost to Report to the Capital](Problems/2477.cpp)                                    |
 |  2482  |   Medium   | [Difference Between Ones and Zeros in Row and Column](Problems/2482.cpp)                           |
