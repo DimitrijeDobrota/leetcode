@@ -1322,5 +1322,6 @@ for solving problems.
 |  3195  |   Medium   | [Find the Minimum Area to Cover All Ones I](Problems/3195.cpp)                                     |
 |  3211  |   Medium   | [Generate Binary Strings Without Adjacent Zeros](Problems/3211.cpp)                                |
 |  3212  |   Medium   | [Count Submatrices With Equal Frequency of X and Y](Problems/3212.cpp)                             |
+|  3227  |   Medium   | [Vowels Game in a String](Problems/3227.cpp)                                                       |
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
