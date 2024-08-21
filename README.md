@@ -1315,6 +1315,7 @@ for solving problems.
 |  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
 |  3110  |    Easy    | [Score of a String](Problems/3110.cpp)                                                             |
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
+|  3137  |   Medium   | [Minimum Number of Operations to Make Word K-Periodic](Problems/3137.cpp)                          |
 |  3159  |   Medium   | [Find Occurrences of an Element in an Array](Problems/3159.cpp)                                    |
 |  3190  |    Easy    | [Find Minimum Operations to Make All Elements Divisible by Three](Problems/3190.cpp)               |
 |  3191  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One I](Problems/3191.cpp)               |
