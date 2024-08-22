@@ -352,6 +352,7 @@ for solving problems.
 |  0462  |   Medium   | [Minimum Moves to Equal Array Elements II](Problems/0462.cpp)                                      |
 |  0463  |    Easy    | [Island Perimeter](Problems/0463.cpp)                                                              |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
+|  0476  |    Easy    | [Number Complement](Problems/0476.cpp)                                                             |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
 |  0481  |   Medium   | [Magical String](Problems/0481.cpp)                                                                |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
@@ -628,6 +629,7 @@ for solving problems.
 |  1006  |   Medium   | [Clumsy Factorial](Problems/1006.cpp)                                                              |
 |  1007  |   Medium   | [Minimum Domino Rotations For Equal Row](Problems/1007.cpp)                                        |
 |  1008  |   Medium   | [Construct Binary Search Tree from Preorder Traversal](Problems/1008.cpp)                          |
+|  1009  |    Easy    | [Complement of Base 10 Integer](Problems/1009.cpp)                                                 |
 |  1010  |   Medium   | [Pairs of Songs With Total Durations Divisible by 60](Problems/1010.cpp)                           |
 |  1011  |   Medium   | [Capacity To Ship Packages Within D Days](Problems/1011.cpp)                                       |
 |  1014  |   Medium   | [Best Sightseeing Pair](Problems/1014.cpp)                                                         |
