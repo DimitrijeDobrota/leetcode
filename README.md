@@ -412,6 +412,7 @@ for solving problems.
 |  0586  |    Easy    | [Customer Placing the Largest Number of Orders](Problems/0586.cpp)                                 |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
+|  0592  |   Medium   | [Fraction Addition and Subtraction](Problems/0592.cpp)                                             |
 |  0595  |    Easy    | [Big Countries](Problems/0595.cpp)                                                                 |
 |  0596  |    Easy    | [Classes More Than 5 Students](Problems/0596.cpp)                                                  |
 |  0601  |    Hard    | [Human Traffic of Stadium](Problems/0601.cpp)                                                      |
