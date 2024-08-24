@@ -399,6 +399,7 @@ for solving problems.
 |  0560  |   Medium   | [Subarray Sum Equals K](Problems/0560.cpp)                                                         |
 |  0561  |    Easy    | [Array Partition](Problems/0561.cpp)                                                               |
 |  0563  |    Easy    | [Binary Tree Tilt](Problems/0563.cpp)                                                              |
+|  0564  |    Hard    | [Find the Closest Palindrome](Problems/0564.cpp)                                                   |
 |  0565  |   Medium   | [Array Nesting](Problems/0565.cpp)                                                                 |
 |  0566  |    Easy    | [Reshape the Matrix](Problems/0566.cpp)                                                            |
 |  0567  |   Medium   | [Permutation in String](Problems/0567.cpp)                                                         |
