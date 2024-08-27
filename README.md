@@ -1332,3 +1332,4 @@ for solving problems.
 |  3227  |   Medium   | [Vowels Game in a String](Problems/3227.cpp)                                                       |
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
+|  3249  |   Medium   | [Count the Number of Good Nodes](Problems/3249.cpp)                                                |
