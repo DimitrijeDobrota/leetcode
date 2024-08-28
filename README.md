@@ -1329,6 +1329,7 @@ for solving problems.
 |  3212  |   Medium   | [Count Submatrices With Equal Frequency of X and Y](Problems/3212.cpp)                             |
 |  3217  |   Medium   | [Delete Nodes From Linked List Present in Array](Problems/3217.cpp)                                |
 |  3218  |   Medium   | [Minimum Cost for Cutting Cake I](Problems/3218.cpp)                                               |
+|  3223  |   Medium   | [Minimum Length of String After Operations](Problems/3223.cpp)                                     |
 |  3227  |   Medium   | [Vowels Game in a String](Problems/3227.cpp)                                                       |
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
