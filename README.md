@@ -1334,3 +1334,4 @@ for solving problems.
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
 |  3249  |   Medium   | [Count the Number of Good Nodes](Problems/3249.cpp)                                                |
+|  3254  |   Medium   | [Find the Power of K-Size Subarrays I](Problems/3254.cpp)                                          |
