@@ -1265,6 +1265,7 @@ for solving problems.
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
+|  2699  |    Hard    | [Modify Graph Edge Weights](Problems/2699.cpp)                                                     |
 |  2706  |    Easy    | [Buy Two Chocolates](Problems/2706.cpp)                                                            |
 |  2707  |   Medium   | [Extra Characters in a String](Problems/2707.cpp)                                                  |
 |  2709  |    Hard    | [Greatest Common Divisor Traversal](Problems/2709.cpp)                                             |
