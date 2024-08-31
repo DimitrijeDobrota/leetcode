@@ -1081,6 +1081,7 @@ for solving problems.
 |  2074  |   Medium   | [Reverse Nodes in Even Length Groups](Problems/2074.cpp)                                           |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
+|  2087  |   Medium   | [Minimum Cost Homecoming of a Robot in a Grid](Problems/2087.cpp)                                  |
 |  2090  |   Medium   | [K Radius Subarray Averages](Problems/2090.cpp)                                                    |
 |  2091  |   Medium   | [Removing Minimum and Maximum From Array](Problems/2091.cpp)                                       |
 |  2092  |    Hard    | [Find All People With Secret](Problems/2092.cpp)                                                   |
