@@ -1043,6 +1043,7 @@ for solving problems.
 |  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
 |  1937  |   Medium   | [Maximum Number of Points with Cost](Problems/1937.cpp)                                            |
 |  1943  |   Medium   | [Describe the Painting](Problems/1943.cpp)                                                         |
+|  1945  |    Easy    | [Sum of Digits of String After Convert](Problems/1945.cpp)                                         |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1954  |   Medium   | [Minimum Garden Perimeter to Collect Enough Apples](Problems/1954.cpp)                             |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
