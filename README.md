@@ -1067,6 +1067,7 @@ for solving problems.
 |  2022  |    Easy    | [Convert 1D Array Into 2D Array](Problems/2022.cpp)                                                |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
 |  2024  |   Medium   | [Maximize the Confusion of an Exam](Problems/2024.cpp)                                             |
+|  2028  |   Medium   | [Find Missing Observations](Problems/2028.cpp)                                                     |
 |  2033  |   Medium   | [Minimum Operations to Make a Uni-Value Grid](Problems/2033.cpp)                                   |
 |  2037  |    Easy    | [Minimum Number of Moves to Seat Everyone](Problems/2037.cpp)                                      |
 |  2038  |   Medium   | [Remove Colored Pieces if Both Neighbors are the Same Color](Problems/2038.cpp)                    |
