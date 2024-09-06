@@ -1135,6 +1135,7 @@ for solving problems.
 |  2243  |    Easy    | [Calculate Digit Sum of a String](Problems/2243.cpp)                                               |
 |  2244  |   Medium   | [Minimum Rounds to Complete All Tasks](Problems/2244.cpp)                                          |
 |  2246  |    Hard    | [Longest Path With Different Adjacent Characters](Problems/2246.cpp)                               |
+|  2249  |   Medium   | [Count Lattice Points Inside a Circle](Problems/2249.cpp)                                          |
 |  2251  |    Hard    | [Number of Flowers in Full Bloom](Problems/2251.cpp)                                               |
 |  2257  |   Medium   | [Count Unguarded Cells in the Grid](Problems/2257.cpp)                                             |
 |  2260  |   Medium   | [Minimum Consecutive Cards to Pick Up](Problems/2260.cpp)                                          |
