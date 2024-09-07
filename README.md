@@ -1079,6 +1079,7 @@ for solving problems.
 |  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
 |  2053  |    Easy    | [Kth Distinct String in an Array](Problems/2053.cpp)                                               |
 |  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
+|  2059  |   Medium   | [Minimum Operations to Convert Number](Problems/2059.cpp)                                          |
 |  2063  |   Medium   | [Vowels of All Substrings](Problems/2063.cpp)                                                      |
 |  2064  |   Medium   | [Minimized Maximum of Products Distributed to Any Store](Problems/2064.cpp)                        |
 |  2070  |   Medium   | [Most Beautiful Item for Each Query](Problems/2070.cpp)                                            |
