@@ -1093,6 +1093,7 @@ for solving problems.
 |  2092  |    Hard    | [Find All People With Secret](Problems/2092.cpp)                                                   |
 |  2095  |   Medium   | [Delete the Middle Node of a Linked List](Problems/2095.cpp)                                       |
 |  2096  |   Medium   | [Step-By-Step Directions From a Binary Tree Node to Another](Problems/2096.cpp)                    |
+|  2100  |   Medium   | [Find Good Days to Rob the Bank](Problems/2100.cpp)                                                |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                    |
 |  2104  |   Medium   | [Sum of Subarray Ranges](Problems/2104.cpp)                                                        |
 |  2108  |    Easy    | [Find First Palindromic String in the Array](Problems/2108.cpp)                                    |
