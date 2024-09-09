@@ -1223,6 +1223,7 @@ for solving problems.
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
 |  2498  |   Medium   | [Frog Jump II](Problems/2498.cpp)                                                                  |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
+|  2526  |   Medium   | [Find Consecutive Integers from a Data Stream](Problems/2526.cpp)                                  |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
 |  2536  |   Medium   | [Increment Submatrices by One](Problems/2536.cpp)                                                  |
 |  2537  |   Medium   | [Count the Number of Good Subarrays](Problems/2537.cpp)                                            |
