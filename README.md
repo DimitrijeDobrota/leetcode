@@ -1127,6 +1127,7 @@ for solving problems.
 |  2212  |   Medium   | [Maximum Points in an Archery Competition](Problems/2212.cpp)                                      |
 |  2215  |    Easy    | [Find the Difference of Two Arrays](Problems/2215.cpp)                                             |
 |  2218  |    Hard    | [Maximum Value of K Coins From Piles](Problems/2218.cpp)                                           |
+|  2220  |    Easy    | [Minimum Bit Flips to Convert Number](Problems/2220.cpp)                                           |
 |  2221  |   Medium   | [Find Triangular Sum of an Array](Problems/2221.cpp)                                               |
 |  2222  |   Medium   | [Number of Ways to Select Buildings](Problems/2222.cpp)                                            |
 |  2225  |   Medium   | [Find Players With Zero or One Losses](Problems/2225.cpp)                                          |
