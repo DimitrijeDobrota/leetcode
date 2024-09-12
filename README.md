@@ -945,6 +945,7 @@ for solving problems.
 |  1679  |   Medium   | [Max Number of K-Sum Pairs](Problems/1679.cpp)                                                     |
 |  1680  |   Medium   | [Concatenation of Consecutive Binary Numbers](Problems/1680.cpp)                                   |
 |  1683  |    Easy    | [Invalid Tweets](Problems/1683.cpp)                                                                |
+|  1684  |    Easy    | [Count the Number of Consistent Strings](Problems/1684.cpp)                                        |
 |  1685  |   Medium   | [Sum of Absolute Differences in a Sorted Array](Problems/1685.cpp)                                 |
 |  1686  |   Medium   | [Stone Game VI](Problems/1686.cpp)                                                                 |
 |  1688  |    Easy    | [Count of Matches in Tournament](Problems/1688.cpp)                                                |
