@@ -1195,6 +1195,7 @@ for solving problems.
 |  2414  |   Medium   | [Length of the Longest Alphabetical Continuous Substring](Problems/2414.cpp)                       |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
 |  2418  |    Easy    | [Sort the People](Problems/2418.cpp)                                                               |
+|  2419  |   Medium   | [Longest Subarray With Maximum Bitwise AND](Problems/2419.cpp)                                     |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
 |  2423  |    Easy    | [Remove Letter To Equalize Frequency](Problems/2423.cpp)                                           |
 |  2424  |   Medium   | [Longest Uploaded Prefix](Problems/2424.cpp)                                                       |
