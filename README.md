@@ -1011,6 +1011,7 @@ for solving problems.
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                        |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                           |
 |  1838  |   Medium   | [Frequency of the Most Frequent Element](Problems/1838.cpp)                                        |
+|  1839  |   Medium   | [Longest Substring Of All Vowels in Order](Problems/1839.cpp)                                      |
 |  1845  |   Medium   | [Seat Reservation Manager](Problems/1845.cpp)                                                      |
 |  1846  |   Medium   | [Maximum Element After Decreasing and Rearranging](Problems/1846.cpp)                              |
 |  1850  |   Medium   | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](Problems/1850.cpp)                       |
