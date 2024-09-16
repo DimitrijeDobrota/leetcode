@@ -296,6 +296,7 @@ for solving problems.
 |  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                           |
 |  0373  |   Medium   | [Find K Pairs with Smallest Sums](Problems/0373.cpp)                                               |
 |  0374  |    Easy    | [Guess Number Higher or Lower](Problems/0374.cpp)                                                  |
+|  0375  |   Medium   | [Guess Number Higher or Lower II](Problems/0375.cpp)                                               |
 |  0376  |   Medium   | [Wiggle Subsequence](Problems/0376.cpp)                                                            |
 |  0377  |   Medium   | [Combination Sum IV](Problems/0377.cpp)                                                            |
 |  0378  |   Medium   | [Kth Smallest Element in a Sorted Matrix](Problems/0378.cpp)                                       |
