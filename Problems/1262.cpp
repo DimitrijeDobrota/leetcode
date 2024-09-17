@@ -1,11 +1,12 @@
 class Solution {
   public:
     int maxSumDivThree(const vector<int> &nums) const {
-        vector<int> dp(3, 0);
+        int dp[3] = {0}, prev[3];
 
         for (const int n : nums) {
-            for (const int m : vector<int>(dp)) {
-                dp[(m + n) % 3] = max(dp[(m + n) % 3], m + n);
+            memcpy(prev, dp, 3 * sizeof(int));
+            for (const int prev : span(prev, 3)) {
+                dp[(prev + n) % 3] = max(dp[(prev + n) % 3], prev + n);
             }
         }
 

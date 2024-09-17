@@ -740,6 +740,7 @@ for solving problems.
 |  1255  |    Hard    | [Maximum Score Words Formed by Letters](Problems/1255.cpp)                                         |
 |  1261  |   Medium   | [Find Elements in a Contaminated Binary Tree](Problems/1261.cpp)                                   |
 |  1262  |   Medium   | [Greatest Sum Divisible by Three](Problems/1262.cpp)                                               |
+|  1262  |   Medium   | [Greatest Sum Divisible by Three](Problems/1262.cpp)                                               |
 |  1266  |    Easy    | [Minimum Time Visiting All Points](Problems/1266.cpp)                                              |
 |  1267  |   Medium   | [Count Servers that Communicate](Problems/1267.cpp)                                                |
 |  1268  |   Medium   | [Search Suggestions System](Problems/1268.cpp)                                                     |
