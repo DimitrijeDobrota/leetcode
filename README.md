@@ -221,6 +221,7 @@ for solving problems.
 |  0211  |   Medium   | [Design Add and Search Words Data Structure](Problems/0211.cpp)                                    |
 |  0212  |    Hard    | [Word Search II](Problems/0212.cpp)                                                                |
 |  0213  |   Medium   | [House Robber II](Problems/0213.cpp)                                                               |
+|  0214  |    Hard    | [Shortest Palindrome](Problems/0214.cpp)                                                           |
 |  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                               |
 |  0216  |   Medium   | [Combination Sum III](Problems/0216.cpp)                                                           |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                            |
