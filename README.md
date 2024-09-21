@@ -426,6 +426,7 @@ for solving problems.
 |  0608  |   Medium   | [Tree Node](Problems/0608.cpp)                                                                     |
 |  0609  |   Medium   | [Find Duplicate File in System](Problems/0609.cpp)                                                 |
 |  0610  |    Easy    | [Triangle Judgement](Problems/0610.cpp)                                                            |
+|  0611  |   Medium   | [Valid Triangle Number](Problems/0611.cpp)                                                         |
 |  0617  |    Easy    | [Merge Two Binary Trees](Problems/0617.cpp)                                                        |
 |  0619  |    Easy    | [Biggest Single Number](Problems/0619.cpp)                                                         |
 |  0620  |    Easy    | [Not Boring Movies](Problems/0620.cpp)                                                             |
