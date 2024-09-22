@@ -334,6 +334,7 @@ for solving problems.
 |  0436  |   Medium   | [Find Right Interval](Problems/0436.cpp)                                                           |
 |  0437  |   Medium   | [Path Sum III](Problems/0437.cpp)                                                                  |
 |  0438  |   Medium   | [Find All Anagrams in a String](Problems/0438.cpp)                                                 |
+|  0440  |    Hard    | [K-th Smallest in Lexicographical Order](Problems/0440.cpp)                                        |
 |  0442  |   Medium   | [Find All Duplicates in an Array](Problems/0442.cpp)                                               |
 |  0443  |   Medium   | [String Compression](Problems/0443.cpp)                                                            |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                            |
