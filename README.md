@@ -619,6 +619,7 @@ for solving problems.
 |  0977  |    Easy    | [Squares of a Sorted Array](Problems/0977.cpp)                                                     |
 |  0979  |   Medium   | [Distribute Coins in Binary Tree](Problems/0979.cpp)                                               |
 |  0980  |    Hard    | [Unique Paths III](Problems/0980.cpp)                                                              |
+|  0981  |   Medium   | [Time Based Key-Value Store](Problems/0981.cpp)                                                    |
 |  0983  |   Medium   | [Minimum Cost For Tickets](Problems/0983.cpp)                                                      |
 |  0985  |   Medium   | [Sum of Even Numbers After Queries](Problems/0985.cpp)                                             |
 |  0986  |   Medium   | [Interval List Intersections](Problems/0986.cpp)                                                   |
