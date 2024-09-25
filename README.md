@@ -1204,6 +1204,7 @@ for solving problems.
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
 |  2414  |   Medium   | [Length of the Longest Alphabetical Continuous Substring](Problems/2414.cpp)                       |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
+|  2416  |    Hard    | [Sum of Prefix Scores of Strings](Problems/2416.cpp)                                               |
 |  2418  |    Easy    | [Sort the People](Problems/2418.cpp)                                                               |
 |  2419  |   Medium   | [Longest Subarray With Maximum Bitwise AND](Problems/2419.cpp)                                     |
 |  2421  |   Medium   | [Number of Good Paths](Problems/2421.cpp)                                                          |
