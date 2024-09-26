@@ -1039,6 +1039,7 @@ for solving problems.
 |  1895  |   Medium   | [Largest Magic Square](Problems/1895.cpp)                                                          |
 |  1897  |    Easy    | [Redistribute Characters to Make All Strings Equal](Problems/1897.cpp)                             |
 |  1899  |   Medium   | [Merge Triplets to Form Target Triplet](Problems/1899.cpp)                                         |
+|  1901  |   Medium   | [Find a Peak Element II](Problems/1901.cpp)                                                        |
 |  1903  |    Easy    | [Largest Odd Number in String](Problems/1903.cpp)                                                  |
 |  1905  |   Medium   | [Count Sub Islands](Problems/1905.cpp)                                                             |
 |  1907  |   Medium   | [Count Salary Categories](Problems/1907.cpp)                                                       |
