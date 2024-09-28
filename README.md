@@ -1097,6 +1097,7 @@ for solving problems.
 |  2070  |   Medium   | [Most Beautiful Item for Each Query](Problems/2070.cpp)                                            |
 |  2073  |    Easy    | [Time Needed to Buy Tickets](Problems/2073.cpp)                                                    |
 |  2074  |   Medium   | [Reverse Nodes in Even Length Groups](Problems/2074.cpp)                                           |
+|  2075  |   Medium   | [Decode the Slanted Ciphertext](Problems/2075.cpp)                                                 |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
 |  2087  |   Medium   | [Minimum Cost Homecoming of a Robot in a Grid](Problems/2087.cpp)                                  |
