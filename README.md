@@ -329,6 +329,7 @@ for solving problems.
 |  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                           |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                              |
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                       |
+|  0432  |    Hard    | [All O`one Data Structure](Problems/0432.cpp)                                                      |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                      |
 |  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                     |
 |  0436  |   Medium   | [Find Right Interval](Problems/0436.cpp)                                                           |
