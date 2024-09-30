@@ -461,6 +461,7 @@ for solving problems.
 |  0664  |    Hard    | [Strange Printer](Problems/0664.cpp)                                                               |
 |  0667  |   Medium   | [Beautiful Arrangement II](Problems/0667.cpp)                                                      |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
+|  0670  |   Medium   | [Maximum Swap](Problems/0670.cpp)                                                                  |
 |  0671  |    Easy    | [Second Minimum Node In a Binary Tree](Problems/0671.cpp)                                          |
 |  0672  |   Medium   | [Bulb Switcher II](Problems/0672.cpp)                                                              |
 |  0673  |   Medium   | [Number of Longest Increasing Subsequence](Problems/0673.cpp)                                      |
