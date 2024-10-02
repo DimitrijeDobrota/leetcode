@@ -785,6 +785,7 @@ for solving problems.
 |  1327  |    Easy    | [List the Products Ordered in a Period](Problems/1327.cpp)                                         |
 |  1328  |   Medium   | [Break a Palindrome](Problems/1328.cpp)                                                            |
 |  1329  |   Medium   | [Sort the Matrix Diagonally](Problems/1329.cpp)                                                    |
+|  1331  |    Easy    | [Rank Transform of an Array](Problems/1331.cpp)                                                    |
 |  1333  |   Medium   | [Filter Restaurants by Vegan-Friendly, Price and Distance](Problems/1333.cpp)                      |
 |  1334  |   Medium   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Problems/1334.cpp)   |
 |  1335  |    Hard    | [Minimum Difficulty of a Job Schedule](Problems/1335.cpp)                                          |
