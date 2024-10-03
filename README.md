@@ -917,6 +917,7 @@ for solving problems.
 |  1583  |   Medium   | [Count Unhappy Friends](Problems/1583.cpp)                                                         |
 |  1584  |   Medium   | [Min Cost to Connect All Points](Problems/1584.cpp)                                                |
 |  1587  |    Easy    | [Bank Account Summary II](Problems/1587.cpp)                                                       |
+|  1590  |   Medium   | [Make Sum Divisible by P](Problems/1590.cpp)                                                       |
 |  1593  |   Medium   | [Split a String Into the Max Number of Unique Substrings](Problems/1593.cpp)                       |
 |  1598  |    Easy    | [Crawler Log Folder](Problems/1598.cpp)                                                            |
 |  1600  |   Medium   | [Throne Inheritance](Problems/1600.cpp)                                                            |
