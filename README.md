@@ -1052,6 +1052,7 @@ for solving problems.
 |  1910  |   Medium   | [Remove All Occurrences of a Substring](Problems/1910.cpp)                                         |
 |  1911  |   Medium   | [Maximum Alternating Subsequence Sum](Problems/1911.cpp)                                           |
 |  1913  |    Easy    | [Maximum Product Difference Between Two Pairs](Problems/1913.cpp)                                  |
+|  1914  |   Medium   | [Cyclically Rotating a Grid](Problems/1914.cpp)                                                    |
 |  1915  |   Medium   | [Number of Wonderful Substrings](Problems/1915.cpp)                                                |
 |  1920  |    Easy    | [Build Array from Permutation](Problems/1920.cpp)                                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
