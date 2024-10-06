@@ -1015,6 +1015,7 @@ for solving problems.
 |  1802  |   Medium   | [Maximum Value at a Given Index in a Bounded Array](Problems/1802.cpp)                             |
 |  1806  |   Medium   | [Minimum Number of Operations to Reinitialize a Permutation](Problems/1806.cpp)                    |
 |  1807  |   Medium   | [Evaluate the Bracket Pairs of a String](Problems/1807.cpp)                                        |
+|  1813  |   Medium   | [Sentence Similarity III](Problems/1813.cpp)                                                       |
 |  1814  |   Medium   | [Count Nice Pairs in an Array](Problems/1814.cpp)                                                  |
 |  1817  |   Medium   | [Finding the Users Active Minutes](Problems/1817.cpp)                                              |
 |  1822  |    Easy    | [Sign of the Product of an Array](Problems/1822.cpp)                                               |
