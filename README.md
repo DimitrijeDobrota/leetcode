@@ -991,6 +991,7 @@ for solving problems.
 |  1750  |   Medium   | [Minimum Length of String After Deleting Similar Ends](Problems/1750.cpp)                          |
 |  1751  |    Hard    | [Maximum Number of Events That Can Be Attended II](Problems/1751.cpp)                              |
 |  1753  |   Medium   | [Maximum Score From Removing Stones](Problems/1753.cpp)                                            |
+|  1754  |   Medium   | [Largest Merge Of Two Strings](Problems/1754.cpp)                                                  |
 |  1757  |    Easy    | [Recyclable and Low Fat Products](Problems/1757.cpp)                                               |
 |  1758  |    Easy    | [Minimum Changes To Make Alternating Binary String](Problems/1758.cpp)                             |
 |  1759  |   Medium   | [Count Number of Homogenous Substrings](Problems/1759.cpp)                                         |
