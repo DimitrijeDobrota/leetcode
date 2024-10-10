@@ -657,6 +657,7 @@ for solving problems.
 |  1027  |   Medium   | [Longest Arithmetic Subsequence](Problems/1027.cpp)                                                |
 |  1029  |   Medium   | [Two City Scheduling](Problems/1029.cpp)                                                           |
 |  1031  |   Medium   | [Maximum Sum of Two Non-Overlapping Subarrays](Problems/1031.cpp)                                  |
+|  1033  |   Medium   | [Moving Stones Until Consecutive](Problems/1033.cpp)                                               |
 |  1035  |   Medium   | [Uncrossed Lines](Problems/1035.cpp)                                                               |
 |  1038  |   Medium   | [Binary Search Tree to Greater Sum Tree](Problems/1038.cpp)                                        |
 |  1039  |   Medium   | [Minimum Score Triangulation of Polygon](Problems/1039.cpp)                                        |
