@@ -1064,6 +1064,7 @@ for solving problems.
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
 |  1934  |   Medium   | [Confirmation Rate](Problems/1934.cpp)                                                             |
 |  1937  |   Medium   | [Maximum Number of Points with Cost](Problems/1937.cpp)                                            |
+|  1942  |   Medium   | [The Number of the Smallest Unoccupied Chair](Problems/1942.cpp)                                   |
 |  1943  |   Medium   | [Describe the Painting](Problems/1943.cpp)                                                         |
 |  1945  |    Easy    | [Sum of Digits of String After Convert](Problems/1945.cpp)                                         |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
