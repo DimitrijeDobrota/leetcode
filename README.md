@@ -1214,6 +1214,7 @@ for solving problems.
 |  2401  |   Medium   | [Longest Nice Subarray](Problems/2401.cpp)                                                         |
 |  2402  |    Hard    | [Meeting Rooms III](Problems/2402.cpp)                                                             |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |
+|  2406  |   Medium   | [Divide Intervals Into Minimum Number of Groups](Problems/2406.cpp)                                |
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
 |  2414  |   Medium   | [Length of the Longest Alphabetical Continuous Substring](Problems/2414.cpp)                       |
 |  2415  |   Medium   | [Reverse Odd Levels of Binary Tree](Problems/2415.cpp)                                             |
