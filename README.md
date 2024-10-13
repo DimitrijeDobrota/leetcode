@@ -439,6 +439,7 @@ for solving problems.
 |  0626  |   Medium   | [Exchange Seats](Problems/0626.cpp)                                                                |
 |  0627  |    Easy    | [Swap Salary](Problems/0627.cpp)                                                                   |
 |  0629  |    Hard    | [K Inverse Pairs Array](Problems/0629.cpp)                                                         |
+|  0632  |    Hard    | [Smallest Range Covering Elements from K Lists](Problems/0632.cpp)                                 |
 |  0633  |   Medium   | [Sum of Square Numbers](Problems/0633.cpp)                                                         |
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
