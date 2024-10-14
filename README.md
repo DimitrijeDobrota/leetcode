@@ -1254,6 +1254,7 @@ for solving problems.
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2526  |   Medium   | [Find Consecutive Integers from a Data Stream](Problems/2526.cpp)                                  |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
+|  2530  |   Medium   | [Maximal Score After Applying K Operations](Problems/2530.cpp)                                     |
 |  2536  |   Medium   | [Increment Submatrices by One](Problems/2536.cpp)                                                  |
 |  2537  |   Medium   | [Count the Number of Good Subarrays](Problems/2537.cpp)                                            |
 |  2540  |    Easy    | [Minimum Common Value](Problems/2540.cpp)                                                          |
