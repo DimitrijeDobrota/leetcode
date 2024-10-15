@@ -267,6 +267,7 @@ for solving problems.
 |  0297  |    Hard    | [Serialize and Deserialize Binary Tree](Problems/0297.cpp)                                         |
 |  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                                |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                                |
+|  0303  |    Easy    | [Range Sum Query - Immutable](Problems/0303.cpp)                                                   |
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                                |
 |  0306  |   Medium   | [Additive Number](Problems/0306.cpp)                                                               |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                                 |
