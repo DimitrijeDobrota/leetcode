@@ -333,6 +333,7 @@ for solving problems.
 |  0430  |   Medium   | [Flatten a Multilevel Doubly Linked list](Problems/0430.cpp)                                       |
 |  0432  |    Hard    | [All O`one Data Structure](Problems/0432.cpp)                                                      |
 |  0433  |   Medium   | [Minimum Genetic Mutation](Problems/0433.cpp)                                                      |
+|  0434  |    Easy    | [Number of Segments in a String](Problems/0434.cpp)                                                |
 |  0435  |   Medium   | [Non-overlapping Intervals](Problems/0435.cpp)                                                     |
 |  0436  |   Medium   | [Find Right Interval](Problems/0436.cpp)                                                           |
 |  0437  |   Medium   | [Path Sum III](Problems/0437.cpp)                                                                  |
