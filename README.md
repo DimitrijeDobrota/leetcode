@@ -1090,6 +1090,7 @@ for solving problems.
 |  2001  |   Medium   | [Number of Pairs of Interchangeable Rectangles](Problems/2001.cpp)                                 |
 |  2002  |   Medium   | [Maximum Product of the Length of Two Palindromic Subsequences](Problems/2002.cpp)                 |
 |  2009  |    Hard    | [Minimum Number of Operations to Make Array Continuous](Problems/2009.cpp)                         |
+|  2011  |    Easy    | [Final Value of Variable After Performing Operations](Problems/2011.cpp)                           |
 |  2013  |   Medium   | [Detect Squares](Problems/2013.cpp)                                                                |
 |  2022  |    Easy    | [Convert 1D Array Into 2D Array](Problems/2022.cpp)                                                |
 |  2023  |   Medium   | [Number of Pairs of Strings With Concatenation Equal to Target](Problems/2023.cpp)                 |
