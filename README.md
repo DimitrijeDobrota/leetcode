@@ -698,6 +698,7 @@ for solving problems.
 |  1099  |    Easy    | [Replace Elements with Greatest Element on Right Side](Problems/1099.cpp)                          |
 |  1104  |   Medium   | [Path In Zigzag Labelled Binary Tree](Problems/1104.cpp)                                           |
 |  1105  |   Medium   | [Filling Bookcase Shelves](Problems/1105.cpp)                                                      |
+|  1106  |    Hard    | [Parsing A Boolean Expression](Problems/1106.cpp)                                                  |
 |  1109  |   Medium   | [Corporate Flight Bookings](Problems/1109.cpp)                                                     |
 |  1110  |   Medium   | [Delete Nodes And Return Forest](Problems/1110.cpp)                                                |
 |  1111  |   Medium   | [Maximum Nesting Depth of Two Valid Parentheses Strings](Problems/1111.cpp)                        |
