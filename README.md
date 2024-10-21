@@ -88,6 +88,7 @@ for solving problems.
 |  0062  |   Medium   | [Unique Paths](Problems/0062.cpp)                                                                  |
 |  0063  |   Medium   | [Unique Paths II](Problems/0063.cpp)                                                               |
 |  0064  |   Medium   | [Minimum Path Sum](Problems/0064.cpp)                                                              |
+|  0065  |    Hard    | [Valid Number](Problems/0065.cpp)                                                                  |
 |  0066  |    Easy    | [Plus One](Problems/0066.cpp)                                                                      |
 |  0067  |    Easy    | [Add Binary](Problems/0067.cpp)                                                                    |
 |  0068  |    Hard    | [Text Justification](Problems/0068.cpp)                                                            |
@@ -137,6 +138,7 @@ for solving problems.
 |  0112  |    Easy    | [Path Sum](Problems/0112.cpp)                                                                      |
 |  0113  |   Medium   | [Path Sum II](Problems/0113.cpp)                                                                   |
 |  0114  |   Medium   | [Flatten Binary Tree to Linked List](Problems/0114.cpp)                                            |
+|  0115  |    Hard    | [Distinct Subsequences](Problems/0115.cpp)                                                         |
 |  0116  |   Medium   | [Populating Next Right Pointers in Each Node](Problems/0116.cpp)                                   |
 |  0117  |   Medium   | [Populating Next Right Pointers in Each Node II](Problems/0117.cpp)                                |
 |  0118  |    Easy    | [Pascal's Triangle](Problems/0118.cpp)                                                             |
@@ -147,11 +149,13 @@ for solving problems.
 |  0123  |    Hard    | [Best Time to Buy and Sell Stock III](Problems/0123.cpp)                                           |
 |  0124  |    Hard    | [Binary Tree Maximum Path Sum](Problems/0124.cpp)                                                  |
 |  0125  |    Easy    | [Valid Palindrome](Problems/0125.cpp)                                                              |
+|  0126  |    Hard    | [Word Ladder II](Problems/0126.cpp)                                                                |
 |  0127  |    Hard    | [Word Ladder](Problems/0127.cpp)                                                                   |
 |  0128  |   Medium   | [Longest Consecutive Sequence](Problems/0128.cpp)                                                  |
 |  0129  |   Medium   | [Sum Root to Leaf Numbers](Problems/0129.cpp)                                                      |
 |  0130  |   Medium   | [Surrounded Regions](Problems/0130.cpp)                                                            |
 |  0131  |   Medium   | [Palindrome Partitioning](Problems/0131.cpp)                                                       |
+|  0132  |    Hard    | [Palindrome Partitioning II](Problems/0132.cpp)                                                    |
 |  0133  |   Medium   | [Clone Graph](Problems/0133.cpp)                                                                   |
 |  0134  |   Medium   | [Gas Station](Problems/0134.cpp)                                                                   |
 |  0135  |    Hard    | [Candy](Problems/0135.cpp)                                                                         |
@@ -166,6 +170,7 @@ for solving problems.
 |  0144  |   Medium   | [Binary Tree Preorder Traversal](Problems/0144.cpp)                                                |
 |  0145  |    Easy    | [Binary Tree Postorder Traversal](Problems/0145.cpp)                                               |
 |  0146  |   Medium   | [LRU Cache](Problems/0146.cpp)                                                                     |
+|  0147  |   Medium   | [Insertion Sort List](Problems/0147.cpp)                                                           |
 |  0148  |   Medium   | [Sort List](Problems/0148.cpp)                                                                     |
 |  0149  |    Hard    | [Max Points on a Line](Problems/0149.cpp)                                                          |
 |  0150  |   Medium   | [Evaluate Reverse Polish Notation](Problems/0150.cpp)                                              |
