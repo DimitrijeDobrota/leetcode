@@ -177,17 +177,20 @@ for solving problems.
 |  0151  |   Medium   | [Reverse Words in a String](Problems/0151.cpp)                                                     |
 |  0152  |   Medium   | [Maximum Product Subarray](Problems/0152.cpp)                                                      |
 |  0153  |   Medium   | [Find Minimum in Rotated Sorted Array](Problems/0153.cpp)                                          |
+|  0154  |    Hard    | [Find Minimum in Rotated Sorted Array II](Problems/0154.cpp)                                       |
 |  0155  |   Medium   | [Min Stack](Problems/0155.cpp)                                                                     |
 |  0160  |    Easy    | [Intersection of Two Linked Lists](Problems/0160.cpp)                                              |
 |  0162  |   Medium   | [Find Peak Element](Problems/0162.cpp)                                                             |
 |  0164  |    Hard    | [Maximum Gap](Problems/0164.cpp)                                                                   |
 |  0165  |   Medium   | [Compare Version Numbers](Problems/0165.cpp)                                                       |
+|  0166  |   Medium   | [Fraction to Recurring Decimal](Problems/0166.cpp)                                                 |
 |  0167  |   Medium   | [Two Sum II - Input Array Is Sorted](Problems/0167.cpp)                                            |
 |  0168  |    Easy    | [Excel Sheet Column Title](Problems/0168.cpp)                                                      |
 |  0169  |    Easy    | [Majority Element](Problems/0169.cpp)                                                              |
 |  0171  |    Easy    | [Excel Sheet Column Number](Problems/0171.cpp)                                                     |
 |  0172  |   Medium   | [Factorial Trailing Zeroes](Problems/0172.cpp)                                                     |
 |  0173  |   Medium   | [Binary Search Tree Iterator](Problems/0173.cpp)                                                   |
+|  0174  |    Hard    | [Dungeon Game](Problems/0174.cpp)                                                                  |
 |  0175  |    Easy    | [Combine Two Tables](Problems/0175.cpp)                                                            |
 |  0176  |   Medium   | [Second Highest Salary](Problems/0176.cpp)                                                         |
 |  0177  |   Medium   | [Nth Highest Salary](Problems/0177.cpp)                                                            |
@@ -230,7 +233,9 @@ for solving problems.
 |  0215  |   Medium   | [Kth Largest Element in an Array](Problems/0215.cpp)                                               |
 |  0216  |   Medium   | [Combination Sum III](Problems/0216.cpp)                                                           |
 |  0217  |    Easy    | [Contains Duplicate](Problems/0217.cpp)                                                            |
+|  0218  |    Hard    | [The Skyline Problem](Problems/0218.cpp)                                                           |
 |  0219  |    Easy    | [Contains Duplicate II](Problems/0219.cpp)                                                         |
+|  0220  |    Hard    | [Contains Duplicate III](Problems/0220.cpp)                                                        |
 |  0221  |   Medium   | [Maximal Square](Problems/0221.cpp)                                                                |
 |  0222  |   Medium   | [Count Complete Tree Nodes](Problems/0222.cpp)                                                     |
 |  0223  |   Medium   | [Rectangle Area](Problems/0223.cpp)                                                                |
