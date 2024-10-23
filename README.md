@@ -247,6 +247,7 @@ for solving problems.
 |  0229  |   Medium   | [Majority Element II](Problems/0229.cpp)                                                           |
 |  0231  |    Easy    | [Power of Two](Problems/0231.cpp)                                                                  |
 |  0232  |    Easy    | [Implement Queue using Stacks](Problems/0232.cpp)                                                  |
+|  0233  |    Hard    | [Number of Digit One](Problems/0233.cpp)                                                           |
 |  0234  |    Easy    | [Palindrome Linked List](Problems/0234.cpp)                                                        |
 |  0235  |   Medium   | [Lowest Common Ancestor of a Binary Search Tree](Problems/0235.cpp)                                |
 |  0236  |   Medium   | [Lowest Common Ancestor of a Binary Tree](Problems/0236.cpp)                                       |
@@ -265,8 +266,10 @@ for solving problems.
 |  0268  |    Easy    | [Missing Number](Problems/0268.cpp)                                                                |
 |  0273  |    Hard    | [Integer to English Words](Problems/0273.cpp)                                                      |
 |  0274  |   Medium   | [H-Index](Problems/0274.cpp)                                                                       |
+|  0275  |   Medium   | [H-Index II](Problems/0275.cpp)                                                                    |
 |  0278  |    Easy    | [First Bad Version](Problems/0278.cpp)                                                             |
 |  0279  |   Medium   | [Perfect Squares](Problems/0279.cpp)                                                               |
+|  0282  |    Hard    | [Expression Add Operators](Problems/0282.cpp)                                                      |
 |  0283  |    Easy    | [Move Zeroes](Problems/0283.cpp)                                                                   |
 |  0284  |   Medium   | [Peeking Iterator](Problems/0284.cpp)                                                              |
 |  0287  |   Medium   | [Find the Duplicate Number](Problems/0287.cpp)                                                     |
@@ -277,6 +280,7 @@ for solving problems.
 |  0297  |    Hard    | [Serialize and Deserialize Binary Tree](Problems/0297.cpp)                                         |
 |  0299  |   Medium   | [Bulls and Cows](Problems/0299.cpp)                                                                |
 |  0300  |   Medium   | [Longest Increasing Subsequence](Problems/0300.cpp)                                                |
+|  0301  |    Hard    | [Remove Invalid Parentheses](Problems/0301.cpp)                                                    |
 |  0303  |    Easy    | [Range Sum Query - Immutable](Problems/0303.cpp)                                                   |
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                                |
 |  0306  |   Medium   | [Additive Number](Problems/0306.cpp)                                                               |
