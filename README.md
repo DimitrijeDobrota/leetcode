@@ -284,8 +284,10 @@ for solving problems.
 |  0303  |    Easy    | [Range Sum Query - Immutable](Problems/0303.cpp)                                                   |
 |  0304  |   Medium   | [Range Sum Query 2D - Immutable](Problems/0304.cpp)                                                |
 |  0306  |   Medium   | [Additive Number](Problems/0306.cpp)                                                               |
+|  0307  |   Medium   | [Range Sum Query - Mutable](Problems/0307.cpp)                                                     |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                                 |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                          |
+|  0315  |    Hard    | [Count of Smaller Numbers After Self](Problems/0315.cpp)                                           |
 |  0316  |   Medium   | [Remove Duplicate Letters](Problems/0316.cpp)                                                      |
 |  0318  |   Medium   | [Maximum Product of Word Lengths](Problems/0318.cpp)                                               |
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
@@ -380,6 +382,7 @@ for solving problems.
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
 |  0486  |   Medium   | [Reachable Nodes With Restrictions](Problems/0486.cpp)                                             |
 |  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                   |
+|  0493  |    Hard    | [Reverse Pairs](Problems/0493.cpp)                                                                 |
 |  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                    |
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                                        |
 |  0498  |   Medium   | [Diagonal Traverse](Problems/0498.cpp)                                                             |
@@ -1130,6 +1133,7 @@ for solving problems.
 |  2074  |   Medium   | [Reverse Nodes in Even Length Groups](Problems/2074.cpp)                                           |
 |  2075  |   Medium   | [Decode the Slanted Ciphertext](Problems/2075.cpp)                                                 |
 |  2079  |   Medium   | [Watering Plants](Problems/2079.cpp)                                                               |
+|  2080  |   Medium   | [Range Frequency Queries](Problems/2080.cpp)                                                       |
 |  2085  |    Easy    | [Count Common Words With One Occurrence](Problems/2085.cpp)                                        |
 |  2087  |   Medium   | [Minimum Cost Homecoming of a Robot in a Grid](Problems/2087.cpp)                                  |
 |  2090  |   Medium   | [K Radius Subarray Averages](Problems/2090.cpp)                                                    |
@@ -1401,4 +1405,5 @@ for solving problems.
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
 |  3249  |   Medium   | [Count the Number of Good Nodes](Problems/3249.cpp)                                                |
 |  3254  |   Medium   | [Find the Power of K-Size Subarrays I](Problems/3254.cpp)                                          |
+|  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
