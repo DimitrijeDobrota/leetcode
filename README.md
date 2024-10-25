@@ -287,6 +287,7 @@ for solving problems.
 |  0307  |   Medium   | [Range Sum Query - Mutable](Problems/0307.cpp)                                                     |
 |  0309  |   Medium   | [Best Time to Buy and Sell Stock with Cooldown](Problems/0309.cpp)                                 |
 |  0310  |   Medium   | [Minimum Height Trees](Problems/0310.cpp)                                                          |
+|  0312  |    Hard    | [Burst Balloons](Problems/0312.cpp)                                                                |
 |  0315  |    Hard    | [Count of Smaller Numbers After Self](Problems/0315.cpp)                                           |
 |  0316  |   Medium   | [Remove Duplicate Letters](Problems/0316.cpp)                                                      |
 |  0318  |   Medium   | [Maximum Product of Word Lengths](Problems/0318.cpp)                                               |
