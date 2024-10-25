@@ -8,8 +8,6 @@ int n, m;
 int valid(int x, int y) { return x >= 0 && x < n && y >= 0 && y < m; }
 
 bool dfs(const Matrix &mat, Marked &mark, int a, int b) {
-    if (got == word.size()) return true;
-
     mark[a][b] = true;
     for (auto [oa, ob] : offsets) {
         int x = a + oa, y = b + ob;
