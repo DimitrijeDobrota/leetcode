@@ -1261,6 +1261,7 @@ reference and a base for solving problems.
 |  2444  |    Hard    | [Count Subarrays With Fixed Bounds](Problems/2444.cpp)                                             |
 |  2448  |    Hard    | [Minimum Cost to Make Array Equal](Problems/2448.cpp)                                              |
 |  2452  |   Medium   | [Words Within Two Edits of Dictionary](Problems/2452.cpp)                                          |
+|  2458  |    Hard    | [Height of Binary Tree After Subtree Removal Queries](Problems/2458.cpp)                           |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                               |
 |  2462  |   Medium   | [Total Cost to Hire K Workers](Problems/2462.cpp)                                                  |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                   |
