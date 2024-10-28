@@ -297,6 +297,7 @@ reference and a base for solving problems.
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
+|  0327  |    Hard    | [Count of Range Sum](Problems/0327.cpp)                                                            |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                          |
 |  0330  |    Hard    | [Patching Array](Problems/0330.cpp)                                                                |
 |  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
@@ -499,6 +500,7 @@ reference and a base for solving problems.
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
 |  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                          |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                            |
+|  0699  |    Hard    | [Falling Squares](Problems/0699.cpp)                                                               |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                                |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                              |
 |  0703  |    Easy    | [Kth Largest Element in a Stream](Problems/0703.cpp)                                               |
@@ -1280,6 +1282,7 @@ reference and a base for solving problems.
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
 |  2498  |   Medium   | [Frog Jump II](Problems/2498.cpp)                                                                  |
+|  2501  |   Medium   | [Longest Square Streak in an Array](Problems/2501.cpp)                                             |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
 |  2526  |   Medium   | [Find Consecutive Integers from a Data Stream](Problems/2526.cpp)                                  |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
