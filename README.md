@@ -296,6 +296,7 @@ reference and a base for solving problems.
 |  0316  |   Medium   | [Remove Duplicate Letters](Problems/0316.cpp)                                                      |
 |  0318  |   Medium   | [Maximum Product of Word Lengths](Problems/0318.cpp)                                               |
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
+|  0321  |    Hard    | [Create Maximum Number](Problems/0321.cpp)                                                         |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
 |  0327  |    Hard    | [Count of Range Sum](Problems/0327.cpp)                                                            |
@@ -512,6 +513,7 @@ reference and a base for solving problems.
 |  0712  |   Medium   | [Minimum ASCII Delete Sum for Two Strings](Problems/0712.cpp)                                      |
 |  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                  |
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                          |
+|  0715  |    Hard    | [Range Module](Problems/0715.cpp)                                                                  |
 |  0718  |   Medium   | [Maximum Length of Repeated Subarray](Problems/0718.cpp)                                           |
 |  0719  |    Hard    | [Find K-th Smallest Pair Distance](Problems/0719.cpp)                                              |
 |  0720  |   Medium   | [Longest Word in Dictionary](Problems/0720.cpp)                                                    |
@@ -1337,6 +1339,7 @@ reference and a base for solving problems.
 |  2678  |    Easy    | [Number of Senior Citizens](Problems/2678.cpp)                                                     |
 |  2679  |   Medium   | [Sum in a Matrix](Problems/2679.cpp)                                                               |
 |  2683  |   Medium   | [Neighboring Bitwise XOR](Problems/2683.cpp)                                                       |
+|  2684  |   Medium   | [Maximum Number of Moves in a Grid](Problems/2684.cpp)                                             |
 |  2685  |   Medium   | [Count the Number of Complete Components](Problems/2685.cpp)                                       |
 |  2696  |    Easy    | [Minimum String Length After Removing Substrings](Problems/2696.cpp)                               |
 |  2698  |   Medium   | [Find the Punishment Number of an Integer](Problems/2698.cpp)                                      |
