@@ -22,6 +22,7 @@ reference and a base for solving problems.
 * [Union Find](Templates/Union_Find.cpp): Fast implementation, all optimization tricks used
 * [Segment Tree Iterative](Templates/segment_tree.cpp): Fast implementation, contains tricky bits
 * [Segment Tree Recursive](Templates/segment_tree_recursive.cpp): Reference implementation, easy to understand
+* [Dynamic Segment Tree Recursive](Templates/segment_tree_dynamic_recursive.cpp): Reference implementation, checks range coverage
 
 ## Problems
 
