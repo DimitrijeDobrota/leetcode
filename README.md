@@ -986,6 +986,7 @@ reference and a base for solving problems.
 |  1667  |    Easy    | [Fix Names in a Table](Problems/1667.cpp)                                                          |
 |  1669  |   Medium   | [Merge In Between Linked Lists](Problems/1669.cpp)                                                 |
 |  1670  |   Medium   | [Design Front Middle Back Queue](Problems/1670.cpp)                                                |
+|  1671  |    Hard    | [Minimum Number of Removals to Make Mountain Array](Problems/1671.cpp)                             |
 |  1672  |    Easy    | [Richest Customer Wealth](Problems/1672.cpp)                                                       |
 |  1673  |   Medium   | [Find the Most Competitive Subsequence](Problems/1673.cpp)                                         |
 |  1675  |    Hard    | [Minimize Deviation in Array](Problems/1675.cpp)                                                   |
