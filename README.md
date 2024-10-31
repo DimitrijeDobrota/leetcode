@@ -298,10 +298,13 @@ reference and a base for solving problems.
 |  0319  |   Medium   | [Bulb Switcher](Problems/0319.cpp)                                                                 |
 |  0321  |    Hard    | [Create Maximum Number](Problems/0321.cpp)                                                         |
 |  0322  |   Medium   | [Coin Change](Problems/0322.cpp)                                                                   |
+|  0324  |   Medium   | [Wiggle Sort II](Problems/0324.cpp)                                                                |
 |  0326  |    Easy    | [Power of Three](Problems/0326.cpp)                                                                |
 |  0327  |    Hard    | [Count of Range Sum](Problems/0327.cpp)                                                            |
 |  0328  |   Medium   | [Odd Even Linked List](Problems/0328.cpp)                                                          |
+|  0329  |    Hard    | [Longest Increasing Path in a Matrix](Problems/0329.cpp)                                           |
 |  0330  |    Hard    | [Patching Array](Problems/0330.cpp)                                                                |
+|  0331  |   Medium   | [Verify Preorder Serialization of a Binary Tree](Problems/0331.cpp)                                |
 |  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                                |
 |  0337  |   Medium   | [House Robber III](Problems/0337.cpp)                                                              |
@@ -1271,6 +1274,7 @@ reference and a base for solving problems.
 |  2458  |    Hard    | [Height of Binary Tree After Subtree Removal Queries](Problems/2458.cpp)                           |
 |  2461  |   Medium   | [Maximum Sum of Distinct Subarrays With Length K](Problems/2461.cpp)                               |
 |  2462  |   Medium   | [Total Cost to Hire K Workers](Problems/2462.cpp)                                                  |
+|  2463  |   Medium   | [Minimum Total Distance Traveled](Problems/2463.cpp)                                               |
 |  2465  |    Easy    | [Number of Distinct Averages](Problems/2465.cpp)                                                   |
 |  2466  |   Medium   | [Count Ways To Build Good Strings](Problems/2466.cpp)                                              |
 |  2467  |   Medium   | [Most Profitable Path in a Tree](Problems/2467.cpp)                                                |
