@@ -307,6 +307,7 @@ reference and a base for solving problems.
 |  0331  |   Medium   | [Verify Preorder Serialization of a Binary Tree](Problems/0331.cpp)                                |
 |  0332  |    Hard    | [Reconstruct Itinerary](Problems/0332.cpp)                                                         |
 |  0334  |   Medium   | [Increasing Triplet Subsequence](Problems/0334.cpp)                                                |
+|  0336  |    Hard    | [Palindrome Pairs](Problems/0336.cpp)                                                              |
 |  0337  |   Medium   | [House Robber III](Problems/0337.cpp)                                                              |
 |  0338  |    Easy    | [Counting Bits](Problems/0338.cpp)                                                                 |
 |  0341  |   Medium   | [Flatten Nested List Iterator](Problems/0341.cpp)                                                  |
@@ -1105,6 +1106,7 @@ reference and a base for solving problems.
 |  1945  |    Easy    | [Sum of Digits of String After Convert](Problems/1945.cpp)                                         |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1954  |   Medium   | [Minimum Garden Perimeter to Collect Enough Apples](Problems/1954.cpp)                             |
+|  1957  |    Easy    | [Delete Characters to Make Fancy String](Problems/1957.cpp)                                        |
 |  1962  |   Medium   | [Remove Stones to Minimize the Total](Problems/1962.cpp)                                           |
 |  1963  |   Medium   | [Minimum Number of Swaps to Make the String Balanced](Problems/1963.cpp)                           |
 |  1964  |    Hard    | [Find the Longest Valid Obstacle Course at Each Position](Problems/1964.cpp)                       |
