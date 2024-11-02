@@ -319,6 +319,8 @@ reference and a base for solving problems.
 |  0349  |    Easy    | [Intersection of Two Arrays](Problems/0349.cpp)                                                    |
 |  0350  |    Easy    | [Intersection of Two Arrays II](Problems/0350.cpp)                                                 |
 |  0352  |    Hard    | [Data Stream as Disjoint Intervals](Problems/0352.cpp)                                             |
+|  0354  |    Hard    | [Russian Doll Envelopes](Problems/0354.cpp)                                                        |
+|  0355  |   Medium   | [Design Twitter](Problems/0355.cpp)                                                                |
 |  0357  |   Medium   | [Count Numbers with Unique Digits](Problems/0357.cpp)                                              |
 |  0367  |    Easy    | [Valid Perfect Square](Problems/0367.cpp)                                                          |
 |  0368  |   Medium   | [Largest Divisible Subset](Problems/0368.cpp)                                                      |
@@ -1288,6 +1290,7 @@ reference and a base for solving problems.
 |  2485  |    Easy    | [Find the Pivot Integer](Problems/2485.cpp)                                                        |
 |  2486  |   Medium   | [Append Characters to String to Make Subsequence](Problems/2486.cpp)                               |
 |  2487  |   Medium   | [Remove Nodes From Linked List](Problems/2487.cpp)                                                 |
+|  2490  |    Easy    | [Circular Sentence](Problems/2490.cpp)                                                             |
 |  2491  |   Medium   | [Divide Players Into Teams of Equal Skill](Problems/2491.cpp)                                      |
 |  2492  |   Medium   | [Minimum Score of a Path Between Two Cities](Problems/2492.cpp)                                    |
 |  2497  |   Medium   | [Maximum Star Sum of a Graph](Problems/2497.cpp)                                                   |
