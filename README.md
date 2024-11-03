@@ -322,6 +322,7 @@ reference and a base for solving problems.
 |  0354  |    Hard    | [Russian Doll Envelopes](Problems/0354.cpp)                                                        |
 |  0355  |   Medium   | [Design Twitter](Problems/0355.cpp)                                                                |
 |  0357  |   Medium   | [Count Numbers with Unique Digits](Problems/0357.cpp)                                              |
+|  0365  |   Medium   | [Water and Jug Problem](Problems/0365.cpp)                                                         |
 |  0367  |    Easy    | [Valid Perfect Square](Problems/0367.cpp)                                                          |
 |  0368  |   Medium   | [Largest Divisible Subset](Problems/0368.cpp)                                                      |
 |  0371  |   Medium   | [Sum of Two Integers](Problems/0371.cpp)                                                           |
@@ -554,6 +555,7 @@ reference and a base for solving problems.
 |  0791  |   Medium   | [Custom Sort String](Problems/0791.cpp)                                                            |
 |  0792  |   Medium   | [Number of Matching Subsequences](Problems/0792.cpp)                                               |
 |  0795  |   Medium   | [Number of Subarrays with Bounded Maximum](Problems/0795.cpp)                                      |
+|  0796  |    Easy    | [Rotate String](Problems/0796.cpp)                                                                 |
 |  0797  |   Medium   | [All Paths From Source to Target](Problems/0797.cpp)                                               |
 |  0799  |   Medium   | [Champagne Tower](Problems/0799.cpp)                                                               |
 |  0802  |   Medium   | [Find Eventual Safe States](Problems/0802.cpp)                                                     |
