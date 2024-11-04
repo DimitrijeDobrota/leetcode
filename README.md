@@ -336,8 +336,10 @@ reference and a base for solving problems.
 |  0382  |   Medium   | [Linked List Random Node](Problems/0382.cpp)                                                       |
 |  0383  |    Easy    | [Ransom Note](Problems/0383.cpp)                                                                   |
 |  0384  |   Medium   | [Shuffle an Array](Problems/0384.cpp)                                                              |
+|  0385  |   Medium   | [Mini Parser](Problems/0385.cpp)                                                                   |
 |  0386  |   Medium   | [Lexicographical Numbers](Problems/0386.cpp)                                                       |
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                            |
+|  0388  |   Medium   | [Longest Absolute File Path](Problems/0388.cpp)                                                    |
 |  0389  |    Easy    | [Find the Difference](Problems/0389.cpp)                                                           |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                                |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                                 |
@@ -1415,6 +1417,7 @@ reference and a base for solving problems.
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
 |  3137  |   Medium   | [Minimum Number of Operations to Make Word K-Periodic](Problems/3137.cpp)                          |
 |  3159  |   Medium   | [Find Occurrences of an Element in an Array](Problems/3159.cpp)                                    |
+|  3163  |   Medium   | [String Compression III](Problems/3163.cpp)                                                        |
 |  3190  |    Easy    | [Find Minimum Operations to Make All Elements Divisible by Three](Problems/3190.cpp)               |
 |  3191  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One I](Problems/3191.cpp)               |
 |  3192  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One II](Problems/3192.cpp)              |
