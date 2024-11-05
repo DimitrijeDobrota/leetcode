@@ -341,8 +341,13 @@ reference and a base for solving problems.
 |  0387  |    Easy    | [First Unique Character in a String](Problems/0387.cpp)                                            |
 |  0388  |   Medium   | [Longest Absolute File Path](Problems/0388.cpp)                                                    |
 |  0389  |    Easy    | [Find the Difference](Problems/0389.cpp)                                                           |
+|  0390  |   Medium   | [Elimination Game](Problems/0390.cpp)                                                              |
 |  0392  |    Easy    | [Is Subsequence](Problems/0392.cpp)                                                                |
+|  0393  |   Medium   | [UTF-8 Validation](Problems/0393.cpp)                                                              |
 |  0394  |   Medium   | [Decode String](Problems/0394.cpp)                                                                 |
+|  0395  |   Medium   | [Longest Substring with At Least K Repeating Characters](Problems/0395.cpp)                        |
+|  0396  |   Medium   | [Rotate Function](Problems/0396.cpp)                                                               |
+|  0397  |   Medium   | [Integer Replacement](Problems/0397.cpp)                                                           |
 |  0398  |   Medium   | [Random Pick Index](Problems/0398.cpp)                                                             |
 |  0399  |   Medium   | [Evaluate Division](Problems/0399.cpp)                                                             |
 |  0401  |    Easy    | [Binary Watch](Problems/0401.cpp)                                                                  |
