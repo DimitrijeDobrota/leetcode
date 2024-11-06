@@ -377,6 +377,7 @@ reference and a base for solving problems.
 |  0437  |   Medium   | [Path Sum III](Problems/0437.cpp)                                                                  |
 |  0438  |   Medium   | [Find All Anagrams in a String](Problems/0438.cpp)                                                 |
 |  0440  |    Hard    | [K-th Smallest in Lexicographical Order](Problems/0440.cpp)                                        |
+|  0441  |    Easy    | [Arranging Coins](Problems/0441.cpp)                                                               |
 |  0442  |   Medium   | [Find All Duplicates in an Array](Problems/0442.cpp)                                               |
 |  0443  |   Medium   | [String Compression](Problems/0443.cpp)                                                            |
 |  0445  |   Medium   | [Add Two Numbers II](Problems/0445.cpp)                                                            |
@@ -391,11 +392,15 @@ reference and a base for solving problems.
 |  0454  |   Medium   | [4Sum II](Problems/0454.cpp)                                                                       |
 |  0455  |    Easy    | [Assign Cookies](Problems/0455.cpp)                                                                |
 |  0456  |   Medium   | [132 Pattern](Problems/0456.cpp)                                                                   |
+|  0457  |   Medium   | [Circular Array Loop](Problems/0457.cpp)                                                           |
 |  0458  |    Hard    | [Poor Pigs](Problems/0458.cpp)                                                                     |
 |  0459  |    Easy    | [Repeated Substring Pattern](Problems/0459.cpp)                                                    |
 |  0460  |    Hard    | [LFU Cache](Problems/0460.cpp)                                                                     |
+|  0461  |    Easy    | [Hamming Distance](Problems/0461.cpp)                                                              |
 |  0462  |   Medium   | [Minimum Moves to Equal Array Elements II](Problems/0462.cpp)                                      |
 |  0463  |    Easy    | [Island Perimeter](Problems/0463.cpp)                                                              |
+|  0464  |   Medium   | [Can I Win](Problems/0464.cpp)                                                                     |
+|  0467  |   Medium   | [Unique Substrings in Wraparound String](Problems/0467.cpp)                                        |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
 |  0476  |    Easy    | [Number Complement](Problems/0476.cpp)                                                             |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
