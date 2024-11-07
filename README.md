@@ -365,6 +365,7 @@ reference and a base for solving problems.
 |  0417  |   Medium   | [Pacific Atlantic Water Flow](Problems/0417.cpp)                                                   |
 |  0419  |   Medium   | [Battleships in a Board](Problems/0419.cpp)                                                        |
 |  0421  |   Medium   | [Maximum XOR of Two Numbers in an Array](Problems/0421.cpp)                                        |
+|  0423  |   Medium   | [Reconstruct Original Digits from English](Problems/0423.cpp)                                      |
 |  0424  |   Medium   | [Longest Repeating Character Replacement](Problems/0424.cpp)                                       |
 |  0427  |   Medium   | [Construct Quad Tree](Problems/0427.cpp)                                                           |
 |  0429  |   Medium   | [N-ary Tree Level Order Traversal](Problems/0429.cpp)                                              |
@@ -402,6 +403,7 @@ reference and a base for solving problems.
 |  0464  |   Medium   | [Can I Win](Problems/0464.cpp)                                                                     |
 |  0467  |   Medium   | [Unique Substrings in Wraparound String](Problems/0467.cpp)                                        |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
+|  0473  |   Medium   | [Matchsticks to Square](Problems/0473.cpp)                                                         |
 |  0476  |    Easy    | [Number Complement](Problems/0476.cpp)                                                             |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
 |  0481  |   Medium   | [Magical String](Problems/0481.cpp)                                                                |
