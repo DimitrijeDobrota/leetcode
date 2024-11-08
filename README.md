@@ -357,6 +357,7 @@ reference and a base for solving problems.
 |  0405  |    Easy    | [Convert a Number to Hexadecimal](Problems/0405.cpp)                                               |
 |  0406  |   Medium   | [Queue Reconstruction by Height](Problems/0406.cpp)                                                |
 |  0409  |    Easy    | [Longest Palindrome](Problems/0409.cpp)                                                            |
+|  0410  |    Hard    | [Split Array Largest Sum](Problems/0410.cpp)                                                       |
 |  0412  |    Easy    | [Fizz Buzz](Problems/0412.cpp)                                                                     |
 |  0413  |   Medium   | [Arithmetic Slices](Problems/0413.cpp)                                                             |
 |  0414  |    Easy    | [Third Maximum Number](Problems/0414.cpp)                                                          |
@@ -402,11 +403,15 @@ reference and a base for solving problems.
 |  0463  |    Easy    | [Island Perimeter](Problems/0463.cpp)                                                              |
 |  0464  |   Medium   | [Can I Win](Problems/0464.cpp)                                                                     |
 |  0467  |   Medium   | [Unique Substrings in Wraparound String](Problems/0467.cpp)                                        |
+|  0468  |   Medium   | [Validate IP Address](Problems/0468.cpp)                                                           |
 |  0472  |    Hard    | [Concatenated Words](Problems/0472.cpp)                                                            |
 |  0473  |   Medium   | [Matchsticks to Square](Problems/0473.cpp)                                                         |
+|  0474  |   Medium   | [Ones and Zeroes](Problems/0474.cpp)                                                               |
+|  0475  |   Medium   | [Heaters](Problems/0475.cpp)                                                                       |
 |  0476  |    Easy    | [Number Complement](Problems/0476.cpp)                                                             |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
 |  0481  |   Medium   | [Magical String](Problems/0481.cpp)                                                                |
+|  0482  |    Easy    | [License Key Formatting](Problems/0482.cpp)                                                        |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
 |  0486  |   Medium   | [Reachable Nodes With Restrictions](Problems/0486.cpp)                                             |
 |  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                   |
