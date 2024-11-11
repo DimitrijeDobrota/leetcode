@@ -1339,6 +1339,7 @@ reference and a base for solving problems.
 |  2593  |   Medium   | [Find Score of an Array After Marking All Elements](Problems/2593.cpp)                             |
 |  2596  |   Medium   | [Check Knight Tour Configuration](Problems/2596.cpp)                                               |
 |  2597  |   Medium   | [The Number of Beautiful Subsets](Problems/2597.cpp)                                               |
+|  2601  |   Medium   | [Prime Subtraction Operation](Problems/2601.cpp)                                                   |
 |  2606  |   Medium   | [Find the Substring With Maximum Cost](Problems/2606.cpp)                                          |
 |  2610  |   Medium   | [Convert an Array Into a 2D Array With Conditions](Problems/2610.cpp)                              |
 |  2616  |   Medium   | [Minimize the Maximum Difference of Pairs](Problems/2616.cpp)                                      |
