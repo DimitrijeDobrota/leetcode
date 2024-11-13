@@ -1330,6 +1330,7 @@ reference and a base for solving problems.
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
 |  2554  |   Medium   | [Maximum Number of Integers to Choose From a Range I](Problems/2554.cpp)                           |
 |  2559  |   Medium   | [Count Vowel Strings in Ranges](Problems/2559.cpp)                                                 |
+|  2563  |   Medium   | [Count the Number of Fair Pairs](Problems/2563.cpp)                                                |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2571  |   Medium   | [Minimum Operations to Reduce an Integer to 0](Problems/2571.cpp)                                  |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
