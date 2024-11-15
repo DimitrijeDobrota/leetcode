@@ -971,6 +971,7 @@ reference and a base for solving problems.
 |  1568  |    Hard    | [Minimum Number of Days to Disconnect Island](Problems/1568.cpp)                                   |
 |  1569  |    Hard    | [Number of Ways to Reorder Array to Get Same BST](Problems/1569.cpp)                               |
 |  1572  |    Easy    | [Matrix Diagonal Sum](Problems/1572.cpp)                                                           |
+|  1574  |   Medium   | [Shortest Subarray to be Removed to Make Array Sorted](Problems/1574.cpp)                          |
 |  1575  |   Medium   | [Count All Possible Routes](Problems/1575.cpp)                                                     |
 |  1578  |   Medium   | [Minimum Time to Make Rope Colorful](Problems/1578.cpp)                                            |
 |  1579  |    Hard    | [Remove Max Number of Edges to Keep Graph Fully Traversable](Problems/1579.cpp)                    |
