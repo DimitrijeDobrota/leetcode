@@ -614,6 +614,7 @@ reference and a base for solving problems.
 |  0859  |    Easy    | [Buddy Strings](Problems/0859.cpp)                                                                 |
 |  0860  |    Easy    | [Lemonade Change](Problems/0860.cpp)                                                               |
 |  0861  |   Medium   | [Score After Flipping Matrix](Problems/0861.cpp)                                                   |
+|  0862  |    Hard    | [Shortest Subarray with Sum at Least K](Problems/0862.cpp)                                         |
 |  0863  |   Medium   | [All Nodes Distance K in Binary Tree](Problems/0863.cpp)                                           |
 |  0864  |    Hard    | [Shortest Path to Get All Keys](Problems/0864.cpp)                                                 |
 |  0865  |   Medium   | [Smallest Subtree with all the Deepest Nodes](Problems/0865.cpp)                                   |
