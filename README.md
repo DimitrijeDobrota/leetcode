@@ -1008,6 +1008,7 @@ reference and a base for solving problems.
 |  1642  |   Medium   | [Furthest Building You Can Reach](Problems/1642.cpp)                                               |
 |  1646  |    Easy    | [Get Maximum in Generated Array](Problems/1646.cpp)                                                |
 |  1647  |   Medium   | [Minimum Deletions to Make Character Frequencies Unique](Problems/1647.cpp)                        |
+|  1652  |    Easy    | [Defuse the Bomb](Problems/1652.cpp)                                                               |
 |  1653  |   Medium   | [Minimum Deletions to Make String Balanced](Problems/1653.cpp)                                     |
 |  1657  |   Medium   | [Determine if Two Strings Are Close](Problems/1657.cpp)                                            |
 |  1658  |   Medium   | [Minimum Operations to Reduce X to Zero](Problems/1658.cpp)                                        |
