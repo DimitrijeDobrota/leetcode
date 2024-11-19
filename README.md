@@ -501,6 +501,7 @@ reference and a base for solving problems.
 |  0636  |   Medium   | [Exclusive Time of Functions](Problems/0636.cpp)                                                   |
 |  0637  |    Easy    | [Average of Levels in Binary Tree](Problems/0637.cpp)                                              |
 |  0638  |   Medium   | [Shopping Offers](Problems/0638.cpp)                                                               |
+|  0640  |   Medium   | [Solve the Equation](Problems/0640.cpp)                                                            |
 |  0641  |   Medium   | [Design Circular Deque](Problems/0641.cpp)                                                         |
 |  0643  |    Easy    | [Maximum Average Subarray I](Problems/0643.cpp)                                                    |
 |  0645  |    Easy    | [Set Mismatch](Problems/0645.cpp)                                                                  |
