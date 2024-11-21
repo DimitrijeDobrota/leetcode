@@ -514,6 +514,7 @@ reference and a base for solving problems.
 |  0653  |    Easy    | [Two Sum IV - Input is a BST](Problems/0653.cpp)                                                   |
 |  0654  |   Medium   | [Maximum Binary Tree](Problems/0654.cpp)                                                           |
 |  0655  |   Medium   | [Print Binary Tree](Problems/0655.cpp)                                                             |
+|  0658  |   Medium   | [Find K Closest Elements](Problems/0658.cpp)                                                       |
 |  0659  |   Medium   | [Split Array into Consecutive Subsequences](Problems/0659.cpp)                                     |
 |  0661  |    Easy    | [Image Smoother](Problems/0661.cpp)                                                                |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                  |
