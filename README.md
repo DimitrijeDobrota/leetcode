@@ -546,6 +546,7 @@ reference and a base for solving problems.
 |  0713  |   Medium   | [Subarray Product Less Than K](Problems/0713.cpp)                                                  |
 |  0714  |   Medium   | [Best Time to Buy and Sell Stock with Transaction Fee](Problems/0714.cpp)                          |
 |  0715  |    Hard    | [Range Module](Problems/0715.cpp)                                                                  |
+|  0717  |    Easy    | [1-bit and 2-bit Characters](Problems/0717.cpp)                                                    |
 |  0718  |   Medium   | [Maximum Length of Repeated Subarray](Problems/0718.cpp)                                           |
 |  0719  |    Hard    | [Find K-th Smallest Pair Distance](Problems/0719.cpp)                                              |
 |  0720  |   Medium   | [Longest Word in Dictionary](Problems/0720.cpp)                                                    |
