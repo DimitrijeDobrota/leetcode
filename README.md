@@ -519,6 +519,7 @@ reference and a base for solving problems.
 |  0661  |    Easy    | [Image Smoother](Problems/0661.cpp)                                                                |
 |  0662  |   Medium   | [Maximum Width of Binary Tree](Problems/0662.cpp)                                                  |
 |  0664  |    Hard    | [Strange Printer](Problems/0664.cpp)                                                               |
+|  0665  |   Medium   | [Non-decreasing Array](Problems/0665.cpp)                                                          |
 |  0667  |   Medium   | [Beautiful Arrangement II](Problems/0667.cpp)                                                      |
 |  0669  |   Medium   | [Trim a Binary Search Tree](Problems/0669.cpp)                                                     |
 |  0670  |   Medium   | [Maximum Swap](Problems/0670.cpp)                                                                  |
