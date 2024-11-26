@@ -565,6 +565,7 @@ reference and a base for solving problems.
 |  0746  |    Easy    | [Min Cost Climbing Stairs](Problems/0746.cpp)                                                      |
 |  0747  |    Easy    | [Largest Number At Least Twice of Others](Problems/0747.cpp)                                       |
 |  0752  |   Medium   | [Open the Lock](Problems/0752.cpp)                                                                 |
+|  0754  |   Medium   | [Reach a Number](Problems/0754.cpp)                                                                |
 |  0756  |   Medium   | [Pyramid Transition Matrix](Problems/0756.cpp)                                                     |
 |  0763  |   Medium   | [Partition Labels](Problems/0763.cpp)                                                              |
 |  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                             |
