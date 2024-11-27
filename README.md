@@ -1465,6 +1465,7 @@ reference and a base for solving problems.
 |  3227  |   Medium   | [Vowels Game in a String](Problems/3227.cpp)                                                       |
 |  3228  |   Medium   | [Maximum Number of Operations to Move Ones to the End](Problems/3228.cpp)                          |
 |  3239  |   Medium   | [Minimum Number of Flips to Make Binary Grid Palindromic I](Problems/3239.cpp)                     |
+|  3243  |   Medium   | [Shortest Distance After Road Addition Queries I](Problems/3243.cpp)                               |
 |  3249  |   Medium   | [Count the Number of Good Nodes](Problems/3249.cpp)                                                |
 |  3254  |   Medium   | [Find the Power of K-Size Subarrays I](Problems/3254.cpp)                                          |
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
