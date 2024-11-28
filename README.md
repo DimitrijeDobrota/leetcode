@@ -1251,6 +1251,7 @@ reference and a base for solving problems.
 |  2279  |   Medium   | [Maximum Bags With Full Capacity of Rocks](Problems/2279.cpp)                                      |
 |  2284  |   Medium   | [Sender With Largest Word Count](Problems/2284.cpp)                                                |
 |  2285  |   Medium   | [Maximum Total Importance of Roads](Problems/2285.cpp)                                             |
+|  2290  |    Hard    | [Minimum Obstacle Removal to Reach Corner](Problems/2290.cpp)                                      |
 |  2294  |   Medium   | [Partition Array Such That Maximum Difference Is K](Problems/2294.cpp)                             |
 |  2295  |   Medium   | [Replace Elements in an Array](Problems/2295.cpp)                                                  |
 |  2300  |   Medium   | [Successful Pairs of Spells and Potions](Problems/2300.cpp)                                        |
