@@ -1347,6 +1347,7 @@ reference and a base for solving problems.
 |  2563  |   Medium   | [Count the Number of Fair Pairs](Problems/2563.cpp)                                                |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2571  |   Medium   | [Minimum Operations to Reduce an Integer to 0](Problems/2571.cpp)                                  |
+|  2577  |    Hard    | [Minimum Time to Visit a Cell In a Grid](Problems/2577.cpp)                                        |
 |  2579  |   Medium   | [Count Total Number of Colored Cells](Problems/2579.cpp)                                           |
 |  2582  |    Easy    | [Pass the Pillow](Problems/2582.cpp)                                                               |
 |  2583  |   Medium   | [Kth Largest Sum in a Binary Tree](Problems/2583.cpp)                                              |
