@@ -551,6 +551,7 @@ reference and a base for solving problems.
 |  0718  |   Medium   | [Maximum Length of Repeated Subarray](Problems/0718.cpp)                                           |
 |  0719  |    Hard    | [Find K-th Smallest Pair Distance](Problems/0719.cpp)                                              |
 |  0720  |   Medium   | [Longest Word in Dictionary](Problems/0720.cpp)                                                    |
+|  0722  |   Medium   | [Remove Comments](Problems/0722.cpp)                                                               |
 |  0724  |    Easy    | [Find Pivot Index](Problems/0724.cpp)                                                              |
 |  0725  |   Medium   | [Split Linked List in Parts](Problems/0725.cpp)                                                    |
 |  0726  |    Hard    | [Number of Atoms](Problems/0726.cpp)                                                               |
