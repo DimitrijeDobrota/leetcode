@@ -925,6 +925,7 @@ reference and a base for solving problems.
 |  1448  |   Medium   | [Count Good Nodes in Binary Tree](Problems/1448.cpp)                                               |
 |  1451  |   Medium   | [Rearrange Words in a Sentence](Problems/1451.cpp)                                                 |
 |  1452  |   Medium   | [People Whose List of Favorite Companies Is Not a Subset of Another List](Problems/1452.cpp)       |
+|  1455  |    Easy    | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](Problems/1455.cpp)                  |
 |  1456  |   Medium   | [Maximum Number of Vowels in a Substring of Given Length](Problems/1456.cpp)                       |
 |  1457  |   Medium   | [Pseudo-Palindromic Paths in a Binary Tree](Problems/1457.cpp)                                     |
 |  1458  |    Hard    | [Max Dot Product of Two Subsequences](Problems/1458.cpp)                                           |
