@@ -559,6 +559,7 @@ reference and a base for solving problems.
 |  0731  |   Medium   | [My Calendar II](Problems/0731.cpp)                                                                |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                    |
 |  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                            |
+|  0738  |   Medium   | [Monotone Increasing Digits](Problems/0738.cpp)                                                    |
 |  0739  |   Medium   | [Daily Temperatures](Problems/0739.cpp)                                                            |
 |  0740  |   Medium   | [Delete and Earn](Problems/0740.cpp)                                                               |
 |  0743  |   Medium   | [Network Delay Time](Problems/0743.cpp)                                                            |
