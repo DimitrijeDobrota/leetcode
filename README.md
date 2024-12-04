@@ -535,6 +535,7 @@ reference and a base for solving problems.
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
 |  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                          |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                            |
+|  0698  |   Medium   | [Partition to K Equal Sum Subsets](Problems/0698.cpp)                                              |
 |  0699  |    Hard    | [Falling Squares](Problems/0699.cpp)                                                               |
 |  0700  |    Easy    | [Search in a Binary Search Tree](Problems/0700.cpp)                                                |
 |  0701  |   Medium   | [Insert into a Binary Search Tree](Problems/0701.cpp)                                              |
