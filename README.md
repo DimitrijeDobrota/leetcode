@@ -1269,6 +1269,7 @@ reference and a base for solving problems.
 |  2328  |    Hard    | [Number of Increasing Paths in a Grid](Problems/2328.cpp)                                          |
 |  2331  |    Easy    | [Evaluate Boolean Binary Tree](Problems/2331.cpp)                                                  |
 |  2336  |   Medium   | [Smallest Number in Infinite Set](Problems/2336.cpp)                                               |
+|  2337  |   Medium   | [Move Pieces to Obtain a String](Problems/2337.cpp)                                                |
 |  2342  |   Medium   | [Max Sum of a Pair With Equal Sum of Digits](Problems/2342.cpp)                                    |
 |  2343  |   Medium   | [Query Kth Smallest Trimmed Number](Problems/2343.cpp)                                             |
 |  2348  |   Medium   | [Number of Zero-Filled Subarrays](Problems/2348.cpp)                                               |
