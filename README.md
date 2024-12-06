@@ -471,6 +471,7 @@ reference and a base for solving problems.
 |  0584  |    Easy    | [Find Customer Referee](Problems/0584.cpp)                                                         |
 |  0585  |   Medium   | [Investments in 2016](Problems/0585.cpp)                                                           |
 |  0586  |    Easy    | [Customer Placing the Largest Number of Orders](Problems/0586.cpp)                                 |
+|  0587  |    Hard    | [Erect the Fence](Problems/0587.cpp)                                                               |
 |  0589  |    Easy    | [N-ary Tree Preorder Traversal](Problems/0589.cpp)                                                 |
 |  0590  |    Easy    | [N-ary Tree Postorder Traversal](Problems/0590.cpp)                                                |
 |  0592  |   Medium   | [Fraction Addition and Subtraction](Problems/0592.cpp)                                             |
