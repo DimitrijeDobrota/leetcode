@@ -447,6 +447,7 @@ reference and a base for solving problems.
 |  0540  |   Medium   | [Single Element in a Sorted Array](Problems/0540.cpp)                                              |
 |  0542  |   Medium   | [01 Matrix](Problems/0542.cpp)                                                                     |
 |  0543  |    Easy    | [Diameter of Binary Tree](Problems/0543.cpp)                                                       |
+|  0546  |    Hard    | [Remove Boxes](Problems/0546.cpp)                                                                  |
 |  0547  |   Medium   | [Number of Provinces](Problems/0547.cpp)                                                           |
 |  0550  |   Medium   | [Game Play Analysis IV](Problems/0550.cpp)                                                         |
 |  0552  |    Hard    | [Student Attendance Record II](Problems/0552.cpp)                                                  |
