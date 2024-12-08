@@ -1181,6 +1181,7 @@ reference and a base for solving problems.
 |  2049  |   Medium   | [Count Nodes With the Highest Score](Problems/2049.cpp)                                            |
 |  2050  |    Hard    | [Parallel Courses III](Problems/2050.cpp)                                                          |
 |  2053  |    Easy    | [Kth Distinct String in an Array](Problems/2053.cpp)                                               |
+|  2054  |   Medium   | [Two Best Non-Overlapping Events](Problems/2054.cpp)                                               |
 |  2058  |   Medium   | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Problems/2058.cpp)          |
 |  2059  |   Medium   | [Minimum Operations to Convert Number](Problems/2059.cpp)                                          |
 |  2063  |   Medium   | [Vowels of All Substrings](Problems/2063.cpp)                                                      |
