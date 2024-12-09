@@ -1462,6 +1462,7 @@ reference and a base for solving problems.
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
 |  3133  |   Medium   | [Minimum Array End](Problems/3133.cpp)                                                             |
 |  3137  |   Medium   | [Minimum Number of Operations to Make Word K-Periodic](Problems/3137.cpp)                          |
+|  3152  |   Medium   | [Special Array II](Problems/3152.cpp)                                                              |
 |  3159  |   Medium   | [Find Occurrences of an Element in an Array](Problems/3159.cpp)                                    |
 |  3163  |   Medium   | [String Compression III](Problems/3163.cpp)                                                        |
 |  3190  |    Easy    | [Find Minimum Operations to Make All Elements Divisible by Three](Problems/3190.cpp)               |
