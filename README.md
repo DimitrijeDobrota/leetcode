@@ -1414,6 +1414,7 @@ reference and a base for solving problems.
 |  2766  |   Medium   | [Relocate Marbles](Problems/2766.cpp)                                                              |
 |  2767  |   Medium   | [Partition String Into Minimum Beautiful Substrings](Problems/2767.cpp)                            |
 |  2769  |    Easy    | [Find the Maximum Achievable Number](Problems/2769.cpp)                                            |
+|  2779  |   Medium   | [Maximum Beauty of an Array After Applying Operation](Problems/2779.cpp)                           |
 |  2780  |   Medium   | [Minimum Index of a Valid Split](Problems/2780.cpp)                                                |
 |  2785  |   Medium   | [Sort Vowels in a String](Problems/2785.cpp)                                                       |
 |  2799  |   Medium   | [Count Complete Subarrays in an Array](Problems/2799.cpp)                                          |
