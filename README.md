@@ -1352,6 +1352,7 @@ reference and a base for solving problems.
 |  2545  |   Medium   | [Sort the Students by Their Kth Score](Problems/2545.cpp)                                          |
 |  2551  |    Hard    | [Put Marbles in Bags](Problems/2551.cpp)                                                           |
 |  2554  |   Medium   | [Maximum Number of Integers to Choose From a Range I](Problems/2554.cpp)                           |
+|  2558  |    Easy    | [Take Gifts From the Richest Pile](Problems/2558.cpp)                                              |
 |  2559  |   Medium   | [Count Vowel Strings in Ranges](Problems/2559.cpp)                                                 |
 |  2563  |   Medium   | [Count the Number of Fair Pairs](Problems/2563.cpp)                                                |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
