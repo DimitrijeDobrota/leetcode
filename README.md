@@ -834,6 +834,7 @@ reference and a base for solving problems.
 |  1280  |    Easy    | [Students and Examinations](Problems/1280.cpp)                                                     |
 |  1282  |   Medium   | [Group the People Given the Group Size They Belong To](Problems/1282.cpp)                          |
 |  1283  |   Medium   | [Find the Smallest Divisor Given a Threshold](Problems/1283.cpp)                                   |
+|  1284  |    Hard    | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](Problems/1284.cpp)               |
 |  1286  |   Medium   | [Iterator for Combination](Problems/1286.cpp)                                                      |
 |  1287  |    Easy    | [Element Appearing More Than 25% In Sorted Array](Problems/1287.cpp)                               |
 |  1288  |   Medium   | [Remove Covered Intervals](Problems/1288.cpp)                                                      |
