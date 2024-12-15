@@ -967,6 +967,7 @@ reference and a base for solving problems.
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
+|  1526  |    Hard    | [Minimum Number of Increments on Subarrays to Form a Target Array](Problems/1526.cpp)              |
 |  1527  |    Easy    | [Patients With a Condition](Problems/1527.cpp)                                                     |
 |  1529  |   Medium   | [Minimum Suffix Flips](Problems/1529.cpp)                                                          |
 |  1530  |   Medium   | [Number of Good Leaf Nodes Pairs](Problems/1530.cpp)                                               |
