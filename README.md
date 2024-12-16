@@ -1487,5 +1487,6 @@ reference and a base for solving problems.
 |  3243  |   Medium   | [Shortest Distance After Road Addition Queries I](Problems/3243.cpp)                               |
 |  3249  |   Medium   | [Count the Number of Good Nodes](Problems/3249.cpp)                                                |
 |  3254  |   Medium   | [Find the Power of K-Size Subarrays I](Problems/3254.cpp)                                          |
+|  3264  |    Easy    | [Final Array State After K Multiplication Operations I](Problems/3264.cpp)                         |
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
