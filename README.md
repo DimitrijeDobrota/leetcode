@@ -560,6 +560,7 @@ reference and a base for solving problems.
 |  0726  |    Hard    | [Number of Atoms](Problems/0726.cpp)                                                               |
 |  0729  |   Medium   | [My Calendar I](Problems/0729.cpp)                                                                 |
 |  0731  |   Medium   | [My Calendar II](Problems/0731.cpp)                                                                |
+|  0732  |    Hard    | [My Calendar III](Problems/0732.cpp)                                                               |
 |  0733  |    Easy    | [Flood Fill](Problems/0733.cpp)                                                                    |
 |  0735  |   Medium   | [Asteroid Collision](Problems/0735.cpp)                                                            |
 |  0738  |   Medium   | [Monotone Increasing Digits](Problems/0738.cpp)                                                    |
