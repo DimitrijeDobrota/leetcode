@@ -1149,6 +1149,7 @@ reference and a base for solving problems.
 |  1937  |   Medium   | [Maximum Number of Points with Cost](Problems/1937.cpp)                                            |
 |  1942  |   Medium   | [The Number of the Smallest Unoccupied Chair](Problems/1942.cpp)                                   |
 |  1943  |   Medium   | [Describe the Painting](Problems/1943.cpp)                                                         |
+|  1944  |    Hard    | [Number of Visible People in a Queue](Problems/1944.cpp)                                           |
 |  1945  |    Easy    | [Sum of Digits of String After Convert](Problems/1945.cpp)                                         |
 |  1947  |   Medium   | [Maximum Compatibility Score Sum](Problems/1947.cpp)                                               |
 |  1954  |   Medium   | [Minimum Garden Perimeter to Collect Enough Apples](Problems/1954.cpp)                             |
