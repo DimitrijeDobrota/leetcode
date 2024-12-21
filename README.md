@@ -1436,6 +1436,7 @@ reference and a base for solving problems.
 |  2860  |   Medium   | [Happy Students](Problems/2860.cpp)                                                                |
 |  2864  |    Easy    | [Maximum Odd Binary Number](Problems/2864.cpp)                                                     |
 |  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
+|  2872  |    Hard    | [Maximum Number of K-Divisible Components](Problems/2872.cpp)                                      |
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2909  |   Medium   | [Minimum Sum of Mountain Triplets II](Problems/2909.cpp)                                           |
