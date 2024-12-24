@@ -1483,6 +1483,7 @@ reference and a base for solving problems.
 |  3191  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One I](Problems/3191.cpp)               |
 |  3192  |   Medium   | [Minimum Operations to Make Binary Array Elements Equal to One II](Problems/3192.cpp)              |
 |  3195  |   Medium   | [Find the Minimum Area to Cover All Ones I](Problems/3195.cpp)                                     |
+|  3203  |    Hard    | [Find Minimum Diameter After Merging Two Trees](Problems/3203.cpp)                                 |
 |  3211  |   Medium   | [Generate Binary Strings Without Adjacent Zeros](Problems/3211.cpp)                                |
 |  3212  |   Medium   | [Count Submatrices With Equal Frequency of X and Y](Problems/3212.cpp)                             |
 |  3217  |   Medium   | [Delete Nodes From Linked List Present in Array](Problems/3217.cpp)                                |
