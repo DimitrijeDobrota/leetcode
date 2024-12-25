@@ -577,6 +577,7 @@ reference and a base for solving problems.
 |  0767  |   Medium   | [Reorganize String](Problems/0767.cpp)                                                             |
 |  0769  |   Medium   | [Max Chunks To Make Sorted](Problems/0769.cpp)                                                     |
 |  0773  |    Hard    | [Sliding Puzzle](Problems/0773.cpp)                                                                |
+|  0778  |    Hard    | [Swim in Rising Water](Problems/0778.cpp)                                                          |
 |  0779  |   Medium   | [K-th Symbol in Grammar](Problems/0779.cpp)                                                        |
 |  0781  |   Medium   | [Rabbits in Forest](Problems/0781.cpp)                                                             |
 |  0783  |    Easy    | [Minimum Distance Between BST Nodes](Problems/0783.cpp)                                            |
