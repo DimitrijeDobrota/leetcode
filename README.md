@@ -1112,6 +1112,7 @@ reference and a base for solving problems.
 |  1829  |   Medium   | [Maximum XOR for Each Query](Problems/1829.cpp)                                                    |
 |  1833  |   Medium   | [Maximum Ice Cream Bars](Problems/1833.cpp)                                                        |
 |  1834  |   Medium   | [Single-Threaded CPU](Problems/1834.cpp)                                                           |
+|  1835  |    Hard    | [Find XOR Sum of All Pairs Bitwise AND](Problems/1835.cpp)                                         |
 |  1838  |   Medium   | [Frequency of the Most Frequent Element](Problems/1838.cpp)                                        |
 |  1839  |   Medium   | [Longest Substring Of All Vowels in Order](Problems/1839.cpp)                                      |
 |  1845  |   Medium   | [Seat Reservation Manager](Problems/1845.cpp)                                                      |
