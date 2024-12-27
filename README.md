@@ -1210,6 +1210,7 @@ reference and a base for solving problems.
 |  2097  |    Hard    | [Valid Arrangement of Pairs](Problems/2097.cpp)                                                    |
 |  2100  |   Medium   | [Find Good Days to Rob the Bank](Problems/2100.cpp)                                                |
 |  2101  |   Medium   | [Detonate the Maximum Bombs](Problems/2101.cpp)                                                    |
+|  2102  |    Hard    | [Sequentially Ordinal Rank Tracker](Problems/2102.cpp)                                             |
 |  2104  |   Medium   | [Sum of Subarray Ranges](Problems/2104.cpp)                                                        |
 |  2108  |    Easy    | [Find First Palindromic String in the Array](Problems/2108.cpp)                                    |
 |  2109  |   Medium   | [Adding Spaces to a String](Problems/2109.cpp)                                                     |
