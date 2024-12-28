@@ -534,6 +534,7 @@ reference and a base for solving problems.
 |  0684  |   Medium   | [Redundant Connection](Problems/0684.cpp)                                                          |
 |  0687  |   Medium   | [Longest Univalue Path](Problems/0687.cpp)                                                         |
 |  0688  |   Medium   | [Knight Probability in Chessboard](Problems/0688.cpp)                                              |
+|  0689  |    Hard    | [Maximum Sum of 3 Non-Overlapping Subarrays](Problems/0689.cpp)                                    |
 |  0690  |   Medium   | [Employee Importance](Problems/0690.cpp)                                                           |
 |  0692  |   Medium   | [Top K Frequent Words](Problems/0692.cpp)                                                          |
 |  0695  |   Medium   | [Max Area of Island](Problems/0695.cpp)                                                            |
