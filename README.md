@@ -1447,6 +1447,7 @@ reference and a base for solving problems.
 |  2909  |   Medium   | [Minimum Sum of Mountain Triplets II](Problems/2909.cpp)                                           |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
+|  2931  |    Hard    | [Maximum Spending After Buying Items](Problems/2931.cpp)                                           |
 |  2938  |   Medium   | [Separate Black and White Balls](Problems/2938.cpp)                                                |
 |  2940  |    Hard    | [Find Building Where Alice and Bob Can Meet](Problems/2940.cpp)                                    |
 |  2947  |   Medium   | [Count Beautiful Substrings I](Problems/2947.cpp)                                                  |
