@@ -415,6 +415,7 @@ reference and a base for solving problems.
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |
 |  0486  |   Medium   | [Reachable Nodes With Restrictions](Problems/0486.cpp)                                             |
 |  0491  |   Medium   | [Non-decreasing Subsequences](Problems/0491.cpp)                                                   |
+|  0492  |    Easy    | [Construct the Rectangle](Problems/0492.cpp)                                                       |
 |  0493  |    Hard    | [Reverse Pairs](Problems/0493.cpp)                                                                 |
 |  0494  |   Medium   | [Target Sum](Problems/0494.cpp)                                                                    |
 |  0496  |   Medium   | [Next Greater Element I](Problems/0496.cpp)                                                        |
@@ -1524,5 +1525,5 @@ reference and a base for solving problems.
 |  3280  |    Easy    | [Convert Date to Binary](Problems/3280.cpp)                                                        |
 |  3285  |    Easy    | [Find Indices of Stable Mountains](Problems/3285.cpp)                                              |
 |  3289  |    Easy    | [The Two Sneaky Numbers of Digitville](Problems/3289.cpp)                                          |
-|  3291  |    Easy    | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
-|  3310  |    Easy    | [Remove Methods From Project](Problems/3310.cpp)                                                   |
+|  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
+|  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
