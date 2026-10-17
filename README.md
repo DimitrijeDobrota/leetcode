@@ -909,6 +909,7 @@ reference and a base for solving problems.
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
 |  1389  |    Easy    | [Create Target Array in the Given Order](Problems/1389.cpp)                                        |
+|  1390  |   Medium   | [Four Divisors](Problems/1390.cpp)                                                                |
 |  1393  |   Medium   | [Capital Gain/Loss](Problems/1393.cpp)                                                             |
 |  1395  |   Medium   | [Count Number of Teams](Problems/1395.cpp)                                                         |
 |  1396  |   Medium   | [Design Underground System](Problems/1396.cpp)                                                     |
@@ -1157,6 +1158,7 @@ reference and a base for solving problems.
 |  1915  |   Medium   | [Number of Wonderful Substrings](Problems/1915.cpp)                                                |
 |  1920  |    Easy    | [Build Array from Permutation](Problems/1920.cpp)                                                  |
 |  1921  |   Medium   | [Eliminate Maximum Number of Monsters](Problems/1921.cpp)                                          |
+|  1922  |   Medium   | [Count Good Numbers](Problems/1922.cpp)                                                           |
 |  1926  |   Medium   | [Nearest Exit from Entrance in Maze](Problems/1926.cpp)                                            |
 |  1929  |    Easy    | [Concatenation of Array](Problems/1929.cpp)                                                        |
 |  1930  |   Medium   | [Unique Length-3 Palindromic Subsequences](Problems/1930.cpp)                                      |
