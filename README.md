@@ -688,6 +688,7 @@ reference and a base for solving problems.
 |  0948  |   Medium   | [Bag of Tokens](Problems/0948.cpp)                                                                 |
 |  0950  |   Medium   | [Reveal Cards In Increasing Order](Problems/0950.cpp)                                              |
 |  0951  |   Medium   | [Flip Equivalent Binary Trees](Problems/0951.cpp)                                                  |
+|  0952  |    Hard    | [Largest Component Size by Common Factor](Problems/0952.cpp)                                      |
 |  0953  |    Easy    | [Verifying an Alien Dictionary](Problems/0953.cpp)                                                 |
 |  0956  |   Medium   | [Tallest Billboard](Problems/0956.cpp)                                                             |
 |  0958  |   Medium   | [Check Completeness of a Binary Tree](Problems/0958.cpp)                                           |
@@ -1369,6 +1370,7 @@ reference and a base for solving problems.
 |  2501  |   Medium   | [Longest Square Streak in an Array](Problems/2501.cpp)                                             |
 |  2516  |   Medium   | [Take K of Each Character From Left and Right](Problems/2516.cpp)                                  |
 |  2517  |   Medium   | [Maximum Tastiness of Candy Basket](Problems/2517.cpp)                                             |
+|  2523  |   Medium   | [Closest Prime Numbers in Range](Problems/2523.cpp)                                               |
 |  2526  |   Medium   | [Find Consecutive Integers from a Data Stream](Problems/2526.cpp)                                  |
 |  2527  |   Medium   | [Find Xor-Beauty of Array](Problems/2527.cpp)                                                      |
 |  2530  |   Medium   | [Maximal Score After Applying K Operations](Problems/2530.cpp)                                     |
