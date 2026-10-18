@@ -1,39 +1,47 @@
 class UnionFind {
-    int n, cnt = n;
-    mutable vector<int> root;
-    vector<int> size;
+    // Roots store negative component sizes; other entries store parent indices.
+    mutable vector<int> parent;
+    int components;
+    int largest;
 
   public:
-    UnionFind(int n) : n(n), root(n), size(n, 1) { iota(root.begin(), root.end(), 0); }
-    UnionFind(const UnionFind &uf) : n(uf.n), cnt(uf.cnt), root(uf.root), size(uf.size) {}
+    explicit UnionFind(int node_count)
+        : parent(node_count, -1),
+          components(node_count),
+          largest(node_count > 0 ? 1 : 0) {}
 
     int find(int x) const {
-        while (x != root[x]) {
-            x = root[x] = root[root[x]];
+        while (parent[x] >= 0) {
+            int &next_parent = parent[x];
+            if (parent[next_parent] >= 0) {
+                next_parent = parent[next_parent];
+            }
+            x = next_parent;
         }
         return x;
     }
 
-    void join(int x, int y) {
-        x = find(x), y = find(y);
-        if (x == y) return;
+    bool join(int x, int y) {
+        x = find(x);
+        y = find(y);
+        if (x == y) return false;
 
-        if (size[x] > size[y]) swap(x, y);
-        root[x] = y;
-        size[y] += size[x];
-        cnt--;
-    }
-
-    void reset(int x) {
-        root[x] = x;
-        size[x] = 0;
+        if (parent[x] < parent[y]) swap(x, y);
+        parent[y] += parent[x];
+        parent[x] = y;
+        largest = std::max(largest, -parent[y]);
+        --components;
+        return true;
     }
 
     void reset() {
-        memset(size.data(), 0x00, size.size() * sizeof(int));
-        iota(begin(root), end(root), 0);
+        std::ranges::fill(parent, -1);
+        components = static_cast<int>(parent.size());
+        largest = parent.empty() ? 0 : 1;
     }
 
-    int count() const { return cnt; }
+    int count() const { return components; }
+    int component_size(int x) const { return -parent[find(x)]; }
+    int max_size() const { return largest; }
     bool connected(int x, int y) const { return find(x) == find(y); }
 };
