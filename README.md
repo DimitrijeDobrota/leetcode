@@ -1535,3 +1535,4 @@ reference and a base for solving problems.
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
 |  3863  |   Medium   | [Minimum Operations to Sort a String](Problems/3863.cpp)                                          |
 |  3886  |    Hard    | [Sum of Sortable Integers](Problems/3886.cpp)                                                     |
+|  3942  |   Medium   | [Minimum Operations to Sort a Permutation](Problems/3942.cpp)                                     |
