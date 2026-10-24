@@ -1329,6 +1329,7 @@ reference and a base for solving problems.
 |  2402  |    Hard    | [Meeting Rooms III](Problems/2402.cpp)                                                             |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |
 |  2406  |   Medium   | [Divide Intervals Into Minimum Number of Groups](Problems/2406.cpp)                                |
+|  2409  |    Easy    | [Count Days Spent Together](Problems/2409.cpp)                                                    |
 |  2410  |   Medium   | [Maximum Matching of Players With Trainers](Problems/2410.cpp)                                     |
 |  2413  |    Easy    | [Smallest Even Multiple](Problems/2413.cpp)                                                        |
 |  2414  |   Medium   | [Length of the Longest Alphabetical Continuous Substring](Problems/2414.cpp)                       |
