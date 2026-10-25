@@ -15,6 +15,9 @@ if you have any questions.
 I have accumulated a list of most commonly used algorithms to serve as a
 reference and a base for solving problems.
 
+* [Fixed Deque](Templates/fixed_deque.hpp): Fixed-capacity double-ended queue backed by a circular buffer
+* [Indexed Compare](Templates/indexed_compare.hpp): Compare indices by values in a referenced range
+* [Monotonic Queue](Templates/monotonic_queue.hpp): Fixed-capacity queue that discards dominated candidates using a configurable comparator
 * [Union Find](Templates/Union_Find.cpp): Fast implementation, all optimization tricks used
 * [Segment Tree Iterative](Templates/segment_tree.cpp): Fast implementation, contains tricky bits
 * [Segment Tree Recursive](Templates/segment_tree_recursive.cpp): Reference implementation, easy to understand
