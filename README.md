@@ -15,10 +15,6 @@ if you have any questions.
 I have accumulated a list of most commonly used algorithms to serve as a
 reference and a base for solving problems.
 
-* [MST from edge priority queue](Templates/MST_pq.cpp): Reference implementation
-* [MST from edge vector](Templates/MST_vector.cpp): Reference implementation, edges need to be sorted ascending by len
-* [Matrix BFS/Flood fill Iterative](Templates/bfs_floodfill.cpp): Reference implementation
-* [Matrix BFS/Flood fill Recursive](Templates/bfs_floodfill_recursive.cpp): Reference implementation
 * [Union Find](Templates/Union_Find.cpp): Fast implementation, all optimization tricks used
 * [Segment Tree Iterative](Templates/segment_tree.cpp): Fast implementation, contains tricky bits
 * [Segment Tree Recursive](Templates/segment_tree_recursive.cpp): Reference implementation, easy to understand
