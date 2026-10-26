@@ -1,31 +1,4 @@
-class UnionFind {
-    int root[20002], size[20002];
-
-  public:
-    UnionFind() {
-        for (int i = 0; i < 20002; i++) {
-            root[i] = i;
-            size[i] = 1;
-        }
-    }
-
-    int find(int x) {
-        while (x != root[x])
-            x = root[x] = root[root[x]];
-        return x;
-    }
-
-    void join(int x, int y) {
-        x = find(x), y = find(y);
-        if (x != y) {
-            if (size[x] > size[y]) swap(x, y);
-            root[x] = y;
-            size[y] += size[x];
-        }
-    }
-
-    bool connected(int x, int y) { return find(x) == find(y); }
-};
+#include "../Templates/Union_Find.cpp"
 
 class Solution {
     int grid[20000] = {0};
@@ -37,7 +10,7 @@ class Solution {
         static const int offset_x[] = {0, 0, 1, -1};
         static const int offset_y[] = {1, -1, 0, 0};
 
-        UnionFind uf;
+        UnionFind uf(20002);
 
         for (int i = cells.size() - 1; i >= 0; i--) {
             const int x = cells[i][0] - 1, y = cells[i][1] - 1, ind = index(x, y);
