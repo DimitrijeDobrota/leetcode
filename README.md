@@ -23,6 +23,8 @@ reference and a base for solving problems.
 * [Segment Tree Recursive](Templates/segment_tree_recursive.cpp): Reference implementation, easy to understand
 * [Dynamic Segment Tree Recursive](Templates/segment_tree_dynamic_recursive.cpp): Reference implementation, checks range coverage
 
+Compatible Union Find solutions include the shared template; specialized variants retain their local implementations.
+
 ## Problems
 
 | Number | Difficulty | Solution                                                                                           |
@@ -1538,3 +1540,4 @@ reference and a base for solving problems.
 |  3863  |   Medium   | [Minimum Operations to Sort a String](Problems/3863.cpp)                                          |
 |  3886  |    Hard    | [Sum of Sortable Integers](Problems/3886.cpp)                                                     |
 |  3942  |   Medium   | [Minimum Operations to Sort a Permutation](Problems/3942.cpp)                                     |
+|  3963  |    Easy    | [Create Grid With Exactly One Path](Problems/3963.cpp)                                            |
