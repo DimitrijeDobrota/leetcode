@@ -1538,6 +1538,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3619  |   Medium   | [Count Islands With Total Value Divisible by K](Problems/3619.cpp)                                |
 |  3644  |   Medium   | [Maximum K to Sort a Permutation](Problems/3644.cpp)                                              |
 |  3863  |   Medium   | [Minimum Operations to Sort a String](Problems/3863.cpp)                                          |
+|  3882  |   Medium   | [Minimum XOR Path in a Grid](Problems/3882.cpp)                                                   |
 |  3886  |    Hard    | [Sum of Sortable Integers](Problems/3886.cpp)                                                     |
 |  3942  |   Medium   | [Minimum Operations to Sort a Permutation](Problems/3942.cpp)                                     |
 |  3963  |    Easy    | [Create Grid With Exactly One Path](Problems/3963.cpp)                                            |
