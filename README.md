@@ -1537,6 +1537,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
 |  3619  |   Medium   | [Count Islands With Total Value Divisible by K](Problems/3619.cpp)                                |
 |  3644  |   Medium   | [Maximum K to Sort a Permutation](Problems/3644.cpp)                                              |
+|  3841  |    Hard    | [Palindromic Path Queries in a Tree](Problems/3841.cpp)                                           |
 |  3863  |   Medium   | [Minimum Operations to Sort a String](Problems/3863.cpp)                                          |
 |  3882  |   Medium   | [Minimum XOR Path in a Grid](Problems/3882.cpp)                                                   |
 |  3886  |    Hard    | [Sum of Sortable Integers](Problems/3886.cpp)                                                     |
