@@ -1543,3 +1543,4 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3886  |    Hard    | [Sum of Sortable Integers](Problems/3886.cpp)                                                     |
 |  3942  |   Medium   | [Minimum Operations to Sort a Permutation](Problems/3942.cpp)                                     |
 |  3963  |    Easy    | [Create Grid With Exactly One Path](Problems/3963.cpp)                                            |
+|  3970  |   Medium   | [Shortest Path With At Most K Consecutive Identical Characters](Problems/3970.cpp)                |
