@@ -1,57 +1,48 @@
 class Solution {
-    struct edge {
-        int index, weight;
-        edge(int i, int w) : index(i), weight(w) {}
-        friend bool operator<(const edge &e1, const edge &e2) { return e1.weight > e2.weight; }
-    };
+public:
+    int findTheCity(int n, const vector<vector<int>>& edges, int threshold) const {
+        std::vector<std::vector<pair<int, int>>> adj(n);
 
-    int dijkstra(int n, vector<vector<edge>> &adj, int start, int threshold) {
-        vector<int> d(n, INT_MAX);
-        vector<bool> s(n, false);
-        priority_queue<edge> pq;
-
-        for (auto &p : adj[start]) {
-            d[p.index] = p.weight;
-            pq.push(p);
+        for (const auto& edge: edges) {
+            adj[edge[0]].emplace_back(edge[1], edge[2]);
+            adj[edge[1]].emplace_back(edge[0], edge[2]);
         }
 
-        s[start] = true;
-        for (int k = 1; k < n; k++) {
-            while (!pq.empty() && s[pq.top().index])
+        std::vector<long long> dist(n);
+        using State = std::tuple<long long, int>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
+
+        const auto dijkstra = [threshold, &adj, &dist, &pq](int start) {
+            std::ranges::fill(dist, std::numeric_limits<long long>::max());
+            dist[start] = 0;
+            pq.emplace(0, start);
+            while (!std::empty(pq)) {
+                const auto [cost, node] = pq.top();
                 pq.pop();
-            if (pq.empty()) break;
-            auto e = pq.top();
-            pq.pop();
-            s[e.index] = true;
-            for (auto &p : adj[e.index])
-                if (!s[p.index] && d[e.index] + p.weight < d[p.index]) {
-                    d[p.index] = d[e.index] + p.weight;
-                    pq.push({p.index, d[p.index]});
+    
+                if (cost != dist[node]) continue;
+                
+                for (const auto [child, weight]: adj[node]) {
+                    const auto next_cost = cost + weight;
+                    if (next_cost > threshold) continue;
+                    if (next_cost >= dist[child]) continue;
+                    dist[child] = next_cost;
+                    pq.emplace(next_cost, child);
                 }
-        }
-
-        int count = 0;
-        for (int i = 0; i < n; i++)
-            count += d[i] <= threshold;
-        return count;
-    }
-
-  public:
-    int findTheCity(int n, vector<vector<int>> &edges, int distanceThreshold) {
-        vector<vector<edge>> adj(n, vector<edge>());
-        for (auto &p : edges) {
-            adj[p[0]].push_back({p[1], p[2]});
-            adj[p[1]].push_back({p[0], p[2]});
-        }
-
-        int res = -1;
-        for (int i = 0, mini = INT_MAX; i < n; i++) {
-            int tmp = dijkstra(n, adj, i, distanceThreshold);
-            if (tmp <= mini) {
-                mini = tmp;
-                res = i;
             }
+            return std::ranges::count_if(dist, [threshold](auto value) {
+                return value <= threshold;
+            });
+        };
+
+        int result = -1;
+        auto min = std::numeric_limits<int>::max();
+        for (const auto crnt: std::views::iota(0, n)) {
+            const auto num = dijkstra(crnt);
+            if (num > min) continue;
+            result = crnt;
+            min = num;
         }
-        return res;
+        return result;
     }
 };

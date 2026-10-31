@@ -1,36 +1,41 @@
 class Solution {
-    const int MOD = 1e9 + 7;
-    typedef pair<long long, int> road;
-
-  public:
-    int countPaths(int n, vector<vector<int>> &roads) {
-        vector<vector<road>> adj(n);
-        for (auto &r : roads) {
-            adj[r[0]].push_back({r[2], r[1]});
-            adj[r[1]].push_back({r[2], r[0]});
+public:
+    int countPaths(int n, const vector<vector<int>>& roads) const {
+        std::vector<std::vector<pair<int, int>>> adj(n);
+        for (const auto& edge: roads) {
+            adj[edge[0]].emplace_back(edge[1], edge[2]);
+            adj[edge[1]].emplace_back(edge[0], edge[2]);
         }
 
-        priority_queue<road, vector<road>, greater<road>> pq;
-        vector<long long> dist(n, LONG_MAX);
-        vector<int> count(n);
-        pq.push({0, 0});
-        count[0] = 1;
-        dist[0] = 0;
+        static constexpr auto inf = std::numeric_limits<long long>::max();
+        std::vector<long long> distance(n, inf);
+        std::vector<int> ways(n, 0);
+        using State = std::tuple<long long, int>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
+
+        ways[n - 1] = 1;
+        distance[n - 1] = 0;
+        pq.emplace(0, n - 1);
         while (!pq.empty()) {
-            auto [w, e] = pq.top();
+            const auto [cost, node] = pq.top();
             pq.pop();
-            if (w > dist[e]) continue;
-            for (auto [time, v] : adj[e]) {
-                if (dist[v] < w + time) continue;
-                if (dist[v] == w + time) {
-                    count[v] = (count[v] + count[e]) % MOD;
-                    continue;
+
+            if (cost != distance[node]) continue;
+            if (node == 0) return ways[0];
+
+
+            for (const auto [child, weight]: adj[node]) {
+                const auto next_cost = cost + weight;
+                if (next_cost < distance[child]) {
+                    distance[child] = next_cost;
+                    ways[child] = ways[node];
+                    pq.emplace(next_cost, child);
+                } else if (next_cost == distance[child]) {
+                    ways[child] = (ways[child] + ways[node]) % (int)(1e9 + 7);
                 }
-                dist[v] = w + time;
-                count[v] = count[e];
-                pq.push({dist[v], v});
             }
         }
-        return count[n - 1];
+        
+        return -1;
     }
 };

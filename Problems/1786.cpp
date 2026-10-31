@@ -1,79 +1,38 @@
 class Solution {
-    const int mod = 1000000007;
+public:
+    int countRestrictedPaths(int n, const std::vector<std::vector<int>>& edges) const {
+        std::vector<std::vector<std::pair<int, int>>> adj(n);
+        for (const auto& edge: edges) {
+            adj[edge[0] - 1].emplace_back(edge[1] - 1, edge[2]);
+            adj[edge[1] - 1].emplace_back(edge[0] - 1, edge[2]);
+        }
 
-    struct edge {
-        int dest, w;
-        edge(int d, int w) : dest(d), w(w) {}
-        friend bool operator<(const edge &e1, const edge &e2) { return e1.w > e2.w; }
-    };
+        using State = std::tuple<long long, int>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
+        std::vector<long long> distance(n, std::numeric_limits<long long>::max());
+        std::vector<int> ways(n, 0);
 
-    vector<int> dijkstra(int n, vector<vector<edge>> &adj, int start) {
-        vector<int> dist(n + 1, INT_MAX);
-        priority_queue<edge> pq;
-
-        vector<int> visited(n + 1, false);
-        pq.push({n, dist[n] = 0});
-        for (int k = 0; k < n; k++) {
-            while (!pq.empty() && visited[pq.top().dest])
-                pq.pop();
-            if (pq.empty()) break;
-            edge c = pq.top();
+        ways[n - 1] = 1;
+        distance[n - 1] = 0;
+        pq.emplace(0, n - 1);
+        while (!std::empty(pq)) {
+            const auto [cost, node] = pq.top();
             pq.pop();
-            visited[c.dest] = true;
-            for (edge &p : adj[c.dest])
-                if (!visited[p.dest] && dist[c.dest] + p.w < dist[p.dest]) {
-                    dist[p.dest] = dist[c.dest] + p.w;
-                    pq.push({p.dest, dist[p.dest]});
+
+            if (cost != distance[node]) continue;
+
+            for (const auto [child, weight]: adj[node]) {
+                if (distance[child] < cost) {
+                    ways[node] = (ways[node] + ways[child]) % (int)(1e9 + 7);
                 }
-        }
-        return dist;
-    }
 
-  public:
-    int countRestrictedPaths(int n, vector<vector<int>> &edges) {
-        vector<vector<edge>> adj(n + 1);
-
-        for (int i = 0; i < edges.size(); i++) {
-            adj[edges[i][0]].push_back({edges[i][1], edges[i][2]});
-            adj[edges[i][1]].push_back({edges[i][0], edges[i][2]});
-        }
-
-        vector<int> dist = dijkstra(n, adj, n);
-        vector<int> dp(n + 1, 0);
-        vector<int> visited(n + 1, 0);
-        stack<int> st;
-
-        int count = 0;
-        st.push(1);
-        while (!st.empty()) {
-            int root = st.top();
-
-            if (root == n) {
-                st.pop();
-                count++;
-                continue;
+                const auto new_cost = cost + weight;
+                if (new_cost >= distance[child]) continue;
+                distance[child] = new_cost;
+                pq.emplace(new_cost, child);
             }
-
-            if (root == -1) {
-                st.pop();
-                root = st.top();
-                st.pop();
-                dp[root] += count;
-                continue;
-            }
-
-            dp[root] = -count;
-            visited[root] = true;
-            st.push(-1);
-            for (auto [c, w] : adj[root])
-                if (dist[root] > dist[c]) {
-                    if (visited[c] && dp[c] >= 0)
-                        count = (count + dp[c]) % mod;
-                    else
-                        st.push(c);
-                }
         }
 
-        return count;
+        return ways[0];
     }
 };

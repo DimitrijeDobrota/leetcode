@@ -1,33 +1,35 @@
 class Solution {
-    typedef tuple<unsigned, uint8_t, uint8_t> tile;
+public:
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        const auto n = std::size(heights);
+        const auto m = std::size(heights[0]);
 
-  public:
-    int minimumEffortPath(const vector<vector<int>> &heights) {
-        static unsigned efforts[101][101];
-        const int n = heights.size(), m = heights[0].size();
-        static const int dirs[5] = {-1, 0, 1, 0, -1};
+        static constexpr auto inf = std::numeric_limits<int>::max();
+        std::vector<std::vector<int>> distance(n, std::vector(m, inf));
+        using state = std::tuple<int, std::size_t, std::size_t>;
+        std::priority_queue<state, std::vector<state>, std::greater<>> pq;
 
-        memset(efforts, 0xFF, sizeof(efforts));
-        priority_queue<tile, vector<tile>, greater<tile>> pq;
-
-        pq.push({0, 0, 0});
-        while (!pq.empty()) {
-            const auto [effort, x, y] = pq.top();
+        distance[0][0] = 0;
+        pq.emplace(0, 0, 0);
+        while (!std::empty(pq)) {
+            const auto [cost, i, j] = pq.top();
             pq.pop();
 
-            if (x == n - 1 && y == m - 1) return effort;
+            if (cost != distance[i][j]) continue;
+            if (i == n - 1 && j == m - 1) return cost;
 
-            for (int k = 0; k < 4; k++) {
-                const int i = x + dirs[k], j = y + dirs[k + 1];
-                if (i < 0 || i >= n || j < 0 || j >= m) continue;
-                const unsigned crnt = max(effort, (unsigned)abs(heights[x][y] - heights[i][j]));
-                if (crnt < efforts[i][j]) {
-                    efforts[i][j] = crnt;
-                    pq.push({crnt, i, j});
-                }
+            static constexpr std::array offset = { -1, 0, 1, 0, -1};
+            for (const auto idx: std::views::iota(1UZ, std::size(offset))) {
+                const auto x = i + offset[idx - 1];
+                const auto y = j + offset[idx];
+                if (x >= n || y >= m) continue;
+                const auto new_cost = std::max(cost, std::abs(heights[i][j] - heights[x][y]));
+                if (new_cost >= distance[x][y]) continue;
+                distance[x][y] = new_cost;
+                pq.emplace(new_cost, x, y);
             }
         }
 
-        return -1;
+        return 0; 
     }
 };

@@ -1,33 +1,36 @@
 class Solution {
-    typedef tuple<double, int> edge;
-
-  public:
-    double maxProbability(int n, const vector<vector<int>> &edges, const vector<double> &succProb, int start,
-                          int end) {
-        vector<vector<edge>> adj(n);
-        vector<bool> visited(n, false);
-        vector<double> dist(n, 0);
-        priority_queue<edge> pq;
-
-        for (int i = 0; i < succProb.size(); i++) {
-            adj[edges[i][0]].push_back({succProb[i], edges[i][1]});
-            adj[edges[i][1]].push_back({succProb[i], edges[i][0]});
+public:
+    double maxProbability(
+        int n,
+        const std::vector<std::vector<int>>& edges,
+        const std::vector<double>& succProb,
+        int start_node,
+        int end_node)
+    {
+        std::vector<std::vector<std::pair<int, double>>> adj(n);
+        for (const auto& [edge, prob]: std::views::zip(edges, succProb)) {
+            adj[edge[0]].emplace_back(edge[1], prob);
+            adj[edge[1]].emplace_back(edge[0], prob);
         }
 
-        pq.push({dist[start] = 1.0, start});
-        while (n && !pq.empty()) {
-            auto [w, dest] = pq.top();
+        std::vector<double> distance(n, 0.0);
+        std::priority_queue<std::tuple<double, int>> pq;
+
+        distance[start_node] = 1.0;
+        pq.emplace(1.0, start_node);
+        while (!std::empty(pq)) {
+            const auto [cost, node] = pq.top();
             pq.pop();
-            if (visited[dest]) continue;
-            if (dest == end) return w;
-            visited[dest] = true;
-            for (const auto &[pw, pd] : adj[dest]) {
-                if (!visited[pd] && dist[dest] * pw > dist[pd]) {
-                    dist[pd] = dist[dest] * pw;
-                    pq.push({dist[pd], pd});
-                }
+
+            if (cost != distance[node]) continue;
+            if (node == end_node) return cost;
+
+            for (const auto [child, weight]: adj[node]) {
+                const auto new_cost = cost * weight;
+                if (new_cost <= distance[child]) continue;
+                distance[child] = new_cost;
+                pq.emplace(new_cost, child);
             }
-            n--;
         }
 
         return 0;

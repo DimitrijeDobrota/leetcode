@@ -1,26 +1,74 @@
 class Solution {
-    typedef pair<int, int> edge;
-
-  public:
-    int networkDelayTime(vector<vector<int>> &times, int n, int k) {
-        vector<vector<edge>> adj(n + 1, vector<edge>());
-        for (auto &p : times)
-            adj[p[0]].push_back({p[2], p[1]});
-
-        priority_queue<edge, vector<edge>, greater<edge>> st;
-        unordered_set<int> us;
-
-        int time = 0;
-        st.push({0, k});
-        while (!st.empty()) {
-            auto [t, root] = st.top();
-            st.pop();
-            if (us.count(root)) continue;
-            time = t;
-            us.insert(root);
-            for (auto &[time, dest] : adj[root])
-                if (!us.count(dest)) st.push({t + time, dest});
+public:
+    int networkDelayTime(const std::vector<std::vector<int>>& times, int n, int k) const {
+        std::vector<std::vector<pair<int, int>>> adj(n);
+        for (const auto& edge: times) {
+            adj[edge[0] - 1].emplace_back(edge[1] - 1, edge[2]);
         }
-        return us.size() == n ? time : -1;
+
+        static constexpr auto inf = std::numeric_limits<int>::max();
+        std::vector<int> distance(n, inf);
+        using State = std::tuple<int, int>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
+
+        distance[k - 1] = 0;
+        pq.emplace(0, k - 1);
+        while (!pq.empty()) {
+            const auto [cost, node] = pq.top();
+            pq.pop();
+
+            if (cost != distance[node]) continue;
+
+            for (const auto [child, weight]: adj[node]) {
+                const auto next_cost = cost + weight;
+                if (next_cost >= distance[child]) continue;
+                distance[child] = next_cost;
+                pq.emplace(next_cost, child);
+            }
+        }
+        
+        const auto max = std::ranges::max(distance);
+        return max != inf ? max : -1;
+    }
+};
+
+class Solution {
+public:
+    int networkDelayTime(const std::vector<std::vector<int>>& times, int n, int k) const {
+        std::vector<std::vector<pair<int, int>>> adj(n);
+        for (const auto& edge: times) {
+            adj[edge[0] - 1].emplace_back(edge[1] - 1, edge[2]);
+        }
+
+        static constexpr auto inf = std::numeric_limits<int>::max();
+        std::vector<int> visited(n, false);
+        std::vector<int> distance(n, inf);
+
+        distance[k - 1] = 0;
+        for (const auto iter: std::views::iota(0, n)) {
+            int node = -1;
+
+            for (const auto candid: std::views::iota(0, n)) {
+                if (visited[candid]) continue;
+
+                if (node == -1 || distance[candid] < distance[node]) {
+                    node = candid;
+                }
+            }
+
+            if (node == -1 || distance[node] == inf) return -1;
+
+            visited[node] = true;
+            for (const auto [child, weight]: adj[node]) {
+                if (visited[child]) continue;
+
+                const int nextCost = distance[node] + weight;
+                if (nextCost >= distance[child]) continue;
+
+                distance[child] = nextCost;
+            }
+        }
+        
+        return std::ranges::max(distance);
     }
 };

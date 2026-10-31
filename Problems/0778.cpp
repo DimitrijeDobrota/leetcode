@@ -1,28 +1,33 @@
 class Solution {
-  public:
-    int swimInWater(vector<vector<int>> &grid) const {
-        priority_queue<tuple<int, int, int>> pq;
-        const int n = size(grid);
+public:
+    int swimInWater(vector<vector<int>>& grid) const {
+        using State = std::tuple<int, std::size_t, std::size_t>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
 
-        static const int offset[] = {-1, 0, 1, 0, -1};
-        const auto valid = [&](int x, int y) { return x >= 0 && x < n && y >= 0 && y < n; };
+        const auto n = std::size(grid);
+        const auto m = std::size(grid[0]);
 
-        pq.emplace(-grid[0][0], 0, 0);
-        while (!pq.empty()) {
-            const auto [t, x, y] = pq.top();
+        pq.emplace(grid[0][0], 0, 0);
+        while (!std::empty(pq)) {
+            const auto [time, x, y] = pq.top();
             pq.pop();
-            if (x == n - 1 && y == n - 1) return -t;
 
-            for (int k = 0; k < 4; k++) {
-                const auto a = x + offset[k + 1];
-                const auto b = y + offset[k];
+            if (x == n - 1 && y == m - 1) return time;
 
-                if (!valid(a, b) || grid[a][b] < 0) continue;
-                pq.emplace(min(t, -grid[a][b]), a, b);
-                grid[a][b] = -1;
+            static constexpr std::array offset = {-1, 0, 1, 0, -1};
+            for (const auto idx: std::views::iota(1UZ, std::size(offset))) {
+                const auto i = x + offset[idx - 1];
+                const auto j = y + offset[idx];
+
+                if (i >= n || j >= m) continue;
+                if (grid[i][j] < 0) continue;
+
+                pq.emplace(std::max(time, grid[i][j]), i, j);
+                grid[i][j] = -1;
             }
         }
 
         return -1;
+ 
     }
 };

@@ -1,30 +1,36 @@
 class Solution {
-    struct edge {
-        int d, w, s;
-        edge(int d, int w, int s = -1) : d(d), w(w), s(s) {}
-        friend bool operator<(const edge &e1, const edge &e2) { return e1.w > e2.w; }
-    };
-
-  public:
-    int findCheapestPrice(int n, vector<vector<int>> &flights, int src, int dst, int k) {
-        vector<vector<edge>> adj(n);
-        for (auto &f : flights)
-            adj[f[0]].push_back({f[1], f[2]});
-
-        vector<int> stop(n, INT_MAX);
-        priority_queue<edge> pq;
-
-        pq.push({src, 0, 0});
-        while (!pq.empty()) {
-            auto [d, w, s] = pq.top();
-            pq.pop();
-            if (s > stop[d] || s > k + 1) continue;
-
-            stop[d] = s;
-            if (d == dst) return w;
-            for (auto [d1, w1, _] : adj[d])
-                pq.push({d1, w + w1, s + 1});
+public:
+    int findCheapestPrice(int n, const std::vector<std::vector<int>>& flights, int src, int dst, int k) {
+        std::vector<std::vector<std::pair<int, int>>> adj(n);
+        for (const auto& edge: flights) {
+            adj[edge[0]].emplace_back(edge[1], edge[2]);
         }
+
+        using State = std::tuple<long long, int, int>;
+        std::priority_queue<State, std::vector<State>, std::greater<>> pq;
+
+        static constexpr auto inf = std::numeric_limits<long long>::max();
+        std::vector<std::vector<long long>> distance(n, std::vector(k + 2, inf));
+
+        distance[src][0] = 0;
+        pq.emplace(0, 0, src);
+        while (!std::empty(pq)) {
+            const auto [cost, used, node] = pq.top();
+            pq.pop();
+
+            if (cost != distance[node][used]) continue;
+            if (node == dst) return cost;
+            if (used == k + 1) continue;
+
+            for (const auto [child, weight]: adj[node]) {
+                const auto new_cost = cost + weight;
+                const auto next_used = used + 1;
+                if (new_cost >= distance[child][next_used]) continue;
+                distance[child][next_used] = new_cost;
+                pq.emplace(new_cost, next_used, child);
+            }
+        }
+
         return -1;
-    }
+     }
 };
