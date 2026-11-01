@@ -1536,6 +1536,8 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
+|  3553  |    Hard    | [Minimum Weighted Subgraph With the Required Paths II](Problems/3553.cpp)                         |
+|  3559  |    Hard    | [Number of Ways to Assign Edge Weights II](Problems/3559.cpp)                                     |
 |  3619  |   Medium   | [Count Islands With Total Value Divisible by K](Problems/3619.cpp)                                |
 |  3644  |   Medium   | [Maximum K to Sort a Permutation](Problems/3644.cpp)                                              |
 |  3665  |   Medium   | [Twisted Mirror Path Count](Problems/3665.cpp)                                                    |
