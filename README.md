@@ -1460,6 +1460,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2816  |   Medium   | [Double a Number Represented as a Linked List](Problems/2816.cpp)                                  |
 |  2824  |    Easy    | [Count Pairs Whose Sum is Less than Target](Problems/2824.cpp)                                     |
 |  2825  |   Medium   | [Make String a Subsequence Using Cyclic Increments](Problems/2825.cpp)                             |
+|  2836  |    Hard    | [Maximize Value of Function in a Ball Passing Game](Problems/2836.cpp)                            |
 |  2840  |   Medium   | [Check if Strings Can be Made Equal With Operations II](Problems/2840.cpp)                         |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
