@@ -411,6 +411,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  0475  |   Medium   | [Heaters](Problems/0475.cpp)                                                                       |
 |  0476  |    Easy    | [Number Complement](Problems/0476.cpp)                                                             |
 |  0477  |   Medium   | [Total Hamming Distance](Problems/0477.cpp)                                                        |
+|  0480  |    Hard    | [Sliding Window Median](Problems/0480.cpp)                                                        |
 |  0481  |   Medium   | [Magical String](Problems/0481.cpp)                                                                |
 |  0482  |    Easy    | [License Key Formatting](Problems/0482.cpp)                                                        |
 |  0485  |    Easy    | [Max Consecutive Ones](Problems/0485.cpp)                                                          |

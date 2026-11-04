@@ -1,31 +1,33 @@
 class MedianFinder {
-    priority_queue<int> left;
-    priority_queue<int, vector<int>, greater<int>> right;
+    std::priority_queue<int, std::vector<int>, std::greater<int>> high;
+    std::priority_queue<int> low;
 
-  public:
-    void addNum(int num) {
-        if (left.empty() || num < left.top())
-            left.push(num);
-        else
-            right.push(num);
-
-        if (left.size() < right.size()) {
-            int temp = right.top();
-            right.pop();
-            left.push(temp);
-        }
-
-        if (left.size() - right.size() > 1) {
-            int temp = left.top();
-            left.pop();
-            right.push(temp);
+    void rebalance() {
+        if (std::size(low) > std::size(high) + 1) {
+            high.push(low.top());
+            low.pop();
+        } else if (std::size(high) > std::size(low)) {
+            low.push(high.top());
+            high.pop();
         }
     }
 
-    double findMedian() {
-        if (left.size() > right.size())
-            return left.top();
-        else
-            return (left.top() + right.top()) * 0.5;
+public:
+    MedianFinder() {}
+    
+    void addNum(int num) {
+        if (std::empty(low) || num <= low.top()) {
+            low.push(num);
+        } else {
+            high.push(num);
+        }
+        rebalance();
+    }
+    
+    double findMedian() const {
+        const double lower = low.top();
+        return std::size(low) == std::size(high)
+            ? (lower + high.top()) / 2.0
+            : lower;
     }
 };
