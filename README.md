@@ -1537,6 +1537,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3289  |    Easy    | [The Two Sneaky Numbers of Digitville](Problems/3289.cpp)                                          |
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
+|  3505  |    Hard    | [Minimum Operations to Make Elements Within K Subarrays Equal](Problems/3505.cpp)                 |
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
 |  3553  |    Hard    | [Minimum Weighted Subgraph With the Required Paths II](Problems/3553.cpp)                         |
 |  3559  |    Hard    | [Number of Ways to Assign Edge Weights II](Problems/3559.cpp)                                     |
