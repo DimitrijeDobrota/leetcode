@@ -910,6 +910,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  1380  |    Easy    | [Lucky Numbers in a Matrix](Problems/1380.cpp)                                                     |
 |  1381  |   Medium   | [Design a Stack With Increment Operation](Problems/1381.cpp)                                       |
 |  1382  |   Medium   | [Balance a Binary Search Tree](Problems/1382.cpp)                                                  |
+|  1385  |    Easy    | [Find the Distance Value Between Two Arrays](Problems/1385.cpp)                                   |
 |  1387  |   Medium   | [Sort Integers by The Power Value](Problems/1387.cpp)                                              |
 |  1389  |    Easy    | [Create Target Array in the Given Order](Problems/1389.cpp)                                        |
 |  1390  |   Medium   | [Four Divisors](Problems/1390.cpp)                                                                |
