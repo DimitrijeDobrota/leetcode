@@ -1447,6 +1447,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2740  |   Medium   | [Find the Value of the Partition](Problems/2740.cpp)                                               |
 |  2742  |    Hard    | [Painting the Walls](Problems/2742.cpp)                                                            |
 |  2745  |   Medium   | [Construct the Longest New String](Problems/2745.cpp)                                              |
+|  2747  |   Medium   | [Count Zero Request Servers](Problems/2747.cpp)                                                   |
 |  2751  |    Hard    | [Robot Collisions](Problems/2751.cpp)                                                              |
 |  2762  |   Medium   | [Continuous Subarrays](Problems/2762.cpp)                                                          |
 |  2766  |   Medium   | [Relocate Marbles](Problems/2766.cpp)                                                              |
