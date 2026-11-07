@@ -1423,6 +1423,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2641  |   Medium   | [Cousins in Binary Tree II](Problems/2641.cpp)                                                     |
 |  2642  |    Hard    | [Design Graph With Shortest Path Calculator](Problems/2642.cpp)                                    |
 |  2645  |   Medium   | [Minimum Additions to Make Valid String](Problems/2645.cpp)                                        |
+|  2646  |    Hard    | [Minimize the Total Price of the Trips](Problems/2646.cpp)                                        |
 |  2657  |   Medium   | [Find the Prefix Common Array of Two Arrays](Problems/2657.cpp)                                    |
 |  2658  |   Medium   | [Maximum Number of Fish in a Grid](Problems/2658.cpp)                                              |
 |  2661  |   Medium   | [First Completely Painted Row or Column](Problems/2661.cpp)                                        |
@@ -1466,6 +1467,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2825  |   Medium   | [Make String a Subsequence Using Cyclic Increments](Problems/2825.cpp)                             |
 |  2836  |    Hard    | [Maximize Value of Function in a Ball Passing Game](Problems/2836.cpp)                            |
 |  2840  |   Medium   | [Check if Strings Can be Made Equal With Operations II](Problems/2840.cpp)                         |
+|  2846  |    Hard    | [Minimum Edge Weight Equilibrium Queries in a Tree](Problems/2846.cpp)                            |
 |  2849  |   Medium   | [Determine if a Cell Is Reachable at a Given Time](Problems/2849.cpp)                              |
 |  2856  |   Medium   | [Minimum Array Length After Pair Removals](Problems/2856.cpp)                                      |
 |  2859  |    Easy    | [Sum of Values at Indices With K Set Bits](Problems/2859.cpp)                                      |
@@ -1544,6 +1546,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
 |  3553  |    Hard    | [Minimum Weighted Subgraph With the Required Paths II](Problems/3553.cpp)                         |
 |  3559  |    Hard    | [Number of Ways to Assign Edge Weights II](Problems/3559.cpp)                                     |
+|  3585  |    Hard    | [Find Weighted Median Node in Tree](Problems/3585.cpp)                                            |
 |  3619  |   Medium   | [Count Islands With Total Value Divisible by K](Problems/3619.cpp)                                |
 |  3644  |   Medium   | [Maximum K to Sort a Permutation](Problems/3644.cpp)                                              |
 |  3665  |   Medium   | [Twisted Mirror Path Count](Problems/3665.cpp)                                                    |
