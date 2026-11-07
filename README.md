@@ -1145,6 +1145,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  1870  |   Medium   | [Minimum Speed to Arrive on Time](Problems/1870.cpp)                                               |
 |  1873  |    Easy    | [Calculate Special Bonus](Problems/1873.cpp)                                                       |
 |  1877  |   Medium   | [Minimize Maximum Pair Sum in Array](Problems/1877.cpp)                                            |
+|  1882  |   Medium   | [Process Tasks Using Servers](Problems/1882.cpp)                                                  |
 |  1884  |   Medium   | [Egg Drop With 2 Eggs and N Floors](Problems/1884.cpp)                                             |
 |  1887  |   Medium   | [Reduction Operations to Make the Array Elements Equal](Problems/1887.cpp)                         |
 |  1890  |    Easy    | [The Latest Login in 2020](Problems/1890.cpp)                                                      |
