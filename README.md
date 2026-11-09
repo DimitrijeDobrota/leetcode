@@ -1024,6 +1024,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  1601  |    Hard    | [Maximum Number of Achievable Transfer Requests](Problems/1601.cpp)                                |
 |  1603  |    Easy    | [Design Parking System](Problems/1603.cpp)                                                         |
 |  1605  |   Medium   | [Find Valid Matrix Given Row and Column Sums](Problems/1605.cpp)                                   |
+|  1606  |    Hard    | [Find Servers That Handled Most Number of Requests](Problems/1606.cpp)                            |
 |  1608  |    Easy    | [Special Array With X Elements Greater Than or Equal X](Problems/1608.cpp)                         |
 |  1609  |   Medium   | [Even Odd Tree](Problems/1609.cpp)                                                                 |
 |  1611  |    Hard    | [Minimum One Bit Operations to Make Integers Zero](Problems/1611.cpp)                              |
