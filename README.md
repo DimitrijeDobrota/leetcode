@@ -1551,6 +1551,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3619  |   Medium   | [Count Islands With Total Value Divisible by K](Problems/3619.cpp)                                |
 |  3644  |   Medium   | [Maximum K to Sort a Permutation](Problems/3644.cpp)                                              |
 |  3665  |   Medium   | [Twisted Mirror Path Count](Problems/3665.cpp)                                                    |
+|  3693  |   Medium   | [Climbing Stairs II](Problems/3693.cpp)                                                           |
 |  3736  |    Easy    | [Minimum Moves to Equal Array Elements III](Problems/3736.cpp)                                    |
 |  3841  |    Hard    | [Palindromic Path Queries in a Tree](Problems/3841.cpp)                                           |
 |  3863  |   Medium   | [Minimum Operations to Sort a String](Problems/3863.cpp)                                          |
