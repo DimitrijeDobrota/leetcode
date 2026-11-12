@@ -1512,6 +1512,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3097  |   Medium   | [Shortest Subarray With OR at Least K II](Problems/3097.cpp)                                       |
 |  3100  |   Medium   | [Water Bottles II](Problems/3100.cpp)                                                              |
 |  3101  |   Medium   | [Count Alternating Subarrays](Problems/3101.cpp)                                                   |
+|  3105  |    Easy    | [Longest Strictly Increasing or Strictly Decreasing Subarray](Problems/3105.cpp)                  |
 |  3106  |   Medium   | [Lexicographically Smallest String After Operations With Constraint](Problems/3106.cpp)            |
 |  3110  |    Easy    | [Score of a String](Problems/3110.cpp)                                                             |
 |  3111  |   Medium   | [Minimum Rectangles to Cover Points](Problems/3111.cpp)                                            |
