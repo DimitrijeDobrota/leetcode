@@ -1,17 +1,19 @@
 class Solution {
-  public:
-    int minSubArrayLen(int target, const vector<int> &nums) {
-        int i = 0, j = 0, sum = 0, res = nums.size() + 1;
-        while (true) {
-            if (sum >= target) {
-                res = min(res, j - i);
-                sum -= nums[i++];
-            } else {
-                if (j == nums.size()) break;
-                sum += nums[j++];
+public:
+    int minSubArrayLen(int target, const vector<int>& nums) const {
+        const auto n = std::size(nums);
+        std::size_t result = n + 1;
+        std::size_t sum = 0;
+
+        std::size_t left = 0;
+        for (const auto right: std::views::iota(0UZ, n)) {
+            sum += nums[right];
+
+            while (sum >= target) {
+                result = std::min(result, right - left + 1UZ);
+                sum -= nums[left++];
             }
         }
-        if (res == nums.size() + 1) return 0;
-        return res;
+        return result != n + 1 ? result : 0; 
     }
 };

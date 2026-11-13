@@ -1,39 +1,63 @@
 class Solution {
-  public:
-    int totalFruit(vector<int> &fruits) {
-        pair<int, int> used = {fruits[0], -1}, count = {0, 0}, pos = {0, 0};
-        int start = 0, res = 0;
+public:
+    int totalFruit(const vector<int>& fruits) const {
+        struct Fruit {
+            int type = 0;
+            int count = 0;
+        };
+        Fruit type1;
+        Fruit type2;
 
-        for (start = 0; start < fruits.size(); start++)
-            if (fruits[start] != used.first)
-                break;
-            else
-                count.first++;
-
-        if (start == fruits.size()) return count.first;
-
-        used.second = fruits[start];
-        for (int i = start; i < fruits.size(); i++) {
-            if (fruits[i] == used.first)
-                count.first++, pos.first++, pos.second = 0;
-            else if (fruits[i] == used.second)
-                count.second++, pos.first = 0, pos.second++;
+        std::size_t result = 0; 
+        std::size_t left = 0; 
+        for (const auto right: std::views::iota(0UZ, std::size(fruits))) {
+            if (type1.count == 0) type1 = {fruits[right], 1};
+            else if (type1.type == fruits[right]) type1.count++;
+            else if (type2.count == 0) type2 = {fruits[right], 1};
+            else if (type2.type == fruits[right]) type2.count++;
             else {
-                res = max(res, count.first + count.second);
-                if (fruits[i - 1] == used.second) {
-                    used.first = fruits[i];
-                    count = pos;
-                    pos = {1, 0};
-                    count.first++;
-                } else {
-                    used.second = fruits[i];
-                    count = pos;
-                    pos = {0, 1};
-                    count.second++;
+                while (left <= right) {
+                    auto& type = fruits[left] == type1.type ? type1 : type2;
+                    left++;
+                    if (--type.count == 0) {
+                        type = {fruits[right], 1};
+                        break;
+                    }
                 }
             }
+            result = std::max(result, right - left + 1);
         }
+        return result;
+    }
+};
 
-        return max(res, count.first + count.second);
+class Solution {
+public:
+    int totalFruit(const vector<int>& fruits) const {
+        struct Fruit {
+            int type = 0;
+            int count = 0;
+            int end = 0;
+        };
+        Fruit type1;
+        Fruit type2;
+
+        int result = 0; 
+        for (const auto right: std::views::iota(0UZ, std::size(fruits))) {
+            if (type1.count == 0) type1 = {fruits[right], 1, 1};
+            else if (type1.type == fruits[right]) type1.count++, type1.end++, type2.end = 0;
+            else if (type2.count == 0) type2 = {fruits[right], 1, 1}, type1.end = 0;
+            else if (type2.type == fruits[right]) type2.count++, type2.end++, type1.end = 0;
+            else {
+                auto [remove, keep] = fruits[right - 1] == type2.type
+                                    ? std::tie(type1, type2)
+                                    : std::tie(type2, type1);
+                keep.count = keep.end;
+                keep.end = 0;
+                remove = {fruits[right], 1, 1};
+            }
+            result = std::max(result, type1.count + type2.count);
+        }
+        return result;
     }
 };

@@ -1,15 +1,15 @@
 class Solution {
-  public:
-    double findMaxAverage(const vector<int> &nums, int k) {
+public:
+    double findMaxAverage(const vector<int>& nums, std::size_t k) const {
         int sum = 0;
-        for (int i = 0; i < k; i++)
-            sum += nums[i];
-        int maxi = sum;
-        for (int i = k; i < nums.size(); i++) {
-            sum -= nums[i - k];
-            sum += nums[i];
-            maxi = max(maxi, sum);
+        for (const auto num: nums | std::views::take(k)) sum += num;
+        
+        auto maxSum = sum;
+        for (const auto idx: std::views::iota(k, std::size(nums))) {
+            sum -= nums[idx - k];
+            sum += nums[idx];
+            maxSum = std::max(maxSum, sum);
         }
-        return (double)maxi / k;
+        return static_cast<double>(maxSum) / k;
     }
 };

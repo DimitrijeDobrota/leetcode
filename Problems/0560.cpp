@@ -1,18 +1,19 @@
 class Solution {
-  public:
-    int subarraySum(vector<int> &nums, int k) {
-        int n = nums.size(), res = 0, sum = 0;
-        unordered_map<int, int> um;
-        vector<int> prefix(n);
-        for (int i = 0; i < n; i++)
-            sum = prefix[i] = sum + nums[i];
+public:
+    int subarraySum(const vector<int>& nums, int k) const {
+        unordered_map<int, int> freq{{0, 1}};
+        freq.reserve(std::size(nums) + 1);
 
-        for (int i = 0; i < n; i++) {
-            if (prefix[i] == k) res++;
-            if (um.count(prefix[i] - k)) res += um[prefix[i] - k];
-            um[prefix[i]]++;
+        int result = 0;
+        int prefix = 0;
+        for (const auto num: nums) {
+            prefix += num;
+            if (const auto it = freq.find(prefix - k); it != std::end(freq)) {
+                result += it->second;
+            }
+            freq[prefix]++;
         }
 
-        return res;
+        return result;
     }
 };
