@@ -1545,6 +1545,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3289  |    Easy    | [The Two Sneaky Numbers of Digitville](Problems/3289.cpp)                                          |
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
+|  3364  |    Easy    | [Minimum Positive Sum Subarray ](Problems/3364.cpp)                                               |
 |  3402  |    Easy    | [Minimum Operations to Make Columns Strictly Increasing](Problems/3402.cpp)                       |
 |  3420  |    Hard    | [Count Non-Decreasing Subarrays After K Operations](Problems/3420.cpp)                            |
 |  3505  |    Hard    | [Minimum Operations to Make Elements Within K Subarrays Equal](Problems/3505.cpp)                 |
