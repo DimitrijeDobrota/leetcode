@@ -1,20 +1,26 @@
 class Solution {
-    static const int MOD = 1e9 + 7;
+public:
+    int sumSubarrayMins(const vector<int>& arr) const {
+        static constexpr int mod = 1e9 + 7;
+        std::vector<std::pair<int, int>> stack;
+        long long result = 0;
+        long long sum = 0;
 
-  public:
-    int sumSubarrayMins(const vector<int> &arr) {
-        const int n = arr.size();
-        stack<int> st;
+        for (const auto num: arr) {
+            int count = 1;
+            while (!std::empty(stack) && num <= stack.back().first) {
+                const auto [val, occ] = stack.back();
+                stack.pop_back();
 
-        long long res = 0;
-        for (int right = 0, mid, left; right <= n; right++) {
-            while (!st.empty() && (right == n || arr[st.top()] > arr[right])) {
-                mid = st.top(), st.pop();
-                left = st.empty() ? -1 : st.top();
-                res = (res + (long long)arr[mid] * (right - mid) * (mid - left)) % MOD;
+                sum -= 1LL * val * occ;
+                count += occ;
             }
-            st.push(right);
+            stack.emplace_back(num, count);
+
+            sum += 1LL * count * num;
+            result = (result + sum) % mod;
         }
-        return res;
+
+        return result; 
     }
 };

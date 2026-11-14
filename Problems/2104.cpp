@@ -1,29 +1,38 @@
 class Solution {
-  public:
-    long long subArrayRanges(const vector<int> &nums) {
-        const int n = nums.size();
-        long long res = 0;
-        stack<int> st;
+public:
+    long long subArrayRanges(const std::vector<int>& nums) const {
+        std::vector<std::pair<int, int>> stack;
+        long long result = 0;
+        long long sum = 0;
 
-        for (int right = 0, mid, left; right <= n; right++) {
-            while (!st.empty() && (right == n || nums[st.top()] >= nums[right])) {
-                mid = st.top(), st.pop();
-                left = st.empty() ? -1 : st.top();
-                res -= (long long)nums[mid] * (right - mid) * (mid - left);
+        for (const auto num: nums) {
+            int count = 1;
+            while (!std::empty(stack) && num >= stack.back().first) {
+                const auto [val, occ] = stack.back();
+                stack.pop_back();
+                sum -= 1LL * val * occ;
+                count += occ;
             }
-            st.push(right);
+            stack.emplace_back(num, count);
+            sum += 1LL * count * num;
+            result += sum;
         }
 
-        st.pop();
-        for (int right = 0, mid, left; right <= n; right++) {
-            while (!st.empty() && (right == n || nums[st.top()] <= nums[right])) {
-                mid = st.top(), st.pop();
-                left = st.empty() ? -1 : st.top();
-                res += (long long)nums[mid] * (right - mid) * (mid - left);
+        sum = 0;
+        stack.clear();
+        for (const auto num: nums) {
+            int count = 1;
+            while (!std::empty(stack) && num <= stack.back().first) {
+                const auto [val, occ] = stack.back();
+                stack.pop_back();
+                sum -= 1LL * val * occ;
+                count += occ;
             }
-            st.push(right);
+            stack.emplace_back(num, count);
+            sum += 1LL * count * num;
+            result -= sum;
         }
 
-        return res;
+        return result;
     }
 };

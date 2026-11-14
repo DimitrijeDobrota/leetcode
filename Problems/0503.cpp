@@ -1,24 +1,25 @@
 class Solution {
-  public:
-    vector<int> nextGreaterElements(vector<int> &nums) {
-        vector<int> res(nums.size(), -1);
-        stack<int> st;
+public:
+    std::vector<int> nextGreaterElements(const std::vector<int>& nums) const {
+        const auto n = std::size(nums);
+        std::vector<int> result(n, -1);
+        std::vector<int> stack; 
 
-        for (int i = 0; i < nums.size(); i++) {
-            while (!st.empty() && nums[i] > nums[st.top()]) {
-                res[st.top()] = nums[i];
-                st.pop();
+        for (const auto [idx, num]: std::views::enumerate(nums)) {
+            while (!std::empty(stack) && num > nums[stack.back()]) {
+                result[stack.back()] = num;
+                stack.pop_back();
             }
-            st.push(i);
+            stack.emplace_back(idx);
         }
 
-        for (int i = 0; !st.empty() && i < nums.size(); i++) {
-            while (!st.empty() && nums[i] > nums[st.top()]) {
-                res[st.top()] = nums[i];
-                st.pop();
+        for (const auto num: nums) {
+            while (!std::empty(stack) && num > nums[stack.back()]) {
+                result[stack.back()] = num;
+                stack.pop_back();
             }
         }
 
-        return res;
+        return result;
     }
 };

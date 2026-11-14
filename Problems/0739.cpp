@@ -1,20 +1,17 @@
 class Solution {
-  public:
-    vector<int> dailyTemperatures(vector<int> &temps) {
-        stack<int> st({0});
+public:
+    std::vector<int> dailyTemperatures(const vector<int>& temperatures) const {
+        std::vector<int> result(std::size(temperatures), 0);
+        std::vector<int> stack;
 
-        for (int i = 1; i < temps.size(); ++i) {
-            while (!st.empty() && temps[i] > temps[st.top()]) {
-                temps[st.top()] = i - st.top();
-                st.pop();
+        for (const auto [idx, temperature]: std::views::enumerate(temperatures)) {
+            while (!std::empty(stack) && temperature > temperatures[stack.back()]) {
+                result[stack.back()] = idx - stack.back();
+                stack.pop_back();
             }
-            st.push(i);
+            stack.emplace_back(idx);
         }
 
-        while (!st.empty()) {
-            temps[st.top()] = 0;
-            st.pop();
-        }
-        return temps;
+        return result;
     }
 };

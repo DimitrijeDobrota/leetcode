@@ -1,31 +1,34 @@
 class Solution {
-  public:
-    int largestRectangleArea(vector<int> &heights) {
-        int n = heights.size();
-        vector<int> left(n), right(n);
-        stack<int> st;
+public:
+    int largestRectangleArea(const std::vector<int>& heights) const {
+        const auto n = std::size(heights);
+        std::vector<int> right(n);
+        std::vector<int> left(n);
 
-        for (int i = 0; i < n; i++) {
-            left[i] = i;
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                left[i] = left[st.top()];
-                st.pop();
-            };
-            st.push(i);
+        std::vector<int> stack;
+
+        for (const auto [idx, height]: std::views::enumerate(heights)) {
+            left[idx] = idx;
+            while (!std::empty(stack) && height <= heights[stack.back()]) {
+                left[idx] = left[stack.back()];
+                stack.pop_back();
+            }
+            stack.push_back(idx);
         }
 
-        for (int i = n - 1; i >= 0; i--) {
-            right[i] = i;
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                right[i] = right[st.top()];
-                st.pop();
-            };
-            st.push(i);
+        for (const auto [idx, height]: std::views::enumerate(heights) | std::views::reverse) {
+            right[idx] = idx;
+            while (!std::empty(stack) && height <= heights[stack.back()]) {
+                right[idx] = right[stack.back()];
+                stack.pop_back();
+            }
+            stack.push_back(idx);
         }
 
-        int res = 0;
-        for (int i = 0; i < n; i++)
-            res = max(res, (right[i] - left[i] + 1) * heights[i]);
-        return res;
+        int result = 0;
+        for (const auto idx: std::views::iota(0UZ, n)) {
+            result = std::max(result, (right[idx] - left[idx] + 1) * heights[idx]);
+        }
+        return result;
     }
 };

@@ -1,20 +1,26 @@
 class Solution {
-  public:
-    int longestSubarray(vector<int> &nums, int limit) {
-        deque<int> maxd, mind;
-        int i = 0, j;
-        for (j = 0; j < nums.size(); ++j) {
-            while (!maxd.empty() && nums[j] > maxd.back())
-                maxd.pop_back();
-            while (!mind.empty() && nums[j] < mind.back())
-                mind.pop_back();
-            maxd.push_back(nums[j]), mind.push_back(nums[j]);
-            if (maxd.front() - mind.front() > limit) {
-                if (maxd.front() == nums[i]) maxd.pop_front();
-                if (mind.front() == nums[i]) mind.pop_front();
-                i++;
+public:
+    int longestSubarray(const std::vector<int>& nums, int limit) const {
+        std::deque<int> min_queue;
+        std::deque<int> max_queue;
+
+        std::size_t left = 0;
+        std::size_t result = 0;
+        for (const auto right: std::views::iota(0UZ, std::size(nums))) {
+            while (!std::empty(min_queue) && nums[right] < min_queue.back()) min_queue.pop_back();
+            while (!std::empty(max_queue) && nums[right] > max_queue.back()) max_queue.pop_back();
+            min_queue.emplace_back(nums[right]);
+            max_queue.emplace_back(nums[right]);
+
+            while (max_queue.front() - min_queue.front() > limit) {
+                if (nums[left] == min_queue.front()) min_queue.pop_front();
+                if (nums[left] == max_queue.front()) max_queue.pop_front();
+                left++;
             }
+
+            result = std::max(result, right - left + 1);
         }
-        return j - i;
+
+        return result;
     }
 };

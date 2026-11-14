@@ -1331,6 +1331,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2392  |    Hard    | [Build a Matrix With Conditions](Problems/2392.cpp)                                                |
 |  2396  |   Medium   | [Strictly Palindromic Number](Problems/2396.cpp)                                                   |
 |  2397  |   Medium   | [Maximum Rows Covered by Columns](Problems/2397.cpp)                                               |
+|  2398  |    Hard    | [Maximum Number of Robots Within Budget](Problems/2398.cpp)                                       |
 |  2401  |   Medium   | [Longest Nice Subarray](Problems/2401.cpp)                                                         |
 |  2402  |    Hard    | [Meeting Rooms III](Problems/2402.cpp)                                                             |
 |  2405  |   Medium   | [Optimal Partition of String](Problems/2405.cpp)                                                   |

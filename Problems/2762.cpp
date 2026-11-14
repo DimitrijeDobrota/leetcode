@@ -1,21 +1,25 @@
 class Solution {
-  public:
-    long long continuousSubarrays(const vector<int> &nums) const {
-        const int n = size(nums);
-        long long res = 0;
+public:
+    long long continuousSubarrays(const std::vector<int>& nums) {
+        std::deque<int> min_queue;
+        std::deque<int> max_queue;
 
-        map<int, int> mp;
-        for (int i = 0, j = 0; j < n; j++) {
-            mp[nums[j]]++;
+        std::size_t left = 0;
+        std::size_t result = 0;
+        for (const auto right: std::views::iota(0UZ, std::size(nums))) {
+            while (!std::empty(min_queue) && nums[right] < min_queue.back()) min_queue.pop_back();
+            while (!std::empty(max_queue) && nums[right] > max_queue.back()) max_queue.pop_back();
+            min_queue.emplace_back(nums[right]);
+            max_queue.emplace_back(nums[right]);
 
-            while (mp.rbegin()->first - mp.begin()->first > 2) {
-                const int crnt = nums[i++];
-                if (!--mp[crnt]) mp.erase(crnt);
+            while (max_queue.front() - min_queue.front() > 2) {
+                if (nums[left] == min_queue.front()) min_queue.pop_front();
+                if (nums[left] == max_queue.front()) max_queue.pop_front();
+                left++;
             }
-
-            res += j - i + 1;
+            result += right - left + 1;
         }
 
-        return res;
+        return result;
     }
 };

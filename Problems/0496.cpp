@@ -1,21 +1,23 @@
 class Solution {
-  public:
-    vector<int> nextGreaterElement(vector<int> &nums1, vector<int> &nums2) {
-        vector<int> res(nums1.size(), -1);
-        unordered_map<int, int> um;
-        stack<int> st;
+public:
+    vector<int> nextGreaterElement(const std::vector<int>& nums1, const std::vector<int>& nums2) const {
+        std::unordered_map<int, int> next_max;
+        std::vector<int> stack;
 
-        for (int i = 0; i < nums2.size(); i++) {
-            while (!st.empty() && nums2[i] > st.top()) {
-                um.insert(make_pair(st.top(), nums2[i]));
-                st.pop();
+        for (const auto num: nums2) {
+            while (!std::empty(stack) && num > stack.back()) {
+                next_max.emplace(stack.back(), num);
+                stack.pop_back();
             }
-            st.push(nums2[i]);
+            stack.emplace_back(num);
         }
 
-        for (int i = 0; i < nums1.size(); i++)
-            if (um.find(nums1[i]) != um.end()) res[i] = um[nums1[i]];
-
-        return res;
+        std::vector<int> result(std::size(nums1), -1);
+        for (const auto [idx, num]: std::views::enumerate(nums1)) {
+            if (const auto it = next_max.find(num); it != std::end(next_max)) {
+                result[idx] = it->second;
+            }
+        }
+        return result;
     }
 };

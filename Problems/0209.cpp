@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int minSubArrayLen(int target, const vector<int>& nums) const {
-        const auto n = std::size(nums);
-        std::size_t result = n + 1;
-        std::size_t sum = 0;
+    int longestSubarray(const std::vector<int>& nums, int limit) const {
+        std::deque<int> min_queue;
+        std::deque<int> max_queue;
 
         std::size_t left = 0;
-        for (const auto right: std::views::iota(0UZ, n)) {
-            sum += nums[right];
+        for (const auto right: std::views::iota(0UZ, std::size(nums))) {
+            while (!std::empty(min_queue) && nums[right] < min_queue.back()) min_queue.pop_back();
+            while (!std::empty(max_queue) && nums[right] > max_queue.back()) max_queue.pop_back();
+            min_queue.emplace_back(nums[right]);
+            max_queue.emplace_back(nums[right]);
 
-            while (sum >= target) {
-                result = std::min(result, right - left + 1UZ);
-                sum -= nums[left++];
+            if (max_queue.front() - min_queue.front() > limit) {
+                if (nums[left] == min_queue.front()) min_queue.pop_front();
+                if (nums[left] == max_queue.front()) max_queue.pop_front();
+                left++;
             }
         }
-        return result != n + 1 ? result : 0; 
+
+        return std::size(nums) - left;
     }
 };
