@@ -986,6 +986,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  1518  |    Easy    | [Water Bottles](Problems/1518.cpp)                                                                 |
 |  1519  |   Medium   | [Number of Nodes in the Sub-Tree With the Same Label](Problems/1519.cpp)                           |
 |  1523  |    Easy    | [Count Odd Numbers in an Interval Range](Problems/1523.cpp)                                        |
+|  1524  |   Medium   | [Number of Sub-arrays With Odd Sum](Problems/1524.cpp)                                            |
 |  1525  |   Medium   | [Number of Good Ways to Split a String](Problems/1525.cpp)                                         |
 |  1526  |    Hard    | [Minimum Number of Increments on Subarrays to Form a Target Array](Problems/1526.cpp)              |
 |  1527  |    Easy    | [Patients With a Condition](Problems/1527.cpp)                                                     |
