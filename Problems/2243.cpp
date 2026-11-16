@@ -1,15 +1,15 @@
 class Solution {
-  public:
-    string digitSum(string s, int k) {
-        while (s.size() > k) {
-            string tmp = "";
-            for (int i = 0; i < s.size();) {
-                int sum = 0;
-                for (int j = 0; j < k && i < s.size(); i++, j++)
-                    sum += s[i] - '0';
-                tmp += to_string(sum);
-            }
-            s = tmp;
+public:
+    std::string digitSum(std::string s, std::size_t k) const {
+        while(std::size(s) > k) {
+          std::string tmp = "";
+          for(const auto chunk: s | std::views::chunk(k)) {
+            const auto sum = std::ranges::fold_left(chunk, 0UZ, [](auto sum, char c) {
+                return sum + (c - '0');
+            });
+            tmp += to_string(sum);
+          }
+          s = std::move(tmp);
         }
         return s;
     }
