@@ -1482,6 +1482,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2895  |   Medium   | [Minimum Processing Time](Problems/2895.cpp)                                                       |
 |  2900  |   Medium   | [Longest Unequal Adjacent Groups Subsequence I](Problems/2900.cpp)                                 |
 |  2909  |   Medium   | [Minimum Sum of Mountain Triplets II](Problems/2909.cpp)                                           |
+|  2911  |    Hard    | [Minimum Changes to Make K Semi-palindromes](Problems/2911.cpp)                                   |
 |  2914  |   Medium   | [Minimum Number of Changes to Make Binary String Beautiful](Problems/2914.cpp)                     |
 |  2924  |   Medium   | [Find Champion II](Problems/2924.cpp)                                                              |
 |  2931  |    Hard    | [Maximum Spending After Buying Items](Problems/2931.cpp)                                           |
