@@ -1476,6 +1476,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2859  |    Easy    | [Sum of Values at Indices With K Set Bits](Problems/2859.cpp)                                      |
 |  2860  |   Medium   | [Happy Students](Problems/2860.cpp)                                                                |
 |  2864  |    Easy    | [Maximum Odd Binary Number](Problems/2864.cpp)                                                     |
+|  2866  |   Medium   | [Beautiful Towers II](Problems/2866.cpp)                                                          |
 |  2870  |   Medium   | [Minimum Number of Operations to Make Array Empty](Problems/2870.cpp)                              |
 |  2872  |    Hard    | [Maximum Number of K-Divisible Components](Problems/2872.cpp)                                      |
 |  2894  |    Easy    | [Divisible and Non-divisible Sums Difference](Problems/2894.cpp)                                   |
