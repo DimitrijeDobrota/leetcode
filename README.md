@@ -1394,6 +1394,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2558  |    Easy    | [Take Gifts From the Richest Pile](Problems/2558.cpp)                                              |
 |  2559  |   Medium   | [Count Vowel Strings in Ranges](Problems/2559.cpp)                                                 |
 |  2563  |   Medium   | [Count the Number of Fair Pairs](Problems/2563.cpp)                                                |
+|  2567  |   Medium   | [Minimum Score by Changing Two Elements](Problems/2567.cpp)                                       |
 |  2568  |   Medium   | [Minimum Impossible OR](Problems/2568.cpp)                                                         |
 |  2571  |   Medium   | [Minimum Operations to Reduce an Integer to 0](Problems/2571.cpp)                                  |
 |  2574  |    Easy    | [Left and Right Sum Differences](Problems/2574.cpp)                                                |
