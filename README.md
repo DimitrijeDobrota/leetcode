@@ -1508,6 +1508,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3016  |   Medium   | [Minimum Number of Pushes to Type Word II](Problems/3016.cpp)                                      |
 |  3034  |   Medium   | [Number of Subarrays That Match a Pattern I](Problems/3034.cpp)                                    |
 |  3039  |   Medium   | [Apply Operations to Make String Empty](Problems/3039.cpp)                                         |
+|  3041  |    Hard    | [Maximize Consecutive Elements in an Array After Modification](Problems/3041.cpp)                 |
 |  3043  |   Medium   | [Find the Length of the Longest Common Prefix](Problems/3043.cpp)                                  |
 |  3067  |   Medium   | [Count Pairs of Connectable Servers in a Weighted Tree Network](Problems/3067.cpp)                 |
 |  3068  |    Hard    | [Find the Maximum Sum of Node Values](Problems/3068.cpp)                                           |
