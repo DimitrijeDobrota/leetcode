@@ -1241,6 +1241,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  2114  |    Easy    | [Maximum Number of Words Found in Sentences](Problems/2114.cpp)                                    |
 |  2115  |   Medium   | [Find All Possible Recipes from Given Supplies](Problems/2115.cpp)                                 |
 |  2120  |   Medium   | [Execution of All Suffix Instructions Staying in a Grid](Problems/2120.cpp)                        |
+|  2124  |    Easy    | [Check if All A's Appears Before All B's](Problems/2124.cpp)                                      |
 |  2125  |   Medium   | [Number of Laser Beams in a Bank](Problems/2125.cpp)                                               |
 |  2126  |   Medium   | [Destroying Asteroids](Problems/2126.cpp)                                                          |
 |  2130  |   Medium   | [Maximum Twin Sum of a Linked List](Problems/2130.cpp)                                             |
