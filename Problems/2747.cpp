@@ -1,7 +1,7 @@
 class Solution {
   public:
     vector<int> countServers(int n, vector<vector<int>> &logs, int x, const vector<int> &queries) const {
-        std::ranges::sort(logs, [](auto &log1, auto &log2) { return log1[1] < log2[1]; });
+        std::ranges::sort(logs, {}, [](const auto& log){ return log[1]; });
 
         std::vector<std::pair<int, int>> indices(std::size(queries));
         for (const auto [idx, query] : std::views::enumerate(queries)) {
