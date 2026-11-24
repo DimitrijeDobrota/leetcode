@@ -1554,6 +1554,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3331  |   Medium   | [Find Subtree Sizes After Changes](Problems/3331.cpp)                                             |
 |  3364  |    Easy    | [Minimum Positive Sum Subarray ](Problems/3364.cpp)                                               |
 |  3402  |    Easy    | [Minimum Operations to Make Columns Strictly Increasing](Problems/3402.cpp)                       |
+|  3411  |    Easy    | [Maximum Subarray With Equal Products](Problems/3411.cpp)                                         |
 |  3420  |    Hard    | [Count Non-Decreasing Subarrays After K Operations](Problems/3420.cpp)                            |
 |  3505  |    Hard    | [Minimum Operations to Make Elements Within K Subarrays Equal](Problems/3505.cpp)                 |
 |  3551  |   Medium   | [Minimum Swaps to Sort by Digit Sum](Problems/3551.cpp)                                           |
