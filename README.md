@@ -1552,6 +1552,7 @@ Compatible Union Find solutions include the shared template; specialized variant
 |  3291  |   Medium   | [Minimum Number of Valid Strings to Form Target I](Problems/3291.cpp)                              |
 |  3310  |   Medium   | [Remove Methods From Project](Problems/3310.cpp)                                                   |
 |  3331  |   Medium   | [Find Subtree Sizes After Changes](Problems/3331.cpp)                                             |
+|  3360  |    Easy    | [Stone Removal Game](Problems/3360.cpp)                                                           |
 |  3364  |    Easy    | [Minimum Positive Sum Subarray ](Problems/3364.cpp)                                               |
 |  3402  |    Easy    | [Minimum Operations to Make Columns Strictly Increasing](Problems/3402.cpp)                       |
 |  3411  |    Easy    | [Maximum Subarray With Equal Products](Problems/3411.cpp)                                         |
