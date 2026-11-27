@@ -1,13 +1,16 @@
 class Solution {
-  public:
-    int change(int amount, vector<int> &coins) {
-        vector<long long> dp(amount + 1, 0);
+public:
+    int change(int amount, const std::vector<int>& coins) const {
+        std::vector<unsigned> dp(amount + 1, 0);
+        
         dp[0] = 1;
+        for (const auto coin: coins) {
+            if (coin > amount) continue;
+            for (const auto a: std::views::iota(coin, amount + 1)) {
+                dp[a] += dp[a - coin];
+            }
+        }
 
-        for (int coin : coins)
-            for (int i = 0; i <= amount; i++)
-                if (i - coin >= 0) dp[i] += dp[i - coin];
-
-        return (int)dp.back();
+        return dp[amount];
     }
 };

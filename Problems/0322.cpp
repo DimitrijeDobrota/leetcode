@@ -1,15 +1,17 @@
-// DP solution
 class Solution {
-  public:
-    int coinChange(vector<int> &coins, int amount) {
-        vector<int> dp(amount + 1, INT_MAX);
-        dp[0] = 0;
+public:
+    int coinChange(const std::vector<int>& coins, long long amount) const {
+        static constexpr auto inf = std::numeric_limits<int>::max();
+        std::vector<long long> dp(amount + 1, inf);
 
-        for (int i = 0; i < amount; i++) {
-            if (dp[i] == INT_MAX) continue;
-            for (int coin : coins)
-                if ((long long)coin + i <= amount) dp[coin + i] = min(dp[coin + i], dp[i] + 1);
+        dp[0] = 0;
+        for (const auto coin: coins) {
+            if (coin > amount) continue;
+            for (const auto a: std::views::iota(coin, amount + 1)) {
+                dp[a] = std::min(dp[a], 1 + dp[a - coin]);
+            }
         }
-        return dp[amount] != INT_MAX ? dp[amount] : -1;
+
+        return dp[amount] != inf ? dp[amount] : -1;
     }
 };

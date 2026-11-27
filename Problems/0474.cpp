@@ -1,19 +1,20 @@
 class Solution {
-  public:
-    int findMaxForm(const vector<string> &strs, int m, int n) const {
-        static int dp[101][101];
+public:
+    int findMaxForm(const std::vector<string>& strs, int m, int n) const {
+        std::array<std::array<int, 101>, 101> dp{};
 
-        memset(dp, 0x00, sizeof(dp));
-        for (const auto &s : strs) {
-            const int zero = count(begin(s), end(s), '0');
-            const int one = size(s) - zero;
-            for (int i = m; i >= zero; i--) {
-                for (int j = n; j >= one; j--) {
-                    dp[i][j] = max(dp[i][j], 1 + dp[i - zero][j - one]);
+        for (const auto& str: strs) {
+            const int zero = std::ranges::count(str, '0');
+            const int one = std::ranges::size(str) - zero;
+
+            if (one > n || zero > m) continue;
+            for (const auto ones: std::views::iota(one, n + 1) | std::views::reverse) {
+                for (const auto zeros: std::views::iota(zero, m + 1) | std::views::reverse) {
+                    dp[ones][zeros] = std::max(dp[ones][zeros], 1 + dp[ones - one][zeros - zero]);
                 }
             }
         }
 
-        return dp[m][n];
+        return dp[n][m];
     }
 };
